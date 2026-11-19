@@ -1,0 +1,38 @@
+A: I'm not sure about how to operate the washer and dryer.
+B: What's the problem?
+A: I need help turning them on.
+B: You need change.
+A: The machines take change?
+B: Yes. It costs fifty cents for the washer and a dollar for the dryer.
+A: How do I do it?
+B: You put the coins into the slot, push it in, and it will turn on.
+A: That's it?
+B: There's nothing else to it.
+A: Thank you very much.
+B: You're welcome. Let me know if you need anything else.
+
+A: I need help using the washer and dryer.
+B: Tell me what the problem is.
+A: I can't figure out how to turn them on.
+B: Do you have some quarters?
+A: I didn't know I needed change.
+B: The washer costs 50 cents and the dryer costs a dollar.
+A: Where do I put the change?
+B: The quarters go into the slot. You have to push the slot in, and the machine will turn on.
+A: Is that everything that I have to do?
+B: That's all there is.
+A: I appreciate you helping me with this.
+B: If you need anything else, just let me know.
+
+A: Could you tell me how to use the washer and dryer?
+B: What do you need help with?
+A: Do you know how to turn them on?
+B: Do you have any change?
+A: I need change for the machines?
+B: You need to put 50 cents into the washer machine and a dollar into the dryer.
+A: So what do I need to do?
+B: The machines will turn on once you put the quarters into the slot.
+A: That's really all I have to do?
+B: That's everything.
+A: Thanks for all your help.
+B: I'm here if you need any more help.

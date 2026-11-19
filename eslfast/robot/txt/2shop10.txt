@@ -1,0 +1,38 @@
+A: Thank you for purchasing your new mattress with us.
+B: No, thank you.
+A: Would you like us to deliver the mattress for you?
+B: That would be great.
+A: When do you want it delivered?
+B: I need it delivered tomorrow. Will that be possible?
+A: What time exactly?
+B: I need it delivered at 12:00.
+A: We can have it to you at that time.
+B: That's not a problem?
+A: We will deliver your mattress tomorrow at 12 o'clock.
+B: That's great! Thank you very much.
+
+A: Thank you for your purchase.
+B: No problem.
+A: Would you like your mattress delivered?
+B: I would like that.
+A: When would you like us to deliver it?
+B: Can you deliver it tomorrow?
+A: At what time?
+B: Is 12:00pm okay?
+A: We can do that.
+B: Are you sure?
+A: We will deliver it at that time.
+B: Perfect! See you then.
+
+A: Thank you for shopping here.
+B: You're very welcome.
+A: Would you like to have your mattress delivered to your home?
+B: That would be perfect. Thank you.
+A: When would you like it to be delivered?
+B: I would like it delivered tomorrow.
+A: What time would you like it delivered?
+B: It would like it delivered at noon.
+A: That's fine.
+B: So, that won't be a problem?
+A: We'll have it to you at 12pm tomorrow.
+B: That's great. I'll see you tomorrow then.

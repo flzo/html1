@@ -1,0 +1,38 @@
+A: Do you have any other questions?
+B: I want to know about fees.
+A: Which fees?
+B: Overdraft fees.
+A: You will be required to pay a small fee for every time you overdraft.
+B: How much is the fee?
+A: You'll have to pay $25 every time you overdraft.
+B: That's a small fee?
+A: It should stop you from overdrafting.
+B: You would think it would, but it most likely won't.
+A: Can I help you with anything else?
+B: That's it for today. Thank you.
+
+A: Do you have any questions?
+B: Tell me about fees.
+A: What fees are you referring to?
+B: I want to know about overdraft fees.
+A: We charge a small fee every time you overdraft.
+B: How much?
+A: For each time you overdraft, you have to pay $25.
+B: That's not a small fee.
+A: You shouldn't overdraft.
+B: That's for sure.
+A: Do you need help with anything else?
+B: That's all I needed to know. Thanks.
+
+A: Would you like to ask any questions?
+B: I need to know about the fees.
+A: What kind of fees?
+B: I'm asking about overdraft fees.
+A: You have to pay a small fee every time you overdraft.
+B: What's the fee?
+A: The fee is $25 every time you overdraft.
+B: How is that a small fee?
+A: That fee should keep you from overdrafting.
+B: I'll say.
+A: Do you have any more questions?
+B: I don't need to know anything else. Thank you.

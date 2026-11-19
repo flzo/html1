@@ -1,0 +1,12 @@
+A: Hello, 911? I need an ambulance.
+B: What's the situation?
+A: My friend fell off her bike and hit her head.
+B: Is she unconscious?
+A: No, but she is bleeding a lot.
+B: Please tell me your location.
+A: We are near the community college.
+B: Please don't let her stand. Do you have her ID?
+A: Yes. I also found her insurance card.
+B: Good, you will need those at the hospital.
+A: She is beginning to feel less dizzy.
+B: Good, just sit tight, the ambulance will be there soon.

@@ -1,0 +1,32 @@
+A: I am having some big problems on this tour.
+B: What seems to be the problem? We are here to help you.
+A: This tour company seems very disorganized. No one seems to have a clear picture as to where we are going and when we are going to get there.
+B: I will see what I can do about that. How about the accommodations on the tour?
+A: So far, we have been staying in really out-of-the-way accommodations.
+B: Is anything wrong with your room?
+A: The television in our room was broken, and they didn't send anyone to fix it.
+B: I will complain to the hotel manager about that. How about the hotel restaurant?
+A: The food in the restaurant was terrible, and a few people from our group got sick.
+B: I am so sorry that you had such a bad experience. We would like to offer you a free city tour and lunch to make it up to you.
+
+A: I paid good money for this tour and would appreciate some help with some problems that have come up.
+B: I would like to help you smooth out any difficulties you are having. What can I help you with?
+A: This tour company can't seem to coordinate anything. We are always arriving after something is closed or get there when the guides for the site are on a break.
+B: We are trying to fix that. Are the accommodations to your liking?
+A: Our accommodations are pretty substandard.
+B: Is there anything in particular that is wrong with your room?
+A: The room smelled of smoke, even though it was supposed to be a nonsmoking room.
+B: You should not have to put up with that. Was the hotel restaurant good?
+A: Actually a few people from our group got sick, and everyone thinks it was from the bad dinner that we ate.
+B: Our tour company takes pride in providing excellent tours. Please let me offer you a free city tour and lunch as an apology.
+
+A: I would like to discuss some problems that I am having with this tour.
+B: I am sorry you are having a difficult time. What may I help you with?
+A: This tour company doesn't seem to know the town very well. We are always getting lost!
+B: I am sorry that that has been the case. How would you rate your accommodations?
+A: Our accommodations are not very pleasant.
+B: What don't you like about your room?
+A: The room was very noisy, and we couldn't get to sleep.
+B: That is unacceptable. Did you at least enjoy your dinner in the hotel restaurant?
+A: The food was horrible at the hotel restaurant, and a few of us got sick after eating there.
+B: I am glad that you told me about the problems. I would like you to be my guest for a free massage at the hotel spa tonight.

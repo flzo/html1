@@ -1,0 +1,12 @@
+A: I have a book report.
+B: What book are you doing it on?
+A: I have to read To Kill a Mockingbird.
+B: That is an excellent book.
+A: That is good to know.
+B: Do you have the book yet?
+A: I am planning to get it soon.
+B: You should borrow it from the library.
+A: What is the library?
+B: You have never heard of the library?
+A: I have never heard of it.
+B: At the library, you can borrow books for free.

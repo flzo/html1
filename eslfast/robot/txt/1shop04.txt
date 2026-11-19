@@ -1,0 +1,49 @@
+Conversation 1:
+A: I'd like to return this radio.
+B: All right. Do you have the receipt?
+A: Here it is.
+B: May I ask why you're returning the radio?
+A: It does not work very well.
+B: Would you like to exchange it?
+A: No. I'd just like a refund.
+B: Certainly. This will take only a few seconds.
+
+Conversation 2:
+A: I want to return this radio.
+B: Okay. May I see your receipt?
+A: Certainly. I have it right here.
+B: What is the problem with the radio?
+A: It has poor reception.
+B: Perhaps you'd like a different one?
+A: No, thank you. A refund is all I want.
+B: Okay. Give me a few seconds, please.
+
+Conversation 3:
+A: I need to return this radio.
+B: That won't be a problem, as long as you have your receipt.
+A: Here you go.
+B: What's the problem?
+A: It doesn't pick up my favorite station.
+B: I can exchange it for you.
+A: Thanks, but I just want a refund.
+B: A refund it will be. Do you have the original box?
+
+Conversation 4:
+A: I'm returning this radio.
+B: No problem. You do have your receipt, don't you?
+A: Here you are.
+B: What seems to be the problem?
+A: It doesn't have a headphone jack.
+B: If you'd like, I can show you a different one.
+A: No, thanks. A refund will be just fine.
+B: No problem. This'll only take a minute.
+
+Conversation 5:
+A: I don't want to keep this radio.
+B: No problem. Let me see your receipt, please.
+A: Of course. I always keep my receipts.
+B: Is there a problem with the radio?
+A: Something is rattling around inside it.
+B: Would you like a different model?
+A: No. Just give me a refund, please.
+B: Okay, a refund will be no problem.

@@ -1,0 +1,38 @@
+A: Do you like the apartment so far?
+B: I see a problem.
+A: What's the problem?
+B: I noticed that the faucet in the kitchen is leaking.
+A: That's no big deal.
+B: It's going to be a problem when my water bill comes.
+A: What do you want me to do about it?
+B: I would like you to fix the problem.
+A: I won't be able to do that right now.
+B: Well, I won't be able to rent the apartment until the problem is fixed.
+A: Fine, I'll have it fixed for you.
+B: I'm happy that we've come to an agreement.
+
+A: How do you like the apartment?
+B: I like the apartment, but I see something wrong with it.
+A: What's wrong?
+B: There's a leaking faucet in the kitchen.
+A: That isn't a problem.
+B: That leak is going to raise my water bill.
+A: What can I do?
+B: You need to fix it.
+A: I can't right now.
+B: I won't rent it if the faucet isn't fixed.
+A: I will fix it for you.
+B: I'm glad you finally agree.
+
+A: What do you think of the apartment?
+B: I like it, but there is one problem.
+A: What problem is that?
+B: The faucet in the kitchen is leaking.
+A: I don't understand what the big deal is.
+B: That leak is a problem for my water bill.
+A: What you would like me to do about it?
+B: The leak must be fixed.
+A: I won't be able to fix it at the moment.
+B: I will not rent the apartment with that leaking faucet.
+A: If that's the case, then I will fix the faucet.
+B: Thanks for understanding.

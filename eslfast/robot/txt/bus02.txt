@@ -1,0 +1,38 @@
+A: I need to get on another bus, but I have no more money.
+B: Where'd the rest of your money for the bus go?
+A: I spent it on a bag of chips.
+B: Well, that was an intelligent thing to do.
+A: You don't have any spare change?
+B: No, I don't.
+A: How am I going to get home?
+B: You should just ask the bus driver for a transfer.
+A: How much does that cost?
+B: It's free; just go ask for one.
+A: Thanks for letting me know.
+B: No problem, just go ask.
+
+A: I'm broke, and I have to catch another bus.
+B: Why don't you have any money for another bus?
+A: I got hungry and bought some chips.
+B: That was smart.
+A: Do you have any change I can use for the bus?
+B: I don't have any.
+A: I don't know how I'm going to get home.
+B: Get a transfer from the bus driver.
+A: How much is a transfer?
+B: It doesn't cost anything.
+A: Thanks for your help.
+B: Don't mention it.
+
+A: I don't have any more cash, and I have to get on another bus to get home.
+B: Why don't you have any more money?
+A: I wanted some chips at lunch today, so I spent it.
+B: That was a bright idea.
+A: Do you have some change I can borrow?
+B: I don't have any change for you.
+A: I need to get home.
+B: Why don't you just ask the bus driver for a transfer?
+A: I don't have money for a transfer.
+B: Go ask for a transfer. They're free.
+A: I'm glad you let me know.
+B: You're welcome.

@@ -1,0 +1,38 @@
+A: I would like to order cable.
+B: Sure, what package do you want?
+A: What kinds of packages do you offer?
+B: We have all kinds of movie channel packages.
+A: What else do you have?
+B: There is a package for all sports channels.
+A: Do you have a package that includes all the movie channels with the basic channels also?
+B: Yes, we do offer that package.
+A: I want that.
+B: Do you want anything else?
+A: No, but is it possible for me to add channels later?
+B: You can always get rid of channels or add some later.
+
+A: I want to get some cable.
+B: Do you know what package you want to get?
+A: What packages do you have?
+B: We have movie channel packages.
+A: What else have you got?
+B: You can get the sports package.
+A: Is there a package with basic and movie channels?
+B: We have that package.
+A: Let me get that package.
+B: Is there anything else you would like?
+A: That's everything, but can I add channels later?
+B: You will be able to add or get rid of channels another day.
+
+A: May I order some cable from you today?
+B: Okay, what package would you like to order?
+A: I'm not sure of what packages you offer.
+B: We offer packages with all the movie channels.
+A: Are there any other packages?
+B: We also have packages with all the sports channels.
+A: I want a package that has the basic and movie channels.
+B: We have that available.
+A: I would like to get that.
+B: Would you like anything else with your package?
+A: That's it, but will I be able to add more channels at another time?
+B: Yes, you can add or get rid of channels later on if you would like.

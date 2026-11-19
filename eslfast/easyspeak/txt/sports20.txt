@@ -1,0 +1,12 @@
+A: Hi! You're David's mom, aren't you?
+B: Yes I am. Do I know you from somewhere?
+A: I'm James's mom. They play on the same team.
+B: That's right! It's nice to meet you.
+A: It's nice to meet you, too.
+B: Will David be playing in the big game on Saturday?
+A: I'm afraid not. He's fighting a cold.
+B: That's terrible! A bug has been going around.
+A: He's missed a lot of school, though.
+B: I see. I'll ask David to deliver his homework.
+A: That would be a great help, thank you.
+B: It's no problem at all!

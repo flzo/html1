@@ -1,0 +1,38 @@
+A: How may I help you?
+B: I would like to return an item.
+A: What are you returning?
+B: I want to return this cellphone.
+A: Is there a problem?
+B: It's broken.
+A: What exactly is wrong with it?
+B: The phone turns off by itself.
+A: That's fine, but do you have your receipt with you?
+B: Yes, here it is.
+A: I'll refund your money right now.
+B: Thank you so much.
+
+A: How can I help you today?
+B: I am returning something that I bought yesterday.
+A: What would you like to return?
+B: I'm returning a cellphone.
+A: Was there something wrong with it?
+B: It's defective.
+A: What isn't working on it?
+B: It keeps turning off on its own.
+A: Alright, do you have the receipt?
+B: I have it right here.
+A: I'm going to take care of this and refund your money.
+B: Thanks for your help.
+
+A: What can I do for you?
+B: I need to return something.
+A: What do you need to return?
+B: I need to return this cellphone that I just bought.
+A: What is wrong with it?
+B: It isn't working properly.
+A: What is the problem with it?
+B: For some reason the phone cuts off by itself.
+A: I see, and do you have your receipt?
+B: Here you go.
+A: I'll take care of this right now.
+B: I appreciate your help.

@@ -1,0 +1,38 @@
+A: I'm hungry.
+B: You already ate.
+A: It wasn't enough, because I'm hungry again.
+B: There's nothing left from dinner.
+A: I'm going to get a snack.
+B: What kind of snack are you going to make?
+A: I don't know.
+B: You can always make a sandwich.
+A: I don't know what kind of sandwich I want.
+B: Just make yourself a peanut butter and jelly sandwich.
+A: I may just do that.
+B: Go right ahead.
+
+A: I am starving.
+B: Didn't you just eat?
+A: I'm still hungry.
+B: We ate everything from dinner.
+A: I just need a snack.
+B: What are you going to make?
+A: I don't have the slightest clue.
+B: Go make a sandwich.
+A: I'm not sure what kind I want.
+B: Why don't you make a peanut butter and jelly sandwich?
+A: I think I will do that.
+B: Maybe you should.
+
+A: I need to eat something.
+B: You just ate.
+A: I know, but I'm hungry again.
+B: There's no food left from dinner.
+A: I think I'm going to go make myself a snack.
+B: Do you know what kind of snack that you want?
+A: I'm not exactly sure.
+B: Why don't you make yourself a sandwich or something?
+A: I have no idea what kind of sandwich I want to make.
+B: A PB&J is pretty easy to make.
+A: I'm going to do that.
+B: Knock yourself out.

@@ -1,0 +1,32 @@
+A: Could you tell me what window I should go to?
+B: Do you have an appointment?
+A: Yes, I have an appointment.
+B: The DMV windows are set up for different tasks. What are you here to do?
+A: I need to transfer ownership of a used car.
+B: I can see that you have all of your forms filled out. Drop the forms in that box, and I will call you when your name comes up.
+A: Thanks for helping me.
+B: You are welcome. May I see your current Driver's License?
+A: Here is my license, it is not a very good picture of me!
+B: That's a pretty good picture. Just pay the fee over at the last window and you're done!
+
+A: This is my first time at the DMV, and I don't know what window to go to.
+B: It depends on what you are doing. Did you make an appointment?
+A: I made an appointment last month.
+B: All of the windows are for specific services. What do you need to do today?
+A: I just bought a used car and need to transfer the ownership.
+B: If you just put all of your filled-out forms in the drop box, your name will be called when it comes up.
+A: Thank you, that helps me know what to do.
+B: My pleasure. The only other thing I need is your current Driver's License.
+A: Here is my license, it is a very old picture of me!
+B: You look good in that picture. Take this over to the last window to pay your fee, and you've finished registering your car.
+
+A: Could you help direct me to the proper window?
+B: There are different windows for different things. Did you make an appointment on the Internet?
+A: I made my appointment over the Internet.
+B: Different windows will be able to help you with different problems. What do you need help with?
+A: I need help transferring the ownership of a new car from my friend to myself.
+B: The signed forms go in the box, and I will call your name in a few minutes.
+A: Thank you for making it seem less confusing.
+B: If you would give me your current Driver's License, I will be able to complete the transfer process.
+A: Here is my license, I never really liked that picture!
+B: That is a great picture! Take the forms over to the last window to pay your fees and you're finished!

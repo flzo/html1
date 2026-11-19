@@ -1,0 +1,38 @@
+A: How are you today?
+B: Great, thanks.
+A: Can I help you?
+B: I would actually like to view the apartment for rent today.
+A: I'm sorry, but you won't be able to view it today.
+B: Why not?
+A: You have to make an appointment first.
+B: Oh, okay. Can I do that right now?
+A: Is this Friday okay?
+B: Is 6 o'clock Friday evening okay?
+A: Yes, I will schedule you for that time.
+B: Thank you very much. See you then.
+
+A: How are you doing?
+B: Everything's fine with me.
+A: What can I do for you today?
+B: Is it possible for me to view the apartment today?
+A: Unfortunately, you will not be able to view it today.
+B: Why can't I view it today?
+A: You'll need to make an appointment to view the apartment.
+B: I understand. May I make an appointment then?
+A: How does this Friday sound?
+B: Friday at 6:00 pm would be perfect.
+A: That will be fine.
+B: Thanks for your help.
+
+A: How's it going?
+B: I'm fine, thank you.
+A: Did you need help with something?
+B: If I could, I would like to view the apartment sometime today.
+A: That won't be possible today.
+B: Why is that?
+A: You can only view the apartment with an appointment.
+B: I would like to make one right now if I can.
+A: Are you available this Friday?
+B: Can we do it at 6 o'clock?
+A: Your appointment for Friday at 6:00 pm has been confirmed.
+B: All right. I'll see you on Friday.

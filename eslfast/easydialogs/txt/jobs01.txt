@@ -1,0 +1,12 @@
+A: I need a job.
+B: I thought you had a job.
+A: I did.
+B: What happened?
+A: I got laid off.
+B: That's terrible! When did it happen?
+A: I got laid off last week.
+B: Just you?
+A: No, ten of my coworkers got laid off, too.
+B: What are you going to do?
+A: I'm looking in the newspaper for a job.
+B: Good luck!

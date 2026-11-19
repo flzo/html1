@@ -1,0 +1,12 @@
+A: How many classes did you manage to get?
+B: I only got two.
+A: I only got one.
+B: There are too many full classes at this college.
+A: I never get the classes I need.
+B: Have you tried asking the professor for a spot?
+A: That doesn't work all the time.
+B: At this point, we will graduate in 10 years.
+A: That is so early.
+B: What are you talking about?
+A: I think we will graduate in 15 years.
+B: You are funny.

@@ -1,0 +1,38 @@
+A: Excuse me, could you help me figure out how to use this new parking meter?
+B: Sure, it was confusing for me also. Have you ever used a regular meter?
+A: Yes, I understood the old one.
+B: Well, on this one you can use coins or a debit or credit card; which one would you like to use?
+A: Debit or credit card.
+B: OK. Now, do you see what the rate is on the sticker?
+A: Yes.
+B: OK, now that we know what it will cost, put the money or card into the machine.
+A: Yes, I can do that.
+B: Wonderful; now, this machine asks you the number of your spot, so put that in also.
+A: Yes, I'm ready.
+B: All you have to do now is take your receipt and put it on your dashboard.
+
+A: Whoa, I never saw a meter like this before; how do you use it?
+B: It's simple, once you do it a few times. Do you know how the old one worked?
+A: I never used a parking meter before.
+B: So we start out by deciding whether you will use cash or a credit or debit card.
+A: Cash.
+B: Fine, can you read the rate on the display?
+A: Yes, I can.
+B: Fine. Now that we know what they are ripping us off for, insert the payment.
+A: I'd rather not pay, but I have to.
+B: Fine, this machine does not ask you the number of your spot, so we can move on, all right?
+A: Perfect, let's do it.
+B: Now just check the meter to see how many minutes you have.
+
+A: This parking meter is really confusing. Can you help me figure it out?
+B: It's just like the old one, but with new stuff added.
+A: Yeah, OK.
+B: The first step is deciding on debit or credit card payment, so which one is it?
+A: I have coins.
+B: Perfect. Now, can you see the rate on the sign?
+A: I didn't see that, but now I do.
+B: Once you know what it will cost, put the payment in.
+A: Here it goes!
+B: You are doing great! Let's move on to the next step.
+A: I am a little confused.
+B: Just make sure that everything registered, and then you are good to go!

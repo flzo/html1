@@ -1,0 +1,38 @@
+A: What can I help you with today?
+B: I would like to make a deposit.
+A: Will that be cash or check?
+B: I'm depositing a check.
+A: Could you sign the back of the check, please?
+B: All right. Here you go.
+A: Would you like any cash back?
+B: That would be great.
+A: How much would you like?
+B: I would like $150.
+A: Here is your $150.
+B: Thanks for everything.
+
+A: How may I help you?
+B: I'm making a deposit today.
+A: Cash or check?
+B: I would like to deposit a check.
+A: You need to sign the back.
+B: Okay. Here you go.
+A: Would you like cash back?
+B: Yes, I would.
+A: How much?
+B: Let me get $150 back.
+A: Here you go.
+B: Thank you. Have a good one.
+
+A: What can I do for you?
+B: I need to make a deposit.
+A: Are you depositing cash or a check?
+B: I'm depositing a check.
+A: Please sign the back of the check.
+B: There you go.
+A: Do you want cash back?
+B: Yes, please.
+A: How much cash would you like?
+B: I want $150.
+A: Here is your $150.
+B: Thank you, and have a nice day.

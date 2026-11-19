@@ -1,0 +1,32 @@
+A: Excuse me. I am interested in getting a library card.
+B: Sure, let me give you an application. You can fill it out right here at the counter.
+A: OK, here it is.
+B: Let me take a look at this for you. May I have your driver's license, please?
+A: Here's my license and form.
+B: You seem to have filled the form out all right. Are you familiar with our rules and fines?
+A: Yes, I know what to do.
+B: The hours and limitations are printed on the card and this handout.
+A: OK, I see.
+B: Thank you for joining the library; we look forward to serving you.
+
+A: I was wondering if you could help me to get a library card.
+B: Of course, just fill out this form and let me know when you are finished.
+A: I'm finished.
+B: I will also need your driver's license; hand me the filled-out form, please.
+A: OK, the form is all filled out.
+B: Perfect! Do you know the hours and rules for the library?
+A: No, I have no idea what they are.
+B: Everything you need to know is printed on the card and handout.
+A: Yes, right.
+B: Great! You are all set to enjoy the library.
+
+A: Good morning. Is this where I can get a library card issued to me?
+B: No problem, we have a short form right here; just hand it to me when you are done.
+A: I'm done.
+B: That looks great, but I will also need your driver's license or other form of I.D.
+A: Sure, here it all is.
+B: Well, this looks nice. Do you know how to use it?
+A: I am pretty sure how to use it, but can you remind me?
+B: Of course, just remember that all of the needed information is on the card.
+A: I see.
+B: Well, I hope you have a wonderful time on your library visits!

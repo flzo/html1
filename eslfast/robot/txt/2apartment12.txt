@@ -1,0 +1,38 @@
+A: I need to talk to you about something.
+B: What did you need to talk about?
+A: I have some questions about my lease.
+B: Like what?
+A: Exactly how long is my lease for?
+B: Your lease will be up in three years.
+A: What will happen if I move out before then?
+B: If you move out before then, you will not get your deductible.
+A: I don't understand.
+B: Because our contract says that you will live here for three years.
+A: Okay, I think that I understand.
+B: I'm glad you understand.
+
+A: Can we talk?
+B: What about?
+A: I'm not too clear on some things about my lease.
+B: Is there a problem?
+A: How many years is my lease for?
+B: In three years your lease will be up.
+A: Can I move out before those three years?
+B: If you do, I will keep your deductible.
+A: Why would you keep it?
+B: I would keep it because you would be breaking our contract.
+A: I get it now.
+B: I hope that I cleared things up for you.
+
+A: I would like to talk to you, if you have time.
+B: What's going on?
+A: I want to discuss some things about my lease.
+B: What aren't you too sure about?
+A: Can you tell me when my lease is up?
+B: Your lease is for three years.
+A: If I ever decide to leave before the three years, will there be a problem?
+B: If you do, I will keep your deductible.
+A: Why is that?
+B: If you break the contract, then you will not receive your deductible.
+A: Oh, I see.
+B: All right. I'm glad I could clarify things for you.

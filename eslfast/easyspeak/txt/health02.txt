@@ -1,0 +1,12 @@
+A: Ow! That really hurts!
+B: Are you alright? What happened?
+A: I accidentally cut myself.
+B: Is it very deep?
+A: I don't think so, but it hurts a lot.
+B: You should disinfect it.
+A: I don't have anything with me.
+B: Here, use this ointment.
+A: Do you always carry that with you?
+B: Yes, along with some bandages.
+A: That's a very good idea.
+B: Perhaps you should do the same.

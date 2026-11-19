@@ -1,0 +1,47 @@
+Conversation 1:
+A: I am checking out. Here is the key to my room.
+B: Thank you. I'll just print out your receipt, and then you're free to go. Here you go!
+A: Thanks.
+B: If you don't mind me asking, how did you enjoy your stay at New York Hotel?
+A: This hotel could use some insecticide, but my time in New York was thoroughly delightful.
+B: That's very honest of you. Rest assured that this hotel will have no insects next time.
+
+Conversation 2:
+A: I want to check out. Here is my room key.
+B: One second, sir, while I print out your receipt. Here you are.
+A: Thanks.
+B: May I ask, sir, if you enjoyed your stay?
+A: Except for one night, I enjoyed the hotel. And I loved New York, of course.
+B: Thank you for your honesty. I assure you there will be no cockroaches next time.
+
+Conversation 3:
+A: I'm leaving. Here is my key.
+B: Just one second, sir, and I'll give you your receipt. Here you go.
+A: Thank you very much.
+B: Sir, did you enjoy your stay here?
+A: Most of my time here was pleasant. And New York itself is fantastic.
+B: I'm glad you enjoyed the city, anyway. But please don't think too unkindly of us.
+
+Conversation 4:
+A: I'm out of here. Here's my key.
+B: Give me just a few seconds, sir, and I'll hand you your receipt. Here you are.
+A: I thank you.
+B: I hope you enjoyed your stay, sir.
+A: I only had nine little problems here. Other than that, I enjoyed my stay, and I loved the city.
+B: I apologize again for the cockroaches, sir. I hope you have a nice trip home.
+
+Conversation 5:
+A: My stay is over. Here's the key to my room.
+B: Thank you. And here's your receipt, sir.
+A: Many thanks.
+B: I hope your stay here was satisfactory, sir.
+A: This could be a great hotel, once you get rid of the insects. The city itself is great.
+B: I'm glad that the little problem didn't ruin your visit. Please have a pleasant trip home.
+
+Conversation 6:
+A: This visit is over for me. Here's your room key.
+B: Thank you for that, and in return, here's your receipt.
+A: And thanks to you.
+B: I hope you'll visit us again, sir.
+A: I'd be willing to try this hotel again, if you can promise me no more cockroaches.
+B: I guarantee you that our little â€œfriendsâ€ won't be back. I hope your trip home is pleasant.

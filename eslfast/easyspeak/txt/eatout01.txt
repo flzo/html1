@@ -1,0 +1,12 @@
+A: I am so hungry.
+B: Me too. My stomach is growling.
+A: Are there any good places nearby?
+B: Do you want to go to the restaurant across the street?
+A: Oh no! That place is so dirty!
+B: I heard the food was good.
+A: The food is good, but not the place itself.
+B: What's so dirty about it?
+A: The staff only cleans the tables once a day.
+B: Wow, that is crazy! Anything else?
+A: The bowls and plates are not washed well.
+B: Let's not go there anymore.

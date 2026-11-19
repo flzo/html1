@@ -1,0 +1,38 @@
+A: Is this where I go to register for classes?
+B: This is it.
+A: I need to add a few classes.
+B: What classes would you like to add?
+A: I need to take some classes that will help me transfer.
+B: Have you finished any classes so far?
+A: This is my first semester.
+B: Did you already take the placement test?
+A: I took it last month.
+B: What English and math classes were you placed in?
+A: I got placed in Math 131 and English 1A.
+B: Okay. I'll register you for both of those classes.
+
+A: Do I need to register here?
+B: You're in the right place.
+A: I would like to add some classes.
+B: What classes do you need?
+A: I need to take some GE classes.
+B: What classes have you finished so far?
+A: I just started here.
+B: You're going to need to take the placement test.
+A: I took it a month ago.
+B: Do you know what English and math classes you placed in?
+A: The test placed me in English 1A and Math 131.
+B: I'll add those classes to your schedule.
+
+A: Is this the registration desk?
+B: Yes, this is the place.
+A: I need to get some classes.
+B: What classes would you like?
+A: I need to finish my GE classes so that I can transfer.
+B: Have you finished any of your GE classes yet?
+A: This is going to be my first semester.
+B: Have you taken the placement test yet?
+A: I believe I already took the placement test last month.
+B: What math and English classes did you get placed in?
+A: I was placed in English 1A and Math 131.
+B: I'll make sure you have those classes this semester.

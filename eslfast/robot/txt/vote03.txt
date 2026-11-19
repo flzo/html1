@@ -1,0 +1,38 @@
+A: Are you voting tomorrow?
+B: Of course. What about you?
+A: You know that I am.
+B: Where is your polling place?
+A: It's at the park up the street.
+B: Oh, is that right?
+A: Where's your polling place?
+B: I have no idea.
+A: How come you don't know where it is?
+B: Nothing came in the mail telling me my polling place.
+A: You should check online.
+B: Oh, really? Thanks, I'm going to do that right now.
+
+A: Are you going to vote tomorrow?
+B: I sure am. How about you?
+A: I am.
+B: Do you know where your polling place is?
+A: My polling place is up the street at the park.
+B: Oh, really?
+A: Where's yours at?
+B: I'm not sure.
+A: You should know that already.
+B: I didn't receive my polling place in the mail.
+A: You do know that you can look online, right?
+B: I didn't know that. I'll go look right now.
+
+A: Are you planning on voting?
+B: Yes. Are you?
+A: I will be voting tomorrow.
+B: What's your polling place?
+A: My polling place is at the park up the street.
+B: Oh, yeah?
+A: Yes, where is yours?
+B: I don't know.
+A: How is it you don't know?
+B: The location of my polling place never came in the mail.
+A: You can always just check online.
+B: Let me go do that.

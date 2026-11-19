@@ -1,0 +1,32 @@
+A: Can you tell me where we are supposed to take our trash?
+B: Put it in the dumpster next to that stairway.
+A: What day do they pick the trash up?
+B: They empty the trash every Wednesday.
+A: Are we supposed to mix our recyclables in, or sort them?
+B: We are supposed to sort our recyclables.
+A: Is there a special container for recyclables?
+B: You should have a blue container in your kitchen. Empty that into the blue bin downstairs.
+A: What about plant material?
+B: Anything that can be composted goes into the bin with the green lid.
+
+A: I need a little help about where to dump my trash bags.
+B: Put them in the parking lot dumpster near the parking spaces.
+A: When is trash day?
+B: Trash day is Wednesday.
+A: Do they sort our recyclables, or do we do it?
+B: They expect us to take out our recyclables.
+A: Do we put our recyclables in a separate bin?
+B: Just take all of your recyclables to the blue bin downstairs.
+A: Is there a special bin for yard waste?
+B: All material to be composted goes into the bin with the green lid.
+
+A: Where are the dumpsters located in this building?
+B: Right now they are in the front of the building for pickup.
+A: When do the dumpsters get emptied?
+B: They usually get emptied Wednesday, unless there is a holiday in there somewhere.
+A: Are there separate containers for recyclables?
+B: We don't mix our recyclables with regular trash.
+A: What does the container for recyclables look like?
+B: All of your recyclables go into the blue bin.
+A: How about composting materials?
+B: We have a great composting program that uses the bin with the green lid.

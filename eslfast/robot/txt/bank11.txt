@@ -1,0 +1,38 @@
+A: Your total comes to $36.78.
+B: Put it on my VISA.
+A: There's a problem with your card.
+B: What's wrong with it?
+A: I believe it was declined.
+B: You're kidding me!
+A: Do you have another card I could try?
+B: I only have one card.
+A: Do you have cash, perhaps?
+B: I don't have any cash on me.
+A: You're not going to be able to take these items today.
+B: I'll be back tomorrow.
+
+A: The total for all these items comes to $36.78.
+B: Take my VISA.
+A: There is something wrong with your card.
+B: What's going on?
+A: Your card was declined.
+B: That can't be right!
+A: Would you like me to try another card?
+B: I don't have another one.
+A: What about cash?
+B: I didn't bring cash with me today.
+A: I'm sorry, but you can't take the items until you can buy them.
+B: I'll come back for them tomorrow.
+
+A: You owe $36.78.
+B: Here's my VISA card.
+A: I'm sorry, but your card isn't working.
+B: What's the problem?
+A: The machine says your card was declined.
+B: It was?
+A: Do you have another card?
+B: That's my only one.
+A: Maybe you can just pay in cash?
+B: No cash today.
+A: I guess you won't be able to purchase these items today.
+B: I'll come tomorrow with cash.

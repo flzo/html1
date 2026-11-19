@@ -1,0 +1,12 @@
+A: Hey, you need to wake up now.
+B: Where am I?
+A: You're at the last stop on the route.
+B: What?! How did we get so far?
+A: You fell asleep and didn't request a stop.
+B: I was supposed to get off three stops ago!
+A: I didn't know. All I do is drive the bus.
+B: How can I get back from here?
+A: A bus going back will arrive soon.
+B: That's good. I'd hate to be stranded.
+A: Make sure you don't fall asleep this time!
+B: Trust me, I'll never fall asleep again!

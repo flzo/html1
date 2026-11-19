@@ -1,0 +1,32 @@
+A: How are you doing today?
+B: I've been having trouble breathing lately.
+A: Have you had any type of cold lately?
+B: No, I haven't had a cold. I just have a heavy feeling in my chest when I try to breathe.
+A: Do you have any allergies that you know of?
+B: No, I don't have any allergies that I know of.
+A: Does this happen all the time or mostly when you are active?
+B: It happens a lot when I work out.
+A: I am going to send you to a pulmonary specialist who can run tests on you for asthma.
+B: Thank you for your help, doctor.
+
+A: What brings you to my office today?
+B: I've been getting really short of breath, and my coach wanted to have a doctor check me out.
+A: Have you had the flu lately?
+B: No, I have been pretty healthy. I just have trouble taking a really deep breath.
+A: Have you ever been tested for allergies?
+B: Peaches make me break out, but I don't have any other allergies.
+A: Does this happen all the time or maybe a little more in the cold weather?
+B: I've noticed that it is worse when I am under stress, like during finals week.
+A: I feel that you should see a pulmonary specialist to check for asthma.
+B: I appreciate the referral, doctor.
+
+A: Good morning, how have you been doing?
+B: I haven't been able to take a deep breath lately, and I need to know why.
+A: Have you had any type of bug lately?
+B: No, I've been feeling fairly good most of the time. It just is hard to breathe.
+A: Has anyone ever told you that you have allergies?
+B: No one has ever checked me for allergies.
+A: Does this happen more when you are under stress?
+B: When the weather gets really cold, it gets worse.
+A: I am going to refer you to a pulmonary specialist who can run tests on you for asthma.
+B: Thank you for pursuing this. I appreciate your help.

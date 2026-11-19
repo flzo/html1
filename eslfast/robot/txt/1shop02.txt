@@ -1,0 +1,49 @@
+Conversation 1:
+A: Pardon me. Could you help me?
+B: Of course. How can I help you?
+A: I am looking for a sweater.
+B: What size do you wear?
+A: Medium, I think.
+B: Here. How do you like this one?
+A: It's pretty. Can I try it on?
+B: You can try it on in the fitting room over there.
+
+Conversation 2:
+A: Excuse me. Can you help me?
+B: Certainly. What can I do for you?
+A: I need to purchase a sweater.
+B: What is your size?
+A: Medium should be fine.
+B: Is this one okay?
+A: Can I try it on somewhere?
+B: The fitting room is in the left corner.
+
+Conversation 3:
+A: May I ask you a question?
+B: Yes. How can I assist you?
+A: I want to buy a sweater.
+B: What size?
+A: I think a medium should fit me.
+B: How about this one?
+A: The color's nice. Do you have a dressing room?
+B: There's a fitting room right over there.
+
+Conversation 4:
+A: Do you have a second?
+B: Sure. What do you need?
+A: I'm here to buy a sweater.
+B: What size do you wear?
+A: I usually wear medium.
+B: What do you think about this one?
+A: It's nice. Where is your fitting room?
+B: The dressing room is in that corner.
+
+Conversation 5:
+A: Excuse me. Could you help me with something?
+B: I'll certainly try.
+A: I'm looking for a nice sweater.
+B: What size do you wear in a sweater?
+A: Medium is my size for shirts and sweaters.
+B: Here's a medium. What do you think?
+A: I like it. Where can I try it on?
+B: We have a large fitting room in that corner.

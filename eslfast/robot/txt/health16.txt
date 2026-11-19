@@ -1,0 +1,32 @@
+A: I need to make an appointment to see the doctor.
+B: What seems to be the problem?
+A: I have a rash that I need a doctor to look at.
+B: Do you have a fever with that rash?
+A: No, it just itches a lot.
+B: I have openings on Tuesday or Wednesday. Which would be best for you?
+A: I need an appointment on Tuesday.
+B: Fine, I am putting you down for 9:00 on that day. Would you like to see Dr. Smith or Dr. Jones?
+A: I would like to see Dr. Jones.
+B: I can schedule you with him with no problem. We look forward to seeing you.
+
+A: Good morning, I would like to make a doctor's appointment.
+B: Can you describe your health concern?
+A: I have been having skin problems that aren't going away.
+B: Are you in any pain?
+A: No. Except for the rash, I feel fine.
+B: Would Tuesday or Wednesday be best for you?
+A: I would like to come in on Tuesday.
+B: I will write you in for that day at 4:00. You can see either Dr. Smith or Dr. Jones.
+A: I would like to see Dr. Smith.
+B: I will write you in on that doctor's schedule. See you then.
+
+A: I need to come in and see the doctor.
+B: Are you scheduling a check-up, or are you ill?
+A: I have really itchy skin and think I may have to have it looked at.
+B: Have you been feeling any joint aches with that rash?
+A: No, but I have a low fever.
+B: I have times available for Tuesday or Wednesday. Which one would work best for you?
+A: I want to come in on Wednesday.
+B: I can fit you in on that day at 10:00. Dr. Smith or Dr. Jones is available.
+A: I would prefer Dr. Smith.
+B: You can see the doctor of your choice then, and we will see you at your scheduled appointment time.

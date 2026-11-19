@@ -1,0 +1,38 @@
+A: Could you help me with something?
+B: What did you need help with?
+A: I need to find the mall.
+B: You don't know where it is?
+A: No, and I've been looking everywhere for it.
+B: It's in the same place as the movie theater.
+A: Where is the movie theater?
+B: It's on Washington Boulevard.
+A: You mean that huge plaza?
+B: That's exactly where it is.
+A: I know where that is.
+B: I'm glad I was able to help.
+
+A: I need some help.
+B: What's up?
+A: I'm looking for the mall.
+B: You can't find it?
+A: I've looked everywhere.
+B: The mall is right next to the movie theater.
+A: Where is that?
+B: You'll find it on Washington Boulevard.
+A: In that plaza?
+B: Yes. It's in that plaza.
+A: I know where it is now.
+B: I'm glad I could help.
+
+A: Do you think that you can help me?
+B: What can I help you with?
+A: I'm trying to find the mall.
+B: You're not sure where the mall is?
+A: I've looked all over the place for the mall.
+B: The mall is in the same place as the movie theater.
+A: I don't know where the movie theater is either.
+B: It's over on Washington Boulevard.
+A: Is it in that plaza?
+B: That's the place.
+A: I know exactly where the plaza is.
+B: I'm glad that I was some help to you.

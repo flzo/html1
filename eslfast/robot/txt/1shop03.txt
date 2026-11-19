@@ -1,0 +1,49 @@
+Conversation 1:
+A: What do you think?
+B: It looks great.
+A: I would like to purchase it.
+B: Will this be cash or charge?
+A: Here, take my credit card.
+B: Just sign here, please.
+A: Sure. Here you go.
+B: Here's your receipt. Have a nice day.
+
+Conversation 2:
+A: Does it look too big?
+B: It looks like it was made just for you.
+A: Yes, I like it. I'm going to get it.
+B: How would you like to pay for it?
+A: Here's my credit card.
+B: Now, if you'll just sign here.
+A: Yes. Here you are.
+B: So long. Have a nice weekend.
+
+Conversation 3:
+A: Does it look too small?
+B: It fits you to a T.
+A: I agree. I'm going to buy it.
+B: Cash or charge?
+A: I'll charge it.
+B: Sign here, please.
+A: There you go.
+B: Good-bye, and thank you for shopping here.
+
+Conversation 4:
+A: Does it look like a good fit?
+B: It's definitely your size.
+A: Yes, it is very nice. I'll take it.
+B: How do you prefer to pay?
+A: Let me use my credit card.
+B: Now, if you'll just sign here.
+A: No problem.
+B: I hope you enjoy your purchase. Good-bye.
+
+Conversation 5:
+A: How does it look?
+B: It's a perfect fit.
+A: Let me pay for it now.
+B: Cash, credit card, or debit card?
+A: I think I'll use my credit card.
+B: Your signature here, please, and we're finished.
+A: Here's my John Hancock.
+B: Bye-bye. Visit us again soon!

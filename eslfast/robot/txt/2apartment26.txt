@@ -1,0 +1,32 @@
+A: I have a question about extra people living with me in my apartment.
+B: You may have one roommate, but they need to have an approved application on file with us.
+A: What about overnight guests?
+B: An occasional overnight guest is not a problem.
+A: How many days could I have an extra guest?
+B: We usually consider any guest who stays over a week to be a possible problem.
+A: Will I have to pay extra for roommates or visitors?
+B: If you are given permission for extended visitors, you may be charged extra.
+A: Can my guests use the pool and laundry room?
+B: Your guests may use the pool and laundry facilities, but you must be with them at all times.
+
+A: Can I have roommates in my apartment?
+B: You may have one roommate, but they need to pass a credit check.
+A: Can overnight guests stay with me?
+B: You may have an overnight guest, but they may not stay for an extended period of time.
+A: How long could my friends and family stay with me without it being a problem?
+B: No one can stay with you for over a week without special permission.
+A: Will I owe extra money for more people staying in my apartment?
+B: You are not charged extra for a roommate or short-term guests.
+A: If I have visitors, may they use the pool?
+B: Your short-term guests may use the facilities with you present.
+
+A: What about roommates in my apartment?
+B: You may have one roommate, but their name must appear on the lease.
+A: Can I have someone visit me for a short period of time?
+B: We understand that a family member or friend may visit from time to time. Just make sure that they are not moving in with you.
+A: How many days could a friend stay without it being a problem?
+B: You cannot have an extra tenant for over a week, unless we give you special permission.
+A: Will I be charged extra money for having roommates or visitors?
+B: A roommate or a short-term guest would not cost you anything extra.
+A: Can my family and friends use the facilities when they visit me?
+B: Your guests may not use the facilities unless you are with them.

@@ -1,0 +1,32 @@
+A: I would like to purchase some health insurance.
+B: Have you ever purchased health insurance before?
+A: I have health insurance now, but I want to look into other choices.
+B: Do you know if you are interested in an HMO or a PPO?
+A: Could you explain the difference to me?
+B: To clarify it for you, with a PPO you pay more but you get to choose your own doctor.
+A: When I pay for a service, is the payment the same for a PPO or HMO?
+B: The payments are quite a bit higher for the PPO, but you can go anywhere you like.
+A: How much will an HMO cost me per month?
+B: Go to our website and fill in the questionnaire. Once we have all of your information, we can give you a quote.
+
+A: I am calling to purchase health insurance.
+B: Do you have health insurance now?
+A: I was on my parents' policy, but I need to start buying my own.
+B: You can purchase an HMO or a PPO. Do you know what you want?
+A: I don't know what I want.
+B: Let me explain it to you. An HMO is a little cheaper, but you can only choose certain doctors.
+A: When I go to the doctor, do I pay the same out-of-pocket expenses for a PPO?
+B: The payments are a little lower for an HMO as long as you go to their doctors.
+A: How much will a PPO cost me per month?
+B: We need to factor in many things. Why don't you come in, and we will have you fill out a questionnaire.
+
+A: I need information on purchasing health insurance.
+B: Is this the first time you have had health insurance?
+A: This is my first time buying health insurance.
+B: You have a choice of HMO or PPO. Do you understand the difference?
+A: I am not sure what those are.
+B: Just so you understand completely: An HMO is a little cheaper, but you have limited choices of which doctor you choose.
+A: If I need to use my insurance, are the payments the same for a PPO and HMO?
+B: By going to the providers on the HMO list, you save money in out-of-pocket expenses.
+A: Can you give me a comparison between a PPO and an HMO?
+B: We can mail you a questionnaire and when we have all of your information, we will mail you a quote.

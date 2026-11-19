@@ -1,0 +1,12 @@
+A: Welcome to Sarah's Sandwiches!
+B: Hi! I don't know where to start.
+A: Let's start with the bread.
+B: I want something healthy and tasty.
+A: I recommend the sweet grain bread.
+B: Okay, thank you.
+A: What kind of meat do you recommend?
+B: Turkey would be good for you!
+A: Okay, I'll get that.
+B: I'll also add tomatoes, lettuce, onions, and cucumber.
+A: Thanks for helping me create a healthy sandwich!
+B: It is my pleasure.

@@ -1,0 +1,314 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.rong-chang.com"
+  section: "/usalife/a/"
+  selector: "div.content-body > div > p.timed"
+  generated_at: "2026-11-19T13:23:31+08:00"
+  total: 61
+  failed: 0
+pages:
+  - index: 1
+    slug: "usalife001"
+    title: "1. Mike and Maria (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife001a.htm"
+    mp3: null
+  - index: 2
+    slug: "usalife002"
+    title: "2. The First Encounter (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife002a.htm"
+    mp3: null
+  - index: 3
+    slug: "usalife003"
+    title: "3. A Telephone Call (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife003a.htm"
+    mp3: null
+  - index: 4
+    slug: "usalife004"
+    title: "4. The First Date (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife004a.htm"
+    mp3: null
+  - index: 5
+    slug: "usalife005"
+    title: "5. Finding an Apartment (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife005a.htm"
+    mp3: null
+  - index: 6
+    slug: "usalife006"
+    title: "6. Moving In (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife006a.htm"
+    mp3: null
+  - index: 7
+    slug: "usalife007"
+    title: "7. A Television Speaker Problem (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife007a.htm"
+    mp3: null
+  - index: 8
+    slug: "usalife008"
+    title: "8. Drive-Thru Visit (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife008a.htm"
+    mp3: null
+  - index: 9
+    slug: "usalife009"
+    title: "9. Dinner Reservation (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife009a.htm"
+    mp3: null
+  - index: 10
+    slug: "usalife010"
+    title: "10. Steakhouse Dinner (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife010a.htm"
+    mp3: null
+  - index: 11
+    slug: "usalife011"
+    title: "11. Meeting the Neighbor (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife011a.htm"
+    mp3: null
+  - index: 12
+    slug: "usalife012"
+    title: "12. Hot Cocoa (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife012a.htm"
+    mp3: null
+  - index: 13
+    slug: "usalife013"
+    title: "13. Meeting an Actor at the Movie (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife013a.htm"
+    mp3: null
+  - index: 14
+    slug: "usalife014"
+    title: "14. Police Stop (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife014a.htm"
+    mp3: null
+  - index: 15
+    slug: "usalife015"
+    title: "15. Buying a Cake (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife015a.htm"
+    mp3: null
+  - index: 16
+    slug: "usalife016"
+    title: "16. Mike's Birthday Party (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife016a.htm"
+    mp3: null
+  - index: 17
+    slug: "usalife017"
+    title: "17. Left out in the Rain (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife017a.htm"
+    mp3: null
+  - index: 18
+    slug: "usalife018"
+    title: "18. Power Outage (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife018a.htm"
+    mp3: null
+  - index: 19
+    slug: "usalife019"
+    title: "19. Tiger the Cat (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife019a.htm"
+    mp3: null
+  - index: 20
+    slug: "usalife020"
+    title: "20. A Flat Tire (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife020a.htm"
+    mp3: null
+  - index: 21
+    slug: "usalife021"
+    title: "21. Buying a New Television (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife021a.htm"
+    mp3: null
+  - index: 22
+    slug: "usalife022"
+    title: "22. Maria Goes to the Supermarket (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife022a.htm"
+    mp3: null
+  - index: 23
+    slug: "usalife023"
+    title: "23. Mike and Maria Have a Picnic (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife023a.htm"
+    mp3: null
+  - index: 24
+    slug: "usalife024"
+    title: "24. Going to the Amusement Park (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife024a.htm"
+    mp3: null
+  - index: 25
+    slug: "usalife025"
+    title: "25. Monday Morning (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife025a.htm"
+    mp3: null
+  - index: 26
+    slug: "usalife026"
+    title: "26. A Day at the Office (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife026a.htm"
+    mp3: null
+  - index: 27
+    slug: "usalife027"
+    title: "27. Another Day in the Life of Mike (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife027a.htm"
+    mp3: null
+  - index: 28
+    slug: "usalife028"
+    title: "28. A Visit to the Vet (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife028a.htm"
+    mp3: null
+  - index: 29
+    slug: "usalife029"
+    title: "29. \"Mother-in-Law\" (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife029a.htm"
+    mp3: null
+  - index: 30
+    slug: "usalife030"
+    title: "30. A Trip to the Pharmacy (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife030a.htm"
+    mp3: null
+  - index: 31
+    slug: "usalife031"
+    title: "31. Dinner with Maria's Mother (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife031a.htm"
+    mp3: null
+  - index: 32
+    slug: "usalife032"
+    title: "32. The Next Morning (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife032a.htm"
+    mp3: null
+  - index: 33
+    slug: "usalife033"
+    title: "33. Antique Shopping (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife033a.htm"
+    mp3: null
+  - index: 34
+    slug: "usalife034"
+    title: "34. Eating at a Pizzeria (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife034a.htm"
+    mp3: null
+  - index: 35
+    slug: "usalife035"
+    title: "35. Going to the Santa Monica Pier (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife035a.htm"
+    mp3: null
+  - index: 36
+    slug: "usalife036"
+    title: "36. Going to the Arcade (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife036a.htm"
+    mp3: null
+  - index: 37
+    slug: "usalife037"
+    title: "37. Going to a Pancake House (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife037a.htm"
+    mp3: null
+  - index: 38
+    slug: "usalife038"
+    title: "38. Celebrating Halloween (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife038a.htm"
+    mp3: null
+  - index: 39
+    slug: "usalife039"
+    title: "39. Going to the Gym (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife039a.htm"
+    mp3: null
+  - index: 40
+    slug: "usalife040"
+    title: "40. Cooking Healthy at Home (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife040a.htm"
+    mp3: null
+  - index: 41
+    slug: "usalife041"
+    title: "41. Stranded at School (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife041a.htm"
+    mp3: null
+  - index: 42
+    slug: "usalife042"
+    title: "42. Going Bowling (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife042a.htm"
+    mp3: null
+  - index: 43
+    slug: "usalife043"
+    title: "43. Going to a Baseball Game (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife043a.htm"
+    mp3: null
+  - index: 44
+    slug: "usalife044"
+    title: "44. Maria's Childhood Friend (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife044a.htm"
+    mp3: null
+  - index: 45
+    slug: "usalife045"
+    title: "45. Mike and Doug's Meet-up (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife045a.htm"
+    mp3: null
+  - index: 46
+    slug: "usalife046"
+    title: "46. Buying the Ring (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife046a.htm"
+    mp3: null
+  - index: 47
+    slug: "usalife047"
+    title: "47. The Big Question 1 (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife047a.htm"
+    mp3: null
+  - index: 48
+    slug: "usalife048"
+    title: "48. The Big Question 2 (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife048a.htm"
+    mp3: null
+  - index: 49
+    slug: "usalife049"
+    title: "49. A Day Out on the Beach (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife049a.htm"
+    mp3: null
+  - index: 50
+    slug: "usalife050"
+    title: "50. Going to the Mall (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife050a.htm"
+    mp3: null
+  - index: 51
+    slug: "usalife051"
+    title: "51. Going to a Rock Concert (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife051a.htm"
+    mp3: null
+  - index: 52
+    slug: "usalife052"
+    title: "52. Hoping to Watch the Game (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife052a.htm"
+    mp3: null
+  - index: 53
+    slug: "usalife053"
+    title: "53. Stuck in Traffic (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife053a.htm"
+    mp3: null
+  - index: 54
+    slug: "usalife054"
+    title: "54. Car Troubles (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife054a.htm"
+    mp3: null
+  - index: 55
+    slug: "usalife055"
+    title: "55. Maria's New Hobby (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife055a.htm"
+    mp3: null
+  - index: 56
+    slug: "usalife056"
+    title: "56. Days before Graduation Day (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife056a.htm"
+    mp3: null
+  - index: 57
+    slug: "usalife057"
+    title: "57. Graduation Day (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife057a.htm"
+    mp3: null
+  - index: 58
+    slug: "usalife058"
+    title: "58. Celebration (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife058a.htm"
+    mp3: null
+  - index: 59
+    slug: "usalife059"
+    title: "59. Fishing with Dad (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife059a.htm"
+    mp3: null
+  - index: 60
+    slug: "usalife060"
+    title: "60. Planning a Wedding (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife060a.htm"
+    mp3: null
+  - index: 61
+    slug: "usalife061"
+    title: "61. Wedding Day (A)"
+    url: "https://www.rong-chang.com/usalife/a/usalife061a.htm"
+    mp3: null

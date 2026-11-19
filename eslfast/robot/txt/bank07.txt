@@ -1,0 +1,38 @@
+A: Can I help you with something?
+B: I need to cancel one of my accounts.
+A: Is there a problem with it?
+B: I don't need it anymore.
+A: What would you like to do with all the money in this account?
+B: Just transfer it over to my remaining account.
+A: I can do that.
+B: That would be great.
+A: Do you want to take any money out?
+B: Not today.
+A: It's going to take a moment for me to cancel your account.
+B: That's fine. Take your time.
+
+A: What can I do for you?
+B: I would like to cancel one of my accounts.
+A: Is there a problem with your account?
+B: I only need one.
+A: What about all your money in that account?
+B: Could you please transfer that money to my remaining account?
+A: That's fine.
+B: I appreciate it.
+A: Would you like to make a withdrawal?
+B: That's all for today.
+A: I'll just cancel your account right now.
+B: I greatly appreciate your help.
+
+A: Did you need help with something?
+B: I need to cancel an account.
+A: Do you have a problem with your account?
+B: I don't need two different accounts anymore.
+A: What are you going to do about the money in your account?
+B: Can I transfer it to my remaining account?
+A: I'll do that for you.
+B: That's lovely.
+A: Would you like to withdraw any money?
+B: No. That's fine.
+A: It'll just take me a moment to cancel your account.
+B: Thank you very much.

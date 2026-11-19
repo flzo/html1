@@ -1,0 +1,38 @@
+A: Good evening, sir, and welcome to Chez Attitude.
+B: We have a dinner reservation for four at 7:00 under the name of Foster.
+A: Yes, Mr. Foster, if you would please be seated over in the waiting area, our hostess will be with you in a moment.
+B: Thank you. Would it be OK if we have a cocktail while we are waiting?
+A: Of course, I will tell her.
+B: I would really prefer an outside table. Would that be possible?
+A: Sure, if you would like one of those tables, I could seat you right away.
+B: Sure, that would be great! Thank you!
+A: Here are your menus and the wine menu, and would you like to order your drinks now?
+B: Yes, I would like a vodka gimlet, please.
+A: Sure, no problem, sir.
+B: Thank you very much.
+
+A: Welcome to our restaurant, Chez Attitude!
+B: Our reservation is under the name of Foster at 7:00 for four people.
+A: Yes, Mr. Foster, our hostess will be with you in just a moment.
+B: We would like to begin with a cocktail while we are waiting. Would you tell the hostess to please come and let us know when our table is ready?
+A: I will let her know where you are.
+B: The patio tables look really nice. Could we be seated there, please?
+A: I could seat you right away at an outside table if you would like.
+B: Thanks! We'll sit out there then. We will just order our drinks out there.
+A: Can I start you off with some cocktails while you are looking over the menu?
+B: Yes, why don't you bring us a bottle of the house Chablis with four glasses to start with?
+A: I'll get on that right away!
+B: We appreciate your help.
+
+A: Thank you for joining us this evening at Chez Attitude.
+B: I am Mr. Foster, and we have a 7:00 dinner reservation tonight for four people.
+A: Welcome, Mr. Foster, if you would have a seat in the lounge area, our hostess will be ready to seat you in just a moment.
+B: We are going to have a drink while we are waiting. Please let the hostess know that she can find us there.
+A: She will come and let you know when your table is prepared.
+B: Those patio tables are new, aren't they? Would it be possible to be seated out there?
+A: An outside table is available right now if you would like to be seated immediately.
+B: We would love to sit outside. Thanks for your help!
+A: Here is your table, and now may I take your drink order while you are considering what to have for dinner?
+B: Yes, could you please bring us a pitcher of margaritas and four glasses while we are figuring out our dinner order?
+A: I'll put your drink order in and be right back to get your dinner order.
+B: We'll be ready to order by the time you get back!

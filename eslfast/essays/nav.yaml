@@ -1,0 +1,509 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/essays/e/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-19T12:12:58+08:00"
+  total: 100
+  failed: 0
+pages:
+  - index: 1
+    slug: "essay001"
+    title: "1. A Social Media Fast"
+    url: "https://www.eslfast.com/essays/e/essay001.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay001d.mp3"
+  - index: 2
+    slug: "essay002"
+    title: "2. The Parade"
+    url: "https://www.eslfast.com/essays/e/essay002.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay002o.mp3"
+  - index: 3
+    slug: "essay003"
+    title: "3. The Queen Mary"
+    url: "https://www.eslfast.com/essays/e/essay003.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay003n.mp3"
+  - index: 4
+    slug: "essay004"
+    title: "4. A Garage Band"
+    url: "https://www.eslfast.com/essays/e/essay004.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay004o.mp3"
+  - index: 5
+    slug: "essay005"
+    title: "5. Memorial Day and Veterans Day"
+    url: "https://www.eslfast.com/essays/e/essay005.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay005t.mp3"
+  - index: 6
+    slug: "essay006"
+    title: "6. The Challenger Disaster"
+    url: "https://www.eslfast.com/essays/e/essay006.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay006c.mp3"
+  - index: 7
+    slug: "essay007"
+    title: "7. Marching for Safer Streets"
+    url: "https://www.eslfast.com/essays/e/essay007.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay007o.mp3"
+  - index: 8
+    slug: "essay008"
+    title: "8. Amber Alert"
+    url: "https://www.eslfast.com/essays/e/essay008.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay008p.mp3"
+  - index: 9
+    slug: "essay009"
+    title: "9. Childhood Friends"
+    url: "https://www.eslfast.com/essays/e/essay009.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay009y.mp3"
+  - index: 10
+    slug: "essay010"
+    title: "10. Board Game Night"
+    url: "https://www.eslfast.com/essays/e/essay010.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay010c.mp3"
+  - index: 11
+    slug: "essay011"
+    title: "11. Celebrating a Win"
+    url: "https://www.eslfast.com/essays/e/essay011.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay011o.mp3"
+  - index: 12
+    slug: "essay012"
+    title: "12. Have Points, Will Travel"
+    url: "https://www.eslfast.com/essays/e/essay012.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay012p.mp3"
+  - index: 13
+    slug: "essay013"
+    title: "13. Long Distance Relationship"
+    url: "https://www.eslfast.com/essays/e/essay013.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay013y.mp3"
+  - index: 14
+    slug: "essay014"
+    title: "14. Summer School"
+    url: "https://www.eslfast.com/essays/e/essay014.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay014ri.mp3"
+  - index: 15
+    slug: "essay015"
+    title: "15. At Father's Day"
+    url: "https://www.eslfast.com/essays/e/essay015.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay015g.mp3"
+  - index: 16
+    slug: "essay016"
+    title: "16. Black Friday"
+    url: "https://www.eslfast.com/essays/e/essay016.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay016h.mp3"
+  - index: 17
+    slug: "essay017"
+    title: "17. Election Day"
+    url: "https://www.eslfast.com/essays/e/essay017.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay017t.mp3"
+  - index: 18
+    slug: "essay018"
+    title: "18. Prom Night"
+    url: "https://www.eslfast.com/essays/e/essay018.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay018p.mp3"
+  - index: 19
+    slug: "essay019"
+    title: "19. Need to Learn How to Drive"
+    url: "https://www.eslfast.com/essays/e/essay019.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay019r.mp3"
+  - index: 20
+    slug: "essay020"
+    title: "20. T-Ball"
+    url: "https://www.eslfast.com/essays/e/essay020.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay020o.mp3"
+  - index: 21
+    slug: "essay021"
+    title: "21. A Breath of Fresh Air"
+    url: "https://www.eslfast.com/essays/e/essay021.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay021te.mp3"
+  - index: 22
+    slug: "essay022"
+    title: "22. Falling into a Dream"
+    url: "https://www.eslfast.com/essays/e/essay022.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay022c.mp3"
+  - index: 23
+    slug: "essay023"
+    title: "23. Stop and Frisk"
+    url: "https://www.eslfast.com/essays/e/essay023.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay023t.mp3"
+  - index: 24
+    slug: "essay024"
+    title: "24. An Earthquake"
+    url: "https://www.eslfast.com/essays/e/essay024.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay024.mp3"
+  - index: 25
+    slug: "essay025"
+    title: "25. A Real Guitar Hero"
+    url: "https://www.eslfast.com/essays/e/essay025.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay025e.mp3"
+  - index: 26
+    slug: "essay026"
+    title: "26. An Overturned School Bus"
+    url: "https://www.eslfast.com/essays/e/essay026.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay026d.mp3"
+  - index: 27
+    slug: "essay027"
+    title: "27. Calm and Relaxed"
+    url: "https://www.eslfast.com/essays/e/essay027.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay027.mp3"
+  - index: 28
+    slug: "essay028"
+    title: "28. A Day at the Library"
+    url: "https://www.eslfast.com/essays/e/essay028.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay028.mp3"
+  - index: 29
+    slug: "essay029"
+    title: "29. Playing Catch"
+    url: "https://www.eslfast.com/essays/e/essay029.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay029.mp3"
+  - index: 30
+    slug: "essay030"
+    title: "30. The Humor in Life"
+    url: "https://www.eslfast.com/essays/e/essay030.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay030.mp3"
+  - index: 31
+    slug: "essay031"
+    title: "31. How Johnny Met His Wife"
+    url: "https://www.eslfast.com/essays/e/essay031.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay031.mp3"
+  - index: 32
+    slug: "essay032"
+    title: "32. My Bike Club"
+    url: "https://www.eslfast.com/essays/e/essay032.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay032.mp3"
+  - index: 33
+    slug: "essay033"
+    title: "33. Helen the Gardner"
+    url: "https://www.eslfast.com/essays/e/essay033.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay033.mp3"
+  - index: 34
+    slug: "essay034"
+    title: "34. My Friend Diego"
+    url: "https://www.eslfast.com/essays/e/essay034.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay034.mp3"
+  - index: 35
+    slug: "essay035"
+    title: "35. Going Back to School"
+    url: "https://www.eslfast.com/essays/e/essay035.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay035.mp3"
+  - index: 36
+    slug: "essay036"
+    title: "36. Mario's First Car"
+    url: "https://www.eslfast.com/essays/e/essay036.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay036.mp3"
+  - index: 37
+    slug: "essay037"
+    title: "37. Joining the Marine Corp"
+    url: "https://www.eslfast.com/essays/e/essay037.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay037.mp3"
+  - index: 38
+    slug: "essay038"
+    title: "38. A Workaholic Dad"
+    url: "https://www.eslfast.com/essays/e/essay038.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay038.mp3"
+  - index: 39
+    slug: "essay039"
+    title: "39. The Carnival"
+    url: "https://www.eslfast.com/essays/e/essay039.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay039.mp3"
+  - index: 40
+    slug: "essay040"
+    title: "40. High School Love"
+    url: "https://www.eslfast.com/essays/e/essay040.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay040.mp3"
+  - index: 41
+    slug: "essay041"
+    title: "41. A Hot Summer Day"
+    url: "https://www.eslfast.com/essays/e/essay041.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay041.mp3"
+  - index: 42
+    slug: "essay042"
+    title: "42. Hungry Abel"
+    url: "https://www.eslfast.com/essays/e/essay042.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay042gh.mp3"
+  - index: 43
+    slug: "essay043"
+    title: "43. Joel's Job Search"
+    url: "https://www.eslfast.com/essays/e/essay043.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay043t.mp3"
+  - index: 44
+    slug: "essay044"
+    title: "44. Valery's Bus Trip"
+    url: "https://www.eslfast.com/essays/e/essay044.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay044.mp3"
+  - index: 45
+    slug: "essay045"
+    title: "45. Studying for the Big Test"
+    url: "https://www.eslfast.com/essays/e/essay045.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay045pr.mp3"
+  - index: 46
+    slug: "essay046"
+    title: "46. Jenny's First Pets (1)"
+    url: "https://www.eslfast.com/essays/e/essay046.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay046.mp3"
+  - index: 47
+    slug: "essay047"
+    title: "47. Jenny's First Pets (2)"
+    url: "https://www.eslfast.com/essays/e/essay047.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay047o.mp3"
+  - index: 48
+    slug: "essay048"
+    title: "48. Surfing"
+    url: "https://www.eslfast.com/essays/e/essay048.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay048t.mp3"
+  - index: 49
+    slug: "essay049"
+    title: "49. Jane the Living Doll"
+    url: "https://www.eslfast.com/essays/e/essay049.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay049e.mp3"
+  - index: 50
+    slug: "essay050"
+    title: "50. An Emergency"
+    url: "https://www.eslfast.com/essays/e/essay050.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay050.mp3"
+  - index: 51
+    slug: "essay051"
+    title: "51. Disappearance of a Lego"
+    url: "https://www.eslfast.com/essays/e/essay051.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay051co.mp3"
+  - index: 52
+    slug: "essay052"
+    title: "52. Drought-Resistant Plants"
+    url: "https://www.eslfast.com/essays/e/essay052.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay052.mp3"
+  - index: 53
+    slug: "essay053"
+    title: "53. Facebook Friends"
+    url: "https://www.eslfast.com/essays/e/essay053.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay053py3.mp3"
+  - index: 54
+    slug: "essay054"
+    title: "54. Service Animals"
+    url: "https://www.eslfast.com/essays/e/essay054.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay054.mp3"
+  - index: 55
+    slug: "essay055"
+    title: "55. Underground Music"
+    url: "https://www.eslfast.com/essays/e/essay055.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay055r.mp3"
+  - index: 56
+    slug: "essay056"
+    title: "56. Summer Programs for Kids"
+    url: "https://www.eslfast.com/essays/e/essay056.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay056.mp3"
+  - index: 57
+    slug: "essay057"
+    title: "57. Special Education"
+    url: "https://www.eslfast.com/essays/e/essay057.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay057i.mp3"
+  - index: 58
+    slug: "essay058"
+    title: "58. Stay-at-Home Dad"
+    url: "https://www.eslfast.com/essays/e/essay058.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay058.mp3"
+  - index: 59
+    slug: "essay059"
+    title: "59. A time for Family"
+    url: "https://www.eslfast.com/essays/e/essay059.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay059g.mp3"
+  - index: 60
+    slug: "essay060"
+    title: "60. Shopping on Black Friday"
+    url: "https://www.eslfast.com/essays/e/essay060.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay060.mp3"
+  - index: 61
+    slug: "essay061"
+    title: "61. Vinyl Hunting"
+    url: "https://www.eslfast.com/essays/e/essay061.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay061h.mp3"
+  - index: 62
+    slug: "essay062"
+    title: "62. No-Hitter"
+    url: "https://www.eslfast.com/essays/e/essay062.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay062.mp3"
+  - index: 63
+    slug: "essay063"
+    title: "63. Helping the Needy"
+    url: "https://www.eslfast.com/essays/e/essay063.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay063t.mp3"
+  - index: 64
+    slug: "essay064"
+    title: "64. A Visit to Statue of Liberty"
+    url: "https://www.eslfast.com/essays/e/essay064.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay064.mp3"
+  - index: 65
+    slug: "essay065"
+    title: "65. A Homeless Man"
+    url: "https://www.eslfast.com/essays/e/essay065.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay065s.mp3"
+  - index: 66
+    slug: "essay066"
+    title: "66. Being Charged with Arson"
+    url: "https://www.eslfast.com/essays/e/essay066.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay066.mp3"
+  - index: 67
+    slug: "essay067"
+    title: "67. A Baby Girl"
+    url: "https://www.eslfast.com/essays/e/essay067.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay067p.mp3"
+  - index: 68
+    slug: "essay068"
+    title: "68. An Easter Bunny"
+    url: "https://www.eslfast.com/essays/e/essay068.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay068.mp3"
+  - index: 69
+    slug: "essay069"
+    title: "69. The Most Beautiful Girl in the World"
+    url: "https://www.eslfast.com/essays/e/essay069.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay069r.mp3"
+  - index: 70
+    slug: "essay070"
+    title: "70. Josh's First Girlfriend"
+    url: "https://www.eslfast.com/essays/e/essay070.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay070.mp3"
+  - index: 71
+    slug: "essay071"
+    title: "71. Hide and Seek"
+    url: "https://www.eslfast.com/essays/e/essay071.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay071o.mp3"
+  - index: 72
+    slug: "essay072"
+    title: "72. A Night at the Drive-In"
+    url: "https://www.eslfast.com/essays/e/essay072.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay072t.mp3"
+  - index: 73
+    slug: "essay073"
+    title: "73. Hello Dolly!"
+    url: "https://www.eslfast.com/essays/e/essay073.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay073e.mp3"
+  - index: 74
+    slug: "essay074"
+    title: "74. Dodgers vs. Giants"
+    url: "https://www.eslfast.com/essays/e/essay074.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay074c.mp3"
+  - index: 75
+    slug: "essay075"
+    title: "75. Halloween Costume Party"
+    url: "https://www.eslfast.com/essays/e/essay075.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay075t.mp3"
+  - index: 76
+    slug: "essay076"
+    title: "76. The Coke Bottles"
+    url: "https://www.eslfast.com/essays/e/essay076.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay076.mp3"
+  - index: 77
+    slug: "essay077"
+    title: "77. Going to College"
+    url: "https://www.eslfast.com/essays/e/essay077.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay077c.mp3"
+  - index: 78
+    slug: "essay078"
+    title: "78. Driving up Pacific Coast Highway"
+    url: "https://www.eslfast.com/essays/e/essay078.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay078.mp3"
+  - index: 79
+    slug: "essay079"
+    title: "79. Mary, Tom, and Buddy (1)"
+    url: "https://www.eslfast.com/essays/e/essay079.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay079o.mp3"
+  - index: 80
+    slug: "essay080"
+    title: "80. Mary, Tom, and Buddy (2)"
+    url: "https://www.eslfast.com/essays/e/essay080.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay080.mp3"
+  - index: 81
+    slug: "essay081"
+    title: "81. Always Safety First"
+    url: "https://www.eslfast.com/essays/e/essay081.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay081p.mp3"
+  - index: 82
+    slug: "essay082"
+    title: "82. Eddie and Jake Form a Rock Band"
+    url: "https://www.eslfast.com/essays/e/essay082.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay082.mp3"
+  - index: 83
+    slug: "essay083"
+    title: "83. Learning Spanish"
+    url: "https://www.eslfast.com/essays/e/essay083.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay083y.mp3"
+  - index: 84
+    slug: "essay084"
+    title: "84. Going Back to School"
+    url: "https://www.eslfast.com/essays/e/essay084.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay084.mp3"
+  - index: 85
+    slug: "essay085"
+    title: "85. Johnny's Long Hair (1)"
+    url: "https://www.eslfast.com/essays/e/essay085.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay085r.mp3"
+  - index: 86
+    slug: "essay086"
+    title: "86. Johnny's Long Hair (2)"
+    url: "https://www.eslfast.com/essays/e/essay086.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay086.mp3"
+  - index: 87
+    slug: "essay087"
+    title: "87. The Friendship"
+    url: "https://www.eslfast.com/essays/e/essay087.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay087i.mp3"
+  - index: 88
+    slug: "essay088"
+    title: "88. A New Friend"
+    url: "https://www.eslfast.com/essays/e/essay088.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay088.mp3"
+  - index: 89
+    slug: "essay089"
+    title: "89. Fingerprinting"
+    url: "https://www.eslfast.com/essays/e/essay089.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay089g.mp3"
+  - index: 90
+    slug: "essay090"
+    title: "90. Getting Cable"
+    url: "https://www.eslfast.com/essays/e/essay090.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay090.mp3"
+  - index: 91
+    slug: "essay091"
+    title: "91. Trash Days"
+    url: "https://www.eslfast.com/essays/e/essay091.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay091h.mp3"
+  - index: 92
+    slug: "essay092"
+    title: "92. Seeing a Dermatologist"
+    url: "https://www.eslfast.com/essays/e/essay092.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay092.mp3"
+  - index: 93
+    slug: "essay093"
+    title: "94. Learning to Drive"
+    url: "https://www.eslfast.com/essays/e/essay093.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay094.mp3"
+  - index: 94
+    slug: "essay094"
+    title: "94. Learning to Drive"
+    url: "https://www.eslfast.com/essays/e/essay094.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay094.mp3"
+  - index: 95
+    slug: "essay095"
+    title: "95. Playing Football"
+    url: "https://www.eslfast.com/essays/e/essay095.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay095p.mp3"
+  - index: 96
+    slug: "essay096"
+    title: "96. Food Trucks"
+    url: "https://www.eslfast.com/essays/e/essay096.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay096.mp3"
+  - index: 97
+    slug: "essay097"
+    title: "97. The Great Nelson Mandela"
+    url: "https://www.eslfast.com/essays/e/essay097.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay097r.mp3"
+  - index: 98
+    slug: "essay098"
+    title: "98. Charles Darwin"
+    url: "https://www.eslfast.com/essays/e/essay098.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay098.mp3"
+  - index: 99
+    slug: "essay099"
+    title: "99. Online Classes"
+    url: "https://www.eslfast.com/essays/e/essay099.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay099o.mp3"
+  - index: 100
+    slug: "essay100"
+    title: "100. The Titanic"
+    url: "https://www.eslfast.com/essays/e/essay100.htm"
+    mp3: "https://www.eslfast.com/essays/audio/essay100t.mp3"

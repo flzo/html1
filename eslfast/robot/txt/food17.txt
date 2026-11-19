@@ -1,0 +1,38 @@
+A: I think I'm going to go to the market today.
+B: Do we need food?
+A: Yes, I think so.
+B: What are you going to get?
+A: I'm not sure what we need.
+B: Maybe you should go and look in the refrigerator.
+A: Could you do it for me, and write out a list of things that we need?
+B: Just get the basics.
+A: Like what?
+B: You know. Get some eggs, milk, and bread.
+A: Just go and make a list for me, please.
+B: Fine, I'll go do that for you.
+
+A: I may go grocery shopping later.
+B: We need to get food?
+A: I don't think we have any food.
+B: What are you going to buy?
+A: What food are we out of?
+B: Go and look in the kitchen.
+A: Could you look for me?
+B: You should just get the basics.
+A: What would that be?
+B: Get some eggs, milk, and bread.
+A: Would you please make a list for me?
+B: Okay, I'll write it down for you.
+
+A: I'm going to go shopping for groceries in a little bit.
+B: Why, do we need groceries?
+A: I believe we are all out of food.
+B: Do you know what to get?
+A: I don't know what we need.
+B: Why don't you go and check the refrigerator?
+A: I would appreciate it if you would do that for me.
+B: Why don't you just get the basics?
+A: What do you mean?
+B: Eggs, milk, bread. Things like that.
+A: Go make that list.
+B: Sure, no problem.

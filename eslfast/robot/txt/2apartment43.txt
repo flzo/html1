@@ -1,0 +1,38 @@
+A: How are you doing?
+B: Great. What's up?
+A: I wanted to talk to you about something.
+B: What did you want to talk about?
+A: I just wanted to let you know that I'm moving out.
+B: When?
+A: In the next few weeks.
+B: I don't understand why you want to move.
+A: I'm going to school out of state.
+B: I see. That'll be fine.
+A: Thanks for understanding.
+B: Yes. I'm fine with it.
+
+A: How are you?
+B: I'm all right. What did you need?
+A: We need to talk.
+B: What's going on?
+A: I'm going to be moving out.
+B: When exactly are you planning on moving out?
+A: I'm going to be moving in a few weeks.
+B: Why are you going to move?
+A: I'm leaving the state to go to school.
+B: I can understand that.
+A: So you're fine with it?
+B: Yeah, I understand.
+
+A: How have you been?
+B: I'm fine. What's going on?
+A: I would like to talk to you about something.
+B: What about?
+A: I'm planning on moving out soon.
+B: When will you be doing this?
+A: I will be moving out a few weeks from now.
+B: Why is that?
+A: I have to leave the state for school.
+B: That's all right.
+A: I'm glad that you're okay with this.
+B: I'm absolutely cool with it.

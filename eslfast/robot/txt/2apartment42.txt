@@ -1,0 +1,32 @@
+A: I really like the apartment, but I was wondering if I could change some things.
+B: What would you like to change?
+A: I would like to have different carpet.
+B: I would be willing to put in a different color carpet if you pay the price difference.
+A: How much more would it cost?
+B: It would cost between 2 and 10 dollars more per square yard.
+A: While I am at it, would it be possible to switch paint colors?
+B: I would be willing to look at a different color. You need to bring me a sample.
+A: When can my apartment be painted and ready to go?
+B: You can have the new carpet and paint by next Monday.
+
+A: This apartment is great, but could I upgrade a few things?
+B: What are you unhappy with?
+A: I want to have a different color carpet.
+B: If you agree to pay more money, you could upgrade the carpet.
+A: Would it cost a lot more?
+B: It could be as little as 2 dollars or as much as 10 dollars more per square yard.
+A: I was also wondering if it would be possible to pick a different paint color.
+B: Bring me a paint sample to look at, and I will consider it.
+A: When can you finish with the new carpet and paint?
+B: Your new apartment can be recarpeted and repainted by next Tuesday.
+
+A: I think that I would enjoy living here, but I would like to make improvements.
+B: What would make this apartment better for you?
+A: I think that it would look better with a better quality carpet.
+B: You can have a different carpet, but you have to pay more if it costs more.
+A: How much more would it cost to upgrade?
+B: It could vary quite a bit, between 2 and 10 dollars per square yard.
+A: Do you think that I could have a different paint color in my apartment?
+B: I have to see a sample. Bring me one this week, please.
+A: How long will it take for my new apartment to be ready?
+B: Both the new paint and new carpet will be finished by next week.

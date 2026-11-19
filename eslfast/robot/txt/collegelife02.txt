@@ -1,0 +1,38 @@
+A: Hello, how are you doing?
+B: Pretty good, and you?
+A: I'm doing great.
+B: That's great to hear.
+A: So how long have you been going to PCC?
+B: I've been going here for a couple years now. You?
+A: This is my first year.
+B: How do you like it so far?
+A: It's all right.
+B: You don't like it?
+A: I'll like it better once I finish my GE.
+B: That's exactly how I used to feel.
+
+A: How are things with you?
+B: Not too bad. How about yourself?
+A: Not bad.
+B: I'm glad to hear that.
+A: Have you been going to PCC long?
+B: I've only been here two years. How about yourself?
+A: I just started this year.
+B: Do you like it?
+A: It's fine for right now.
+B: You do not like it, right?
+A: Once I'm finished with my GE, it should get better.
+B: I felt the same way my first year.
+
+A: How is everything going with you?
+B: Great. You?
+A: Pretty good.
+B: Good for you.
+A: When did you start going to PCC?
+B: This is my second year. How about you?
+A: I only got here this year.
+B: You like it so far?
+A: It's OK.
+B: I can tell you don't really like it.
+A: It'll get better after I finish my General Education.
+B: I understand what you mean.

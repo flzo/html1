@@ -1,0 +1,12 @@
+A: I can't unlock the door!
+B: Maybe it's because the key is brand new.
+A: The lock won't turn at all!
+B: Are you sure the key is not upside down?
+A: I've flipped it five times!
+B: It still doesn't work?
+A: No! The door is still locked.
+B: Let me try to open it.
+A: Maybe you'll have better luck.
+B: I see what the problem is. You're using your old key!
+A: Oops! I'm so used to my old house.
+B: It's alright; eventually you'll get used to this one.

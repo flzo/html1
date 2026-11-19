@@ -1,0 +1,32 @@
+A: Joe, how are you doing today?
+B: Pretty good. Mary, I was wondering if you would like to come to a party on Friday night?
+A: I am free that night, and a party sounds good.
+B: Fine. It will be at my house. Do you know how to get there?
+A: I kind of know where you live, but could you e-mail me your address?
+B: I can do that. Do you have anyone that you would like to bring with you to the party?
+A: I would really like to bring my friend Jake, if that would be OK.
+B: Oh yeah, I remember Jake. That would be fine.
+A: Would you like some help with the food?
+B: Just bring along whatever it is that you and Jake would like to drink.
+
+A: Hi Joe, is everything going OK with you?
+B: Things are great. Mary, I am having a party on Friday night and was wondering if you would be available?
+A: I would love to come to your party!
+B: I am glad you are free. Do you know how to get to my house?
+A: If you would e-mail me your address, that would help.
+B: Sure, no problem. Can you think of anyone else I can invite to the party?
+A: My friend Jake is in town, and I would like it if I could bring him.
+B: Sure, bring Jake along. The more the merrier!
+A: Can I bring anything?
+B: If there is something special that you and Jake would like to drink, bring that along.
+
+A: Hey Joe, how's it going?
+B: Oh good, Mary. I was hoping I'd see you today. Would you like to come to a party on Friday night?
+A: A party would be a perfect way to end the week!
+B: Good! Do you need my address?
+A: I've been to your house once, but I would appreciate you e-mailing me your address.
+B: That would be no trouble at all. Who else do you think I should ask to the party?
+A: I don't know if you remember my friend Jake, but I would like to bring him with me.
+B: Jake would be welcome. If you think of anyone else, feel free to bring them along also.
+A: What would you like me to bring?
+B: Everything is taken care of, but if you and Jake want to bring something to drink, that would be appreciated.

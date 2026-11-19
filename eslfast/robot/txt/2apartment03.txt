@@ -1,0 +1,38 @@
+A: Hello, I was just responding to your ad.
+B: Which ad is that?
+A: The ad for a roommate.
+B: Great. Are you interested?
+A: I sure am.
+B: Can we meet today?
+A: Of course, just tell me when and where.
+B: Why don't you meet me at 5:30 at Starbucks?
+A: That'll be perfect.
+B: We'll discuss the living situation and payments at that time.
+A: That'll be fine.
+B: Okay, I'll see you then.
+
+A: Hi, I'm calling about your ad.
+B: Which ad are you calling about?
+A: The ad for a new roommate.
+B: Are you interested in being my new roommate?
+A: Yes, I'm interested.
+B: I would love to meet you, if that's at all possible.
+A: That's fine, where would you like to meet?
+B: I would like you to meet me at Starbucks at 5:30.
+A: I can meet you then.
+B: We'll talk about the roommate situation then.
+A: Thank you very much.
+B: See you later.
+
+A: Hey, I was wondering about the ad you have.
+B: What ad are you referring to?
+A: I'm calling about the ad for a new roommate.
+B: Oh, yeah. Were you interested in being a roommate of mine?
+A: I actually would like to be your new roommate.
+B: That's great. Would you like to meet me sometime today?
+A: Tell me where, and I'll be there.
+B: Let's meet at Starbucks at 5:30.
+A: Starbucks at 5:30 will be fine.
+B: I'll fill you in on all the details when we get together.
+A: All right, that sounds great.
+B: I'll see you at Starbucks.

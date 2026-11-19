@@ -1,0 +1,38 @@
+A: How are you doing today?
+B: Great. Thanks for asking.
+A: Would you like our assistance with a move?
+B: Yes, actually I would.
+A: What would you like us to move for you?
+B: I need you to move my furniture.
+A: Could you tell me what kind of residence that we will be picking the furniture up from?
+B: The furniture is in my apartment.
+A: Where will we be moving it to?
+B: You'll be taking it to the house I just bought.
+A: All right. I just need both addresses, and we will take care of the moving for you.
+B: Excellent. Thank you very much.
+
+A: How are you?
+B: I am doing well.
+A: Did you need us to move something for you?
+B: That's exactly what I'm calling about.
+A: What exactly do you need moved?
+B: All my furniture needs to be moved.
+A: Where will we be moving your furniture from?
+B: I need it moved from my apartment.
+A: Where would you like us to move the furniture to?
+B: I need the furniture moved to my new house.
+A: All I need is a little more information, and we'll take care of the rest.
+B: Sounds great. I'm glad you could help me.
+
+A: How are you doing?
+B: I'm fine, thank you.
+A: Did you need our help with a move?
+B: Yes, I do need your help with a move.
+A: What can we move for you?
+B: I need all my furniture moved.
+A: Will we be picking the furniture up from an apartment or a house?
+B: You'll be taking it from my old apartment.
+A: Are we moving the furniture to a house or an apartment?
+B: To my new house.
+A: We can do the move for you, but first I'm going to need some more information.
+B: Thanks a lot. I'll give you all the information you need.

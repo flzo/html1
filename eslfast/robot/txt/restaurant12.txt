@@ -1,0 +1,38 @@
+A: Do you want some dessert?
+B: No thanks. We just need our check. Have you seen the waitress?
+A: Here comes our waitress with our check.
+B: The service here has been really great, don't you think?
+A: Yes, the service was quite good.
+B: So, let's look at the check. The total is $36.00.
+A: How much do you think we should leave for a tip?
+B: Usually people leave 15 percent, but this was exceptional service. I am thinking that maybe 20 percent would be appropriate.
+A: I agree that 20 percent would be just about right.
+B: OK, so that will bring her tip to $7.20. Add it to the $36.00 and the total is $43.20.
+A: Yes, what a nice dinner that was!
+B: We'll have to make sure to come back here again real soon.
+
+A: Would you like some more coffee?
+B: No thanks. I'm full. We need to find our waitress and get our bill.
+A: The waitress is bringing the bill right now.
+B: This waitress has really been on top of things, hasn't she?
+A: Yes, this waitress did a great job.
+B: OK, let's see what the damage is. The total for our meal is $36.00.
+A: What do you think would be the right amount to leave for a tip?
+B: Fifteen percent is a normal tip, but she really did a great job. What do you think about 20 percent this time?
+A: Yes, 20 percent would be perfect.
+B: Her tip will end up being $7.20 plus the bill of $36.00. The total will be $43.20.
+A: Yes, that was one fantastic meal!
+B: I agree. Maybe we can come back again next week.
+
+A: Would you like to order anything else?
+B: No, I'm good. All we need now is our check.
+A: The waitress is walking over here with our check even as we speak.
+B: I have never had bad service at this restaurant, but this time was really exceptional.
+A: Yes, she really went out of her way to make this a pleasant dining experience.
+B: Let's take a look at our bill. The total price for our dinner is $36.00.
+A: How much money should we leave for a tip?
+B: I know that 15 percent is a normal tip, but I really thought that this waitress went out of her way for us. What do you think about tippingher 20 percent?
+A: She definitely deserves 20 percent for a tip.
+B: So we can add her tip of $7.20 to the bill of $36.00 and the total will be $43.20.
+A: Yes, what a wonderful meal!
+B: It absolutely was a great meal. We'll have to return here for lunch sometime.

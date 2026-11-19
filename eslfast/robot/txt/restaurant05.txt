@@ -1,0 +1,32 @@
+A: I am your waitress, Mary.
+B: Hello, Mary. We are all pretty hungry tonight!
+A: While you are looking over the menu, can I interest you in an appetizer?
+B: An appetizer sounds good. Do you have a special menu?
+A: They are listed on the first page of the menu.
+B: The coconut shrimp looks good. Have you ever had that?
+A: Yes, it is excellent!
+B: Good, I'll take that then.
+A: Would you like to split that and choose another appetizer for half price to share?
+B: Good. In that case, we'll also take an order of onion rings. Thank you!
+
+A: My name is Mary, and I will be your waitress tonight.
+B: Thank you, Mary. We have been looking forward to trying out this restaurant.
+A: Before your main course, would you like to order an appetizer?
+B: Sure, that sounds great. Where are your appetizers listed?
+A: There is a special appetizer menu right here in the center of the table.
+B: The chicken and cheese quesadilla looks good. Is that pretty good?
+A: You know, that is one of my favorites!
+B: OK, I'll take one order of that.
+A: You could choose another appetizer for half price to share.
+B: Perfect! Please add on an order of onion rings.
+
+A: My name is Mary, and I will be your server this evening.
+B: Hi Mary. We are really looking forward to a great meal here.
+A: Can I interest you in an appetizer to start out?
+B: I would love an appetizer. Are they listed in the menu?
+A: We have our daily appetizers listed on the board over there on the wall.
+B: I am thinking about the popcorn shrimp. How is that?
+A: That would be a great choice!
+B: I'll trust your taste and take one order of that.
+A: We have a special where you can order a second appetizer for half price.
+B: In that case, we'll take an order of onion rings with our first choice.

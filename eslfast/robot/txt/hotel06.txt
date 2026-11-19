@@ -1,0 +1,71 @@
+Conversation 1:
+A: I'd like to order dinner.
+B: What would you like?
+A: I'd like to order a bottle of champagne, lobster tail, and filet mignon, medium rare.
+B: I'm sorry. We're currently out of filet mignon. May I suggest the porterhouse instead?
+A: I'd prefer the filet, but the porterhouse will do.
+B: And may I suggest chocolate-covered strawberries with the champagne?
+A: Normally, I would take you up on that suggestion, but just the champagne will do for tonight.
+B: Okay, no strawberries. Room service will be charged to your amenities account. Is that all right?
+A: That's fine.
+B: It will be up shortly. Enjoy your food, sir.
+
+Conversation 2:
+A: Could I order dinner?
+B: Of course. What would you like?
+A: I want a bottle of champagne, lobster tail, and filet mignon, medium rare.
+B: I'm so sorry. We ran out of filet mignon. May I suggest the porterhouse instead?
+A: That's too bad, but the porterhouse will be okay.
+B: May I be so bold as to suggest chocolate-covered strawberries with the champagne?
+A: Not tonight, thank you.
+B: No strawberries. We'll charge your amenities account, if that's okay.
+A: Charge it to whatever account you like.
+B: Your meal will be delivered as soon as it's all ready. Enjoy!
+
+Conversation 3:
+A: Could you bring me some food, please?
+B: Sure. What do you fancy?
+A: Can I have a bottle of champagne, lobster tail, and filet mignon, medium rare?
+B: Sir, the filet mignon was so popular tonight that we ran out. May I suggest the porterhouse?
+A: No filet? Okay, porterhouse will be fine then.
+B: Perhaps you would like chocolate-covered strawberries with the champagne?
+A: Not tonight, but thank you for the suggestion.
+B: Okay. This will be charged to your amenities account, okay?
+A: No problem.
+B: Your food will be brought to you momentarily. I hope you enjoy it.
+
+Conversation 4:
+A: I'd like you to bring me some food.
+B: Just name it, sir.
+A: Please send up a bottle of champagne, lobster tail, and filet mignon, medium rare.
+B: Regrettably, we're currently out of filet mignon. May I suggest the porterhouse instead?
+A: Sure, I love porterhouse, too.
+B: Would you be interested in chocolate-covered strawberries with the champagne?
+A: I'd love to, but I'm allergic to strawberries.
+B: Okay, no strawberries tonight. The items will be charged to your amenities account.
+A: Go right ahead.
+B: Our staff will bring you your order in as short a time as possible.
+
+Conversation 5:
+A: I need something to eat, please.
+B: Tell me what you're hungry for.
+A: I feel like champagne, lobster tail, and filet mignon, medium rare.
+B: Unfortunately, we're out of filet mignon at the moment. May I suggest the porterhouse instead?
+A: I prefer filet, but porterhouse is good, too.
+B: Perhaps I could interest you in chocolate-covered strawberries with the champagne?
+A: Just the champagne will be fine, thank you.
+B: You'll see this charge on your amenities account.
+A: That's fine.
+B: It won't be long until your food is delivered. I know you'll enjoy it.
+
+Conversation 6:
+A: Can I order something from the kitchen?
+B: Just tell me what you'd like, please.
+A: A bottle of champagne, lobster tail, and filet mignon, medium rare would hit the spot.
+B: I hate to tell you this, but we have no more filet mignon. May I suggest the porterhouse instead?
+A: Sure! Right now, I would even eat hamburger!
+B: Have you ever tried chocolate-covered strawberries with champagne?
+A: Thank you, but I just finished eating some chocolate-covered cherries.
+B: That'll be a bottle of champagne, lobster tail, and porterhouse, all charged to your amenities account.
+A: Not a problem.
+B: Please call if you have any other requests. Your food will be delivered promptly.

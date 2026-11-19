@@ -1,0 +1,38 @@
+A: I need your help.
+B: What's up?
+A: I'm lost.
+B: Where exactly are you trying to go?
+A: I want to go see a movie.
+B: You can't find a theater?
+A: No, I have absolutely no idea where one is.
+B: Do you know where the mall is?
+A: Yes, I know where the mall is.
+B: Go to the mall; there's a movie theater inside.
+A: I did not know that.
+B: It's a new theater. Enjoy your movie.
+
+A: Could you help me?
+B: What's wrong?
+A: I think I'm lost.
+B: Where are you going?
+A: I need to find the movie theater.
+B: You're not sure where it is?
+A: I really don't know.
+B: You do know where the mall is, right?
+A: I know exactly where that is.
+B: There's a movie theater inside the mall.
+A: When did they get a theater?
+B: They just built it.
+
+A: I need your assistance.
+B: What's the problem?
+A: I can't find the place I'm looking for.
+B: What are you looking for?
+A: I am trying to go see a movie.
+B: You don't know where the theater is?
+A: I'm completely lost.
+B: Do you have any idea where the mall is?
+A: Yes, I do.
+B: The mall has its own movie theater.
+A: I didn't know the mall had a movie theater.
+B: It's newly opened.

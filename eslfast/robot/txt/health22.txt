@@ -1,0 +1,32 @@
+A: I have been having a lot of headaches lately.
+B: Have you been having these headaches for a long time?
+A: I have had headaches my whole life, but they have been getting worse lately.
+B: Have you been under a lot of stress lately?
+A: I've been under stress, but no more than usual.
+B: Have you been getting enough sleep lately?
+A: No, I only sleep a few hours a night.
+B: Have you had any head injuries lately?
+A: Yes, actually I fell skiing last week and hit my head.
+B: I am going to send you for a CT scan, and I will see you again when we see the results.
+
+A: I have been getting headaches almost every day lately.
+B: Have you just started getting a lot of headaches?
+A: I never had very many headaches before, but the last few weeks I have been getting a lot of them.
+B: Have you had any unusually stressful situations in your life lately?
+A: My mother just passed away last Tuesday.
+B: I'm sorry. How about sleep? Are you getting enough rest?
+A: I have been working really hard, and sleep has not been a priority.
+B: Have you bumped your head or fallen lately?
+A: No, I haven't hit my head.
+B: I am going to send you to a neurologist for a few tests.
+
+A: I have had some really horrible headaches lately.
+B: How long have your headaches been going on?
+A: I get headaches occasionally, but they have been really bad lately.
+B: Any unusual amounts of stress in your life going on right now?
+A: I am getting ready to take my GRE.
+B: Have you been able to sleep regular hours?
+A: It has been hard for me to sleep with a bad headache.
+B: Has anything hit you in the head lately?
+A: I hit my head on a cupboard door a week ago.
+B: Let's have you come back in a few days and see how you feel.

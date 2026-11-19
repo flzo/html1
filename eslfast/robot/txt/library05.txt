@@ -1,0 +1,38 @@
+A: How may I help you?
+B: I couldn't find the book I was looking for.
+A: Have you checked the database?
+B: I checked.
+A: Was it on the shelf?
+B: It should have been, but it wasn't.
+A: Maybe someone took it.
+B: Will you be getting another copy anytime soon?
+A: I'm sure we will.
+B: Would you be able to reserve it for me?
+A: I sure will.
+B: Thank you very much.
+
+A: May I help you?
+B: I can't find the book I want.
+A: Why don't you try looking at the database?
+B: I checked it already.
+A: Do we have it available?
+B: It wasn't there.
+A: I guess it is lost.
+B: Will you be getting another copy?
+A: Yes, we will.
+B: Could you reserve a copy for me?
+A: I can do that.
+B: That's great. Thanks a lot.
+
+A: What can I do for you?
+B: I was looking for a book, but I couldn't find it.
+A: Did you check our database to see if it was on the shelf?
+B: I already did.
+A: Is it on the shelf?
+B: I didn't see it.
+A: Apparently somebody took that book out of the library.
+B: Will you ever get another copy?
+A: We will definitely be getting another.
+B: Could you please reserve it for me?
+A: That won't be a problem.
+B: Thanks. I really appreciate that.

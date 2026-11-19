@@ -1,0 +1,32 @@
+A: I am interested in buying a house and need some information.
+B: Yes, of course. What area are you interested in?
+A: I am interested in Pasadena or Arcadia.
+B: What size house would you like?
+A: We need a medium-sized house with at least 3 bedrooms and 2 bathrooms.
+B: Are you interested in being in a particular school district?
+A: Yes, we want to stay in the ABC School District.
+B: Would you like a home near the lake or would you prefer a view?
+A: I would love to have a home with a view.
+B: Fine, I will begin a search for the perfect home for you. I will call you in a few days.
+
+A: I would like to discuss purchasing a home with you.
+B: I can help you. What location are you looking for?
+A: I would like to live in Pasadena or Arcadia.
+B: Have you thought about what your needs are in terms of size?
+A: We would like a smaller cozy cottage with 2 bedrooms and 1 bathroom.
+B: Is living in a particular school district important to you?
+A: No, we don't really care because they are all pretty good around here.
+B: Are you interested in purchasing on the lake, or would you like a home with a view?
+A: We really want to live in a lakeside home with a dock for our boat.
+B: Now that I have an idea of what you want, I can begin my search.
+
+A: I have been thinking of buying a house and would like to speak with you.
+B: I have time to speak with you. Where would you like to purchase your house?
+A: I am most interested in Pasadena or Arcadia, but would be open to other suggestions.
+B: How many bedrooms and bathrooms do you need?
+A: We have several generations of family living in our household and so need a very large home.
+B: Do you need to be located in a particular school district?
+A: It doesn't matter, as we do not have any children.
+B: Is a view important to you, or would you rather be located on a lakeshore lot?
+A: In a perfect world, we would like a home with a view of the lake.
+B: Thank you for all of the information. I will help you find the perfect house for you.

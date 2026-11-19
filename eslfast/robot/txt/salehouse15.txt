@@ -1,0 +1,32 @@
+A: I really need help knowing what to do about transferring the deed of my house.
+B: The work of legally transferring the deed of your house will be taken care of in escrow.
+A: What is the first thing that they will do?
+B: The first thing they do is a title search to make sure that there are no liens against your property.
+A: What if I have a lien against my property?
+B: Your home cannot be sold until you clear all liens.
+A: How long will the escrow take?
+B: You can control some aspects of the length of your escrow but not all. Complete all paperwork in a timely fashion.
+A: So, how many days will it take?
+B: An escrow can take anywhere from thirty to ninety days.
+
+A: I know nothing about transferring the deed of my home.
+B: The escrow company will be doing all of the work in transferring your deed.
+A: What is the first step in transferring the deed?
+B: A deed transfer always includes a title search to make sure that there are no outstanding liens against the property.
+A: What if they discover a lien against my property?
+B: A title transfer cannot occur until you clear all liens.
+A: Will my escrow take long?
+B: To move your escrow along, it is important to supply all documents that are requested in a timely fashion.
+A: What is the length of the average escrow?
+B: The average escrow will last anywhere from thirty to ninety days.
+
+A: I think that I am going to hire a lawyer to help me transfer the deed of my house.
+B: Don't worry. The escrow company will be helping us with transferring the deed.
+A: How do they begin the process of transferring the deed?
+B: A title search is necessary to make sure that there are no liens against your property.
+A: What will happen if they find a lien against my property?
+B: All liens against the property must be cleared before the sale of your house can continue.
+A: How can I shorten my escrow?
+B: Make sure that you accurately complete all paperwork in a timely fashion. This will help shorten the length of your escrow.
+A: How many days will it take to close the escrow?
+B: Thirty to ninety days is about how long it takes to complete an escrow.

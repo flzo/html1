@@ -1,0 +1,38 @@
+A: How may I help you today?
+B: I need to open a second account.
+A: What kind of account would you like to open?
+B: I need another savings account.
+A: Do you have another account with us?
+B: I sure do.
+A: Would you like to transfer money from that account into your new one?
+B: That's fine.
+A: How much would you like to transfer?
+B: Transfer $100.
+A: Give me a moment while I complete your transaction.
+B: That's fine. Thank you.
+
+A: How can I help you?
+B: I want to open another account.
+A: What kind would you like to open?
+B: I would like to open a savings account.
+A: Do you already have an account with us?
+B: I have another savings account open already.
+A: Do you want to transfer money from that account?
+B: I would like to do that.
+A: How much?
+B: I only want to transfer $100.
+A: It'll only take me a minute to complete your transaction.
+B: Great. Thank you very much.
+
+A: What can I do for you?
+B: I would like to open another account.
+A: What kind do you want to open?
+B: I want to open a savings account.
+A: Do you have an account opened with this bank already?
+B: Yes, I do.
+A: You can always transfer money from that account into your new one.
+B: That would be great.
+A: How much money do you want to transfer?
+B: I want to transfer $100.
+A: I'll do that right now.
+B: All right. Thanks.

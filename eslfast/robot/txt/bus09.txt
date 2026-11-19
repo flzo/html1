@@ -1,0 +1,38 @@
+A: How's it going?
+B: Good. How about you?
+A: Not bad, thanks for asking.
+B: Have you been on the bus for a while?
+A: Only about fifteen minutes.
+B: Do you ride this bus often?
+A: Not really, I usually drive.
+B: You have a car?
+A: Yes, I do.
+B: So why aren't you driving it?
+A: Once our President lowers gas prices, I'll be driving again.
+B: That's smart thinking.
+
+A: How are you doing?
+B: I'm pretty good, you?
+A: I'm awesome.
+B: How long have you been on the bus?
+A: I've been on here for like, 15 minutes.
+B: Do you catch this bus a lot?
+A: Not much, I have a car.
+B: So, you have your own car?
+A: I sure do.
+B: Then, why are you on the bus with me?
+A: I'm waiting till our President gets out of office, and the gas prices go down.
+B: That's good thinking.
+
+A: What's up, how are you?
+B: I'm splendid. How about yourself?
+A: Could be better.
+B: So, have you been on the bus very long?
+A: I got on about fifteen minutes ago.
+B: How often do you ride the bus?
+A: I usually just drive.
+B: You have your own vehicle?
+A: Yes, I have my own car.
+B: So then, why don't you drive it?
+A: I'm waiting for our President to lower the gas prices.
+B: Smart.

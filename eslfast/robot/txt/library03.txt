@@ -1,0 +1,38 @@
+A: What can I help you with today?
+B: When does the library close?
+A: The library closes at six o'clock.
+B: Does it close at that time every day?
+A: Not always.
+B: Is the library open on Saturdays?
+A: Yes.
+B: What time do you open and close on Saturday?
+A: The hours are from 9 am to 6:30 pm.
+B: Okay. Thank you very much.
+A: Do you need anything else?
+B: No, that's all. Thanks.
+
+A: May I help you?
+B: What time will the library be closing?
+A: It closes at six.
+B: Does it always close at six?
+A: No, not every day.
+B: Will the library be open on Saturday?
+A: Absolutely.
+B: What are your hours on Saturday?
+A: Saturday's hours are from nine in the morning to six-thirty at night.
+B: All right. Thank you.
+A: What else can I help you with?
+B: That's it. Thank you.
+
+A: What can I do for you?
+B: I need to know what time the library closes.
+A: The library will be closing at six.
+B: Does it close at six every day?
+A: No, it doesn't.
+B: Are you guys open on Saturdays?
+A: Yes, we're open on Saturdays.
+B: What time does the library open and close on Saturday?
+A: We open at 9 am and close at 6:30 pm.
+B: That's cool.
+A: Can I help you with anything else?
+B: That's everything. Thanks.

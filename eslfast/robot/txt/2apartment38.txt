@@ -1,0 +1,32 @@
+A: I would like to make an appointment to discuss the problems I keep having with my apartment.
+B: Are you having problems? This is the first I've heard of it.
+A: We gave you a list of problems last week.
+B: What kind of problems are you talking about?
+A: The garbage disposal doesn't work, we have rats, and the toilet is backed up.
+B: Maybe I could get back to you in a few weeks. I am leaving on vacation this afternoon.
+A: These things are your responsibility, and you need to fix them immediately.
+B: Don't tell me what to do! I'll get to it when I get around to it!
+A: If these problems are not addressed immediately, I will be contacting the health department this Friday.
+B: I'll be right over!
+
+A: We would like you to stop by again so we can show you some more problems that have come up with our apartment.
+B: I am kind of busy right now, but maybe later next week I could stop by.
+A: We sent you an e-mail the first week we moved in; it listed the problems we found.
+B: What problems did you find?
+A: The roof leaks when it rains, there is mold on the bedroom walls, and the dishwasher doesn't work.
+B: I don't really consider any of that to be my responsibility. You can fix those things yourself.
+A: Maintaining basic health and safety standards is your responsibility.
+B: I am maintaining the building. You are way too picky!
+A: Unfortunately, you won't be getting a rent check unless these problems are fixed by Friday.
+B: You wouldn't dare do that!
+
+A: You really need to look at some of the problems we are having with the apartment.
+B: That apartment never had any problems before. Are you sure the problem isn't you?
+A: We spoke with you the first week we moved in about things that you promised to fix.
+B: Where do you think you have problems?
+A: There is no hot water, the bedroom has a broken window, and there are rats in the kitchen.
+B: You know, no one else who has been in that apartment has had a problem before.
+A: You are obligated to maintain your building and my apartment.
+B: I will fix these problems when I get around to it.
+A: I will be withholding my rent check this Friday unless these problems are addressed immediately.
+B: You can't do that! It's illegal!

@@ -1,0 +1,32 @@
+A: Good morning, is this the Renter's Hotline?
+B: Yes, what can I help you with?
+A: I have a question about discrimination in housing.
+B: What type of discrimination?
+A: I think that he doesn't want to rent to me because of my race.
+B: What made you think that your race was a problem?
+A: He seemed OK talking to me on the phone, but seemed to change his mind when he saw me in person.
+B: What else made you feel he was discriminating against you?
+A: Well, he had a 25 unit apartment building and everyone I saw there was his same race.
+B: Racial discrimination is very hard to prove, but if you would like to come down, we can go over a checklist that can help you build a case.
+
+A: I would like to speak with someone in the Housing Department.
+B: You have reached the right area. Can I help you with something?
+A: I think that I may have experienced discrimination in trying to rent an apartment.
+B: Can you be specific as to what type of discrimination?
+A: I felt that he didn't like me because I wasn't the same race that he was.
+B: How come you feel it was race that was the issue?
+A: When I showed up on his doorstep, he seemed bothered by my appearance.
+B: Is there anything else that made you feel he was using race as a factor in who he rented to?
+A: As I walked through the apartment building all I saw were people who were the same race as the manager.
+B: It is not easy to prove racial discrimination, but please go to our website which can help you file a formal complaint.
+
+A: Hello, is this the Legal Advice Line?
+B: You are in the right department. What can I do for you?
+A: I think that the landlord where I am trying to rent an apartment may be discriminating against me.
+B: Discrimination is a pretty broad term. What type, specifically?
+A: I have a feeling that he will not consider my application because of my race.
+B: Are you sure that race was the issue? What makes you feel this way?
+A: When he saw me in person, he seemed bothered by me although I seemed to be under consideration when I e-mailed him.
+B: Do you have any proof that he would not rent to you because of your race?
+A: I didn't see one person in that whole building who wasn't the same race as the manager.
+B: It is difficult to prove racial discrimination, but you may file a formal complaint in our office.

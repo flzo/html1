@@ -1,0 +1,32 @@
+A: Here is your breakfast!
+B: Thanks so much. Miss, I believe I ordered my eggs scrambled, and these are fried.
+A: Sorry, your friend over there ordered fried eggs, and I gave you his by mistake.
+B: Oh yeah. Here, I will just trade with him.
+A: Here are your pancakes, sir.
+B: But I ordered waffles!
+A: I am so sorry!
+B: That's OK. I will eat my eggs and bacon, and you can take my pancakes back.
+A: Good, sir. I will take care of that right away.
+B: Thank you so much!
+
+A: I believe you ordered the Grand Slam breakfast.
+B: Oh, good! You know, I am looking at my plate and I ordered scrambled eggs, not fried.
+A: I just noticed that I accidentally brought you your friend's breakfast.
+B: I can just trade with him, thank you.
+A: And pancakes for you, sir.
+B: I am sorry, but I think I ordered waffles.
+A: I am sorry that I misheard you.
+B: Just please take my pancakes to trade for waffles. While I am waiting, I will eat my bacon and eggs.
+A: I will get straight back to you with your waffles.
+B: I would appreciate that.
+
+A: One Grand Slam breakfast for you!
+B: Thanks. You know, I just noticed that these eggs are fried, and I ordered scrambled.
+A: Thank you for pointing that out. I mistakenly gave you your friend's breakfast.
+B: Not a problem. I can just trade my plate with his.
+A: A special order of banana pancakes for you!
+B: Pancakes? I don't like pancakes. I ordered waffles.
+A: I am so sorry, sir!
+B: I can eat my bacon and eggs while you are exchanging my pancakes for waffles.
+A: I will go trade those pancakes for waffles right now.
+B: That would take care of it, thank you.

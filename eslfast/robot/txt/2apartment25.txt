@@ -1,0 +1,32 @@
+A: Hi, I am your new neighbor and was wondering if I could ask you a question or two.
+B: Hi! I would be happy to answer any questions you might have.
+A: Everyone here seems very friendly.
+B: Yes, many of us have lived here a long time and know each other well.
+A: How long have you lived here?
+B: I have lived in this building for ten years.
+A: When I get settled, would you consider giving me a list of places you use, like cleaners and grocery stores?
+B: I can help you with that. Would you like to go to the local farmer's market with me this morning?
+A: That would be great!
+B: Fine. I'll knock on your door around ten o'clock then.
+
+A: Hi, I am your new neighbor and would like to ask you about a few things.
+B: Hi, nice to meet you. Sure, ask me anything you need to know.
+A: So far, everyone that I've met seems so helpful.
+B: We all seem to get along pretty well.
+A: Have you lived here a very long time?
+B: I first moved here ten years ago.
+A: I am having trouble figuring out the best places to shop and such.
+B: I am a pretty good source for all of that information. You could go to the local farmer's market with me today if you wish.
+A: I would love to go with you!
+B: I'll be leaving around ten o'clock. I'll pick you up.
+
+A: Hi, I just moved in next door and have a few questions.
+B: Hello, and welcome to our building. I would be happy to help you with your questions.
+A: You all seem like a very pleasant group of tenants.
+B: We all try and help each other out when we can.
+A: When did you first move here?
+B: I have lived here for quite awhile. Ten years!
+A: I am not from around here, and I don't know where basic services are.
+B: I could help you find everything you need. Would you be interested in going to the local farmer's market with me?
+A: What a great opportunity to get oriented to the neighborhood!
+B: It starts around ten. Just meet me in the parking lot around 9:45, and I'll take you there.

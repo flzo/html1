@@ -1,0 +1,38 @@
+A: Hello, it's nice to meet you.
+B: It's great meeting you too.
+A: Did you just move in?
+B: I moved in this past weekend.
+A: I had no idea that house was sold.
+B: I had to buy. The first time I saw it, I fell in love.
+A: It is a beautiful house.
+B: Have you been living here long?
+A: About 20 years now.
+B: Wow! That's a long time.
+A: Hopefully we will be neighbors for a lot longer.
+B: I love this house too much to ever move.
+
+A: It is very nice meeting you.
+B: I'm happy to meet you also.
+A: When did you get moved in?
+B: Just this past weekend.
+A: I didn't even know the house got sold.
+B: I absolutely love this house, so I had to buy it.
+A: I understand, because the house is extraordinary.
+B: How many years have you been living in your house?
+A: I've been living here for over 20 years.
+B: Twenty years? That is a very long time.
+A: I hope that we remain neighbors for a while longer.
+B: I could never move out of this house.
+
+A: Hey, nice to meet you.
+B: It's nice to meet you too.
+A: When exactly did you move into the house?
+B: I finished moving in this last weekend.
+A: I didn't realize that the house was bought.
+B: Yeah, I saw the house and just fell in love with it.
+A: It was impossible to pass up.
+B: So, how long have you been living here?
+A: Twenty years and counting.
+B: That's great to hear.
+A: I sure hope that you stay here for that long.
+B: I'd be crazy to ever move out.

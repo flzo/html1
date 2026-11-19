@@ -1,0 +1,32 @@
+A: I really like this beautiful apartment!
+B: Thank you. Do you have any further questions?
+A: Yes, I was wondering about safety features.
+B: Yes, what are your concerns?
+A: How about fire alarms and escape routes?
+B: Every apartment has its own smoke alarm, and the whole building is on a sprinkler system.
+A: What about fire extinguishers?
+B: They are in the hallways on all of the floors. It is suggested that you buy an individual one for your own apartment.
+A: What about escape routes in a fire?
+B: The escape routes are clearly posted in the hallways.
+
+A: This apartment is everything that I am looking for!
+B: Thank you. Is there any other information that you need?
+A: Could you tell me a little about safety features?
+B: Yes, we have thought of safety. What, specifically, are you interested in?
+A: Are your fire alarms up to code?
+B: In case of a fire, we have a whole building sprinkler system. In addition, every apartment has its own alarm system.
+A: Do you have fire extinguishers available?
+B: Yes, there are fire extinguishers outside your door. You might want to buy a personal one for your kitchen.
+A: Are the escape routes clearly posted somewhere?
+B: There are fire exit signs in the hallway.
+
+A: What a great apartment!
+B: Thanks. Can I answer any questions for you at this point?
+A: Have you put any safety features into this building?
+B: Yes, your safety is of concern to us. What specifically were you interested in?
+A: Can you talk about fire safety?
+B: We have a global sprinkler system for the building and individual alarms for each apartment.
+A: Are there fire extinguishers anywhere?
+B: There are fire extinguishers in the hallways. If I were you, I would buy a personal one for the kitchen.
+A: How do I exit the building in case of a fire?
+B: There is a card that has escape routes posted on the inside of your front door.

@@ -1,0 +1,38 @@
+A: We're asking for donations today.
+B: What are you collecting donations for?
+A: We're trying to raise money for the campaigns.
+B: How much are you planning on raising?
+A: As much as possible.
+B: What kind of fundraisers are you doing?
+A: We are going door to door.
+B: You should try actual fundraisers, too.
+A: What else can we do?
+B: Try having a car wash or selling candy.
+A: I didn't think of that.
+B: I know. It'll also help you make more money.
+
+A: We're trying to get donations.
+B: What are you getting donations for?
+A: We're getting donations for the campaigns.
+B: How much money are you looking to make?
+A: As much as we can.
+B: Are you doing different fundraisers?
+A: We're just going door to door.
+B: You should do something else.
+A: Do you have any suggestions?
+B: Try a car wash and selling candy.
+A: That is a good idea.
+B: You'll make more money that way.
+
+A: Would you like to make a donation?
+B: Donations for what?
+A: It's for the campaigns.
+B: How much money are you trying to raise?
+A: It doesn't matter how much.
+B: What are you doing to raise money?
+A: We go door to door asking for donations.
+B: You should try other fundraisers.
+A: Like what?
+B: You can always wash cars and sell candy.
+A: That's a great idea.
+B: That'll help you make more money.

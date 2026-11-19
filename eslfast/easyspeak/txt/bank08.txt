@@ -1,0 +1,12 @@
+A: I would like to cash this check.
+B: Did you endorse the check?
+A: What does endorse mean?
+B: It means you need to sign the back of the check.
+A: I will do that right now.
+B: Can I have your account number and identification please?
+A: Oh, I don't have an account here.
+B: Then there will be a $10 fee to cash the check.
+A: Do I have to pay that fee?
+B: An alternative would be to open an account here.
+A: I already have a checking account at another bank.
+B: Then you should cash your check there.

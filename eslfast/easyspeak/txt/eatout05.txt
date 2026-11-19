@@ -1,0 +1,12 @@
+A: May I have a table for three?
+B: Of course. Here is your number.
+A: About how long will it take you to call this number?
+B: About one hour.
+A: Wow, that is a really long time.
+B: I apologize for the long wait.
+A: Does the line go all the way outside?
+B: Yes, I apologize again.
+A: Why can't the customers wait inside? It's freezing.
+B: There are already too many people inside.
+A: Forget it, I am leaving!
+B: Please give us another chance!

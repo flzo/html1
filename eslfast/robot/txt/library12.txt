@@ -1,0 +1,38 @@
+A: How may I help you?
+B: I need to return these books.
+A: Give them here.
+B: Here they are.
+A: It appears these books are two weeks late.
+B: I forgot they were due.
+A: You do realize you are going to have to pay late fees, right?
+B: How much is the late fee?
+A: The late fee is 25 cents a day.
+B: So I have to pay 25 cents for each day the books are late?
+A: It's 25 cents for each book.
+B: That's a lot of money.
+
+A: What can I do for you?
+B: I'm returning these books.
+A: Let me have them.
+B: Here are all of them.
+A: These books are two weeks late.
+B: I didn't have time to return them.
+A: You're going to have to pay late fees.
+B: How much?
+A: 25 cents a day.
+B: 25 cents a day?
+A: That means 25 cents for each late book.
+B: That's expensive.
+
+A: May I help you with something?
+B: I would like to return some books.
+A: I'll take them.
+B: Here you go.
+A: These books were due two weeks ago.
+B: Yeah. I totally forgot they were due.
+A: You will need to pay late fees on these books.
+B: How much are the late fees?
+A: The fee is 25 cents every day.
+B: I have to pay 25 cents a day?
+A: And that's for each book that is late.
+B: That shouldn't be a problem.

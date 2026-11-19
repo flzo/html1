@@ -1,0 +1,12 @@
+A: You got a new car!
+B: How did you know?
+A: I saw it in your driveway.
+B: What do you think of it?
+A: It's really fancy.
+B: Yeah, it was expensive.
+A: How much was it?
+B: It was over $100,000.
+A: That's four times as much as my car.
+B: It's a brand-name car.
+A: You must be pretty rich then.
+B: No, I just really like fancy cars.

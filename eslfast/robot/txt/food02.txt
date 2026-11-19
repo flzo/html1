@@ -1,0 +1,38 @@
+A: What's for lunch?
+B: I don't know. What do you want to eat?
+A: I was thinking of pizza.
+B: That's what I ate yesterday.
+A: What do you want to eat?
+B: I wouldn't mind a burger.
+A: I ate a burger just the other day.
+B: We're going to have to compromise.
+A: You could always get a burger, and I can get a pizza.
+B: Sounds good to me.
+A: Where can we go to get both?
+B: We can get both at the cafeteria.
+
+A: What are we eating for lunch?
+B: I have no idea. What about you?
+A: I kind of want pizza.
+B: I ate pizza the other day.
+A: So, what do you feel like eating then?
+B: How about some burgers?
+A: I already had a burger yesterday.
+B: What are we going to do?
+A: We can just each get what we want to get.
+B: That sounds like a plan.
+A: Do you know a place that sells pizza and burgers?
+B: I think they sell both at the cafeteria.
+
+A: Do you know what you want to eat for lunch?
+B: What do you feel like having?
+A: I want to get some pizza.
+B: I had pizza for lunch yesterday.
+A: Tell me what you want to eat.
+B: Do you want to get a burger?
+A: See, I had a burger for lunch yesterday.
+B: Think of something.
+A: How about I get pizza and you get a burger?
+B: Let's do that then.
+A: Where do they sell both at?
+B: They sell pizza and burgers at the cafeteria.

@@ -1,0 +1,38 @@
+A: What can I do for you today?
+B: I would like to use a computer.
+A: Do you have your library card?
+B: I sure do.
+A: There is a wait for the computers.
+B: That's all right.
+A: You need to print your name on this list.
+B: Okay. Now what?
+A: Once a computer is available, I will let you know.
+B: How am I supposed to log on to the computer?
+A: All you do is type in the number on the back of your card.
+B: That's it? Thank you very much.
+
+A: How may I help you?
+B: I need to get on the Internet.
+A: Do you have your library card with you?
+B: Yes, I have it.
+A: You're going to have to wait for a computer.
+B: That's okay.
+A: Please put your name on this list.
+B: Then what do I need to do?
+A: When there is a computer available, I will call you.
+B: What do I do to log on to the computer?
+A: Just type in the number on the back of your library card.
+B: Okay. Thanks for your help.
+
+A: What do you need?
+B: I need to use the Internet.
+A: You have your library card, right?
+B: Yes, I do.
+A: There is a wait right now to use the computers.
+B: That's fine.
+A: Would you please write your name on this list?
+B: Then what?
+A: I will call you when a computer is free.
+B: How do I log on to the computer?
+A: Use the number on the back of your library card.
+B: Thanks. I'll be sitting over there.

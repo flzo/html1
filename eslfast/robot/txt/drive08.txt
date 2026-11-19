@@ -1,0 +1,38 @@
+A: I need to find somewhere to park.
+B: Off campus or on campus?
+A: I need to find a space on campus.
+B: Why don't you park in the parking structure for students?
+A: Where is the parking structure at?
+B: It's on the west side of the campus.
+A: Do you know if the parking structure is full or not?
+B: It was empty last time I went up there.
+A: How long ago was that?
+B: I went up there early this morning.
+A: Do you think it'll be full now?
+B: It might be. You'll have to go see for yourself.
+
+A: Do you know where I can park?
+B: Do you need a spot here or off campus?
+A: I want a space on campus.
+B: There's a parking structure for students.
+A: Where can I find it?
+B: Go to the western side of the campus, and you'll find it there.
+A: Is it full?
+B: When I went up there, it wasn't full at all.
+A: When was that?
+B: Sometime this morning.
+A: Would it be full now?
+B: I am really not sure.
+
+A: I really need to find a parking spot.
+B: Are you looking for a space on or off campus?
+A: Do you know any spaces on campus?
+B: You can park in the student parking structure.
+A: Where is it located?
+B: You'll find the parking structure on the west side of the campus.
+A: Do you have any idea if the parking structure has any spaces left?
+B: Last time I checked, it was pretty empty.
+A: What time was it when you went up there?
+B: That was earlier this morning.
+A: It wouldn't be full right now, would it?
+B: I have no idea.

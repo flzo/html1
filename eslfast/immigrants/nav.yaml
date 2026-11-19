@@ -1,0 +1,384 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.rong-chang.com"
+  section: "/immigrants/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-19T13:00:06+08:00"
+  total: 75
+  failed: 0
+pages:
+  - index: 1
+    slug: "housing01"
+    title: "1. I Need a Place to Live"
+    url: "https://www.rong-chang.com/immigrants/i/housing01.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/housing01.mp3"
+  - index: 2
+    slug: "housing02"
+    title: "2. Should I Rent or Lease?"
+    url: "https://www.rong-chang.com/immigrants/i/housing02.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/housing02.mp3"
+  - index: 3
+    slug: "housing03"
+    title: "3. It's Time to Buy a House"
+    url: "https://www.rong-chang.com/immigrants/i/housing03.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/housing03.mp3"
+  - index: 4
+    slug: "housing04"
+    title: "4. Finding a New Home"
+    url: "https://www.rong-chang.com/immigrants/i/housing04.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/housing04.mp3"
+  - index: 5
+    slug: "housing05"
+    title: "5. How to Find a House"
+    url: "https://www.rong-chang.com/immigrants/i/housing05.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/housing05.mp3"
+  - index: 6
+    slug: "housing06"
+    title: "6. Buying Insurance for My Home"
+    url: "https://www.rong-chang.com/immigrants/i/housing06.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/housing06.mp3"
+  - index: 7
+    slug: "housing07"
+    title: "7. Getting Along with New Neighbors"
+    url: "https://www.rong-chang.com/immigrants/i/housing07.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/housing07.mp3"
+  - index: 8
+    slug: "employ01"
+    title: "1. A Good Resume for Finding a Good Job"
+    url: "https://www.rong-chang.com/immigrants/i/employ01.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/employ01.mp3"
+  - index: 9
+    slug: "employ02"
+    title: "2. How to Get Good References"
+    url: "https://www.rong-chang.com/immigrants/i/employ02.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/employ02.mp3"
+  - index: 10
+    slug: "employ03"
+    title: "3. Looking for a Job That You Like"
+    url: "https://www.rong-chang.com/immigrants/i/employ03.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/employ03.mp3"
+  - index: 11
+    slug: "employ04"
+    title: "4. Cover Letters"
+    url: "https://www.rong-chang.com/immigrants/i/employ04.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/employ04.mp3"
+  - index: 12
+    slug: "employ05"
+    title: "5. Employee Benefits"
+    url: "https://www.rong-chang.com/immigrants/i/employ05.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/employ05.mp3"
+  - index: 13
+    slug: "employ06"
+    title: "6. A Valuable Addition to the Team"
+    url: "https://www.rong-chang.com/immigrants/i/employ06.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/employ06.mp3"
+  - index: 14
+    slug: "employ07"
+    title: "7. Adapting to Your New Environment"
+    url: "https://www.rong-chang.com/immigrants/i/employ07.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/employ07.mp3"
+  - index: 15
+    slug: "employ08"
+    title: "8. Trying to Keep Your Job"
+    url: "https://www.rong-chang.com/immigrants/i/employ08.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/employ08.mp3"
+  - index: 16
+    slug: "employ09"
+    title: "9. Do Your Best at Work"
+    url: "https://www.rong-chang.com/immigrants/i/employ09.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/employ09.mp3"
+  - index: 17
+    slug: "employ10"
+    title: "10. Is It a Good Idea to Join a Union?"
+    url: "https://www.rong-chang.com/immigrants/i/employ10.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/employ10.mp3"
+  - index: 18
+    slug: "driving01"
+    title: "1. It's Time to Buy Your First Car"
+    url: "https://www.rong-chang.com/immigrants/i/driving01.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/driving01.mp3"
+  - index: 19
+    slug: "driving02"
+    title: "2. Drive on the Right Side of the Street"
+    url: "https://www.rong-chang.com/immigrants/i/driving02.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/driving02.mp3"
+  - index: 20
+    slug: "driving03"
+    title: "3. Child Seats Can Save Your Baby's Life"
+    url: "https://www.rong-chang.com/immigrants/i/driving03.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/driving03.mp3"
+  - index: 21
+    slug: "driving04"
+    title: "4. Driving Under the Influence Is a Crime"
+    url: "https://www.rong-chang.com/immigrants/i/driving04.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/driving04.mp3"
+  - index: 22
+    slug: "driving05"
+    title: "5. Being Pulled Over by Police"
+    url: "https://www.rong-chang.com/immigrants/i/driving05.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/driving05.mp3"
+  - index: 23
+    slug: "driving06"
+    title: "6. How to Drive Without Getting a Ticket"
+    url: "https://www.rong-chang.com/immigrants/i/driving06.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/driving06.mp3"
+  - index: 24
+    slug: "driving07"
+    title: "7. A Simple Guide to Purchasing Auto Insurance"
+    url: "https://www.rong-chang.com/immigrants/i/driving07.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/driving07.mp3"
+  - index: 25
+    slug: "driving08"
+    title: "8. Ridesharing"
+    url: "https://www.rong-chang.com/immigrants/i/driving08.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/driving08.mp3"
+  - index: 26
+    slug: "driving09"
+    title: "9. Getting Around in the Country"
+    url: "https://www.rong-chang.com/immigrants/i/driving09.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/driving09.mp3"
+  - index: 27
+    slug: "banking01"
+    title: "1. Open Checking and Savings Accounts"
+    url: "https://www.rong-chang.com/immigrants/i/banking01.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/banking01.mp3"
+  - index: 28
+    slug: "banking02"
+    title: "2. How to Manage Your Money"
+    url: "https://www.rong-chang.com/immigrants/i/banking02.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/banking02.mp3"
+  - index: 29
+    slug: "banking03"
+    title: "3. Why I Need a Credit Card"
+    url: "https://www.rong-chang.com/immigrants/i/banking03.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/banking03.mp3"
+  - index: 30
+    slug: "banking04"
+    title: "4. How to Write and Cash Checks"
+    url: "https://www.rong-chang.com/immigrants/i/banking04.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/banking04.mp3"
+  - index: 31
+    slug: "banking05"
+    title: "5. How to Make Your Money Work for You"
+    url: "https://www.rong-chang.com/immigrants/i/banking05.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/banking05.mp3"
+  - index: 32
+    slug: "banking06"
+    title: "6. Why My Credit Rating Is Important"
+    url: "https://www.rong-chang.com/immigrants/i/banking06.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/banking06.mp3"
+  - index: 33
+    slug: "banking07"
+    title: "7. Someone Stole My Identity"
+    url: "https://www.rong-chang.com/immigrants/i/banking07.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/banking07.mp3"
+  - index: 34
+    slug: "emergency01"
+    title: "1. When You Should Call 911"
+    url: "https://www.rong-chang.com/immigrants/i/emergency01.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/emergency01.mp3"
+  - index: 35
+    slug: "emergency02"
+    title: "2. When to Go to the Emergency Room"
+    url: "https://www.rong-chang.com/immigrants/i/emergency02.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/emergency02.mp3"
+  - index: 36
+    slug: "emergency03"
+    title: "3. What Is Urgent Care Center"
+    url: "https://www.rong-chang.com/immigrants/i/emergency03.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/emergency03.mp3"
+  - index: 37
+    slug: "emergency04"
+    title: "4. Medical Information Sharing"
+    url: "https://www.rong-chang.com/immigrants/i/emergency04.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/emergency04.mp3"
+  - index: 38
+    slug: "emergency05"
+    title: "5. How to Perform First Aid"
+    url: "https://www.rong-chang.com/immigrants/i/emergency05.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/emergency05.mp3"
+  - index: 39
+    slug: "emergency06"
+    title: "6. What to Do If Someone Is Choking"
+    url: "https://www.rong-chang.com/immigrants/i/emergency06.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/emergency06.mp3"
+  - index: 40
+    slug: "emergency07"
+    title: "7. What to Do in an Auto Accident"
+    url: "https://www.rong-chang.com/immigrants/i/emergency07.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/emergency07.mp3"
+  - index: 41
+    slug: "laws01"
+    title: "1. I May Need to Hire a Lawyer"
+    url: "https://www.rong-chang.com/immigrants/i/laws01.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/laws01.mp3"
+  - index: 42
+    slug: "laws02"
+    title: "2. Paying Federal and State Taxes"
+    url: "https://www.rong-chang.com/immigrants/i/laws02.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/laws02.mp3"
+  - index: 43
+    slug: "laws03"
+    title: "3. Small Claims Court"
+    url: "https://www.rong-chang.com/immigrants/i/laws03.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/laws03.mp3"
+  - index: 44
+    slug: "education01"
+    title: "1. The Educational System in the USA"
+    url: "https://www.rong-chang.com/immigrants/i/education01.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/education01.mp3"
+  - index: 45
+    slug: "education02"
+    title: "2. How Grade Point Average Is Set"
+    url: "https://www.rong-chang.com/immigrants/i/education02.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/education02.mp3"
+  - index: 46
+    slug: "education03"
+    title: "3. Extracurricular Activities"
+    url: "https://www.rong-chang.com/immigrants/i/education03.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/education03.mp3"
+  - index: 47
+    slug: "education04"
+    title: "4. Universities, Colleges, and Vocational Schools"
+    url: "https://www.rong-chang.com/immigrants/i/education04.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/education04.mp3"
+  - index: 48
+    slug: "education05"
+    title: "5. Finding a School for your Children"
+    url: "https://www.rong-chang.com/immigrants/i/education05.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/education05.mp3"
+  - index: 49
+    slug: "health01"
+    title: "1. Healthcare System in the United States"
+    url: "https://www.rong-chang.com/immigrants/i/health01.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/health01.mp3"
+  - index: 50
+    slug: "health02"
+    title: "2. Understanding Your Medication and Labels"
+    url: "https://www.rong-chang.com/immigrants/i/health02.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/health02.mp3"
+  - index: 51
+    slug: "health03"
+    title: "3. Reasons Not to Smoke"
+    url: "https://www.rong-chang.com/immigrants/i/health03.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/health03.mp3"
+  - index: 52
+    slug: "health04"
+    title: "4. Vaccinations and Check-ups"
+    url: "https://www.rong-chang.com/immigrants/i/health04.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/health04.mp3"
+  - index: 53
+    slug: "health05"
+    title: "5. Practice Healthy Eating Habits"
+    url: "https://www.rong-chang.com/immigrants/i/health05.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/health05.mp3"
+  - index: 54
+    slug: "health06"
+    title: "6. Diet and Exercise"
+    url: "https://www.rong-chang.com/immigrants/i/health06.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/health06.mp3"
+  - index: 55
+    slug: "health07"
+    title: "7. Importance of Dental Care"
+    url: "https://www.rong-chang.com/immigrants/i/health07.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/health07.mp3"
+  - index: 56
+    slug: "health08"
+    title: "8. How to Be a Good Parent"
+    url: "https://www.rong-chang.com/immigrants/i/health08.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/health08.mp3"
+  - index: 57
+    slug: "health09"
+    title: "9. A Healthy Child Is a Good Child"
+    url: "https://www.rong-chang.com/immigrants/i/health09.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/health09.mp3"
+  - index: 58
+    slug: "culture01"
+    title: "1. Holidays in the United States"
+    url: "https://www.rong-chang.com/immigrants/i/culture01.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture01.mp3"
+  - index: 59
+    slug: "culture02"
+    title: "2. Dating and Marriage"
+    url: "https://www.rong-chang.com/immigrants/i/culture02.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture02.mp3"
+  - index: 60
+    slug: "culture03"
+    title: "3. Saying Hello in the USA"
+    url: "https://www.rong-chang.com/immigrants/i/culture03.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture03.mp3"
+  - index: 61
+    slug: "culture04"
+    title: "4. The Benefits of Humor"
+    url: "https://www.rong-chang.com/immigrants/i/culture04.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture04.mp3"
+  - index: 62
+    slug: "culture05"
+    title: "5. Being Politically Correct"
+    url: "https://www.rong-chang.com/immigrants/i/culture05.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture05.mp3"
+  - index: 63
+    slug: "culture06"
+    title: "6. Social Taboos"
+    url: "https://www.rong-chang.com/immigrants/i/culture06.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture06.mp3"
+  - index: 64
+    slug: "culture07"
+    title: "7. Importance of Being on Time"
+    url: "https://www.rong-chang.com/immigrants/i/culture07.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture07.mp3"
+  - index: 65
+    slug: "culture08"
+    title: "8. The People of the United States"
+    url: "https://www.rong-chang.com/immigrants/i/culture08.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture08.mp3"
+  - index: 66
+    slug: "culture09"
+    title: "9. Freedom of Religion"
+    url: "https://www.rong-chang.com/immigrants/i/culture09.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture09.mp3"
+  - index: 67
+    slug: "culture10"
+    title: "10. Public Library System"
+    url: "https://www.rong-chang.com/immigrants/i/culture10.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture10.mp3"
+  - index: 68
+    slug: "culture11"
+    title: "11. The U.S. Post Office"
+    url: "https://www.rong-chang.com/immigrants/i/culture11.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture11.mp3"
+  - index: 69
+    slug: "culture12"
+    title: "12. Sports in the United States"
+    url: "https://www.rong-chang.com/immigrants/i/culture12.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture12.mp3"
+  - index: 70
+    slug: "culture13"
+    title: "13. How Television Viewing has Changed"
+    url: "https://www.rong-chang.com/immigrants/i/culture13.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture13.mp3"
+  - index: 71
+    slug: "culture14"
+    title: "14. Parks and Recreation"
+    url: "https://www.rong-chang.com/immigrants/i/culture14.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture14.mp3"
+  - index: 72
+    slug: "culture15"
+    title: "15. Garage Sales and Thrift Stores"
+    url: "https://www.rong-chang.com/immigrants/i/culture15.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture15.mp3"
+  - index: 73
+    slug: "culture16"
+    title: "16. Using Your Computer and the Internet Safely"
+    url: "https://www.rong-chang.com/immigrants/i/culture16.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture16.mp3"
+  - index: 74
+    slug: "culture17"
+    title: "17. Recognizing Spam"
+    url: "https://www.rong-chang.com/immigrants/i/culture17.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture17.mp3"
+  - index: 75
+    slug: "culture18"
+    title: "18. Volunteer Opportunities"
+    url: "https://www.rong-chang.com/immigrants/i/culture18.htm"
+    mp3: "https://www.rong-chang.com/immigrants/audio/culture18.mp3"

@@ -1,0 +1,38 @@
+A: 911. How may I help you?
+B: I need to report a break-in.
+A: When did this break-in occur?
+B: Last night.
+A: Where did the break-in happen?
+B: It happened at my house.
+A: Was anything taken?
+B: I'm not sure yet.
+A: What makes you think there was a break-in?
+B: My front window was busted.
+A: I'll send a squad car.
+B: Please hurry.
+
+A: 911. What can I do for you?
+B: I am reporting a break-in.
+A: When did it happen?
+B: It happened last night.
+A: Where did it happen?
+B: It happened at my house.
+A: What was taken?
+B: I don't know.
+A: How do you know there was a break-in?
+B: Someone busted my window.
+A: I will send a squad car to your house right now.
+B: Please do.
+
+A: 911 emergency. What is the problem?
+B: I would like to report a break-in.
+A: When was this break-in?
+B: I believe it happened last night.
+A: Where was the break-in?
+B: It happened at my house.
+A: Was anything stolen?
+B: I haven't checked yet.
+A: Why do you think there was a break-in?
+B: My front window was broken.
+A: We'll send a squad car shortly.
+B: I'd appreciate that.

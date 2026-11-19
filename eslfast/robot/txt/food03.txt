@@ -1,0 +1,38 @@
+A: What's for dinner tonight?
+B: What are you planning on cooking?
+A: I'm not making anything.
+B: If you plan on eating, you are.
+A: What am I supposed to cook?
+B: What do you feel like having?
+A: I want some chicken and potatoes.
+B: That sounds really good.
+A: When are you going to make it?
+B: I have no plans on cooking tonight.
+A: Fine, I'll make it.
+B: I knew that already.
+
+A: What are we going to eat for dinner?
+B: Are you going to cook anything?
+A: I didn't plan on cooking tonight.
+B: If you're hungry, then cook something.
+A: I don't know what to make.
+B: Tell me what you want to eat.
+A: I've been craving chicken and potatoes.
+B: I'd like that.
+A: Are you going to cook it tonight?
+B: I'm really not going to cook tonight.
+A: I guess I'll cook.
+B: Why don't you start cooking then?
+
+A: Are we going to have dinner tonight?
+B: What are you planning on making?
+A: I'm not cooking dinner.
+B: The only way you're eating tonight is if you cook.
+A: I'm not sure what to cook for dinner.
+B: I don't know. What do you want to eat?
+A: I have a taste for some chicken and potatoes.
+B: That sounds delicious.
+A: So are you planning on cooking it?
+B: I already told you that I'm not cooking tonight.
+A: I'll cook dinner.
+B: I already know. Start cooking.

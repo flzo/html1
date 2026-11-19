@@ -1,0 +1,32 @@
+A: Thank you for letting me test drive the car.
+B: So do you think that you would like to purchase this car?
+A: You know, I am not interested in purchasing the car right now.
+B: What's the problem? We can at least sit down and maybe work out a deal.
+A: Actually, I have several other cars to look at before I make my decision.
+B: What didn't you like about the car? Maybe I can fix something for you.
+A: It is a combination of things, but I appreciate your time.
+B: I have some other cars you might want to look at.
+A: Again, I appreciate your time but I will not be purchasing this car.
+B: Give me a call if you change your mind. Have a good day.
+
+A: I appreciate you letting me take the car out for a spin.
+B: Why don't you come over here and we can work out the details of the purchase?
+A: I don't think that this is the car for me at this point in time.
+B: It's a great deal. Let's talk price. Maybe you'll change your mind.
+A: This is only the first car that I've looked at.
+B: Is there something in particular that didn't look good to you?
+A: It isn't one thing in particular, but I think I can do better for my money.
+B: I really think that you should reconsider.
+A: Thank you again for your time.
+B: Thank you for stopping by. Good luck in your search for a car.
+
+A: I enjoyed taking the car out for a test drive.
+B: Isn't that a great car? Let's work out the details of purchase.
+A: I will not be purchasing the car today.
+B: Why don't you take a second look at that car? You'll see that it is as good a deal as you are going to get.
+A: I need to compare this car to others to make an informed choice.
+B: You said on the phone that this is the kind of car you wanted. What has changed your mind?
+A: I just really need to make sure that I get the best car for my money.
+B: You know, you can look around but I just don't think that you are going to get a better deal for your money.
+A: I will continue looking around for cars and will get back to you if I change my mind.
+B: OK, then. Have a good day.

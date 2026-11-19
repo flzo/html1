@@ -1,0 +1,38 @@
+A: What can I do for you today?
+B: I need to return a book.
+A: Can I do anything else for you?
+B: I want to check these books out.
+A: Is that all?
+B: That's all.
+A: May I see your library card, please?
+B: It's right here.
+A: Will that be all for today?
+B: Yes. That's it.
+A: These are due back in two weeks.
+B: All right. Have a good night.
+
+A: How may I help you?
+B: I want to return this video.
+A: Is that all you need?
+B: I also need to check these books out.
+A: Anything else?
+B: That's everything.
+A: I need your library card.
+B: I have it. Here you go.
+A: Do you need anything else?
+B: That's everything.
+A: Your books are due back two weeks from today.
+B: Thank you. Good night.
+
+A: May I help you?
+B: I would like to return this book.
+A: May I do anything else for you?
+B: I would also like to check out these books.
+A: Will that be all?
+B: That's it.
+A: Do you have your library card?
+B: Oh, yeah. Here you go.
+A: Will that be all for today?
+B: That'll be all.
+A: Your books are due back in two weeks.
+B: Thanks. Have a good one.

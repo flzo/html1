@@ -1,0 +1,38 @@
+A: How are you doing?
+B: Great. Thanks.
+A: May I help you with something?
+B: I would like to transfer some money.
+A: Where would you like to transfer money from?
+B: Take it from my savings account.
+A: Where would you like the money transferred?
+B: I want it transferred into my checking account.
+A: How much would you like to transfer?
+B: I would like to transfer $200.
+A: Will that be all today?
+B: That's it for today. Thank you.
+
+A: How are you today?
+B: Very well.
+A: Do you need help with something?
+B: I need to make a transfer.
+A: What account would you like to transfer the money from?
+B: I want to transfer money from my savings account.
+A: Where do you want the money to go to?
+B: I want the money to be transferred into my checking account.
+A: How much money are you going to transfer today?
+B: $200 will be fine.
+A: Is that all I can do for you today?
+B: I won't be needing anything else.
+
+A: How's everything with you today?
+B: I'm fine. Thank you.
+A: What can I do for you?
+B: I need to transfer money.
+A: Do you know which account you want to take the money from?
+B: From my savings account.
+A: Where are you transferring the money to?
+B: I would like it transferred to my checking account.
+A: How much?
+B: I want to transfer $200.
+A: Will that be all?
+B: Yes. That will be all.

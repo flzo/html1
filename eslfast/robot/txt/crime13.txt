@@ -1,0 +1,38 @@
+A: What can I help you with?
+B: I need to hire you.
+A: What do you need me for?
+B: I need you for my court date.
+A: What kind of case do you have?
+B: I'm being charged with a felony.
+A: I can help you with that.
+B: What is your price?
+A: I charge $150 an hour.
+B: I can't afford that.
+A: That's my rate.
+B: That's expensive, but I need you.
+
+A: How may I help you?
+B: I would like you to be my lawyer.
+A: What can I do for you?
+B: I'm going on trial.
+A: What is your trial about?
+B: It's a felony charge.
+A: I'd be glad to help.
+B: How much do you charge?
+A: My rate is $150 an hour.
+B: That's highway robbery.
+A: I don't know what to tell you.
+B: Okay. You're hired.
+
+A: What can I do for you?
+B: I'm in need of your services.
+A: What do you need me for?
+B: I have a court date coming up.
+A: What are you being charged with?
+B: It's the felony charge.
+A: I'm willing to provide my services.
+B: What's your rate?
+A: I work for $150 an hour.
+B: That's too high.
+A: That's what I charge.
+B: I'll hire you anyway.

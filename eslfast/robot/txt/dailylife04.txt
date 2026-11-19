@@ -1,0 +1,38 @@
+A: I would like to order some internet today.
+B: What kind would you like?
+A: What kind of internet is there?
+B: You can get DSL or dial-up.
+A: Which of those two is best?
+B: I would recommend DSL.
+A: Is that one better?
+B: It's better because it doesn't tie up your phone.
+A: What do you mean by that?
+B: DSL isn't connected through your phone line, but dial-up is.
+A: So then I can't use my phone if I'm on the internet?
+B: That's correct. With DSL you can do both.
+
+A: I need to get internet.
+B: Which kind of internet connection do you want to get?
+A: What kind can I get?
+B: There is dial-up or DSL.
+A: Which one do you feel is best?
+B: I would get DSL if I were you.
+A: DSL is better than dial-up?
+B: It's the best choice; plus, it won't tie up your phone line.
+A: I'm not sure what that means.
+B: Dial-up is connected through your phone, unlike DSL.
+A: That'll make it impossible for me to use.
+B: Exactly. With DSL you don't have that problem.
+
+A: I'd like to have internet on my computer.
+B: Do you know what kind of internet you would like to get?
+A: What are my options?
+B: You can either get dial-up or DSL.
+A: Which one would you recommend?
+B: DSL is the best choice.
+A: Why is DSL better?
+B: It's a lot better because it doesn't tie up your phone line.
+A: What exactly does that mean?
+B: Well, with dial-up your internet is connected by your phone line.
+A: That means that I can't use my phone and the internet at the same time, right?
+B: That's right. You won't have that problem with DSL.

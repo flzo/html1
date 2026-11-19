@@ -1,0 +1,38 @@
+A: Here we are!
+B: Hurray! We finally made it to the park.
+A: What do you want to play on first?
+B: I want to go on the slide.
+A: All right, but be careful.
+B: I'm having so much fun.
+A: Did you like the slide?
+B: I slid down it fast.
+A: Now what do you want to do?
+B: I want to go on the swings.
+A: Would you like me to push you?
+B: No. I can do it myself.
+
+A: We made it!
+B: Great! There so much I want to play on.
+A: What do you want to do first?
+B: Let's go down the slide.
+A: Make sure you're careful.
+B: This is great!
+A: How'd you like the slide?
+B: The slide was so much fun.
+A: What would you like to do next?
+B: I want to swing.
+A: I'll push you if you want me to.
+B: I don't need your help. I can do it.
+
+A: We're here!
+B: I want to go play!
+A: What do you want to do first?
+B: I want to go down the slide.
+A: Don't run, and be careful.
+B: I will. This is so much fun.
+A: Did you enjoy the slide?
+B: Yes. It was great. I went so fast.
+A: What else do you want to play on?
+B: Swinging would be fun.
+A: Do you want me to push you?
+B: I can do it by myself. Watch me.

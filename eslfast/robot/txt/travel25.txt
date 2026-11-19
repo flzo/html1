@@ -1,0 +1,32 @@
+A: Is there anything special I need to think about as I tour this city?
+B: You need to keep in mind that this is a very poor country. Things are a little more desperate here than you are used to.
+A: What do I need to look for?
+B: Be particularly vigilant anytime you are in a crowded place with other tourists. Pickpockets know that tourists aren't paying all that much attention.
+A: I have seen many children on the street begging, so what do I do about them?
+B: It is best not to give money to children or other beggars on the street, as they can swarm you. You can give money to a local charity.
+A: Should I be concerned about what I eat or drink?
+B: Do not drink any water that isn't bottled. Avoid street vendor food.
+A: How about being out on the street at night?
+B: I would take a cab to your destination at night. Don't walk down the street alone.
+
+A: This city is much larger than the one I live in, and I wonder if there is anything special that I need to keep in mind.
+B: Crime can happen anywhere, but it is a little worse here because of the poverty.
+A: Should I be vigilant about anything in particular?
+B: The train stations, airports, and tourist sites are favorite spots for pickpockets.
+A: When I see children on the street begging, what amount should I give them?
+B: I wouldn't suggest giving money to them. Most of them are put out there by adults who then take their money.
+A: Can I eat or drink anything I want to?
+B: Do not use tap water at all, not even to brush your teeth. Only eat fruit that has been peeled.
+A: Can I walk around and see the sights at night?
+B: I would be sure to travel in a group at night. Stay in well-lit areas.
+
+A: Do I need to take any special safety precautions in this city?
+B: This is a very large city with a lot of crowds to work your way through. Keep in mind that poverty makes people a little more desperate.
+A: What should I watch out for?
+B: You have to pay special attention at train stations, airports, and tourist sites. They are known for having a lot of pickpockets.
+A: There are so many children begging on the street that I don't know which ones to give money to.
+B: It is a natural instinct to want to give money to those children, but it is better to give money to one of the local charities or schools.
+A: Are the local food and drink safe?
+B: Avoid eating food prepared by street vendors. Use only bottled water.
+A: How safe is it to be out at night?
+B: You should always travel with others at night and stick to well-lit areas.

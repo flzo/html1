@@ -1,0 +1,35 @@
+A: I have an appointment for 1:30.
+B: What can I help you with?
+A: Well, I have a problem with my class schedule.
+B: What is it?
+A: It seems that I've been given two classes scheduled at the same time.
+B: I can understand the problem with that.
+A: Is there any way that you can fix my schedule?
+B: No problem, do you want those classes still?
+A: Yes, I do.
+B: Let me see if I can find one of these classes on another day.
+A: Thank you very much.
+
+A: I'm here for my appointment.
+B: What can I do for you today?
+A: I have an issue with my schedule.
+B: Tell me the problem.
+A: I have two classes on here that are at the same time.
+B: Oh, I see.
+A: Can you change that for me?
+B: Do you still want both classes?
+A: Yes, I would like to keep both classes.
+B: I'll try to change one to a different day.
+A: I would greatly appreciate that.
+
+A: I was supposed to meet with you at 1:30.
+B: Yes, I see. What did you need to see me about?
+A: There's a problem with my schedule.
+B: What's the problem?
+A: Two of my classes occur at the same time.
+B: Well, I can see that's a problem.
+A: Is it at all possible for you to fix that error?
+B: Yes, I can. Would you still like to have both of these classes?
+A: I want to keep both of them, if that's possible.
+B: Well, let me find you one of these classes on a different day.
+A: Thanks a lot.

@@ -1,0 +1,32 @@
+A: Professor, could I make an appointment with you?
+B: I am free tomorrow afternoon between two and four; do you have a particular time in mind?
+A: Two o'clock would be the best time.
+B: Fine, do you know where my office is?
+A: No, I'm not sure.
+B: Remember, it is in the E building on the third floor.
+A: I see.
+B: Don't worry, it will work out fine once you get there. I'll see you then.
+A: I'll see you then.
+B: Looking forward to meeting with you!
+
+A: Excuse me, Professor, is there a time when I could meet with you?
+B: I could meet with you tomorrow anywhere from two until four; what time works out best?
+A: I would like to come in at three o'clock.
+B: I am glad that that works out; can you find my office?
+A: Yes, I can.
+B: Just follow the walkway to the outside and climb the stairs to the third floor.
+A: I got it.
+B: If you do get lost, just ask someone in the building to point the way.
+A: Thank you, I'll be there.
+B: If you need to cancel your appointment, please give me a call!
+
+A: Professor, do you have a few moments when I could meet with you?
+B: I schedule my appointments from two to four on Saturday; what works best for you?
+A: Three would be a good time.
+B: Great, do you need directions to my office?
+A: I'm not sure.
+B: Well, just make sure to go through the double doors, and I'll be on the right.
+A: OK, I'll find it.
+B: It's very easy to find.
+A: See you then.
+B: I will enjoy seeing you; have a good week!

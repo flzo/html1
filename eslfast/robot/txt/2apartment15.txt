@@ -1,0 +1,32 @@
+A: I was wondering if you allow pets in this building.
+B: We do allow some pets, but you must pay an additional five hundred dollar security deposit.
+A: What kind of pets do you allow?
+B: You may keep either one cat or one dog.
+A: Can cats and dogs be outside?
+B: Cats can be outside, but we want them collared or tagged so we know who they belong to. Dogs must be on a leash and are not allowed in the flowerbeds.
+A: Are there any special places nearby that I can walk my dog?
+B: There is a dog park down the block.
+A: Do many other tenants in this building have pets?
+B: Not too many, but you shouldn't have any trouble finding someone to share walks with.
+
+A: What is your policy towards tenants keeping pets?
+B: You may have a pet, but you have to pay an extra two hundred dollar cleaning deposit.
+A: How many pets can we have?
+B: You may have only one pet. You can have either a small dog or a cat.
+A: What is the policy as to where the pets can be outside?
+B: We ask that you keep your cats indoors or on your balcony. Dogs need to be walked to the street or park.
+A: Where can I walk my dog?
+B: There is a park down the street, but you must keep your dog on a leash.
+A: How many other people have pets around here?
+B: We have quite a few pet owners here, so if you need help finding a veterinarian, just ask around.
+
+A: Are renters allowed to have pets?
+B: We allow a small well-behaved pet, but you need to sign an agreement saying you'll pay for any damages.
+A: Do you allow both cats and dogs?
+B: We only allow a medium or small dog or a cat.
+A: Are there any special areas where animals are allowed or not allowed?
+B: Cats are to be kept indoors at all times. Dogs must be on a leash and with the owner when outdoors.
+A: Are there places where I can take my dog for a run?
+B: There are quite a few hiking trails nearby.
+A: Are there a lot of pets in this building?
+B: We don't have a lot of pet owners, but there are a few around if you have any questions about local pet supplies and dog parks.

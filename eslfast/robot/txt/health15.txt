@@ -1,0 +1,32 @@
+A: How are you feeling today?
+B: I have a terrible cold!
+A: Where do you think you picked that up?
+B: A lot of people in my gym have it. Maybe I got it from the equipment.
+A: Have you taken anything for it?
+B: I think that I am just going to rest and drink plenty of liquids for a while.
+A: Yes, staying rested and hydrated is really important.
+B: My mother also has this special potion with hot wine, cayenne pepper, and sugar that works miracles.
+A: You might want to ask the pharmacist for his suggestions if you get any worse.
+B: Yes, if my symptoms don't pass in a few days, I will ask for help.
+
+A: You don't look so good.
+B: I feel horrible. I think I picked up a bug.
+A: Do you know who you got it from?
+B: A lot of people in my dorm are sick. Perhaps I picked it up there.
+A: Did you take any cold medication?
+B: I've been taking vitamin C and zinc and trying to get some rest.
+A: I think that rest and liquids are what doctors recommend for a cold.
+B: My grandmother swears by hot chicken soup for a cold.
+A: A pharmacist might be able to help you if your home remedies don't work.
+B: Yes, if I get worse, I will definitely look for extra help with this.
+
+A: You look a bit under the weather.
+B: I am not feeling all the great. I think I have that crud that is going around.
+A: I know that it's going around the dorms.
+B: My boyfriend hasn't been feeling so well. Maybe he passed it on to me.
+A: I have some cold tablets if you would like one.
+B: Mostly, I feel like I need some rest and hot soup.
+A: Drinking liquids and getting rest is a good idea with a cold.
+B: My grandmother thinks that honey and whiskey is a good cure for a cold.
+A: You could always go to the pharmacy if it gets worse and you want suggestions.
+B: If things don't get better in a few days, I will look for some other solutions.

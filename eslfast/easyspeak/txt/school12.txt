@@ -1,0 +1,12 @@
+A: I am so hungry.
+B: I am hungry too.
+A: How many more minutes until lunch?
+B: Thirty more minutes.
+A: That is too long.
+B: I know, I hear your stomach growling.
+A: Do you have any food in your backpack?
+B: I have a bag of chips.
+A: Can I have some?
+B: Maybe next time.
+A: Wait, why not now?
+B: Because I'm going to eat the chips.

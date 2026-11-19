@@ -1,0 +1,49 @@
+Conversation 1:
+A: I need a doctor immediately!
+B: Sir, is everything all right?
+A: My wife just collapsed on the floor!
+B: Sir, I need you to calm down. Take deep breaths.
+A: I'm sorry. It's just that my wife. I need the emergency room.
+B: Sir, I'm dialing 911 on another line.
+A: What's taking you so long?
+B: I'm transferring you right now. Just remain calm.
+
+Conversation 2:
+A: Help me! I need a doctor!
+B: What is the problem, sir?
+A: My wife is on the floor!
+B: Sir, please calm down. Take a deep breath.
+A: I need some help, right now!
+B: Sir, I'm going to put you through to 911.
+A: Hurry, please!
+B: I'm transferring you right now, sir.
+
+Conversation 3:
+A: I need a doctor right now!
+B: Tell me the problem, sir.
+A: My wife just passed out!
+B: Sir, it's difficult to understand you. Please take a deep breath and calm down.
+A: Don't tell me to calm down! My wife is passed out!
+B: I'm getting 911 on another line, sir.
+A: Okay, but hurry.
+B: Stay calm, sir, and talk clearly.
+
+Conversation 4:
+A: Get a doctor here, immediately!
+B: What's the problem, sir?
+A: My wife is on the floor, she's unconscious!
+B: Sir, could you calm down a little bit, please?
+A: Calm down?! My wife is unconscious, and you're telling me to calm down?!
+B: Hold on just a second, sir. I'm dialing 911.
+A: Hurry up, please.
+B: I'm connecting you now, sir.
+
+Conversation 5:
+A: A doctor! I need a doctor!
+B: Give me some details, sir.
+A: Something is wrong with my wife. She's lying on the floor.
+B: Sir, if you don't calm down, you might have a stroke yourself.
+A: You're right, I'm beside myself with worry.
+B: Hold on, sir. I'm connecting you with 911.
+A: Time is critical. Hurry up!
+B: I hope everything turns out well, sir. Here's 911.

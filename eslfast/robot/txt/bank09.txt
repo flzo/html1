@@ -1,0 +1,38 @@
+A: How are you doing today?
+B: I'm fine.
+A: What can I do for you?
+B: I would like to cancel a check.
+A: Is there a problem?
+B: I wrote the check out for too much.
+A: How much did you write it out for?
+B: I wrote it out for $150.
+A: How much was it supposed to be?
+B: It was supposed to be for $100.
+A: I'll cancel that check for you.
+B: I really appreciate your help.
+
+A: How are you?
+B: I'm doing well.
+A: How may I help you?
+B: Could you cancel a check for me?
+A: What's the problem?
+B: I wrote the check out for way too much.
+A: How much?
+B: I wrote the check out for $150.
+A: What were you supposed to write it out for?
+B: I was supposed to write the check out for $100.
+A: I'll just cancel it for you right now.
+B: That's great. You're a lifesaver.
+
+A: How's it going?
+B: Great. Thank you.
+A: What can I help you with?
+B: I need to cancel a check.
+A: What's wrong with the check?
+B: I accidentally wrote the check for too much.
+A: How much did you write the check for?
+B: The check was written for $150.
+A: How much were you supposed to write it for?
+B: I needed to write it for $100.
+A: I can cancel it for you right now.
+B: Thank you so much.

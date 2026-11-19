@@ -1,0 +1,554 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.rong-chang.com"
+  section: "/mini-novels/m/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-19T13:11:15+08:00"
+  total: 109
+  failed: 0
+pages:
+  - index: 1
+    slug: "mini-novel001"
+    title: "1. Leaving for Work"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel001.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn001c7.mp3"
+  - index: 2
+    slug: "mini-novel002"
+    title: "2. Shopping at the Supermarket"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel002.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn002.mp3"
+  - index: 3
+    slug: "mini-novel003"
+    title: "3. Sunday Afternoons"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel003.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn003o3.mp3"
+  - index: 4
+    slug: "mini-novel004"
+    title: "4. Grandma Joins Facebook"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel004.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn004.mp3"
+  - index: 5
+    slug: "mini-novel005"
+    title: "5. Bowling Night"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel005.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn005p5.mp3"
+  - index: 6
+    slug: "mini-novel006"
+    title: "6. The Haunted Warehouse"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel006.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn006.mp3"
+  - index: 7
+    slug: "mini-novel007"
+    title: "7. Moving to Arizona"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel007.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn007y1.mp3"
+  - index: 8
+    slug: "mini-novel008"
+    title: "8. Working at a Bookstore"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel008.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn008.mp3"
+  - index: 9
+    slug: "mini-novel009"
+    title: "9. Joel Learns to Drive"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel009.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn009r2.mp3"
+  - index: 10
+    slug: "mini-novel010"
+    title: "10. Ghost in the Hall"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel010.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn010.mp3"
+  - index: 11
+    slug: "mini-novel011"
+    title: "11. Bobby the Fat Boy"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel011.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn011i8.mp3"
+  - index: 12
+    slug: "mini-novel012"
+    title: "12. Fifth Grade Dance Competition (1)"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel012.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn012.mp3"
+  - index: 13
+    slug: "mini-novel013"
+    title: "13. Fifth Grade Dance Competition (2)"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel013.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn013g4.mp3"
+  - index: 14
+    slug: "mini-novel014"
+    title: "14. Camping Trip"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel014.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn014h.mp3"
+  - index: 15
+    slug: "mini-novel015"
+    title: "15. Painting a Mural"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel015.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn015.mp3"
+  - index: 16
+    slug: "mini-novel016"
+    title: "16. New York, New York"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel016.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn016t6.mp3"
+  - index: 17
+    slug: "mini-novel017"
+    title: "17. Not-so-happy Meals"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel017.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn017.mp3"
+  - index: 18
+    slug: "mini-novel018"
+    title: "18. The Bad News"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel018.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn018p6.mp3"
+  - index: 19
+    slug: "mini-novel019"
+    title: "19. The Big Move"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel019.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn019.mp3"
+  - index: 20
+    slug: "mini-novel020"
+    title: "20. The Dentist Will See You Now"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel020.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn020r4.mp3"
+  - index: 21
+    slug: "mini-novel021"
+    title: "21. The Lottery Ticket"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel021.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn021.mp3"
+  - index: 22
+    slug: "mini-novel022"
+    title: "22. A New \"Alarm Clock\""
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel022.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn022o6.mp3"
+  - index: 23
+    slug: "mini-novel023"
+    title: "23. The Unlikely Reunion"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel023.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn023.mp3"
+  - index: 24
+    slug: "mini-novel024"
+    title: "24. Thrift Store Treasures"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel024.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn024t3.mp3"
+  - index: 25
+    slug: "mini-novel025"
+    title: "25. Winter Time"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel025.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn025.mp3"
+  - index: 26
+    slug: "mini-novel026"
+    title: "26. No Smoking"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel026.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn026e1.mp3"
+  - index: 27
+    slug: "mini-novel027"
+    title: "27. Composting"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel027.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn027.mp3"
+  - index: 28
+    slug: "mini-novel028"
+    title: "28. Giving a Hand"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel028.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn028c9.mp3"
+  - index: 29
+    slug: "mini-novel029"
+    title: "29. Arrested Twice in One Day"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel029.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn029.mp3"
+  - index: 30
+    slug: "mini-novel030"
+    title: "30. What's Good for the Goose"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel030.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn030t8.mp3"
+  - index: 31
+    slug: "mini-novel031"
+    title: "31. No Such Thing as Free Lunch"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel031.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn031.mp3"
+  - index: 32
+    slug: "mini-novel032"
+    title: "32. Paying to Win"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel032.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn032e6.mp3"
+  - index: 33
+    slug: "mini-novel033"
+    title: "33. A Night in Las Vegas"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel033.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn033.mp3"
+  - index: 34
+    slug: "mini-novel034"
+    title: "34. The Girl Next Door"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel034.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn034d7.mp3"
+  - index: 35
+    slug: "mini-novel035"
+    title: "35. My Best Friend"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel035.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn035.mp3"
+  - index: 36
+    slug: "mini-novel036"
+    title: "36. A Day in the Park"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel036.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn036c5.mp3"
+  - index: 37
+    slug: "mini-novel037"
+    title: "37. Going out to the Movies"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel037.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn037.mp3"
+  - index: 38
+    slug: "mini-novel038"
+    title: "38. Water Balloon War"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel038.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn038o4.mp3"
+  - index: 39
+    slug: "mini-novel039"
+    title: "39. Summer Job"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel039.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn039.mp3"
+  - index: 40
+    slug: "mini-novel040"
+    title: "40. The Divorce"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel040.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn040p3.mp3"
+  - index: 41
+    slug: "mini-novel041"
+    title: "41. The Last Drink"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel041.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn041.mp3"
+  - index: 42
+    slug: "mini-novel042"
+    title: "42. Christopher the Reporter"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel042.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn042y2.mp3"
+  - index: 43
+    slug: "mini-novel043"
+    title: "43. Richard's Father"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel043.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn043.mp3"
+  - index: 44
+    slug: "mini-novel044"
+    title: "44. The Bartender"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel044.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn044r1.mp3"
+  - index: 45
+    slug: "mini-novel045"
+    title: "45. A Trip to Hawaii"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel045.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn045.mp3"
+  - index: 46
+    slug: "mini-novel046"
+    title: "46. Family Reunion"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel046.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn046i0.mp3"
+  - index: 47
+    slug: "mini-novel047"
+    title: "47. Losing My Dog"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel047.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn047.mp3"
+  - index: 48
+    slug: "mini-novel048"
+    title: "48. A Big City and a Small Town"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel048.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn048gh.mp3"
+  - index: 49
+    slug: "mini-novel049"
+    title: "49. Looking for a Job"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel049.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn049.mp3"
+  - index: 50
+    slug: "mini-novel050"
+    title: "50. Superstore"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel050.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn050t5.mp3"
+  - index: 51
+    slug: "mini-novel051"
+    title: "51. Getting my License"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel051.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn051.mp3"
+  - index: 52
+    slug: "mini-novel052"
+    title: "52. Going to Disneyland"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel052.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn052p3.mp3"
+  - index: 53
+    slug: "mini-novel053"
+    title: "53. The Artist, the Poor Man, and the Musician"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel053.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn053.mp3"
+  - index: 54
+    slug: "mini-novel054"
+    title: "54. The Evils of Technology"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel054.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn054c2.mp3"
+  - index: 55
+    slug: "mini-novel055"
+    title: "55. Anthony's First Day at Disneyland"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel055.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn055.mp3"
+  - index: 56
+    slug: "mini-novel056"
+    title: "56. Woken up by Fireworks"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel056.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn056o1.mp3"
+  - index: 57
+    slug: "mini-novel057"
+    title: "57. Come over anytime, but not really"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel057.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn057.mp3"
+  - index: 58
+    slug: "mini-novel058"
+    title: "58. Finding Your Own Apartment"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel058.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn058p5.mp3"
+  - index: 59
+    slug: "mini-novel059"
+    title: "59. Trick or Treat"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel059.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn059.mp3"
+  - index: 60
+    slug: "mini-novel060"
+    title: "60. Leaving a Tip"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel060.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn060y3.mp3"
+  - index: 61
+    slug: "mini-novel061"
+    title: "61. Not Sold Over the Counter"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel061.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn061.mp3"
+  - index: 62
+    slug: "mini-novel062"
+    title: "62. Seeing the Entire United States"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel062.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn062r2.mp3"
+  - index: 63
+    slug: "mini-novel063"
+    title: "63. Grocery Shopping"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel063.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn063i.mp3"
+  - index: 64
+    slug: "mini-novel064"
+    title: "64. Sales Tax"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel064.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn064.mp3"
+  - index: 65
+    slug: "mini-novel065"
+    title: "65. \"Oh, Really?\""
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel065.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn065g3.mp3"
+  - index: 66
+    slug: "mini-novel066"
+    title: "66. More than Sports"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel066.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn066.mp3"
+  - index: 67
+    slug: "mini-novel067"
+    title: "67. Time-out"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel067.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn067h.mp3"
+  - index: 68
+    slug: "mini-novel068"
+    title: "68. Saving a Pigeon"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel068.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn068.mp3"
+  - index: 69
+    slug: "mini-novel069"
+    title: "69. Not Just for the Old and Homeless"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel069.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn069t.mp3"
+  - index: 70
+    slug: "mini-novel070"
+    title: "70. The Facebook Message"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel070.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn070.mp3"
+  - index: 71
+    slug: "mini-novel071"
+    title: "71. Paintballing in the City Streets"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel071.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn071p.mp3"
+  - index: 72
+    slug: "mini-novel072"
+    title: "72. Increasing the Home Value"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel072.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn072.mp3"
+  - index: 73
+    slug: "mini-novel073"
+    title: "73. Growing up Playing Baseball"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel073.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn073r.mp3"
+  - index: 74
+    slug: "mini-novel074"
+    title: "74. My Day on the Ocean"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel074.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn074.mp3"
+  - index: 75
+    slug: "mini-novel075"
+    title: "75. Green Hair, Don't Care"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel075.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn075o.mp3"
+  - index: 76
+    slug: "mini-novel076"
+    title: "76. Hospice Care"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel076.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn076.mp3"
+  - index: 77
+    slug: "mini-novel077"
+    title: "77. Diving at the Swimming Pool"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel077.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn077t.mp3"
+  - index: 78
+    slug: "mini-novel078"
+    title: "78. Watching Three Movies at the Theater"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel078.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn078.mp3"
+  - index: 79
+    slug: "mini-novel079"
+    title: "79. I Hate Summer"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel079.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn079e.mp3"
+  - index: 80
+    slug: "mini-novel080"
+    title: "80. Jumping Over Fireworks"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel080.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn080.mp3"
+  - index: 81
+    slug: "mini-novel081"
+    title: "81. A Problem with Online Dating"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel081.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn081d.mp3"
+  - index: 82
+    slug: "mini-novel082"
+    title: "82. What are Friends?"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel082.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn082.mp3"
+  - index: 83
+    slug: "mini-novel083"
+    title: "83. After the Death of a Music Collector"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel083.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn083c.mp3"
+  - index: 84
+    slug: "mini-novel084"
+    title: "84. My first Road Trip"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel084.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn084.mp3"
+  - index: 85
+    slug: "mini-novel085"
+    title: "85. Don't Drink and Drive"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel085.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn085o1.mp3"
+  - index: 86
+    slug: "mini-novel086"
+    title: "86. Seeing a Midnight Screening"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel086.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn086.mp3"
+  - index: 87
+    slug: "mini-novel087"
+    title: "87. Going to the Beach"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel087.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn087p2.mp3"
+  - index: 88
+    slug: "mini-novel088"
+    title: "88. My Worst Birthday"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel088.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn088.mp3"
+  - index: 89
+    slug: "mini-novel089"
+    title: "89. My Embarrassing Family"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel089.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn089y5.mp3"
+  - index: 90
+    slug: "mini-novel090"
+    title: "90. A new Addition to the Family"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel090.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn090.mp3"
+  - index: 91
+    slug: "mini-novel091"
+    title: "91. Marriage Is the End"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel091.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn091r7.mp3"
+  - index: 92
+    slug: "mini-novel092"
+    title: "92. Running a Mile"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel092.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn092.mp3"
+  - index: 93
+    slug: "mini-novel093"
+    title: "93. Baseball Tryouts"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel093.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn093i9.mp3"
+  - index: 94
+    slug: "mini-novel094"
+    title: "94. The School Dance"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel094.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn094.mp3"
+  - index: 95
+    slug: "mini-novel095"
+    title: "95. A Jealous Girlfriend"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel095.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn095g1.mp3"
+  - index: 96
+    slug: "mini-novel096"
+    title: "96. Skating for Glory"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel096.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn096.mp3"
+  - index: 97
+    slug: "mini-novel097"
+    title: "97. The Dog Sandy"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel097.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn097h.mp3"
+  - index: 98
+    slug: "mini-novel098"
+    title: "98. Decorating the Christmas Tree"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel098.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn098.mp3"
+  - index: 99
+    slug: "mini-novel099"
+    title: "99. Cruising the Boulevard"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel099.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn099t.mp3"
+  - index: 100
+    slug: "mini-novel100"
+    title: "100. A Day at the Beach"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel100.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn100.mp3"
+  - index: 101
+    slug: "mini-novel101"
+    title: "101. Learning to Swim"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel101.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn101la.mp3"
+  - index: 102
+    slug: "mini-novel102"
+    title: "Mini-novel: 102. Tango in the Park"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel102.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn102.mp3"
+  - index: 103
+    slug: "mini-novel103"
+    title: "103. A Step Pet"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel103.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn103t.mp3"
+  - index: 104
+    slug: "mini-novel104"
+    title: "Mini-novel: 104. A Pre-Paid Cell Phone Plan"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel104.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn104.mp3"
+  - index: 105
+    slug: "mini-novel105"
+    title: "105. A Teddy Bear"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel105.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn105e.mp3"
+  - index: 106
+    slug: "mini-novel106"
+    title: "106. Learning to Ride Bike"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel106.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn106f.mp3"
+  - index: 107
+    slug: "mini-novel107"
+    title: "107. Going to Community College"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel107.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn107i.mp3"
+  - index: 108
+    slug: "mini-novel108"
+    title: "108. Carol's High School Teacher"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel108.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn108l.mp3"
+  - index: 109
+    slug: "mini-novel109"
+    title: "109. Online Classes"
+    url: "https://www.rong-chang.com/mini-novels/m/mini-novel109.htm"
+    mp3: "https://www.rong-chang.com/mini-novels/audio/mn109e.mp3"

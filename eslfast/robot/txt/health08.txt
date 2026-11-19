@@ -1,0 +1,32 @@
+A: I was wondering if you have my test results in.
+B: I didn't see anything out of the ordinary, but I want you to log onto our website for a printout of all of the details.
+A: So, basically, I am OK?
+B: If there were any major problems, I would always notify you by phone to come in.
+A: What will I learn when I see the results on the website?
+B: A description of each test is given on the site.
+A: What will the numbers tell me?
+B: The website will give you a normal range and then tell you what your results are.
+A: Are all of my test results on that site?
+B: Your entire test history is on the site. You can compare your results from other years.
+
+A: Could you tell me my test results?
+B: Your results are posted on the website. Just put in your password and you can see the exact numbers.
+A: Are you saying that all my results were normal?
+B: We always contact you by phone to come in if there is a need for follow-up.
+A: How will I know what the results mean on the website?
+B: The purpose of each test is given on the site.
+A: Will the numbers mean anything to me?
+B: The website will give you your results and then tell you what the normal range is.
+A: Can I see all of my test results at once?
+B: Yes, you can see every test for the past five years. You can compare them.
+
+A: I think I was supposed to call for my test results today.
+B: If you go onto our website and put in your password, you can access your test results.
+A: Are you saying that there weren't any problems?
+B: I will always have you come in for a discussion if there is a major problem.
+A: Will I be able to read the results on the website and understand them?
+B: Yes, if you go there, you can see what each test is about.
+A: How will I know what the numbers mean?
+B: You can see your results and how they compare to the normal range.
+A: How can I see test results from tests I have taken before?
+B: We put all of your test results up in the same place. Just check the dates for what you need.

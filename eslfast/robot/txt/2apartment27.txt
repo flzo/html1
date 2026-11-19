@@ -1,0 +1,38 @@
+A: I need your help with something.
+B: What's wrong?
+A: I somehow locked myself out of my apartment.
+B: How did you lock yourself out?
+A: I'm really not sure.
+B: Where's your key?
+A: I locked it inside the house.
+B: I do have a spare key to your door.
+A: May I use it, please?
+B: Okay, but once you get in, bring my key right back.
+A: I will, and thank you so much.
+B: Make sure to keep your key with you next time.
+
+A: Could you help me?
+B: What happened?
+A: I'm locked out of my apartment.
+B: What did you do to lock yourself out?
+A: I have no idea.
+B: You don't have your key?
+A: It's inside of my apartment.
+B: I have a key to your apartment.
+A: Could I borrow it for just a second?
+B: All right. Bring it back when you're done.
+A: Great, thanks a lot.
+B: I hope you'll be more careful next time.
+
+A: I really need you to do something for me.
+B: What's the problem?
+A: I can't get into my apartment.
+B: How'd you manage that?
+A: I don't know.
+B: Do you know where your key is?
+A: It's inside my apartment.
+B: I have a spare key.
+A: Will you let me use it to get inside?
+B: Sure. Remember to give it back when you're finished.
+A: I appreciate this.
+B: No problem. Try not to lock yourself out again.

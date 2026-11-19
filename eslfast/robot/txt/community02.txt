@@ -1,0 +1,38 @@
+A: Are you new in town?
+B: Yes, I am new in town.
+A: It's very nice to meet you.
+B: It's nice to meet you too.
+A: How long has it been since you moved here?
+B: It's been a month.
+A: Do you like it here so far?
+B: I actually do like it here.
+A: Isn't it beautiful?
+B: It is absolutely beautiful here.
+A: Let me welcome you to the neighborhood.
+B: Thank you. I'm glad to be here.
+
+A: Are you new around here?
+B: I just moved here.
+A: Nice to meet you.
+B: I'm happy to meet you too.
+A: When did you move here?
+B: I've been here a month now.
+A: How do you like it?
+B: I love it here.
+A: It's gorgeous here, don't you think?
+B: It's wonderful.
+A: I would like to welcome you to the neighborhood.
+B: That's very sweet of you.
+
+A: I haven't seen you around, so you must be new here.
+B: As a matter of fact, I am.
+A: It's nice meeting you.
+B: Nice to meet you too.
+A: When did you move out here?
+B: I moved here about a month ago.
+A: What do you think of it so far?
+B: It's great.
+A: Don't you think that it's beautiful here?
+B: It really is gorgeous.
+A: Welcome to the neighborhood.
+B: Thank you for making me feel welcome.

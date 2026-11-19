@@ -1,0 +1,12 @@
+A: What bus do we need to take?
+B: We need to take the Metro.
+A: The metro bus stop isn't here!
+B: No, I meant the Metro Gold Line.
+A: I've never ridden that bus line before.
+B: It's not a bus, it's a Metrolink train.
+A: Why do we need to take the train?
+B: It'll take us to Pasadena faster.
+A: How will it do that?
+B: Trains have fewer stops and never get stuck in traffic.
+A: That sounds very convenient!
+B: It is. Hurry and buy your tap card.

@@ -1,0 +1,38 @@
+A: Are you looking for something?
+B: I'm trying to find the library.
+A: How long have you been trying to find it?
+B: I've been looking for it for a while now.
+A: I can help you find it if you want help.
+B: I would like that.
+A: Do you know where the movie theater is?
+B: Yeah, I know where that is.
+A: You'll find the library right around the corner.
+B: Are you serious?
+A: Yes, you can't miss it.
+B: I know exactly where it is now.
+
+A: Are you lost?
+B: I can't find the library.
+A: How long have you been looking?
+B: I've been trying to find it for a while now.
+A: Would you like my help?
+B: That would be great.
+A: Have you seen the movie theater?
+B: I know where the movie theater is.
+A: The library is on the same block as the movie theater.
+B: Really?
+A: There's no way you can miss it.
+B: I've got it now.
+
+A: What are you looking for?
+B: I have been looking everywhere for the library.
+A: How long have you been looking for it?
+B: I've been searching for the library for an hour.
+A: I can help you.
+B: I would really appreciate your help.
+A: You do know how to find the movie theater, right?
+B: I've found that already.
+A: The library is right around the corner from the theater.
+B: Is that right?
+A: There's no way that you'll miss it.
+B: I can figure it out now.

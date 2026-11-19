@@ -1,0 +1,38 @@
+A: Can you tell me where I can park?
+B: Are you driving a motorcycle or an automobile?
+A: I drive an automobile.
+B: Fine. You can either park in the student lot or on the street. Do you know what a handicapped space is?
+A: Yes, I have seen those spots.
+B: Well, when you see the blue spots with the handicapped logo, do not park there unless you have a special permit. Are you going to be parking in the daytime or evening?
+A: I park in the evenings.
+B: Then you also need to be aware of the time limits on the street signs. Have you seen those signs?
+A: Yes, I have seen those signs.
+B: The signs always tell you how long you can park there and on what days. Do you know how to read the curb colors?
+A: Yes, I know what the curb colors mean.
+B: Well, just as long as you realize that red means no parking and white means loading and unloading, I think you know what you need to know.
+
+A: Where should I park?
+B: Do you have a car or motorbike?
+A: I drive a scooter
+B: In that case, you can park either in a student lot or on the street. Are you aware of the marked handicapped spots?
+A: No, I haven't seen those spots.
+B: The handicapped logo with blue means that you are not to park there unless you have a handicapped permit. Will you mostly be parking during the day or night?
+A: I park in the daytime.
+B: Make sure you pay special attention to the street signs with time limits. Have you noticed those signs?
+A: No, I have not seen the signs.
+B: Pay attention to what the signs tell you in terms of time limits and what days you can park there. Do you know what the curb colors mean?
+A: No, I don't know what the curb colors mean.
+B: Just remember that red means absolutely no parking and white means loading and unloading only. I think you'll be good to go!
+
+A: What is the best place to park?
+B: What vehicle do you usually bring to school? Is it an automobile or a motorbike?
+A: I drive a motorcycle.
+B: OK. That means you can park in the student lot or on the street. Have you seen the handicapped spots?
+A: I am not sure what a handicapped spot is.
+B: Look for the blue signs and blue marked spaces. Do you usually park in the daytime or the evening?
+A: I park days and evenings.
+B: Be careful about the time limits on the streets. Have you seen the signs for time limits?
+A: What signs?
+B: As long as you are careful reading the signs, you will always know how long you can park and what days are OK to park there. Are you aware of the curb colors?
+A: What curb colors?
+B: If you can remember that red means absolutely no parking and white means that you can only load and unload, you are going to be OK.

@@ -1,0 +1,33 @@
+A: I have a doctor's appointment scheduled with Dr. Smith, and I need to change it.
+B: What day did you have it scheduled for?
+A: My appointment was on Tuesday.
+B: What time was it scheduled for?
+A: It was for two o'clock in the afternoon.
+B: I see your appointment. What day would you like to switch to?
+A: I would like to switch it to next Friday.
+B: What time would you like?
+A: I would like to come in at 10:00 in the morning.
+B: Fine, I will pencil that in right now. We will see you then.
+
+A: I scheduled an appointment with Dr. Smith, and I can't make it on that day.
+B: What day was your appointment on?
+A: My appointment was on Monday.
+B: What time had you chosen?
+A: It was for 10:00 in the morning.
+B: I am looking at your appointment right now. What day would you prefer?
+A: I would prefer next Thursday.
+B: What time would be best for you?
+A: I want to come in at 2:00 in the afternoon.
+B: I am writing you down for that time. We look forward to seeing you.
+
+A: Good morning, I made an appointment with Dr. Smith, but I have to change it.
+B: When you made your appointment, what day did you choose?
+A: My appointment was on Wednesday.
+B: At what time was that appointment?
+A: It was for 4:00 in the afternoon.
+B: I can see the appointment that you had. What day do you need to change to?
+A: I want to change to next Tuesday.
+B: What time would you prefer?
+A: I would prefer three o'clock in the afternoon.
+B: I will put you down for that time. Thank you for calling to reschedule.
+s

@@ -1,0 +1,32 @@
+A: Have you had enough time to look over the menu?
+B: Yes, we are almost ready to order.
+A: Let me remind you of the specials of the day, which are posted on the board.
+B: Oh, that all sounds so good! Can we get the sauce on the side?
+A: Yes, we would be happy to prepare the food to meet your special needs.
+B: I was wondering if you have any vegetarian choices.
+A: Yes, the roasted vegetable salad is good, and the portabella mushroom burger is also a good choice.
+B: I think that I would like to order the broccoli noodles, please.
+A: That is an excellent choice, and I could bring you your salads now or bring them with your dinner.
+B: Please bring our salads to us now. We are hungry!
+
+A: Are you ready to order?
+B: I think that we have a pretty good idea of what we would like to order.
+A: Let me tell you about the specials of the day, which are chicken in a wine sauce with capers, and grilled garlic shrimp.
+B: I was wondering if the chef could leave off the sauce.
+A: The chef would be happy to accommodate your special requests.
+B: I am a vegetarian. Do you have any vegetarian selections?
+A: You could choose the roasted vegetable and garlic pizza or the goat cheese and candied walnut salad.
+B: I think that we will split the roasted vegetable and garlic pizza.
+A: That is a good selection, and I can bring your salads now or serve them with your entree.
+B: You can bring us our salads when you bring us our entree.
+
+A: Would you like to order now?
+B: This all looks good! I think we know what we want.
+A: Please let me point out the chef's special, which is blackened catfish.
+B: I am dieting, so could the chef prepare the food with no extra sauce?
+A: We are always happy to adjust our cooking to meet your needs.
+B: Could you tell me if there are any entrees that are vegetarian?
+A: The cashew broccoli noodles or the cheese and veggie enchiladas would be an excellent choice.
+B: I am going to go with the grilled shrimp with garlic sauce. I would like the garlic sauce on the side.
+A: Would you like your salad brought to you with your entrée, or would you like it served now?
+B: You can serve our salads with our dinner.

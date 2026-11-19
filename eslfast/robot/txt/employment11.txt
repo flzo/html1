@@ -1,0 +1,32 @@
+A: Can you help me plan the office party?
+B: Sure. What do you need the most help with, the food or entertainment?
+A: I need help with food.
+B: OK, well, let's coordinate our efforts. Should this party be formal or casual?
+A: I think it should be casual.
+B: I agree. Next, we have to decide on food. We have a choice of Chinese or Continental Cuisine. Which one should we have?
+A: I would prefer Chinese food for this party.
+B: Perfect choice. For music, should we have a live band or a DJ?
+A: I think we should hire a live band.
+B: OK then. Well, I will work on my part and get back to you with my progress on Friday.
+
+A: I need help with the office party.
+B: Yes, of course. We could split it. What part would you like to do, the food or the entertainment?
+A: I have no idea what the entertainment should be.
+B: Let's make sure we are on the same page. Do we want a formal or informal gathering?
+A: Let's make it a formal affair.
+B: Yes, that would be best. Now, for food should we have Chinese or American food?
+A: American food would be the best choice.
+B: That would be great. What kind of music would you like, a band or recorded music?
+A: We should bring in a really good DJ.
+B: That works for me. Let's see what we can each do about planning our part and meet again on Friday.
+
+A: Would you help me figure out what to do about the office party?
+B: I would be happy to help. What would you like me to help with, food or entertainment?
+A: I would like to help you with both.
+B: That will work out fine. To make sure everything goes together, do you think this party should be casual or dressy?
+A: A dressy party would be fun!
+B: That will work out fine. Do you think that Chinese or Continental food would be best?
+A: We should probably have both.
+B: Yes, that will work out fine. Should we hire a band or bring in a DJ?
+A: Maybe we could do both!
+B: Everything sounds great then! I'll meet you back here on Friday to discuss the details.

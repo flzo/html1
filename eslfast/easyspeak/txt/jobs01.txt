@@ -1,0 +1,13 @@
+A: I have a problem.
+B: Tell me about it.
+A: I got hired at a restaurant and a clothing store.
+B: What's the problem?
+A: I can only work for one of them.
+B: I think you should work at the restaurant.
+A: Tell me why.
+B: Folding clothes is annoying.
+A: What else is bad about clothing stores.
+B: Customers always mess up the clothes.
+A: Anything else?
+B: You get tips at restaurants.
+A: That's a good point.

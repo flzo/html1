@@ -1,0 +1,36 @@
+A: How much is the fare for this bus?
+B: It costs $1.25 to ride the bus.
+A: So, how long have you been driving buses?
+B: I've been driving this bus for only a few months.
+A: Do you enjoy being a bus driver?
+B: Not really.
+A: I would never dream of driving a bus.
+B: I didn't either, but a paycheck's a paycheck.
+A: It was nice talking to you.
+B: Nice talking to you too.
+A: Have a good day.
+B: That'll be hard to do while driving the bus.
+
+A: How much for the bus ride?
+B: It's $1.25 for this bus.
+A: How long have you been a bus driver?
+B: I started driving the bus a few months ago.
+A: Is it fun driving the bus?
+B: Not at all.
+A: I don't think I ever wanted to be a bus driver.
+B: I never did either, but it pays the bills.
+A: I enjoyed talking to you.
+B: I liked talking to you too.
+
+A: What does it cost to ride this bus?
+B: The fare is $1.25.
+A: Have you been driving buses a long time?
+B: I haven't been driving for long, only for a few months.
+A: Do you like to drive the bus?
+B: Not in the least bit.
+A: I would have never dreamed of ever becoming a bus driver.
+B: I never dreamed of doing this either. The only thing I like about it is the money.
+A: It was really fun chatting with you.
+B: It was really nice talking to you too.
+A: Have a good one.
+B: I'll have a good day once this day is over.

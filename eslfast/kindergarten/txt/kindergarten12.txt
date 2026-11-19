@@ -1,0 +1,8 @@
+A: Hi. My name is Mary.
+B: Hello, Mary. I'm Michelle.
+A: It's nice to meet you, Michelle.
+B: Thank you. What do you want to do?
+A: I have to go to class now.
+B: Yeah. Me too. We'll meet later?
+A: Yes. We can meet after school.
+B: Okay. I'll see you then.

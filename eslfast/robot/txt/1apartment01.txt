@@ -1,0 +1,38 @@
+A: Hi, can I speak with the apartment manager, please?
+B: Hello, this is the apartment manager speaking.
+A: I'm calling about the apartment for rent on Main Street.
+B: Would you be interested in seeing the apartment?
+A: I would love to see it.
+B: Are you free today at around 6 p.m.?
+A: Yes, I will be able to make it then.
+B: Well, I'll see you at 6 p.m. Do you know how to get there?
+A: I used to live in that area.
+B: I'll give you an application form when I see you.
+A: That sounds good. Do I need to bring anything?
+B: No. Just bring yourself.
+
+A: Hello, I was wondering if I could talk with the apartment manager.
+B: I am the apartment manager. How can I help you?
+A: I was wondering if the apartment on Main Street is still available.
+B: Yes, it's still vacant. Are you interested in seeing it?
+A: Yes, I would love to see the apartment.
+B: I will be at the apartment today at 6:00. Can you make it?
+A: Yes, I can be there at 6.
+B: Great. I'll see you at 6. Do you know where it is?
+A: Yes, I have a friend who lives in that neighborhood.
+B: I'll be bringing an application form.
+A: OK, should I bring anything with me?
+B: No. I might need to see your ID card, but that's about it.
+
+A: Could I speak to the apartment manager?
+B: I am the apartment manager. How can I help you?
+A: I wanted to know if that apartment on Main Street is still for rent.
+B: I haven't rented it out yet. Would you like to see it?
+A: Yes, I want to see it.
+B: How about today at 6 p.m.?
+A: That time is okay with me.
+B: Very good. We'll meet at 6. Do you need directions?
+A: No, thank you. I go by there on my way to work.
+B: If you're interested, you can fill out an application form.
+A: That's a good idea. Do I need to bring anything myself?
+B: No. The only thing I need to see is your driver's license.

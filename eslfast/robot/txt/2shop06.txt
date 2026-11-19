@@ -1,0 +1,38 @@
+A: I'm planning on going to the market soon.
+B: What are you buying?
+A: I don't know what we need.
+B: I can check for you, if you'd like.
+A: I'll make a list.
+B: First, we need eggs, milk, and bread.
+A: Do we need any meat?
+B: How about some chicken, ground beef, and some steak.
+A: What else do we need?
+B: Get some snack foods.
+A: Is there anything else that we need?
+B: No, but if you can think of anything else, just get it.
+
+A: I need to go to the market.
+B: Do you know what to get?
+A: I'm not sure what to get.
+B: I'll go check for you.
+A: Tell me what we need and I'll write a list.
+B: We need the basics. Like, eggs, milk, and bread.
+A: What kind of meat do we need?
+B: You should buy some steak, some chicken, and ground beef.
+A: Do we need anything else?
+B: Why don't you get some snacks?
+A: Can you think of anything else?
+B: Get whatever else that you need.
+
+A: I'm going to the market in a little bit.
+B: What are you going to get?
+A: Do you know what we need to get?
+B: Would you like me to check?
+A: Alright, and I'll write everything down.
+B: You need to buy bread, eggs, and milk.
+A: Should I get some meat?
+B: Yes. Get some chicken, ground beef, and steak.
+A: What else?
+B: We can also use some snacks.
+A: You can't think of anything else?
+B: You can get whatever else you want.

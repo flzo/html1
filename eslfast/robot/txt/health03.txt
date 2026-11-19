@@ -1,0 +1,32 @@
+A: Sorry to bother you, but I was wondering if you could drive me to the emergency room.
+B: Of course. What is the problem?
+A: I am running a really high fever of 105 degrees, and I have a rash on my stomach.
+B: If you can, go and unlock the back door, so I can get in when I get there if you fall asleep.
+A: I can do that when I get off of the phone.
+B: Do you know where your driver's license and insurance card are?
+A: I already had them out before I called you.
+B: Where is your nearest emergency room?
+A: It's just a few blocks away.
+B: Fine, I am on my way. I'll be there in about five minutes.
+
+A: I hate to call you this late at night, but could you possibly help me get to the emergency room?
+B: We will come right over. What happened?
+A: My temperature went up to 105, and I have a rash!
+B: Make sure that someone unlocks the back door, so I can get in if you fall asleep before I get there.
+A: I will do that in a minute.
+B: Make sure that you have your insurance card and driver's license where we can grab them.
+A: I know right where they both are.
+B: Is there an emergency room near you?
+A: It is on the other side of town, next to city hall.
+B: I am on my way. Give me ten minutes and I'll get to you.
+
+A: I really need your help and want to know if you could drive me to the emergency room.
+B: I will take you there right away. What is wrong?
+A: I woke up with a rash and a temperature of 105!
+B: I want to be able to get to you when I get there. If you can unlock the back door right now, that would be great.
+A: I will make sure that I do that before you get here.
+B: Also, make sure that we have your driver's license and insurance card before we leave for the emergency room.
+A: I am getting them out while I am speaking to you.
+B: Do you know where your nearest emergency room is?
+A: It is near the bridge that crosses over the river.
+B: I am driving to you even as we speak. Hang in there!

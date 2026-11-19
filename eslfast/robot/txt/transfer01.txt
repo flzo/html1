@@ -1,0 +1,38 @@
+A: Are you planning on transferring?
+B: Yes. What about you?
+A: Yeah, I think so.
+B: Where do you want to go?
+A: I was thinking either CSULA or UCLA.
+B: Those are great schools.
+A: Where do you want to transfer to?
+B: I'm not really sure yet.
+A: You still have time to figure it out.
+B: That's true.
+A: Hopefully you'll figure it out pretty soon.
+B: I will. Good luck with CSULA and UCLA.
+
+A: Are you going to transfer?
+B: Yes, I'm going to transfer. Are you?
+A: Yes. I want to transfer.
+B: What school do you want to transfer to?
+A: Either CSULA or UCLA.
+B: Either school would be a great choice.
+A: Where are you going to transfer to?
+B: I don't know.
+A: You have plenty of time to think about it.
+B: You're right.
+A: Good luck figuring it out.
+B: I'll figure it out eventually.
+
+A: Do you plan on transferring schools?
+B: I want to. Do you?
+A: I'm thinking about it.
+B: Where do you want to transfer to?
+A: I want to go to CSULA or UCLA.
+B: Those are pretty good schools.
+A: Where are you planning on transferring to?
+B: I haven't thought about it yet.
+A: At least you still have time to think about it.
+B: I know.
+A: I hope that you figure it out.
+B: I'll think of something.

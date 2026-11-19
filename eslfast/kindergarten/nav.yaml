@@ -1,0 +1,309 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.rong-chang.com"
+  section: "/kindergarten/k/"
+  selector: "div.content-body > div > p.timed"
+  generated_at: "2026-11-18T12:36:40+08:00"
+  total: 60
+  failed: 0
+pages:
+  - index: 1
+    slug: "kindergarten01"
+    title: "Kindergarten English: 1. It's Time to Get Up"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten01.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten01.mp3"
+  - index: 2
+    slug: "kindergarten02"
+    title: "Kindergarten English: 2. When Are We Going to Play?"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten02.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten02.mp3"
+  - index: 3
+    slug: "kindergarten03"
+    title: "Kindergarten English: 3. Let's Play a Game"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten03.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten03.mp3"
+  - index: 4
+    slug: "kindergarten04"
+    title: "Kindergarten English: 4. Raising Your Hand in Class"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten04.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten04.mp3"
+  - index: 5
+    slug: "kindergarten05"
+    title: "Kindergarten English: 5. Going to the Bathroom"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten05.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten05.mp3"
+  - index: 6
+    slug: "kindergarten06"
+    title: "Kindergarten English: 6. Finger Painting in Class"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten06.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten06.mp3"
+  - index: 7
+    slug: "kindergarten07"
+    title: "Kindergarten English: 7. Playing with a Friend"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten07.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten07.mp3"
+  - index: 8
+    slug: "kindergarten08"
+    title: "Kindergarten English: 8. Riding the Merry-Go-Round"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten08.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten08.mp3"
+  - index: 9
+    slug: "kindergarten09"
+    title: "Kindergarten English: 9. What's for Lunch?"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten09.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten09.mp3"
+  - index: 10
+    slug: "kindergarten10"
+    title: "Kindergarten English: 10. Using the Library"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten10.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten10.mp3"
+  - index: 11
+    slug: "kindergarten11"
+    title: "Kindergarten English: 11. The First Day of School"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten11.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten11.mp3"
+  - index: 12
+    slug: "kindergarten12"
+    title: "Kindergarten English: 12. Meeting New Friends at School"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten12.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten12.mp3"
+  - index: 13
+    slug: "kindergarten13"
+    title: "Kindergarten English: 13. No School Today"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten13.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten13.mp3"
+  - index: 14
+    slug: "kindergarten14"
+    title: "Kindergarten English: 14. My Favorite Color"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten14.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten14.mp3"
+  - index: 15
+    slug: "kindergarten15"
+    title: "Kindergarten English: 15. My Baby Brother"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten15.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten15.mp3"
+  - index: 16
+    slug: "kindergarten16"
+    title: "Kindergarten English: 16. Taking the Bus to School"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten16.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten16.mp3"
+  - index: 17
+    slug: "kindergarten17"
+    title: "Kindergarten English: 17. The Playground"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten17.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten17.mp3"
+  - index: 18
+    slug: "kindergarten18"
+    title: "Kindergarten English: 18. Driving to School"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten18.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten18.mp3"
+  - index: 19
+    slug: "kindergarten19"
+    title: "Kindergarten English: 19. Field Trip Day"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten19.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten19.mp3"
+  - index: 20
+    slug: "kindergarten20"
+    title: "Kindergarten English: 20. Feeling Sick at School"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten20.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten20.mp3"
+  - index: 21
+    slug: "kindergarten21"
+    title: "Kindergarten English: 21. Going to the Park"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten21.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten21.mp3"
+  - index: 22
+    slug: "kindergarten22"
+    title: "Kindergarten English: 22. Doing My Homework"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten22.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten22.mp3"
+  - index: 23
+    slug: "kindergarten23"
+    title: "Kindergarten English: 23. It's a Hot Day"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten23.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten23.mp3"
+  - index: 24
+    slug: "kindergarten24"
+    title: "Kindergarten English: 24. At the Ballpark"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten24.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten24.mp3"
+  - index: 25
+    slug: "kindergarten25"
+    title: "Kindergarten English: 25. Picking a Movie"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten25.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten25.mp3"
+  - index: 26
+    slug: "kindergarten26"
+    title: "Kindergarten English: 26. At the Movie House"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten26.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten26.mp3"
+  - index: 27
+    slug: "kindergarten27"
+    title: "Kindergarten English: 27. Time for Dinner"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten27.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten27.mp3"
+  - index: 28
+    slug: "kindergarten28"
+    title: "Kindergarten English: 28. Let's Go for a Ride"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten28.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten28.mp3"
+  - index: 29
+    slug: "kindergarten29"
+    title: "Kindergarten English: 29. Too Excited to sleep"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten29.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten29.mp3"
+  - index: 30
+    slug: "kindergarten30"
+    title: "Kindergarten English: 30. At the County Fair"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten30.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten30.mp3"
+  - index: 31
+    slug: "kindergarten31"
+    title: "Kindergarten English: 31. Putting on Your Seatbelts"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten31.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten31.mp3"
+  - index: 32
+    slug: "kindergarten32"
+    title: "Kindergarten English: 32. Pay Attention While Walking"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten32.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten32.mp3"
+  - index: 33
+    slug: "kindergarten33"
+    title: "Kindergarten English: 33. Playing Hide and Seek"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten33.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten33.mp3"
+  - index: 34
+    slug: "kindergarten34"
+    title: "Kindergarten English: 34. Taking Out the Trash"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten34.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten34.mp3"
+  - index: 35
+    slug: "kindergarten35"
+    title: "Kindergarten English: 35. Taking Swimming Lessons"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten35.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten35.mp3"
+  - index: 36
+    slug: "kindergarten36"
+    title: "Kindergarten English: 36. On a Boat Ride"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten36.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten36.mp3"
+  - index: 37
+    slug: "kindergarten37"
+    title: "Kindergarten English: 37. My First Flight"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten37.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten37.mp3"
+  - index: 38
+    slug: "kindergarten38"
+    title: "Kindergarten English: 38. On an Airplane"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten38.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten38.mp3"
+  - index: 39
+    slug: "kindergarten39"
+    title: "Kindergarten English: 39. Helping my Dad"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten39.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten39.mp3"
+  - index: 40
+    slug: "kindergarten40"
+    title: "Kindergarten English: 40. Seeing the Dentist"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten40.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten40.mp3"
+  - index: 41
+    slug: "kindergarten41"
+    title: "Kindergarten English: 41. Christmas Morning"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten41.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten41.mp3"
+  - index: 42
+    slug: "kindergarten42"
+    title: "Kindergarten English: 42. Decorating the Christmas Tree"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten42.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten42.mp3"
+  - index: 43
+    slug: "kindergarten43"
+    title: "Kindergarten English: 43. I'm Getting a baby Sister"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten43.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten43.mp3"
+  - index: 44
+    slug: "kindergarten44"
+    title: "Kindergarten English: 44. Taking a Test at School"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten44.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten44.mp3"
+  - index: 45
+    slug: "kindergarten45"
+    title: "Kindergarten English: 45. Calling Role in the Morning"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten45.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten45.mp3"
+  - index: 46
+    slug: "kindergarten46"
+    title: "Kindergarten English: 46. Recess Time at School"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten46.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten46.mp3"
+  - index: 47
+    slug: "kindergarten47"
+    title: "Kindergarten English: 47. Feeding My Dog"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten47.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten47.mp3"
+  - index: 48
+    slug: "kindergarten48"
+    title: "Kindergarten English: 48. Going to the Animal Shelter"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten48.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten48.mp3"
+  - index: 49
+    slug: "kindergarten49"
+    title: "Kindergarten English: 49. Can I have a Kitty?"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten49.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten49.mp3"
+  - index: 50
+    slug: "kindergarten50"
+    title: "Kindergarten English: 50. Playing with my Brother"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten50.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten50.mp3"
+  - index: 51
+    slug: "kindergarten51"
+    title: "Kindergarten English: 51. Let's Read It Together"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten51.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten51.mp3"
+  - index: 52
+    slug: "kindergarten52"
+    title: "Kindergarten English: 52. The Alphabet Song"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten52.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten52.mp3"
+  - index: 53
+    slug: "kindergarten53"
+    title: "Kindergarten English: 53. Baking a Cake"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten53.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten53.mp3"
+  - index: 54
+    slug: "kindergarten54"
+    title: "Kindergarten English: 54. Mom's Chocolate Cake"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten54.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten54.mp3"
+  - index: 55
+    slug: "kindergarten55"
+    title: "Kindergarten English: 55. Going Fishing"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten55.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten55.mp3"
+  - index: 56
+    slug: "kindergarten56"
+    title: "Kindergarten English: 56. Catching a Fish"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten56.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten56.mp3"
+  - index: 57
+    slug: "kindergarten57"
+    title: "Kindergarten English: 57. Sleeping in a Tent"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten57.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten57.mp3"
+  - index: 58
+    slug: "kindergarten58"
+    title: "Kindergarten English: 58. Climbing a Tree"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten58.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten58.mp3"
+  - index: 59
+    slug: "kindergarten59"
+    title: "Kindergarten English: 59. Picking Fruit from a Tree"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten59.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten59.mp3"
+  - index: 60
+    slug: "kindergarten60"
+    title: "Kindergarten English: 60. Playing in the Pool"
+    url: "https://www.rong-chang.com/kindergarten/k/kindergarten60.htm"
+    mp3: "https://www.rong-chang.com/kindergarten/audio/kindergarten60.mp3"

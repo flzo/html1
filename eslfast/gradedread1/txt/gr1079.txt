@@ -1,0 +1,1 @@
+It's lunch time. Anthony cannot decide between a chicken sandwich and a hamburger. He likes both of them. He has an idea! He gets a quarter from his pocket. He will choose what to get based on a coin flip. If it lands on heads, he'll get the chicken sandwich. If it lands on tails, he'll get the hamburger. He flips the coin. It lands on heads.

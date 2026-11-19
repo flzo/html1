@@ -1,0 +1,38 @@
+A: What may I help you with?
+B: I need to file a complaint.
+A: What is your complaint about?
+B: I got robbed.
+A: When did this happen?
+B: It happened this morning.
+A: What was taken?
+B: My wallet and cell phone.
+A: Did you get a good look at the person who robbed you?
+B: I sure did.
+A: Would you able to pick him out of a line-up?
+B: That shouldn't be a problem.
+
+A: May I help you?
+B: I want to file a complaint.
+A: What's the problem?
+B: A man robbed me today.
+A: When?
+B: I was robbed this morning.
+A: What did he take?
+B: He took my phone and my wallet.
+A: Did you see his face?
+B: I saw him perfectly.
+A: Could you pick him out of a line-up?
+B: I could do that.
+
+A: What can I do for you?
+B: I would like to file a complaint.
+A: What happened?
+B: I was robbed.
+A: When did this happen?
+B: It happened this morning.
+A: What was taken from you?
+B: My wallet and my cell phone.
+A: Were you able to get a look at this person's face?
+B: Yes, I was.
+A: Would you be able to pick him out of a line-up?
+B: That would be easy.

@@ -1,0 +1,38 @@
+A: Could you help me with something?
+B: What can I help you with?
+A: I need help finding a book.
+B: What book are you looking for?
+A: A book on reptiles.
+B: Most of our animal books would be found in the children's section.
+A: Where would I find the rest of them?
+B: You'd find them in the science section.
+A: Could you show me which direction they're in?
+B: Which direction for what?
+A: The science section, please.
+B: Sure I can. Right this way.
+
+A: I need your help.
+B: How may I help you?
+A: I need to find a book.
+B: Which book is it?
+A: I need to find a reptile book.
+B: You'll find most of our reptile books in the children's section.
+A: Where are the rest of the books located?
+B: The rest are in the science section.
+A: Please show me where that section is.
+B: Which section?
+A: The science section.
+B: It's right this way.
+
+A: Will you help me, please?
+B: What do you need?
+A: I'm looking for a book.
+B: What book would you like?
+A: It's a book on reptiles.
+B: Some of those books would be found in our children's section.
+A: And the rest?
+B: The rest can be found in the science section.
+A: Could you point me in that direction?
+B: Point you in which direction?
+A: Could you point me in the direction of the science section?
+B: Follow me, please.

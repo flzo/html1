@@ -1,0 +1,32 @@
+A: The doctor sent me over here to have my blood drawn.
+B: Certainly, please have a seat and roll up your left sleeve.
+A: What is this test for?
+B: Well, today your doctor wants us to check your white blood cell count.
+A: What does that tell him?
+B: Well, if it is elevated, you might have an infection.
+A: Will the blood test hurt?
+B: It is only a little pin stick. I am going to put a tourniquet on your arm to puff your veins up.
+A: Ouch!
+B: There we go! I got the blood that I needed.
+
+A: My doctor says that I need a blood test.
+B: I can help you with that. Just have a seat and roll up your left sleeve.
+A: What are you taking my blood for?
+B: Your doctor has requested a check of your white blood count.
+A: What information does that give him?
+B: If your white blood cell count is off, it could signal an infection somewhere in your body.
+A: Is a blood test painful?
+B: I am putting a tourniquet on your arm to plump up the vein. It will only feel like a little pin prick.
+A: My God, that hurts!
+B: That was it! Thank you for coming in today.
+
+A: I came to this lab to have my blood drawn.
+B: You are in the right place. Roll up your left sleeve and have a seat.
+A: What am I being tested for?
+B: Your doctor wants to know what your white blood cell count is.
+A: What does my white blood cell count tell him?
+B: Usually if your white count is off, the doctor suspects an infection.
+A: How much will it hurt?
+B: It is only a pin prick. I have to put this tourniquet on your arm to make the vein easier to find.
+A: Is that my blood going into that tube?
+B: That blood that just filled the tube is all that I needed. Thanks for coming in!

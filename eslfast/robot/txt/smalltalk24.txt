@@ -1,0 +1,38 @@
+A: Well, it was nice talking to you.
+B: It was nice talking to you too.
+A: We should really hang out again.
+B: That would be fun.
+A: Where do you want to go?
+B: I think we should go out to eat.
+A: That sounds good.
+B: All right, so I'll see you then.
+A: I'll call you later.
+B: Okay, I'll talk to you later then.
+A: See you later.
+B: Bye.
+
+A: I enjoyed talking to you.
+B: I enjoyed talking to you too.
+A: We should hang out some time.
+B: I think that would be nice.
+A: Is there anything you would like to do next time?
+B: Do you want to go out to eat?
+A: I'd like that.
+B: So I'll see you next time.
+A: I'm going to call you soon.
+B: I'll talk to you later.
+A: See you soon.
+B: Goodbye.
+
+A: I had fun talking to you.
+B: It was really nice talking to you also.
+A: I think we should really do something sometime.
+B: That should be loads of fun.
+A: What do you want to do next time?
+B: Would you like to go to dinner or something?
+A: Yeah, let's do that.
+B: Okay, until next time then.
+A: I'll call you so we can set that up.
+B: Talk to you then.
+A: All right, see you.
+B: See you.

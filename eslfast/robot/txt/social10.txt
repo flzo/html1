@@ -1,0 +1,32 @@
+A: Ashley, what a great dinner party!
+B: Thank you, Joe. What would you like to drink with your meal? I can offer you wine, mango juice, or water.
+A: Just water would be fine.
+B: Excellent choice. Can I dish you up some chicken?
+A: Yes, the chicken looks wonderful!
+B: How about some salad to go with your chicken?
+A: Sure, I love salad!
+B: Would you like to have rice with your chicken?
+A: Yes, I think that rice will go perfectly with my chicken!
+B: Good! Julie, if you could pass this plate down to Joe, I think we are all set.
+
+A: What a wonderful dinner you've prepared, Ashley!
+B: Thanks, Joe. Would you like some wine, mango juice, or water to go with your dinner?
+A: I think that a glass of wine would be perfect.
+B: Here is your beverage. If you pass me your plate, I can dish you up some chicken.
+A: Yes, the chicken smells great!
+B: Can I interest you in some salad to go with your chicken?
+A: I would love to have some salad!
+B: I also have rice. Would you like some rice on the side?
+A: Yes, I absolutely love chicken and rice.
+B: Excellent! If Julie could pass this plate down to you, we can dig in!
+
+A: Oh Ashley, your dinner looks delicious!
+B: I appreciate the compliment, Joe. What would you prefer with your meal--wine, mango juice, or water?
+A: Mango juice would be a good choice for me.
+B: Julie can pour your drink for you. Can I offer you some chicken?
+A: Yes, that chicken looks yummy!
+B: Would you like some salad to go with your chicken?
+A: Yes, I would enjoy having some salad.
+B: I have also prepared rice. Are you ready for some rice?
+A: Yes, chicken and rice are a favorite of mine.
+B: Good! Julie, could you pass this plate to Joe so we can get started?

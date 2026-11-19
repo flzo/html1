@@ -1,0 +1,38 @@
+A: How are you doing today?
+B: Great. Thanks.
+A: What can I help you with?
+B: I would like to open a bank account.
+A: What kind would you like to open?
+B: I need a checking account.
+A: Would you also like to open a savings account?
+B: That's fine.
+A: In order to open these accounts, you need to deposit a minimum of $50.
+B: I want to deposit $300.
+A: I'll set up your accounts for you right now.
+B: Make sure to put $150 in each account.
+
+A: How are you?
+B: I'm well. Thank you for asking.
+A: What can I do for you?
+B: I need to open a bank account.
+A: What kind of account?
+B: I just need a checking account.
+A: You can open a savings account, too.
+B: All right. Open both.
+A: You need to deposit at least $50 into both accounts.
+B: I will be depositing $300 today.
+A: I will set your accounts up right now.
+B: Would you please put $150 in both accounts?
+
+A: How are things with you?
+B: I'm fine. Thank you.
+A: May I help you with something?
+B: I want to open a bank account.
+A: Do you know what kind of account you want to open?
+B: I want to open a checking account.
+A: You should also open a savings account.
+B: That would be great.
+A: To open these accounts, you will need to make a deposit of at least $50.
+B: I would actually like to deposit $300 today.
+A: Let me do that for you now.
+B: Please put $150 in each account for me.

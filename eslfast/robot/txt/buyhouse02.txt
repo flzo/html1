@@ -1,0 +1,32 @@
+A: I need to see if I qualify for a home loan.
+B: I can help you. How much money do you make per year?
+A: I make around one hundred thousand dollars per year.
+B: How long have you been on your current job?
+A: I have only worked at this job for 6 months, but I have a longer job history elsewhere.
+B: Do you have any other outside income from rental property or a trust?
+A: No, I only receive my salary.
+B: Do you know your credit score?
+A: I think that it is around 600.
+B: By crunching the numbers and putting in your expenses, I estimate that you can afford a house of around five hundred thousand dollars.
+
+A: I am trying to see if I can afford to purchase a home that I wish to buy.
+B: We can figure that out right now. How much do you earn annually?
+A: My wife and I earned one hundred and fifty thousand dollars last year.
+B: How many years have you held your current position?
+A: I have been at my current job for 10 years.
+B: Is there any extra income that you receive other than salary?
+A: I collect one thousand dollars a month from a rental property.
+B: Have you ever figured out your credit score?
+A: I try not to think about it!
+B: Adding in your expenses, I calculate that you can spend three hundred thousand on a house.
+
+A: I want to go house shopping, and I want to know what I can afford to buy.
+B: There is a formula that can help us figure that out. What is your annual salary?
+A: I earn sixty-five thousand dollars per year.
+B: What is the length of time that you have worked at the job you have now?
+A: I have been at the job I now have for 2 years, and I have been with the company for 6 years total.
+B: Do you receive any other income?
+A: I own a small rental unit with a partner, and I receive five hundred dollars a month from that unit.
+B: Do you know what your credit score is?
+A: I don't know, but the last time I checked, it was very good!
+B: You are in good shape. Figuring in your other expenses, you can easily afford a house costing seven hundred thousand or maybe even a little more!

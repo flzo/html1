@@ -1,0 +1,32 @@
+A: Is there anything specific that I should know about where to park my car?
+B: You have an assigned place in the back of the building with your apartment number on it.
+A: Are there any other spots available to me?
+B: You will see several visitor and unmarked spots. These are available on a first-come basis.
+A: What if there is nothing else available?
+B: You can park on the street, but you have to pay attention to the rules.
+A: What are the rules?
+B: Most of the laws are posted on the signs, but you also cannot park anywhere on the street between two and six in the morning.
+A: Are the parking tickets expensive around here?
+B: Parking tickets are very expensive, and if you don't pay them they may tow your car away.
+
+A: What are the rules about where I should park?
+B: Your assigned space is in the back where I marked it on the map.
+A: Can I park anywhere else in the parking lot?
+B: There are a few spots back there for visitors. They are unassigned.
+A: Where can my guests park if all of those spots are gone?
+B: You can park on the street, but you can get ticketed for failing to follow the rules.
+A: How will I know what the rules are?
+B: Just pay attention to street cleaning days and limits on the hours you can park out there.
+A: Are parking citations costly?
+B: Yes, parking tickets can be extremely expensive.
+
+A: Where can I park my car?
+B: You have one assigned place right beside your own apartment.
+A: Are there any other open spots available in the parking lot?
+B: Your guests can park in a visitor or unmarked spot if one is available.
+A: Is there any place else to park if the spots are all gone?
+B: There is always street parking, but you must obey the laws about parking out there.
+A: Do they post the rules anywhere?
+B: The rules for parking are all clearly posted. Just follow them and you'll be OK.
+A: Do you have to pay a large fine for a parking ticket?
+B: You don't want to get a parking ticket. You have better things to spend your money on!

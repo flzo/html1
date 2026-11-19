@@ -1,0 +1,32 @@
+A: I need to get a passport.
+B: The first thing you need to do is go to the post office and get an application.
+A: After I fill it out, where do I take it?
+B: You need to take your application to a specially designated post office. They will help you mail it to the proper place.
+A: How do I know where these agencies are?
+B: They are listed online. All you need to do is put in your ZIP code.
+A: Will I need to bring anything else?
+B: You also need to bring your original birth certificate and two pictures. Look at the website for details.
+A: What if I need a visa?
+B: You only need a visa for certain countries. Contact that particular consulate for details.
+
+A: Can you help me figure out how to get a passport?
+B: The automobile club can provide you with an application.
+A: Where can I turn my application in?
+B: You need to go to a passport agency in your town. They will help you process it.
+A: How can I find which place to take it to?
+B: You can check in your phone book.
+A: What else do I need to bring?
+B: If you go online, the site will provide a detailed list of what you need to bring.
+A: Do I need to do anything special to get a visa?
+B: You must contact the consulate of the country that you wish to travel to.
+
+A: I've never had a passport before and need to know what to do to get one.
+B: You can download an application.
+A: What do you do with the application?
+B: You need to take your application to a special post office or passport agency.
+A: Can you tell me how to find these agencies?
+B: Any post office can refer you to the proper place.
+A: Is the application the only thing that I will need to bring?
+B: The passport website lets you know what types of identification and pictures you must provide.
+A: What if I am going to a country that requires a visa?
+B: The requirements for a visa vary from country to country. You can go online to find out what the requirements are for the country you are visiting.

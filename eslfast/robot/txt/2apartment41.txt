@@ -1,0 +1,32 @@
+A: Thank you for coming, officer.
+B: What seems to be the problem?
+A: I was in school all day and came home to a burglarized apartment.
+B: Was the door locked when you left?
+A: The door was still locked when I came home, so maybe they came in through a window.
+B: Do you live here alone?
+A: I have a roommate, but she is still at school.
+B: Have you seen anyone suspicious in the neighborhood?
+A: No, nothing unusual.
+B: Well, I am going to check the windows and look for fingerprints. I want you to figure out what is missing.
+
+A: I appreciate you coming so quickly, officer.
+B: Whoa, what a mess! What happened here?
+A: Apparently while I was at school today, someone decided to help themselves to the contents of my apartment.
+B: Was everything locked up when you left?
+A: I think that they broke in through a window.
+B: Do you have a roommate?
+A: My boyfriend lives here with me, but he is out of town right now.
+B: Have you noticed anyone unusual around lately?
+A: Actually, my neighbor asked me if I knew who was parked across the street the other day.
+B: Let's go through your rooms and try to figure out what has been taken.
+
+A: Thank God you are here, officer.
+B: I came as soon as I could. What a mess!
+A: When I left for school today, everything was fine. Then I came home to find my apartment had been broken into.
+B: Was the door locked when you came home?
+A: I don't think they came in through the door; maybe they entered through the window.
+B: Does anyone else live here?
+A: I live here alone.
+B: Have you noticed any strangers or parked cars around here recently?
+A: I really haven't been home very much lately.
+B: Let's figure out what is missing and see if there are any fingerprints left behind.

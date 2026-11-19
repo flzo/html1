@@ -1,0 +1,34 @@
+A: Excuse me. I was wondering how to order office supplies.
+B: We have a requisition form on the company web site. What type of supplies do you need?
+A: I need paper, ink cartridges, and paper clips.
+B: How quickly will you need your supplies?
+A: I need all of my supplies right away.
+B: We also will have to check your department budget. Do you know how much money you have for office supplies?
+A: I will check to see what my budget is.
+B: Would you like these supplies delivered or would you like to pick them up?
+A: Please deliver them to my office.
+B: Fine, well just send the form to us and we will let you know as soon as your supplies come in. Have a good day!
+A: Thank you!
+
+A: I need help in ordering my office supplies.
+B: You can print out a copy of the Order Supply Form from our company web site and turn it into me. What will you be needing?
+A: I need ink cartridges, staples, and Post-its.
+B: Will you need all of them right away or can some wait?
+A: Some of these can wait but there are a few things that I need right away.
+B: You can only buy supplies that you have a budget for. Do you know what your budget is?
+A: We have plenty of money for office supplies.
+B: You can pick these supplies up or they can be delivered to your building. Which would you prefer?
+A: I want to pick them up.
+B: Well, just finish the request and we will contact you when the supplies come in. Have a good day!
+A: You too!
+
+A: How do I order the office supplies that I need?
+B: Fill out this form with whatever you need. What do you need the most?
+A: I need many things.
+B: I can get a few of them right away, but might have to order some.
+A: I can wait a few days for these items.
+B: Make sure that you have money allocated for these supplies. How much do you have for office supplies?
+A: I don't think we have very much money for supplies, but we have a little.
+B: Would you like them delivered to you or can you come get them here?
+A: I am not sure yet.
+B: When you finish completing the request form, we will order and let you know when the supplies are here. Have a great day!

@@ -1,0 +1,38 @@
+A: How are you doing?
+B: Great. Thanks for asking.
+A: What can I do for you today?
+B: I would like to deposit some money.
+A: Are you depositing cash or a check?
+B: I want to deposit cash.
+A: How much are you depositing?
+B: I would like to deposit $300.
+A: What account do you want your money in?
+B: I want to deposit it into my checking account.
+A: Do you need anything else?
+B: No. That's all. Thank you.
+
+A: How are you?
+B: I'm fantastic!
+A: What can I help you with?
+B: I want to make a deposit today.
+A: Cash or check?
+B: It will be cash today.
+A: How much do you want to deposit?
+B: I need to deposit $300.
+A: What account will you be depositing this money into?
+B: Deposit it into my checking account.
+A: What else can I do for you today?
+B: That's all I need today. Thanks.
+
+A: How are things with you?
+B: I'm fine. Thank you.
+A: How may I help you?
+B: I need to make a deposit.
+A: Will you be depositing cash or a check?
+B: I will be depositing cash.
+A: How much would you like to deposit?
+B: It's going to be $300.
+A: What account would you like to deposit that into?
+B: Could you deposit that into my checking account, please?
+A: Can I do anything else for you today?
+B: That'll be all. Thank you very much.

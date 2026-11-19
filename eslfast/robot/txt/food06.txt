@@ -1,0 +1,38 @@
+A: I really feel like eating a salad.
+B: What kind are you going to make?
+A: I'm really not sure.
+B: I really like Caesar salads.
+A: Caesar salads are pretty good.
+B: What kind of salad do you want to make?
+A: I want a salad with some chicken.
+B: I love chicken salads.
+A: I like my salads to have croutons, almonds, and shredded cheese.
+B: That sounds really tasty.
+A: You should make a salad like that.
+B: I think that I will.
+
+A: I feel like I'm craving a salad.
+B: What kind do you want?
+A: I have no idea.
+B: Caesar salads are good.
+A: I like those too.
+B: What kind do you plan on making?
+A: I'd really like a salad with chicken.
+B: Chicken salads are really good.
+A: I always make my salads with shredded cheese, croutons, and almonds.
+B: That sounds like a great salad.
+A: Why don't you put it in your salad?
+B: That sounds like a plan to me.
+
+A: I really want to make a salad.
+B: Do you know what kind of salad that you want?
+A: I'm not sure what kind that I want.
+B: I usually make a Caesar salad.
+A: Those taste really good.
+B: Which kind of salad are you going to make?
+A: I want a chicken salad.
+B: I enjoy chicken salads.
+A: I like salads with croutons, almonds, and shredded cheese.
+B: I really like how that sounds.
+A: Why don't you make a salad like that?
+B: I'm going to do that then.

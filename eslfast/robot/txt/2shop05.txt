@@ -1,0 +1,38 @@
+A: What can I help you with today?
+B: My washing machine isn't working.
+A: What's the problem?
+B: The water will not drain.
+A: Is there anything else wrong with it?
+B: No, that's it.
+A: I can come down and fix that for you if you'd like.
+B: When will you be able to fix it?
+A: How does this afternoon at 2:30 sound to you?
+B: That would be perfect.
+A: Alright, so I'll see you then?
+B: See you then.
+
+A: How may I help you?
+B: Something is wrong with my washing machine.
+A: Tell me the problem.
+B: For some reason, the water won't drain.
+A: That's the only problem with it?
+B: That's the only problem.
+A: Would you like me to come fix it for you?
+B: Yes. When can you come fix it?
+A: I can be there by 2:30 today.
+B: That would be great.
+A: I'll see you at 2:30.
+B: See you later. Thanks a lot.
+
+A: Did you need help with something?
+B: I'm having a problem with my washing machine.
+A: What is wrong with it?
+B: The water isn't draining from it.
+A: Is that the only problem?
+B: Everything else is working fine.
+A: I'm available if you'd like me to come fix it.
+B: When exactly are you free?
+A: I can come at about 2:30, this afternoon.
+B: Sounds good to me.
+A: I'll see you this afternoon.
+B: Yes. Thank you.

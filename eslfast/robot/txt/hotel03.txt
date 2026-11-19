@@ -1,0 +1,59 @@
+Conversation 1:
+A: I need to request a wake-up call for tomorrow morning.
+B: What time do you want the call?
+A: I need two calls, one at 7 and another at 7:15.
+B: We can certainly do that. Expect a call from us at 7:00, and then again at 7:15.
+A: Actually, can I change the latter wake-up call to 7:30 am?
+B: I can certainly do that. Is there anything else?
+A: I can't think of anything. If I do think of something, I'll be sure to call again.
+B: Okay. Good night, sir.
+
+Conversation 2:
+A: I need a wake-up call tomorrow morning.
+B: Of course. When would you like the call?
+A: Actually, I need two calls, one at 7 and the other at 7:15.
+B: No problem. We'll give you both calls.
+A: Do you know what, let's change the second call to 7:30.
+B: No problem. Anything else, sir?
+A: Not at the moment, thank you.
+B: Let me know if you do need anything.
+
+Conversation 3:
+A: Can you give me a wake-up call tomorrow?
+B: Certainly. What time would you like us to call you?
+A: I need two wake-up calls, if you don't mind, one at 7 and the other at 7:15.
+B: Not a problem. We'll call you tomorrow morning at 7, and again at 7:15.
+A: On second thought, you'd better make that second call at 7:30 instead of 7:15.
+B: Said, and done. Will there be anything else?
+A: No, that gets it for now, thank you.
+B: Well, give us a call if there's anything more we can help you with.
+
+Conversation 4:
+A: Tomorrow I'm going to need a wake-up call.
+B: Not a problem. What time shall we call you?
+A: I always hit the snooze button, so give me two calls, one at 7 and another at 7:15.
+B: It'll be our pleasure. We'll call you at 7 and then at 7:15.
+A: Oops, cancel that. Change the second call to 7:30, will you, please?
+B: No sooner said than done. Can I help you with anything else?
+A: No, that's about it for now.
+B: Okay, sir. Have a pleasant evening.
+
+Conversation 5:
+A: I need a wake-up call tomorrow.
+B: What time would you like your wake-up call?
+A: I need two calls, one at 7 and another at 7:15.
+B: That is no problem at all, of course. You'll get a call at 7:00, and another at 7:15.
+A: Then again, I think 7:15 is too early. Change 7:15 to 7:30, please.
+B: So, that'll be a call at 7 and another at 7:30. Do you have any other requests?
+A: Not just now, but if I do think of something later, I'll give you a ring.
+B: Okay, sir. Sleep well.
+
+Conversation 6:
+A: I've got to get up early tomorrow, so please give me a wake-up call.
+B: Of course. We can give you a call anytime you like.
+A: Actually, I need two calls, one at 7 and the other at 7:15.
+B: Your wish is our command. Expect a call at 7, and another one at 7:15.
+A: Wait a minute! I don't like 7:15, now that I think about it. Change it to 7:30.
+B: The second call is now changed to 7:30. Is there anything else we can help you with?
+A: Nothing that I can think of right now. If something comes up, though, I'll call you.
+B: We're here all night long if you need anything.

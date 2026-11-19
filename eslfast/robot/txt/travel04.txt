@@ -1,0 +1,32 @@
+A: I would like to book a flight.
+B: I can help you with that. Where are you traveling to?
+A: I am traveling to Singapore.
+B: What date will you be traveling?
+A: I want to fly on June 14th.
+B: Do you want to fly out of Los Angeles International or Burbank Airport?
+A: I would like to fly out of Los Angeles International Airport.
+B: Would you prefer a morning or an afternoon flight?
+A: I would rather fly in the morning.
+B: Well, I have you booked on a flight that will fit your schedule. The tickets will arrive by mail in a few days.
+
+A: I want to buy a plane ticket.
+B: I can help you make your reservation. What is your destination?
+A: My final destination is Sydney, Australia.
+B: What is your travel date?
+A: I am making a reservation for December 12th.
+B: Would you prefer to leave from Los Angeles International or Burbank Airport?
+A: I want to fly out of Burbank Airport.
+B: Would you rather fly in the morning or later in the day?
+A: I need an afternoon flight.
+B: I have you booked on a flight in the afternoon. Your tickets will arrive in the mail within 3 days.
+
+A: I need to make a plane reservation.
+B: We can book your trip right now. What city are you flying to?
+A: I need to fly to New York City.
+B: What date would you like me to book this plane ticket for?
+A: I need a flight on July 4th.
+B: You can fly out of Los Angeles International or Burbank Airport. Which do you prefer?
+A: I will fly out of whatever airport has the cheapest price.
+B: If you have a choice, what time of day would you prefer to fly?
+A: I would like to be booked on the least expensive flight.
+B: I was able to find an inexpensive flight for you. We are sending you your tickets in the mail.

@@ -1,0 +1,38 @@
+A: Did you enjoy your meal?
+B: Yes, we really enjoyed it.
+A: May I interest you in some dessert?
+B: Yes, that sounds great.
+A: We have chocolate mousse cake, and a spicy rum apple crisp for our specials.
+B: The apple crisp sounds great.
+A: Since there are four of you, would you like to split a second dessert?
+B: Good suggestion. Could you please bring us a chocolate mousse cake and four dessert forks, please?
+A: Would you like coffee or tea with your dessert?
+B: Let's have four coffees, please.
+A: OK. I will be right back with your desserts and drinks.
+B: Thank you! We have really enjoyed our meal here.
+
+A: So how was your meal?
+B: Our meal was wonderful!
+A: Would you like to finish your evening with us with some dessert?
+B: I am full, but maybe we could split a few desserts.
+A: Tonight's dessert specials include chocolate mousse cake, and a spicy rum apple crisp.
+B: I would love the apple crisp.
+A: That is a good choice, but would you like to split a second dessert for the four of you?
+B: Add in a chocolate mousse cake and we're good. We will also need four dessert forks, please.
+A: Can I bring you some coffee or tea with your dessert?
+B: We would like two coffees and two teas.
+A: I will put your dessert order in and be right back with your drinks.
+B: Thanks, and may we have our check when you come back? We have theater tickets and need to leave soon.
+
+A: Did your meal meet with your approval?
+B: Our meal was absolutely perfect!
+A: How about a dessert to top off that wonderful meal?
+B: Dessert sounds perfect, but I would like to split something with my friends.
+A: On this evening's dessert list, we have chocolate mousse cake, and a spicy rum apple crisp.
+B: I think that the apple crisp would be wonderful.
+A: One dessert will serve two, so would you like to split a second one?
+B: We would also like a piece of chocolate mousse cake. Could you bring us four dessert forks, please?
+A: How about some coffee and tea with your dessert?
+B: We are all tea drinkers. Please bring us four teas.
+A: I will prepare your desserts and have someone bring you your drinks right away.
+B: The hot drinks first would be great. Thanks!

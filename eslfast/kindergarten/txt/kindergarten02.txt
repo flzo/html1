@@ -1,0 +1,8 @@
+A: Teacher, I have a question to ask.
+B: What is your question?
+A: Are we going to play this morning?
+B: Yes, we are, but not right now.
+A: When are we going to play?
+B: As soon as we finish our lesson.
+A: Can't we go a little early today?
+B: Maybe, if we finish our lesson early.

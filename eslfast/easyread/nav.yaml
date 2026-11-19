@@ -1,0 +1,1009 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/easyread/es/"
+  selector: "body > div:nth-child(1) > div > div.contain > div"
+  generated_at: "2026-11-18T14:17:28+08:00"
+  total: 200
+  failed: 0
+pages:
+  - index: 1
+    slug: "easy001"
+    title: "1. A Baby and a Sock"
+    url: "https://www.eslfast.com/easyread/es/easy001.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy001.mp3"
+  - index: 2
+    slug: "easy002"
+    title: "2. Birds and a Baby"
+    url: "https://www.eslfast.com/easyread/es/easy002.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy002.mp3"
+  - index: 3
+    slug: "easy003"
+    title: "3. A Cat and a Dog"
+    url: "https://www.eslfast.com/easyread/es/easy003.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy003.mp3"
+  - index: 4
+    slug: "easy004"
+    title: "4. The Baby Bear"
+    url: "https://www.eslfast.com/easyread/es/easy004.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy004.mp3"
+  - index: 5
+    slug: "easy005"
+    title: "5. An Apple Pie"
+    url: "https://www.eslfast.com/easyread/es/easy005.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy005.mp3"
+  - index: 6
+    slug: "easy006"
+    title: "6. The Top Bunk"
+    url: "https://www.eslfast.com/easyread/es/easy006.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy006.mp3"
+  - index: 7
+    slug: "easy007"
+    title: "7. Ask Santa"
+    url: "https://www.eslfast.com/easyread/es/easy007.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy007.mp3"
+  - index: 8
+    slug: "easy008"
+    title: "8. A Birthday Bike"
+    url: "https://www.eslfast.com/easyread/es/easy008.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy008.mp3"
+  - index: 9
+    slug: "easy009"
+    title: "9. In the Garden"
+    url: "https://www.eslfast.com/easyread/es/easy009.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy009.mp3"
+  - index: 10
+    slug: "easy010"
+    title: "10. Today's Mail"
+    url: "https://www.eslfast.com/easyread/es/easy010.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy010.mp3"
+  - index: 11
+    slug: "easy011"
+    title: "11. Boys Will Be Boys"
+    url: "https://www.eslfast.com/easyread/es/easy011.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy011.mp3"
+  - index: 12
+    slug: "easy012"
+    title: "12. A Good Meal"
+    url: "https://www.eslfast.com/easyread/es/easy012.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy012.mp3"
+  - index: 13
+    slug: "easy013"
+    title: "13. No Food, No Job"
+    url: "https://www.eslfast.com/easyread/es/easy013.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy013.mp3"
+  - index: 14
+    slug: "easy014"
+    title: "14. New Shoes"
+    url: "https://www.eslfast.com/easyread/es/easy014.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy014.mp3"
+  - index: 15
+    slug: "easy015"
+    title: "15. No Friends for Me"
+    url: "https://www.eslfast.com/easyread/es/easy015.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy015.mp3"
+  - index: 16
+    slug: "easy016"
+    title: "16. Life Is Good"
+    url: "https://www.eslfast.com/easyread/es/easy016.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy016.mp3"
+  - index: 17
+    slug: "easy017"
+    title: "17. Tell the Truth"
+    url: "https://www.eslfast.com/easyread/es/easy017.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy017.mp3"
+  - index: 18
+    slug: "easy018"
+    title: "18. Corn for People and Animals"
+    url: "https://www.eslfast.com/easyread/es/easy018.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy018.mp3"
+  - index: 19
+    slug: "easy019"
+    title: "19. God Loves Babies"
+    url: "https://www.eslfast.com/easyread/es/easy019.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy019.mp3"
+  - index: 20
+    slug: "easy020"
+    title: "20. Don't Be Late"
+    url: "https://www.eslfast.com/easyread/es/easy020.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy020.mp3"
+  - index: 21
+    slug: "easy021"
+    title: "21. A Clean Car"
+    url: "https://www.eslfast.com/easyread/es/easy021.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy021.mp3"
+  - index: 22
+    slug: "easy022"
+    title: "22. Just a Cough"
+    url: "https://www.eslfast.com/easyread/es/easy022.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy022.mp3"
+  - index: 23
+    slug: "easy023"
+    title: "23. Rain and Hail"
+    url: "https://www.eslfast.com/easyread/es/easy023.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy023.mp3"
+  - index: 24
+    slug: "easy024"
+    title: "24. Hungry Birds"
+    url: "https://www.eslfast.com/easyread/es/easy024.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy024.mp3"
+  - index: 25
+    slug: "easy025"
+    title: "25. At the Bus Stop"
+    url: "https://www.eslfast.com/easyread/es/easy025.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy025.mp3"
+  - index: 26
+    slug: "easy026"
+    title: "26. Brown and Blue Eyes"
+    url: "https://www.eslfast.com/easyread/es/easy026.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy026.mp3"
+  - index: 27
+    slug: "easy027"
+    title: "27. Farm Animals"
+    url: "https://www.eslfast.com/easyread/es/easy027.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy027.mp3"
+  - index: 28
+    slug: "easy028"
+    title: "28. Wash Your Nose"
+    url: "https://www.eslfast.com/easyread/es/easy028.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy028.mp3"
+  - index: 29
+    slug: "easy029"
+    title: "29. Catch Some Fish"
+    url: "https://www.eslfast.com/easyread/es/easy029.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy029.mp3"
+  - index: 30
+    slug: "easy030"
+    title: "30. An Impolite Bird"
+    url: "https://www.eslfast.com/easyread/es/easy030.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy030.mp3"
+  - index: 31
+    slug: "easy031"
+    title: "31. Daddy Likes Beer"
+    url: "https://www.eslfast.com/easyread/es/easy031.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy031.mp3"
+  - index: 32
+    slug: "easy032"
+    title: "32. Bears and a Pig"
+    url: "https://www.eslfast.com/easyread/es/easy032.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy032.mp3"
+  - index: 33
+    slug: "easy033"
+    title: "33. She Wants to Ride"
+    url: "https://www.eslfast.com/easyread/es/easy033.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy033.mp3"
+  - index: 34
+    slug: "easy034"
+    title: "34. A Second Job"
+    url: "https://www.eslfast.com/easyread/es/easy034.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy034.mp3"
+  - index: 35
+    slug: "easy035"
+    title: "35. A Short Plane Ride"
+    url: "https://www.eslfast.com/easyread/es/easy035.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy035.mp3"
+  - index: 36
+    slug: "easy036"
+    title: "36. A Windy Day"
+    url: "https://www.eslfast.com/easyread/es/easy036.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy036.mp3"
+  - index: 37
+    slug: "easy037"
+    title: "37. Snowed In"
+    url: "https://www.eslfast.com/easyread/es/easy037.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy037.mp3"
+  - index: 38
+    slug: "easy038"
+    title: "38. Try to Tell the Truth"
+    url: "https://www.eslfast.com/easyread/es/easy038.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy038.mp3"
+  - index: 39
+    slug: "easy039"
+    title: "39. A Bad Economy"
+    url: "https://www.eslfast.com/easyread/es/easy039.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy039.mp3"
+  - index: 40
+    slug: "easy040"
+    title: "40. The Birthday Party"
+    url: "https://www.eslfast.com/easyread/es/easy040.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy040.mp3"
+  - index: 41
+    slug: "easy041"
+    title: "41. Plants Need Water"
+    url: "https://www.eslfast.com/easyread/es/easy041.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy041.mp3"
+  - index: 42
+    slug: "easy042"
+    title: "42. Life Will Be Better"
+    url: "https://www.eslfast.com/easyread/es/easy042.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy042.mp3"
+  - index: 43
+    slug: "easy043"
+    title: "43. A Lucky Day"
+    url: "https://www.eslfast.com/easyread/es/easy043.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy043.mp3"
+  - index: 44
+    slug: "easy044"
+    title: "44. My Family's House"
+    url: "https://www.eslfast.com/easyread/es/easy044.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy044.mp3"
+  - index: 45
+    slug: "easy045"
+    title: "45. Wash Your Hands"
+    url: "https://www.eslfast.com/easyread/es/easy045.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy045.mp3"
+  - index: 46
+    slug: "easy046"
+    title: "46. She Writes Letters"
+    url: "https://www.eslfast.com/easyread/es/easy046.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy046.mp3"
+  - index: 47
+    slug: "easy047"
+    title: "47. A Bus Accident"
+    url: "https://www.eslfast.com/easyread/es/easy047.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy047.mp3"
+  - index: 48
+    slug: "easy048"
+    title: "48. A Headache"
+    url: "https://www.eslfast.com/easyread/es/easy048.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy048.mp3"
+  - index: 49
+    slug: "easy049"
+    title: "49. She's So Hungry"
+    url: "https://www.eslfast.com/easyread/es/easy049.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy049.mp3"
+  - index: 50
+    slug: "easy050"
+    title: "50. Basketball in LA"
+    url: "https://www.eslfast.com/easyread/es/easy050.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy050.mp3"
+  - index: 51
+    slug: "easy051"
+    title: "51. A Hard Head"
+    url: "https://www.eslfast.com/easyread/es/easy051.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy051.mp3"
+  - index: 52
+    slug: "easy052"
+    title: "52. Homeless People"
+    url: "https://www.eslfast.com/easyread/es/easy052.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy052.mp3"
+  - index: 53
+    slug: "easy053"
+    title: "53. A Day at the Beach"
+    url: "https://www.eslfast.com/easyread/es/easy053.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy053.mp3"
+  - index: 54
+    slug: "easy054"
+    title: "54. Thank You, Mom"
+    url: "https://www.eslfast.com/easyread/es/easy054.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy054.mp3"
+  - index: 55
+    slug: "easy055"
+    title: "55. The Check for Rent"
+    url: "https://www.eslfast.com/easyread/es/easy055.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy055.mp3"
+  - index: 56
+    slug: "easy056"
+    title: "56. At the Casino"
+    url: "https://www.eslfast.com/easyread/es/easy056.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy056.mp3"
+  - index: 57
+    slug: "easy057"
+    title: "57. Life is a Rainbow"
+    url: "https://www.eslfast.com/easyread/es/easy057.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy057.mp3"
+  - index: 58
+    slug: "easy058"
+    title: "58. Squares and Circles"
+    url: "https://www.eslfast.com/easyread/es/easy058.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy058.mp3"
+  - index: 59
+    slug: "easy059"
+    title: "59. Don't Be Stupid"
+    url: "https://www.eslfast.com/easyread/es/easy059.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy059.mp3"
+  - index: 60
+    slug: "easy060"
+    title: "60. New Kittens"
+    url: "https://www.eslfast.com/easyread/es/easy060.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy060.mp3"
+  - index: 61
+    slug: "easy061"
+    title: "61. My Girlfriend"
+    url: "https://www.eslfast.com/easyread/es/easy061.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy061.mp3"
+  - index: 62
+    slug: "easy062"
+    title: "62. Don't Be Fat"
+    url: "https://www.eslfast.com/easyread/es/easy062.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy062.mp3"
+  - index: 63
+    slug: "easy063"
+    title: "63. A Pizza"
+    url: "https://www.eslfast.com/easyread/es/easy063.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy063.mp3"
+  - index: 64
+    slug: "easy064"
+    title: "64. What Do You Wear?"
+    url: "https://www.eslfast.com/easyread/es/easy064.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy064.mp3"
+  - index: 65
+    slug: "easy065"
+    title: "65. My Dad"
+    url: "https://www.eslfast.com/easyread/es/easy065.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy065.mp3"
+  - index: 66
+    slug: "easy066"
+    title: "66. Junk Mail"
+    url: "https://www.eslfast.com/easyread/es/easy066.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy066.mp3"
+  - index: 67
+    slug: "easy067"
+    title: "67. My Best Friend"
+    url: "https://www.eslfast.com/easyread/es/easy067.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy067.mp3"
+  - index: 68
+    slug: "easy068"
+    title: "68. More Good News, Please"
+    url: "https://www.eslfast.com/easyread/es/easy068.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy068.mp3"
+  - index: 69
+    slug: "easy069"
+    title: "69. Popcorn"
+    url: "https://www.eslfast.com/easyread/es/easy069.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy069.mp3"
+  - index: 70
+    slug: "easy070"
+    title: "70. Roaches"
+    url: "https://www.eslfast.com/easyread/es/easy070.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy070.mp3"
+  - index: 71
+    slug: "easy071"
+    title: "71. He Loves Birds"
+    url: "https://www.eslfast.com/easyread/es/easy071.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy071.mp3"
+  - index: 72
+    slug: "easy072"
+    title: "72. Roses Are Red"
+    url: "https://www.eslfast.com/easyread/es/easy072.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy072.mp3"
+  - index: 73
+    slug: "easy073"
+    title: "73. Violets Are Blue"
+    url: "https://www.eslfast.com/easyread/es/easy073.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy073.mp3"
+  - index: 74
+    slug: "easy074"
+    title: "74. I Have a Question"
+    url: "https://www.eslfast.com/easyread/es/easy074.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy074.mp3"
+  - index: 75
+    slug: "easy075"
+    title: "75. Do This, Daddy Says"
+    url: "https://www.eslfast.com/easyread/es/easy075.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy075.mp3"
+  - index: 76
+    slug: "easy076"
+    title: "76. Don't Do This, Mommy Says"
+    url: "https://www.eslfast.com/easyread/es/easy076.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy076.mp3"
+  - index: 77
+    slug: "easy077"
+    title: "77. A Bad Boy"
+    url: "https://www.eslfast.com/easyread/es/easy077.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy077.mp3"
+  - index: 78
+    slug: "easy078"
+    title: "78. The Cigarette"
+    url: "https://www.eslfast.com/easyread/es/easy078.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy078.mp3"
+  - index: 79
+    slug: "easy079"
+    title: "79. A Smoker Quits"
+    url: "https://www.eslfast.com/easyread/es/easy079.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy079.mp3"
+  - index: 80
+    slug: "easy080"
+    title: "80. A School Day"
+    url: "https://www.eslfast.com/easyread/es/easy080.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy080.mp3"
+  - index: 81
+    slug: "easy081"
+    title: "81. People Are Poor"
+    url: "https://www.eslfast.com/easyread/es/easy081.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy081.mp3"
+  - index: 82
+    slug: "easy082"
+    title: "82. New Lipstick"
+    url: "https://www.eslfast.com/easyread/es/easy082.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy082.mp3"
+  - index: 83
+    slug: "easy083"
+    title: "83. Things to Do"
+    url: "https://www.eslfast.com/easyread/es/easy083.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy083.mp3"
+  - index: 84
+    slug: "easy084"
+    title: "84. Daddy Is Watching"
+    url: "https://www.eslfast.com/easyread/es/easy084.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy084.mp3"
+  - index: 85
+    slug: "easy085"
+    title: "85. It Looks Like Rain"
+    url: "https://www.eslfast.com/easyread/es/easy085.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy085.mp3"
+  - index: 86
+    slug: "easy086"
+    title: "86. An Old Dog"
+    url: "https://www.eslfast.com/easyread/es/easy086.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy086.mp3"
+  - index: 87
+    slug: "easy087"
+    title: "87. New York City"
+    url: "https://www.eslfast.com/easyread/es/easy087.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy087.mp3"
+  - index: 88
+    slug: "easy088"
+    title: "88. He Climbs Trees"
+    url: "https://www.eslfast.com/easyread/es/easy088.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy088.mp3"
+  - index: 89
+    slug: "easy089"
+    title: "89. A Drunk Driver"
+    url: "https://www.eslfast.com/easyread/es/easy089.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy089.mp3"
+  - index: 90
+    slug: "easy090"
+    title: "90. A Wedding"
+    url: "https://www.eslfast.com/easyread/es/easy090.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy090.mp3"
+  - index: 91
+    slug: "easy091"
+    title: "91. Peanuts and Ham"
+    url: "https://www.eslfast.com/easyread/es/easy091.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy091.mp3"
+  - index: 92
+    slug: "easy092"
+    title: "92. I Want to Swim"
+    url: "https://www.eslfast.com/easyread/es/easy092.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy092.mp3"
+  - index: 93
+    slug: "easy093"
+    title: "93. A New Law"
+    url: "https://www.eslfast.com/easyread/es/easy093.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy093.mp3"
+  - index: 94
+    slug: "easy094"
+    title: "94. She Plays Golf"
+    url: "https://www.eslfast.com/easyread/es/easy094.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy094.mp3"
+  - index: 95
+    slug: "easy095"
+    title: "95. The Fat Actress"
+    url: "https://www.eslfast.com/easyread/es/easy095.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy095.mp3"
+  - index: 96
+    slug: "easy096"
+    title: "96. A Tornado"
+    url: "https://www.eslfast.com/easyread/es/easy096.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy096.mp3"
+  - index: 97
+    slug: "easy097"
+    title: "97. Two Men"
+    url: "https://www.eslfast.com/easyread/es/easy097.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy097.mp3"
+  - index: 98
+    slug: "easy098"
+    title: "98. A Big Cat"
+    url: "https://www.eslfast.com/easyread/es/easy098.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy098.mp3"
+  - index: 99
+    slug: "easy099"
+    title: "99. He Loved Her"
+    url: "https://www.eslfast.com/easyread/es/easy099.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy099.mp3"
+  - index: 100
+    slug: "easy100"
+    title: "100. The Fire"
+    url: "https://www.eslfast.com/easyread/es/easy100.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy100.mp3"
+  - index: 101
+    slug: "easy101"
+    title: "101. Do the Laundry"
+    url: "https://www.eslfast.com/easyread/es/easy101.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy101.mp3"
+  - index: 102
+    slug: "easy102"
+    title: "102. A Drunk Pilot"
+    url: "https://www.eslfast.com/easyread/es/easy102.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy102.mp3"
+  - index: 103
+    slug: "easy103"
+    title: "103. A Free Breakfast for Everyone"
+    url: "https://www.eslfast.com/easyread/es/easy103.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy103.mp3"
+  - index: 104
+    slug: "easy104"
+    title: "104. Make a Sandwich"
+    url: "https://www.eslfast.com/easyread/es/easy104.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy104.mp3"
+  - index: 105
+    slug: "easy105"
+    title: "105. Fry an Egg"
+    url: "https://www.eslfast.com/easyread/es/easy105.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy105.mp3"
+  - index: 106
+    slug: "easy106"
+    title: "106. Watch a DVD"
+    url: "https://www.eslfast.com/easyread/es/easy106.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy106.mp3"
+  - index: 107
+    slug: "easy107"
+    title: "107. Make Some Coffee"
+    url: "https://www.eslfast.com/easyread/es/easy107.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy107.mp3"
+  - index: 108
+    slug: "easy108"
+    title: "108. Get Dressed"
+    url: "https://www.eslfast.com/easyread/es/easy108.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy108.mp3"
+  - index: 109
+    slug: "easy109"
+    title: "109. Buy a Lotto Ticket"
+    url: "https://www.eslfast.com/easyread/es/easy109.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy109.mp3"
+  - index: 110
+    slug: "easy110"
+    title: "110. Brush Your Teeth"
+    url: "https://www.eslfast.com/easyread/es/easy110.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy110.mp3"
+  - index: 111
+    slug: "easy111"
+    title: "111. Shave Your Face"
+    url: "https://www.eslfast.com/easyread/es/easy111.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy111.mp3"
+  - index: 112
+    slug: "easy112"
+    title: "112. Vacuum the Carpet"
+    url: "https://www.eslfast.com/easyread/es/easy112.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy112.mp3"
+  - index: 113
+    slug: "easy113"
+    title: "113. Change a Light Bulb"
+    url: "https://www.eslfast.com/easyread/es/easy113.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy113.mp3"
+  - index: 114
+    slug: "easy114"
+    title: "114. Change a Tire"
+    url: "https://www.eslfast.com/easyread/es/easy114.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy114.mp3"
+  - index: 115
+    slug: "easy115"
+    title: "115. Peel a Carrot"
+    url: "https://www.eslfast.com/easyread/es/easy115.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy115.mp3"
+  - index: 116
+    slug: "easy116"
+    title: "116. Make Some Toast"
+    url: "https://www.eslfast.com/easyread/es/easy116.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy116.mp3"
+  - index: 117
+    slug: "easy117"
+    title: "117. Two Babies"
+    url: "https://www.eslfast.com/easyread/es/easy117.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy117.mp3"
+  - index: 118
+    slug: "easy118"
+    title: "118. Problems at Home"
+    url: "https://www.eslfast.com/easyread/es/easy118.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy118.mp3"
+  - index: 119
+    slug: "easy119"
+    title: "119. What's That Smell?"
+    url: "https://www.eslfast.com/easyread/es/easy119.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy119.mp3"
+  - index: 120
+    slug: "easy120"
+    title: "120. Time to Shop"
+    url: "https://www.eslfast.com/easyread/es/easy120.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy120.mp3"
+  - index: 121
+    slug: "easy121"
+    title: "121. Fix the Car"
+    url: "https://www.eslfast.com/easyread/es/easy121.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy121.mp3"
+  - index: 122
+    slug: "easy122"
+    title: "122. Take a Drive"
+    url: "https://www.eslfast.com/easyread/es/easy122.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy122.mp3"
+  - index: 123
+    slug: "easy123"
+    title: "123. A Thief on the Sidewalk"
+    url: "https://www.eslfast.com/easyread/es/easy123.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy123.mp3"
+  - index: 124
+    slug: "easy124"
+    title: "124. A Cat Scratch"
+    url: "https://www.eslfast.com/easyread/es/easy124.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy124.mp3"
+  - index: 125
+    slug: "easy125"
+    title: "125. School Fight"
+    url: "https://www.eslfast.com/easyread/es/easy125.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy125.mp3"
+  - index: 126
+    slug: "easy126"
+    title: "126. The Painter"
+    url: "https://www.eslfast.com/easyread/es/easy126.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy126.mp3"
+  - index: 127
+    slug: "easy127"
+    title: "127. Halloween"
+    url: "https://www.eslfast.com/easyread/es/easy127.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy127.mp3"
+  - index: 128
+    slug: "easy128"
+    title: "128. School Starts"
+    url: "https://www.eslfast.com/easyread/es/easy128.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy128.mp3"
+  - index: 129
+    slug: "easy129"
+    title: "129. The Indoor Antenna"
+    url: "https://www.eslfast.com/easyread/es/easy129.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy129.mp3"
+  - index: 130
+    slug: "easy130"
+    title: "130. The Tomato"
+    url: "https://www.eslfast.com/easyread/es/easy130.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy130.mp3"
+  - index: 131
+    slug: "easy131"
+    title: "131. The Birthday Cake"
+    url: "https://www.eslfast.com/easyread/es/easy131.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy131.mp3"
+  - index: 132
+    slug: "easy132"
+    title: "132. Dinner Chores"
+    url: "https://www.eslfast.com/easyread/es/easy132.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy132.mp3"
+  - index: 133
+    slug: "easy133"
+    title: "133. Pay the Interest"
+    url: "https://www.eslfast.com/easyread/es/easy133.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy133.mp3"
+  - index: 134
+    slug: "easy134"
+    title: "134. He Loves His Country"
+    url: "https://www.eslfast.com/easyread/es/easy134.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy134.mp3"
+  - index: 135
+    slug: "easy135"
+    title: "135. The Winner"
+    url: "https://www.eslfast.com/easyread/es/easy135.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy135.mp3"
+  - index: 136
+    slug: "easy136"
+    title: "136. Forever Single"
+    url: "https://www.eslfast.com/easyread/es/easy136.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy136.mp3"
+  - index: 137
+    slug: "easy137"
+    title: "137. A New Family"
+    url: "https://www.eslfast.com/easyread/es/easy137.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy137.mp3"
+  - index: 138
+    slug: "easy138"
+    title: "138. The Paint Job"
+    url: "https://www.eslfast.com/easyread/es/easy138.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy138.mp3"
+  - index: 139
+    slug: "easy139"
+    title: "139. Baseball Dreams"
+    url: "https://www.eslfast.com/easyread/es/easy139.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy139.mp3"
+  - index: 140
+    slug: "easy140"
+    title: "140. Walk the Dog"
+    url: "https://www.eslfast.com/easyread/es/easy140.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy140.mp3"
+  - index: 141
+    slug: "easy141"
+    title: "141. The Mole"
+    url: "https://www.eslfast.com/easyread/es/easy141.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy141.mp3"
+  - index: 142
+    slug: "easy142"
+    title: "142. A Barking Dog"
+    url: "https://www.eslfast.com/easyread/es/easy142.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy142.mp3"
+  - index: 143
+    slug: "easy143"
+    title: "143. A Christmas Present"
+    url: "https://www.eslfast.com/easyread/es/easy143.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy143.mp3"
+  - index: 144
+    slug: "easy144"
+    title: "144. Cross the Street"
+    url: "https://www.eslfast.com/easyread/es/easy144.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy144.mp3"
+  - index: 145
+    slug: "easy145"
+    title: "145. Who Sits in the Front?"
+    url: "https://www.eslfast.com/easyread/es/easy145.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy145.mp3"
+  - index: 146
+    slug: "easy146"
+    title: "146. The World Map"
+    url: "https://www.eslfast.com/easyread/es/easy146.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy146.mp3"
+  - index: 147
+    slug: "easy147"
+    title: "147. Go to the Park"
+    url: "https://www.eslfast.com/easyread/es/easy147.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy147.mp3"
+  - index: 148
+    slug: "easy148"
+    title: "148. Drive the Car"
+    url: "https://www.eslfast.com/easyread/es/easy148.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy148.mp3"
+  - index: 149
+    slug: "easy149"
+    title: "149. Something's Biting Him"
+    url: "https://www.eslfast.com/easyread/es/easy149.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy149.mp3"
+  - index: 150
+    slug: "easy150"
+    title: "150. Visit the Ocean"
+    url: "https://www.eslfast.com/easyread/es/easy150.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy150.mp3"
+  - index: 151
+    slug: "easy151"
+    title: "151. Does It Hurt?"
+    url: "https://www.eslfast.com/easyread/es/easy151.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy151.mp3"
+  - index: 152
+    slug: "easy152"
+    title: "152. White Spots"
+    url: "https://www.eslfast.com/easyread/es/easy152.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy152.mp3"
+  - index: 153
+    slug: "easy153"
+    title: "153. Hot Chocolate"
+    url: "https://www.eslfast.com/easyread/es/easy153.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy153.mp3"
+  - index: 154
+    slug: "easy154"
+    title: "154. Her Meow Book"
+    url: "https://www.eslfast.com/easyread/es/easy154.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy154.mp3"
+  - index: 155
+    slug: "easy155"
+    title: "155. He Will Go to Heaven"
+    url: "https://www.eslfast.com/easyread/es/easy155.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy155.mp3"
+  - index: 156
+    slug: "easy156"
+    title: "156. A Birthday Dress"
+    url: "https://www.eslfast.com/easyread/es/easy156.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy156.mp3"
+  - index: 157
+    slug: "easy157"
+    title: "157. Cookies for Students"
+    url: "https://www.eslfast.com/easyread/es/easy157.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy157.mp3"
+  - index: 158
+    slug: "easy158"
+    title: "158. Don't Call Me \"Honey\""
+    url: "https://www.eslfast.com/easyread/es/easy158.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy158.mp3"
+  - index: 159
+    slug: "easy159"
+    title: "159. Teacher Feels Dizzy"
+    url: "https://www.eslfast.com/easyread/es/easy159.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy159.mp3"
+  - index: 160
+    slug: "easy160"
+    title: "160. She's So Lonely"
+    url: "https://www.eslfast.com/easyread/es/easy160.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy160.mp3"
+  - index: 161
+    slug: "easy161"
+    title: "161. A Cat and a Squirrel"
+    url: "https://www.eslfast.com/easyread/es/easy161.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy161.mp3"
+  - index: 162
+    slug: "easy162"
+    title: "162. The Moon and the Sun"
+    url: "https://www.eslfast.com/easyread/es/easy162.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy162.mp3"
+  - index: 163
+    slug: "easy163"
+    title: "163. Golf Lessons"
+    url: "https://www.eslfast.com/easyread/es/easy163.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy163.mp3"
+  - index: 164
+    slug: "easy164"
+    title: "164. Clothes Shopping in NYC"
+    url: "https://www.eslfast.com/easyread/es/easy164.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy164.mp3"
+  - index: 165
+    slug: "easy165"
+    title: "165. A Quiet Pet"
+    url: "https://www.eslfast.com/easyread/es/easy165.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy165.mp3"
+  - index: 166
+    slug: "easy166"
+    title: "166. A Small Apartment"
+    url: "https://www.eslfast.com/easyread/es/easy166.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy166.mp3"
+  - index: 167
+    slug: "easy167"
+    title: "167. Brown Spots"
+    url: "https://www.eslfast.com/easyread/es/easy167.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy167.mp3"
+  - index: 168
+    slug: "easy168"
+    title: "168. A Short Plane Trip"
+    url: "https://www.eslfast.com/easyread/es/easy168.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy168.mp3"
+  - index: 169
+    slug: "easy169"
+    title: "169. He Forgot Again"
+    url: "https://www.eslfast.com/easyread/es/easy169.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy169.mp3"
+  - index: 170
+    slug: "easy170"
+    title: "170. The Rent Check"
+    url: "https://www.eslfast.com/easyread/es/easy170.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy170.mp3"
+  - index: 171
+    slug: "easy171"
+    title: "171. A Black President"
+    url: "https://www.eslfast.com/easyread/es/easy171.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy171.mp3"
+  - index: 172
+    slug: "easy172"
+    title: "172. A Nosy Coworker"
+    url: "https://www.eslfast.com/easyread/es/easy172.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy172.mp3"
+  - index: 173
+    slug: "easy173"
+    title: "173. The Wrong Train"
+    url: "https://www.eslfast.com/easyread/es/easy173.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy173.mp3"
+  - index: 174
+    slug: "easy174"
+    title: "174. What's That Buzz?"
+    url: "https://www.eslfast.com/easyread/es/easy174.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy174.mp3"
+  - index: 175
+    slug: "easy175"
+    title: "175. The Citizenship Interview"
+    url: "https://www.eslfast.com/easyread/es/easy175.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy175.mp3"
+  - index: 176
+    slug: "easy176"
+    title: "176. Here Comes the Flu"
+    url: "https://www.eslfast.com/easyread/es/easy176.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy176.mp3"
+  - index: 177
+    slug: "easy177"
+    title: "177. Her 10th Birthday"
+    url: "https://www.eslfast.com/easyread/es/easy177.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy177.mp3"
+  - index: 178
+    slug: "easy178"
+    title: "178. Tired All the Time"
+    url: "https://www.eslfast.com/easyread/es/easy178.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy178.mp3"
+  - index: 179
+    slug: "easy179"
+    title: "179. Sugar for Sugar"
+    url: "https://www.eslfast.com/easyread/es/easy179.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy179.mp3"
+  - index: 180
+    slug: "easy180"
+    title: "180. He Hates Carrot"
+    url: "https://www.eslfast.com/easyread/es/easy180.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy180.mp3"
+  - index: 181
+    slug: "easy181"
+    title: "181. Rent or Quit"
+    url: "https://www.eslfast.com/easyread/es/easy181.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy181.mp3"
+  - index: 182
+    slug: "easy182"
+    title: "182. Sharon Goes Shopping"
+    url: "https://www.eslfast.com/easyread/es/easy182.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy182.mp3"
+  - index: 183
+    slug: "easy183"
+    title: "183. Iced Coffee"
+    url: "https://www.eslfast.com/easyread/es/easy183.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy183.mp3"
+  - index: 184
+    slug: "easy184"
+    title: "184. Saved by the Cowbell"
+    url: "https://www.eslfast.com/easyread/es/easy184.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy184.mp3"
+  - index: 185
+    slug: "easy185"
+    title: "185. A Beer Drinker"
+    url: "https://www.eslfast.com/easyread/es/easy185.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy185.mp3"
+  - index: 186
+    slug: "easy186"
+    title: "186. A Man with a Gun"
+    url: "https://www.eslfast.com/easyread/es/easy186.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy186.mp3"
+  - index: 187
+    slug: "easy187"
+    title: "187. A Car Chase"
+    url: "https://www.eslfast.com/easyread/es/easy187.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy187.mp3"
+  - index: 188
+    slug: "easy188"
+    title: "188. An Unlucky Winner"
+    url: "https://www.eslfast.com/easyread/es/easy188.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy188.mp3"
+  - index: 189
+    slug: "easy189"
+    title: "189. Unhappy Prisoners"
+    url: "https://www.eslfast.com/easyread/es/easy189.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy189.mp3"
+  - index: 190
+    slug: "easy190"
+    title: "190. The Big Game"
+    url: "https://www.eslfast.com/easyread/es/easy190.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy190.mp3"
+  - index: 191
+    slug: "easy191"
+    title: "191. Buy a Goat"
+    url: "https://www.eslfast.com/easyread/es/easy191.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy191.mp3"
+  - index: 192
+    slug: "easy192"
+    title: "192. Where's Kitty?"
+    url: "https://www.eslfast.com/easyread/es/easy192.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy192.mp3"
+  - index: 193
+    slug: "easy193"
+    title: "193. 30 Years Late"
+    url: "https://www.eslfast.com/easyread/es/easy193.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy193.mp3"
+  - index: 194
+    slug: "easy194"
+    title: "194. A Wet Kitchen Floor (1)"
+    url: "https://www.eslfast.com/easyread/es/easy194.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy194.mp3"
+  - index: 195
+    slug: "easy195"
+    title: "195. A Wet Kitchen Floor (2)"
+    url: "https://www.eslfast.com/easyread/es/easy195.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy195.mp3"
+  - index: 196
+    slug: "easy196"
+    title: "196. A Brand New Bike"
+    url: "https://www.eslfast.com/easyread/es/easy196.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy196.mp3"
+  - index: 197
+    slug: "easy197"
+    title: "197. Easter Eggs"
+    url: "https://www.eslfast.com/easyread/es/easy197.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy197.mp3"
+  - index: 198
+    slug: "easy198"
+    title: "198. Hotel Germs"
+    url: "https://www.eslfast.com/easyread/es/easy198.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy198.mp3"
+  - index: 199
+    slug: "easy199"
+    title: "199. No Doggy Bag"
+    url: "https://www.eslfast.com/easyread/es/easy199.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy199.mp3"
+  - index: 200
+    slug: "easy200"
+    title: "200. Cheaper School Books"
+    url: "https://www.eslfast.com/easyread/es/easy200.htm"
+    mp3: "https://www.eslfast.com/easyread/audio/easy200.mp3"

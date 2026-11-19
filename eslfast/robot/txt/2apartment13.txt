@@ -1,0 +1,38 @@
+A: I would love to rent this apartment.
+B: I'm happy to hear you say that.
+A: How much are you asking for every month?
+B: I'm renting this apartment out for $1050 a month.
+A: That is quite a lot of money for just one month.
+B: That is a fair price.
+A: What do you say to $850 a month?
+B: That's no good.
+A: It's either $850 or nothing at all.
+B: I won't go any lower than $1050.
+A: Could you please go lower?
+B: That's the best I can do.
+
+A: This apartment is wonderful.
+B: I'm glad you like it.
+A: How much would I have to pay for rent?
+B: The rent is $1050 each month.
+A: That's way too much money.
+B: It isn't too much.
+A: How about if I pay $850?
+B: I can't take that.
+A: I can't go any higher than $850.
+B: I honestly don't know what else to tell you.
+A: You can't go any lower than that?
+B: If you can't afford $1050, then we have no deal.
+
+A: I think I may rent this apartment from you.
+B: That's great to hear.
+A: How much are you looking to rent it for?
+B: For each month you would have to pay $1050.
+A: That is too expensive.
+B: I don't think that is too much for rent.
+A: How does $850 a month sound to you?
+B: That's not enough.
+A: That's the best that I can do.
+B: $850 a month is not enough money.
+A: Would you please reconsider?
+B: That's my final offer. Take it or leave it.

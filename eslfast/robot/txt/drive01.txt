@@ -1,0 +1,38 @@
+A: I would like to apply for a permit.
+B: Can I see your ID?
+A: No, I left it in the car.
+B: I'm going to need to see your ID and $27 for your permit.
+A: One moment while I go and get my ID.
+B: Make it quick.
+A: Here's my ID and the $27.
+B: Thanks. Now fill this out.
+A: Do you have a pen that I can use?
+B: Use this one.
+A: Thanks a lot.
+B: You're welcome. Turn the application in at Window B.
+
+A: Can I apply for a permit today?
+B: I need to see your ID.
+A: I think I forgot it in the car.
+B: You need to give me your ID and $27.
+A: I'm going to go and get my ID from the car right now.
+B: Go get it.
+A: Here you go.
+B: All right, I'm going to need you to fill this out.
+A: May I borrow your pen?
+B: Here's a pen for you.
+A: Thanks for your help.
+B: You need to turn that in at Window B.
+
+A: I really need to apply for a driving permit.
+B: Do you have your ID with you?
+A: I may have left my ID in my car.
+B: Well, I need your ID and $27.
+A: I'll go get it really quick.
+B: Please hurry.
+A: Here it is.
+B: Thank you very much. Please fill out this paperwork.
+A: I need to use a pen.
+B: Here you go.
+A: Thank you very much.
+B: Thank you. Now turn in your application at Window B.

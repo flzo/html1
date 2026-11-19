@@ -1,0 +1,32 @@
+A: Professor, excuse me, but I need to leave early.
+B: What seems to be the problem?
+A: I am not feeling well.
+B: What is bothering you?
+A: I think I am beginning to have an asthma attack.
+B: Would you like someone to walk you over to the Student Health Center?
+A: No, I think that I should just go home because I have some medicine there.
+B: Do you need a ride home?
+A: I live in the dorms across the street, so I'll be OK.
+B: OK, then, hope you feel better soon. Check your e-mail for missed assignments.
+
+A: Excuse me, professor. I need to go home now.
+B: Is everything OK?
+A: I just feel funny.
+B: What exactly seems to be the matter?
+A: I have a terrible headache.
+B: Do you think that you should go to the Student Health Center?
+A: I already have some medicine at home if I could just get there.
+B: Do you need someone to drive you home?
+A: Thank you, but the bus stops right at my house.
+B: Well, go home and rest up. Make sure you check the website for your assignments.
+
+A: I am sorry, but I cannot stay for the rest of class today.
+B: Why do you need to leave early?
+A: I don't feel so good.
+B: What doesn't feel right?
+A: I feel as if I am going to be sick to my stomach.
+B: Perhaps you should get checked out at the Student Health Center before you go home.
+A: I have some medicine at home that I could take.
+B: Are you going to be OK to drive home, or would you like someone to go with you?
+A: Thank you, but my friend is in the library, and he can give me a ride home.
+B: We hope that you are feeling better soon. E-mail me if you have any questions.

@@ -1,0 +1,32 @@
+A: I just arrived and need help getting transportation to my hotel.
+B: There are shuttles, taxis, and buses that go all over the city.
+A: Which one is the best form of transportation?
+B: It depends on where you want to go. If you are going to a well-known hotel, they have their own shuttles that drop you right off at the door.
+A: Where can I catch a cab?
+B: All ground transportation leaves from the island as you walk out the arrivals gate.
+A: Where can I rent a car?
+B: The car rental agencies are against the wall as you exit.
+A: Are there any subways in this town?
+B: We have a subway system, but you need to take a shuttle to get to the station.
+
+A: I need help figuring out how to get to my friend's house in the city.
+B: You may take a shuttle, a taxi, or a bus to get wherever you need to go.
+A: Which form of transportation is preferable?
+B: It depends on what you are looking for. If you are looking to travel inexpensively, a bus might be your best bet.
+A: Where do the buses pick you up?
+B: The ground transportation center is right outside the exit leading to the street.
+A: Is there a car rental place around here?
+B: You can find a car rental agency just outside of baggage claim.
+A: Is there a subway in this city?
+B: Our subway station is a mile outside of the airport. I would suggest you take the designated shuttle to get there.
+
+A: I need information about my options for ground transportation.
+B: This city has many taxis, shuttles, or buses to transport you to your destination.
+A: Is one form of transportation better than another?
+B: It depends on where you are traveling. If your destination is close by, you might want to just grab a taxicab.
+A: Where are the shuttle pick-up points?
+B: When you pick up your luggage, walk out of the door and you will see the transportation kiosk.
+A: Where are the car rental agencies?
+B: You will see the car rental agencies as you walk down the hallway as you exit.
+A: I heard that you have a very good light rail system in this city.
+B: We have a subway station in the airport. The in-airport moving sidewalk system will take you to it.

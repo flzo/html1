@@ -1,0 +1,2629 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.rong-chang.com"
+  section: "/speak/"
+  selector: "div.content-body > div > p.timed"
+  generated_at: "2026-11-18T17:28:46+08:00"
+  total: 524
+  failed: 0
+pages:
+  - index: 1
+    slug: "everyday01"
+    title: "Conversation: 1. Calling Credit Card Company"
+    url: "https://www.rong-chang.com/speak/s/everyday01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday01.mp3"
+  - index: 2
+    slug: "everyday02"
+    title: "Conversation: 2. Disputing a Charge"
+    url: "https://www.rong-chang.com/speak/s/everyday02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday02c.mp3"
+  - index: 3
+    slug: "everyday03"
+    title: "Conversation: 3. Ordering Services"
+    url: "https://www.rong-chang.com/speak/s/everyday03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday03.mp3"
+  - index: 4
+    slug: "everyday04"
+    title: "Conversation: 4. Making Inquiries"
+    url: "https://www.rong-chang.com/speak/s/everyday04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday04o879y.mp3"
+  - index: 5
+    slug: "everyday05"
+    title: "Conversation: 5. Reporting a Service Problem"
+    url: "https://www.rong-chang.com/speak/s/everyday05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday05.mp3"
+  - index: 6
+    slug: "everyday06"
+    title: "Conversation: 6. Asking for Credit"
+    url: "https://www.rong-chang.com/speak/s/everyday06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday06p.mp3"
+  - index: 7
+    slug: "everyday07"
+    title: "Conversation: 7. Troubleshooting a Computer Problem"
+    url: "https://www.rong-chang.com/speak/s/everyday07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday07.mp3"
+  - index: 8
+    slug: "everyday08"
+    title: "Conversation: 8. Making an Appointment"
+    url: "https://www.rong-chang.com/speak/s/everyday08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday08y.mp3"
+  - index: 9
+    slug: "everyday09"
+    title: "Conversation: 9. Making Requests"
+    url: "https://www.rong-chang.com/speak/s/everyday09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday09.mp3"
+  - index: 10
+    slug: "everyday10"
+    title: "Conversation: 10. Paying for the Service"
+    url: "https://www.rong-chang.com/speak/s/everyday10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday10r.mp3"
+  - index: 11
+    slug: "everyday11"
+    title: "Conversation: 11. Making a Complaint"
+    url: "https://www.rong-chang.com/speak/s/everyday11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday11.mp3"
+  - index: 12
+    slug: "everyday12"
+    title: "Conversation: 12. Time to Do Your Laundry"
+    url: "https://www.rong-chang.com/speak/s/everyday12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday12i.mp3"
+  - index: 13
+    slug: "everyday13"
+    title: "Conversation: 13. Operating a Dryer"
+    url: "https://www.rong-chang.com/speak/s/everyday13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday13.mp3"
+  - index: 14
+    slug: "everyday14"
+    title: "Conversation: 14. Fabric Softener"
+    url: "https://www.rong-chang.com/speak/s/everyday14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday14g.mp3"
+  - index: 15
+    slug: "everyday15"
+    title: "Conversation: 15. Waking Up for School"
+    url: "https://www.rong-chang.com/speak/s/everyday15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday15.mp3"
+  - index: 16
+    slug: "everyday16"
+    title: "Conversation: 16. Returning a Call"
+    url: "https://www.rong-chang.com/speak/s/everyday16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday16h.mp3"
+  - index: 17
+    slug: "everyday17"
+    title: "Conversation: 17. Meeting Teacher at School"
+    url: "https://www.rong-chang.com/speak/s/everyday17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday17.mp3"
+  - index: 18
+    slug: "everyday18"
+    title: "Conversation: 18. An Angry Parent"
+    url: "https://www.rong-chang.com/speak/s/everyday18.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday18t.mp3"
+  - index: 19
+    slug: "everyday19"
+    title: "Conversation: 19. Time for Bed"
+    url: "https://www.rong-chang.com/speak/s/everyday19.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday19.mp3"
+  - index: 20
+    slug: "everyday20"
+    title: "Conversation: 20. Cleaning up the Room"
+    url: "https://www.rong-chang.com/speak/s/everyday20.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday20e.mp3"
+  - index: 21
+    slug: "everyday21"
+    title: "Conversation: 21. Caring for Puppies"
+    url: "https://www.rong-chang.com/speak/s/everyday21.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday21.mp3"
+  - index: 22
+    slug: "everyday22"
+    title: "Conversation: 22. Cooking Dinner"
+    url: "https://www.rong-chang.com/speak/s/everyday22.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/feveryday22d.mp3"
+  - index: 23
+    slug: "smalltalk01"
+    title: "Conversation: 1. Greetings (1)"
+    url: "https://www.rong-chang.com/speak/s/smalltalk01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk01.mp3"
+  - index: 24
+    slug: "smalltalk02"
+    title: "Conversation: 2. Greetings (2)"
+    url: "https://www.rong-chang.com/speak/s/smalltalk02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk02a.mp3"
+  - index: 25
+    slug: "smalltalk03"
+    title: "Conversation: 3. Weather (1)"
+    url: "https://www.rong-chang.com/speak/s/smalltalk03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk03.mp3"
+  - index: 26
+    slug: "smalltalk04"
+    title: "Conversation: 4. Weather (2)"
+    url: "https://www.rong-chang.com/speak/s/smalltalk04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk04u895.mp3"
+  - index: 27
+    slug: "smalltalk05"
+    title: "Conversation: 5. Weather (3)"
+    url: "https://www.rong-chang.com/speak/s/smalltalk05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk05.mp3"
+  - index: 28
+    slug: "smalltalk06"
+    title: "Conversation: 6. Calling a Friend"
+    url: "https://www.rong-chang.com/speak/s/smalltalk06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk06d.mp3"
+  - index: 29
+    slug: "smalltalk07"
+    title: "Conversation: 7. Describing People (1)"
+    url: "https://www.rong-chang.com/speak/s/smalltalk07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk07.mp3"
+  - index: 30
+    slug: "smalltalk08"
+    title: "Conversation: 8. Describing People (2)"
+    url: "https://www.rong-chang.com/speak/s/smalltalk08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk08i.mp3"
+  - index: 31
+    slug: "smalltalk09"
+    title: "Conversation: 9. Expressing Concern"
+    url: "https://www.rong-chang.com/speak/s/smalltalk09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk09.mp3"
+  - index: 32
+    slug: "smalltalk10"
+    title: "Conversation: 10. Expressing Joy"
+    url: "https://www.rong-chang.com/speak/s/smalltalk10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk10o.mp3"
+  - index: 33
+    slug: "smalltalk11"
+    title: "Conversation: 11. Compliment"
+    url: "https://www.rong-chang.com/speak/s/smalltalk11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk11.mp3"
+  - index: 34
+    slug: "smalltalk12"
+    title: "Conversation: 12. Leisure Activities"
+    url: "https://www.rong-chang.com/speak/s/smalltalk12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk12f.mp3"
+  - index: 35
+    slug: "smalltalk13"
+    title: "Conversation: 13. Favorite Movie"
+    url: "https://www.rong-chang.com/speak/s/smalltalk13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk13.mp3"
+  - index: 36
+    slug: "smalltalk14"
+    title: "Conversation: 14. Favorite Music"
+    url: "https://www.rong-chang.com/speak/s/smalltalk14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk14i.mp3"
+  - index: 37
+    slug: "smalltalk15"
+    title: "Conversation: 15. Sports (1)"
+    url: "https://www.rong-chang.com/speak/s/smalltalk15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk15.mp3"
+  - index: 38
+    slug: "smalltalk16"
+    title: "Conversation: 16. Sports (2)"
+    url: "https://www.rong-chang.com/speak/s/smalltalk16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk16l.mp3"
+  - index: 39
+    slug: "smalltalk17"
+    title: "Conversation: 17. Sports (3)"
+    url: "https://www.rong-chang.com/speak/s/smalltalk17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk17.mp3"
+  - index: 40
+    slug: "smalltalk18"
+    title: "Conversation: 18. Invitation"
+    url: "https://www.rong-chang.com/speak/s/smalltalk18.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk18e.mp3"
+  - index: 41
+    slug: "smalltalk19"
+    title: "Conversation: 19. Asking for Donation"
+    url: "https://www.rong-chang.com/speak/s/smalltalk19.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk19.mp3"
+  - index: 42
+    slug: "smalltalk20"
+    title: "Conversation: 20. Sharing News"
+    url: "https://www.rong-chang.com/speak/s/smalltalk20.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk20p.mp3"
+  - index: 43
+    slug: "smalltalk21"
+    title: "Conversation: 21. Changing the Subject"
+    url: "https://www.rong-chang.com/speak/s/smalltalk21.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk21.mp3"
+  - index: 44
+    slug: "smalltalk22"
+    title: "Conversation: 22. Receiving Visitors"
+    url: "https://www.rong-chang.com/speak/s/smalltalk22.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk22r.mp3"
+  - index: 45
+    slug: "smalltalk23"
+    title: "Conversation: 23. Ending a Conversation"
+    url: "https://www.rong-chang.com/speak/s/smalltalk23.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk23.mp3"
+  - index: 46
+    slug: "smalltalk24"
+    title: "Conversation: 24. Leave-taking"
+    url: "https://www.rong-chang.com/speak/s/smalltalk24.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsmalltalk24o.mp3"
+  - index: 47
+    slug: "collegelife01"
+    title: "Conversation: 1. Easy or Hard?"
+    url: "https://www.rong-chang.com/speak/s/collegelife01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege01.mp3"
+  - index: 48
+    slug: "collegelife02"
+    title: "Conversation: 2. A Restriction"
+    url: "https://www.rong-chang.com/speak/s/collegelife02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege02g.mp3"
+  - index: 49
+    slug: "collegelife03"
+    title: "Conversation: 3. The Quiet Student"
+    url: "https://www.rong-chang.com/speak/s/collegelife03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege03.mp3"
+  - index: 50
+    slug: "collegelife04"
+    title: "Conversation: 4. Finding the Classroom"
+    url: "https://www.rong-chang.com/speak/s/collegelife04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege04h.mp3"
+  - index: 51
+    slug: "collegelife05"
+    title: "Conversation: 5. Buying Textbooks"
+    url: "https://www.rong-chang.com/speak/s/collegelife05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege05.mp3"
+  - index: 52
+    slug: "collegelife06"
+    title: "Conversation: 6. Professor Hernandez"
+    url: "https://www.rong-chang.com/speak/s/collegelife06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege06t.mp3"
+  - index: 53
+    slug: "collegelife07"
+    title: "Conversation: 7. A Busy Professor"
+    url: "https://www.rong-chang.com/speak/s/collegelife07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege07.mp3"
+  - index: 54
+    slug: "collegelife08"
+    title: "Conversation: 8. Turning Homework in Late"
+    url: "https://www.rong-chang.com/speak/s/collegelife08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege08p.mp3"
+  - index: 55
+    slug: "collegelife09"
+    title: "Conversation: 9. An Honest Student"
+    url: "https://www.rong-chang.com/speak/s/collegelife09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege09.mp3"
+  - index: 56
+    slug: "collegelife10"
+    title: "Conversation: 10. Borrowing Class Notes"
+    url: "https://www.rong-chang.com/speak/s/collegelife10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege10r.mp3"
+  - index: 57
+    slug: "collegelife11"
+    title: "Conversation: 11. 90% Is a B"
+    url: "https://www.rong-chang.com/speak/s/collegelife11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege11.mp3"
+  - index: 58
+    slug: "collegelife12"
+    title: "Conversation: 12. Rounding It Up"
+    url: "https://www.rong-chang.com/speak/s/collegelife12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege12o.mp3"
+  - index: 59
+    slug: "collegelife13"
+    title: "Conversation: 13. Being Absent"
+    url: "https://www.rong-chang.com/speak/s/collegelife13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege13.mp3"
+  - index: 60
+    slug: "collegelife14"
+    title: "Conversation: 14. Leaving School"
+    url: "https://www.rong-chang.com/speak/s/collegelife14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege14t.mp3"
+  - index: 61
+    slug: "collegelife15"
+    title: "Conversation: 15. In Need of a Counselor"
+    url: "https://www.rong-chang.com/speak/s/collegelife15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege15.mp3"
+  - index: 62
+    slug: "collegelife16"
+    title: "Conversation: 16. Talking to a Counselor"
+    url: "https://www.rong-chang.com/speak/s/collegelife16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege16e.mp3"
+  - index: 63
+    slug: "collegelife17"
+    title: "Conversation: 17. Adding a Class"
+    url: "https://www.rong-chang.com/speak/s/collegelife17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege17.mp3"
+  - index: 64
+    slug: "collegelife18"
+    title: "Conversation: 18. Writing Workshop"
+    url: "https://www.rong-chang.com/speak/s/collegelife18.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege18c.mp3"
+  - index: 65
+    slug: "collegelife19"
+    title: "Conversation: 19. Studying Abroad"
+    url: "https://www.rong-chang.com/speak/s/collegelife19.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege19.mp3"
+  - index: 66
+    slug: "collegelife20"
+    title: "Conversation: 20. Job Fair"
+    url: "https://www.rong-chang.com/speak/s/collegelife20.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege20t.mp3"
+  - index: 67
+    slug: "collegelife21"
+    title: "Conversation: 21. A Restaurant by the College"
+    url: "https://www.rong-chang.com/speak/s/collegelife21.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege21e.mp3"
+  - index: 68
+    slug: "collegelife22"
+    title: "Conversation: 22. Vending Machine Problems"
+    url: "https://www.rong-chang.com/speak/s/collegelife22.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege22.mp3"
+  - index: 69
+    slug: "collegelife23"
+    title: "Conversation: 23. Forgetting Your Student ID"
+    url: "https://www.rong-chang.com/speak/s/collegelife23.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege23d.mp3"
+  - index: 70
+    slug: "collegelife24"
+    title: "Conversation: 24. The Overdue Hold"
+    url: "https://www.rong-chang.com/speak/s/collegelife24.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege24.mp3"
+  - index: 71
+    slug: "collegelife25"
+    title: "Conversation: 25. Post-Undergraduate Plans"
+    url: "https://www.rong-chang.com/speak/s/collegelife25.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege25c.mp3"
+  - index: 72
+    slug: "collegelife26"
+    title: "Conversation: 26. Purchasing a Parking Permit"
+    url: "https://www.rong-chang.com/speak/s/collegelife26.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege26.mp3"
+  - index: 73
+    slug: "collegelife27"
+    title: "Conversation: 27. Parking Issue"
+    url: "https://www.rong-chang.com/speak/s/collegelife27.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege27o.mp3"
+  - index: 74
+    slug: "collegelife28"
+    title: "Conversation: 28. Fighting a Parking Ticket"
+    url: "https://www.rong-chang.com/speak/s/collegelife28.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege28.mp3"
+  - index: 75
+    slug: "collegelife29"
+    title: "Conversation: 29. Sports"
+    url: "https://www.rong-chang.com/speak/s/collegelife29.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege29p.mp3"
+  - index: 76
+    slug: "collegelife30"
+    title: "Conversation: 30. Clubs"
+    url: "https://www.rong-chang.com/speak/s/collegelife30.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege30.mp3"
+  - index: 77
+    slug: "collegelife31"
+    title: "Conversation: 31. Early Morning Class"
+    url: "https://www.rong-chang.com/speak/s/collegelife31.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege31y.mp3"
+  - index: 78
+    slug: "collegelife32"
+    title: "Conversation: 32. A Bad Roommate"
+    url: "https://www.rong-chang.com/speak/s/collegelife32.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege32.mp3"
+  - index: 79
+    slug: "collegelife33"
+    title: "Conversation: 33. Homesick"
+    url: "https://www.rong-chang.com/speak/s/collegelife33.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege33.mp3"
+  - index: 80
+    slug: "collegelife34"
+    title: "Conversation: 34. Changing Majors"
+    url: "https://www.rong-chang.com/speak/s/collegelife34.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege34rig.mp3"
+  - index: 81
+    slug: "collegelife35"
+    title: "Conversation: 35. Dropping Out"
+    url: "https://www.rong-chang.com/speak/s/collegelife35.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege35.mp3"
+  - index: 82
+    slug: "collegelife36"
+    title: "Conversation: 36. Freshman 15"
+    url: "https://www.rong-chang.com/speak/s/collegelife36.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcollege36ht.mp3"
+  - index: 83
+    slug: "library01"
+    title: "Conversation: 1. A Special Library"
+    url: "https://www.rong-chang.com/speak/s/library01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary01.mp3"
+  - index: 84
+    slug: "library02"
+    title: "Conversation: 2. Where Is the Book?"
+    url: "https://www.rong-chang.com/speak/s/library02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary02p.mp3"
+  - index: 85
+    slug: "library03"
+    title: "Conversation: 3. Tiger Books"
+    url: "https://www.rong-chang.com/speak/s/library03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary03.mp3"
+  - index: 86
+    slug: "library04"
+    title: "Conversation: 4. Reserving a Book"
+    url: "https://www.rong-chang.com/speak/s/library04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary04r888.mp3"
+  - index: 87
+    slug: "library05"
+    title: "Conversation: 5. Late Fees"
+    url: "https://www.rong-chang.com/speak/s/library05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary05o.mp3"
+  - index: 88
+    slug: "library06"
+    title: "Conversation: 6. Borrowing a Book from Another Library"
+    url: "https://www.rong-chang.com/speak/s/library06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary06.mp3"
+  - index: 89
+    slug: "library07"
+    title: "Conversation: 7. Checking Out a Book"
+    url: "https://www.rong-chang.com/speak/s/library07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary07t.mp3"
+  - index: 90
+    slug: "library08"
+    title: "Conversation: 8. Checking Out a Magazine"
+    url: "https://www.rong-chang.com/speak/s/library08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary08.mp3"
+  - index: 91
+    slug: "library09"
+    title: "Conversation: 9. Checking Out a Video"
+    url: "https://www.rong-chang.com/speak/s/library09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary09e.mp3"
+  - index: 92
+    slug: "library10"
+    title: "Conversation: 10. Checking Books for Damage"
+    url: "https://www.rong-chang.com/speak/s/library10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary10.mp3"
+  - index: 93
+    slug: "library11"
+    title: "Conversation: 11. Barely Late"
+    url: "https://www.rong-chang.com/speak/s/library11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary11c.mp3"
+  - index: 94
+    slug: "library12"
+    title: "Conversation: 12. Computer Limit"
+    url: "https://www.rong-chang.com/speak/s/library12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary12.mp3"
+  - index: 95
+    slug: "library13"
+    title: "Conversation: 13. Using a Copier"
+    url: "https://www.rong-chang.com/speak/s/library13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary13t.mp3"
+  - index: 96
+    slug: "library14"
+    title: "Conversation: 14. People at the Printer"
+    url: "https://www.rong-chang.com/speak/s/library14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary14.mp3"
+  - index: 97
+    slug: "library15"
+    title: "Conversation: 15. Be Quiet"
+    url: "https://www.rong-chang.com/speak/s/library15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary15e.mp3"
+  - index: 98
+    slug: "library16"
+    title: "Conversation: 16. The Library Restroom"
+    url: "https://www.rong-chang.com/speak/s/library16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary16.mp3"
+  - index: 99
+    slug: "library17"
+    title: "Conversation: 17. Volunteering at the Library"
+    url: "https://www.rong-chang.com/speak/s/library17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary17d.mp3"
+  - index: 100
+    slug: "library18"
+    title: "Conversation: 18. Studying at the Library"
+    url: "https://www.rong-chang.com/speak/s/library18.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary18.mp3"
+  - index: 101
+    slug: "library19"
+    title: "Conversation: 19. Reference Books"
+    url: "https://www.rong-chang.com/speak/s/library19.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary19.mp3"
+  - index: 102
+    slug: "library20"
+    title: "Conversation: 20. A Gross Book"
+    url: "https://www.rong-chang.com/speak/s/library20.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flibrary20.mp3"
+  - index: 103
+    slug: "transfer01"
+    title: "Conversation: 1. Planning to Transfer"
+    url: "https://www.rong-chang.com/speak/s/transfer01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity01.mp3"
+  - index: 104
+    slug: "transfer02"
+    title: "Conversation: 2. What University to Transfer to"
+    url: "https://www.rong-chang.com/speak/s/transfer02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity02a.mp3"
+  - index: 105
+    slug: "transfer03"
+    title: "Conversation: 3. Classes Unrelated to Your Major"
+    url: "https://www.rong-chang.com/speak/s/transfer03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity03.mp3"
+  - index: 106
+    slug: "transfer04"
+    title: "Conversation: 4. Taking Speech 101"
+    url: "https://www.rong-chang.com/speak/s/transfer04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity04w.mp3"
+  - index: 107
+    slug: "transfer05"
+    title: "Conversation: 5. Classes Needed for Transfer"
+    url: "https://www.rong-chang.com/speak/s/transfer05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity05.mp3"
+  - index: 108
+    slug: "transfer06"
+    title: "Conversation: 6. College Application Questions"
+    url: "https://www.rong-chang.com/speak/s/transfer06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity06p.mp3"
+  - index: 109
+    slug: "transfer07"
+    title: "Conversation: 7. Applying to Many Universities"
+    url: "https://www.rong-chang.com/speak/s/transfer07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity07.mp3"
+  - index: 110
+    slug: "transfer08"
+    title: "Conversation: 8. Lying on College Applications"
+    url: "https://www.rong-chang.com/speak/s/transfer08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity08r.mp3"
+  - index: 111
+    slug: "transfer09"
+    title: "Conversation: 9. Classes Needed for Transfer"
+    url: "https://www.rong-chang.com/speak/s/transfer09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity09.mp3"
+  - index: 112
+    slug: "transfer10"
+    title: "Conversation: 10. A Class Desperately Needed"
+    url: "https://www.rong-chang.com/speak/s/transfer10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity10o.mp3"
+  - index: 113
+    slug: "transfer11"
+    title: "Conversation: 11. Talking to a Counselor"
+    url: "https://www.rong-chang.com/speak/s/transfer11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity11.mp3"
+  - index: 114
+    slug: "transfer12"
+    title: "Conversation: 12. A Recommendation Letter (1)"
+    url: "https://www.rong-chang.com/speak/s/transfer12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity12t.mp3"
+  - index: 115
+    slug: "transfer13"
+    title: "Conversation: 13. A Recommendation Letter (2)"
+    url: "https://www.rong-chang.com/speak/s/transfer13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity13.mp3"
+  - index: 116
+    slug: "transfer14"
+    title: "Conversation: 14. Personal Statement Workshop"
+    url: "https://www.rong-chang.com/speak/s/transfer14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity14e.mp3"
+  - index: 117
+    slug: "transfer15"
+    title: "Conversation: 15. Not Accepted to a University"
+    url: "https://www.rong-chang.com/speak/s/transfer15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity15.mp3"
+  - index: 118
+    slug: "transfer16"
+    title: "Conversation: 16. Deciding not to Transfer"
+    url: "https://www.rong-chang.com/speak/s/transfer16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity16c.mp3"
+  - index: 119
+    slug: "transfer17"
+    title: "Conversation: 17. Accepted to a University"
+    url: "https://www.rong-chang.com/speak/s/transfer17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity17.mp3"
+  - index: 120
+    slug: "transfer18"
+    title: "Conversation: 18. First Day at a New School"
+    url: "https://www.rong-chang.com/speak/s/transfer18.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funiversity18t.mp3"
+  - index: 121
+    slug: "food01"
+    title: "Conversation: 1. Where to Buy Food"
+    url: "https://www.rong-chang.com/speak/s/food01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood01.mp3"
+  - index: 122
+    slug: "food02"
+    title: "Conversation: 2. How to Cook a Meal"
+    url: "https://www.rong-chang.com/speak/s/food02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood02c34.mp3"
+  - index: 123
+    slug: "food03"
+    title: "Conversation: 3. Breakfast"
+    url: "https://www.rong-chang.com/speak/s/food03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood03.mp3"
+  - index: 124
+    slug: "food04"
+    title: "Conversation: 4. Lunch"
+    url: "https://www.rong-chang.com/speak/s/food04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood04o.mp3"
+  - index: 125
+    slug: "food05"
+    title: "Conversation: 5. Dinner"
+    url: "https://www.rong-chang.com/speak/s/food05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood05.mp3"
+  - index: 126
+    slug: "food06"
+    title: "Conversation: 6. Drinks"
+    url: "https://www.rong-chang.com/speak/s/food06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood06p.mp3"
+  - index: 127
+    slug: "food07"
+    title: "Conversation: 7. Fruits"
+    url: "https://www.rong-chang.com/speak/s/food07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood07.mp3"
+  - index: 128
+    slug: "food08"
+    title: "Conversation: 8. Salads"
+    url: "https://www.rong-chang.com/speak/s/food08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood08y.mp3"
+  - index: 129
+    slug: "food09"
+    title: "Conversation: 9. Desserts"
+    url: "https://www.rong-chang.com/speak/s/food09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood09.mp3"
+  - index: 130
+    slug: "food10"
+    title: "Conversation: 10. Meat"
+    url: "https://www.rong-chang.com/speak/s/food10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood10r.mp3"
+  - index: 131
+    slug: "food11"
+    title: "Conversation: 11. Snacks"
+    url: "https://www.rong-chang.com/speak/s/food11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood11.mp3"
+  - index: 132
+    slug: "food12"
+    title: "Conversation: 12. Vegetables"
+    url: "https://www.rong-chang.com/speak/s/food12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood12i.mp3"
+  - index: 133
+    slug: "food13"
+    title: "Conversation: 13. Nutrition of Foods"
+    url: "https://www.rong-chang.com/speak/s/food13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood13g.mp3"
+  - index: 134
+    slug: "food14"
+    title: "Conversation: 14. Ordering Fast Food (1)"
+    url: "https://www.rong-chang.com/speak/s/food14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood14.mp3"
+  - index: 135
+    slug: "food15"
+    title: "Conversation: 15. Ordering Fast Food (2)"
+    url: "https://www.rong-chang.com/speak/s/food15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood15h.mp3"
+  - index: 136
+    slug: "food16"
+    title: "Conversation: 16. Using Coupons"
+    url: "https://www.rong-chang.com/speak/s/food16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood16.mp3"
+  - index: 137
+    slug: "food17"
+    title: "Conversation: 17. At the Market"
+    url: "https://www.rong-chang.com/speak/s/food17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ffood17t.mp3"
+  - index: 138
+    slug: "shop01"
+    title: "Conversation: 1. Shopping Budget"
+    url: "https://www.rong-chang.com/speak/s/shop01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop01.mp3"
+  - index: 139
+    slug: "shop02"
+    title: "Conversation: 2. Where to Buy What"
+    url: "https://www.rong-chang.com/speak/s/shop02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop02e.mp3"
+  - index: 140
+    slug: "shop03"
+    title: "Conversation: 3. Making a Shopping List"
+    url: "https://www.rong-chang.com/speak/s/shop03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop03.mp3"
+  - index: 141
+    slug: "shop04"
+    title: "Conversation: 4. Shopping for New Clothes"
+    url: "https://www.rong-chang.com/speak/s/shop04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop04x952.mp3"
+  - index: 142
+    slug: "shop05"
+    title: "Conversation: 5. Trying on a New Outfit"
+    url: "https://www.rong-chang.com/speak/s/shop05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop05.mp3"
+  - index: 143
+    slug: "shop06"
+    title: "Conversation: 6. Trying on Shoes"
+    url: "https://www.rong-chang.com/speak/s/shop06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop06c.mp3"
+  - index: 144
+    slug: "shop07"
+    title: "Conversation: 7. Buy Furniture"
+    url: "https://www.rong-chang.com/speak/s/shop07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop07.mp3"
+  - index: 145
+    slug: "shop08"
+    title: "Conversation: 8. Buying an Appliance"
+    url: "https://www.rong-chang.com/speak/s/shop08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop08e.mp3"
+  - index: 146
+    slug: "shop09"
+    title: "Conversation: 9. Negotiating a Price"
+    url: "https://www.rong-chang.com/speak/s/shop09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop09.mp3"
+  - index: 147
+    slug: "shop10"
+    title: "Conversation: 10. Scheduling a Delivery"
+    url: "https://www.rong-chang.com/speak/s/shop10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop10l.mp3"
+  - index: 148
+    slug: "shop11"
+    title: "Conversation: 11. Not Delivered on Time"
+    url: "https://www.rong-chang.com/speak/s/shop11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop11.mp3"
+  - index: 149
+    slug: "shop12"
+    title: "Conversation: 12. Calling to Reschedule a Time"
+    url: "https://www.rong-chang.com/speak/s/shop12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop12l.mp3"
+  - index: 150
+    slug: "shop13"
+    title: "Conversation: 13. Getting Things Fixed"
+    url: "https://www.rong-chang.com/speak/s/shop13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop13.mp3"
+  - index: 151
+    slug: "shop14"
+    title: "Conversation: 14. Returning a Defective Item"
+    url: "https://www.rong-chang.com/speak/s/shop14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop14e.mp3"
+  - index: 152
+    slug: "shop15"
+    title: "Conversation: 15. Buying a Warranty"
+    url: "https://www.rong-chang.com/speak/s/shop15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop15.mp3"
+  - index: 153
+    slug: "shop16"
+    title: "Conversation: 16. Using the Warranty"
+    url: "https://www.rong-chang.com/speak/s/shop16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop16n.mp3"
+  - index: 154
+    slug: "shop17"
+    title: "Conversation: 17. Warranty Expired"
+    url: "https://www.rong-chang.com/speak/s/shop17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fshop17t.mp3"
+  - index: 155
+    slug: "buycar01"
+    title: "Conversation: 1. Deciding to buy a Car"
+    url: "https://www.rong-chang.com/speak/s/buycar01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar01t.mp3"
+  - index: 156
+    slug: "buycar02"
+    title: "Conversation: 2. Where to buy a Used Car"
+    url: "https://www.rong-chang.com/speak/s/buycar02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar02.mp3"
+  - index: 157
+    slug: "buycar03"
+    title: "Conversation: 3. Declining to Buy the Car"
+    url: "https://www.rong-chang.com/speak/s/buycar03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar03ed.mp3"
+  - index: 158
+    slug: "buycar04"
+    title: "Conversation: 4. Detecting a Problem with the Car"
+    url: "https://www.rong-chang.com/speak/s/buycar04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar04.mp3"
+  - index: 159
+    slug: "buycar05"
+    title: "Conversation: 5. How to Pay for the Used Car"
+    url: "https://www.rong-chang.com/speak/s/buycar05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar05c.mp3"
+  - index: 160
+    slug: "buycar06"
+    title: "Conversation: 6. Negotiating a Price with the Owner"
+    url: "https://www.rong-chang.com/speak/s/buycar06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar06.mp3"
+  - index: 161
+    slug: "buycar07"
+    title: "Conversation: 7. Negotiating a Price with a Dealer"
+    url: "https://www.rong-chang.com/speak/s/buycar07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar07o.mp3"
+  - index: 162
+    slug: "buycar08"
+    title: "Conversation: 8. Test Driving the Car"
+    url: "https://www.rong-chang.com/speak/s/buycar08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar08.mp3"
+  - index: 163
+    slug: "buycar09"
+    title: "Conversation: 9. Taking It to the Mechanic"
+    url: "https://www.rong-chang.com/speak/s/buycar09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar09p.mp3"
+  - index: 164
+    slug: "buycar10"
+    title: "Conversation: 10. Title Transfer"
+    url: "https://www.rong-chang.com/speak/s/buycar10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar10.mp3"
+  - index: 165
+    slug: "buycar11"
+    title: "Conversation: 11. Making an Appointment with DMV"
+    url: "https://www.rong-chang.com/speak/s/buycar11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar11y49e7.mp3"
+  - index: 166
+    slug: "buycar12"
+    title: "Conversation: 12. At the Window of DMV"
+    url: "https://www.rong-chang.com/speak/s/buycar12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar12r.mp3"
+  - index: 167
+    slug: "buycar13"
+    title: "Conversation: 13. Asking about Car Insurance"
+    url: "https://www.rong-chang.com/speak/s/buycar13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar13.mp3"
+  - index: 168
+    slug: "buycar14"
+    title: "Conversation: 14. Buying Insurance"
+    url: "https://www.rong-chang.com/speak/s/buycar14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuycar14i.mp3"
+  - index: 169
+    slug: "drive01"
+    title: "Conversation: 1. Applying for a Driving Permit"
+    url: "https://www.rong-chang.com/speak/s/drive01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive01.mp3"
+  - index: 170
+    slug: "drive02"
+    title: "Conversation: 2. Taking the Written Test"
+    url: "https://www.rong-chang.com/speak/s/drive02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive02p.mp3"
+  - index: 171
+    slug: "drive03"
+    title: "Conversation: 3. Learning how to Drive (1)"
+    url: "https://www.rong-chang.com/speak/s/drive03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive03.mp3"
+  - index: 172
+    slug: "drive04"
+    title: "Conversation: 4. Learning how to Drive (2)"
+    url: "https://www.rong-chang.com/speak/s/drive04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive04r.mp3"
+  - index: 173
+    slug: "drive05"
+    title: "Conversation: 5. Failing the Road Test"
+    url: "https://www.rong-chang.com/speak/s/drive05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive05.mp3"
+  - index: 174
+    slug: "drive06"
+    title: "Conversation: 6. Passing the Road Test"
+    url: "https://www.rong-chang.com/speak/s/drive06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive06o45t.mp3"
+  - index: 175
+    slug: "drive07"
+    title: "Conversation: 7. Getting the Driver's License"
+    url: "https://www.rong-chang.com/speak/s/drive07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive07.mp3"
+  - index: 176
+    slug: "drive08"
+    title: "Conversation: 8. Where to Park on Campus"
+    url: "https://www.rong-chang.com/speak/s/drive08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive08e.mp3"
+  - index: 177
+    slug: "drive09"
+    title: "Conversation: 9. Getting a Parking Ticket"
+    url: "https://www.rong-chang.com/speak/s/drive09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive09d.mp3"
+  - index: 178
+    slug: "drive10"
+    title: "Conversation: 10. Paying off Parking Tickets"
+    url: "https://www.rong-chang.com/speak/s/drive10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive10.mp3"
+  - index: 179
+    slug: "drive11"
+    title: "Conversation: 11. Failing to Stop at a Stop Sign"
+    url: "https://www.rong-chang.com/speak/s/drive11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive11c.mp3"
+  - index: 180
+    slug: "drive12"
+    title: "Conversation: 12. Driving through a Red Light"
+    url: "https://www.rong-chang.com/speak/s/drive12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive12.mp3"
+  - index: 181
+    slug: "drive13"
+    title: "Conversation: 13. Fighting a Ticket in Court (1)"
+    url: "https://www.rong-chang.com/speak/s/drive13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive13o.mp3"
+  - index: 182
+    slug: "drive14"
+    title: "Conversation: 14. Fighting a Ticket in Court (2)"
+    url: "https://www.rong-chang.com/speak/s/drive14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive14.mp3"
+  - index: 183
+    slug: "drive15"
+    title: "Conversation: 15. Paying the Ticket Fine"
+    url: "https://www.rong-chang.com/speak/s/drive15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive15p.mp3"
+  - index: 184
+    slug: "drive16"
+    title: "Conversation: 16. Calling a Traffic School"
+    url: "https://www.rong-chang.com/speak/s/drive16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive16y.mp3"
+  - index: 185
+    slug: "drive17"
+    title: "Conversation: 17. Talking to the Traffic School Instructor"
+    url: "https://www.rong-chang.com/speak/s/drive17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive17.mp3"
+  - index: 186
+    slug: "drive18"
+    title: "Conversation: 18. A Traffic Incident"
+    url: "https://www.rong-chang.com/speak/s/drive18.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive18r.mp3"
+  - index: 187
+    slug: "drive19"
+    title: "Conversation: 19. A Car Accident"
+    url: "https://www.rong-chang.com/speak/s/drive19.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive19.mp3"
+  - index: 188
+    slug: "drive20"
+    title: "Conversation: 20. Calling the Insurance Company"
+    url: "https://www.rong-chang.com/speak/s/drive20.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdrive20t.mp3"
+  - index: 189
+    slug: "apartment101"
+    title: "Conversation: 1. How to Find an Apartment (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment101.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment01c.mp3"
+  - index: 190
+    slug: "apartment102"
+    title: "Conversation: 2. How to Find an Apartment (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment102.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment02.mp3"
+  - index: 191
+    slug: "apartment103"
+    title: "Conversation: 3. Finding an Apartment"
+    url: "https://www.rong-chang.com/speak/s/apartment103.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment03o4768.mp3"
+  - index: 192
+    slug: "apartment104"
+    title: "Conversation: 4. Visiting a Rental Agent (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment104.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment04.mp3"
+  - index: 193
+    slug: "apartment105"
+    title: "Conversation: 5. Visiting a Rental Agent (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment105.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment05p.mp3"
+  - index: 194
+    slug: "apartment106"
+    title: "Conversation: 6. Asking About the Apartment Location (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment106.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment06.mp3"
+  - index: 195
+    slug: "apartment107"
+    title: "Conversation: 7. Asking About the Apartment's Location (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment107.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment07y.mp3"
+  - index: 196
+    slug: "apartment108"
+    title: "Conversation: 8. Asking About the Neighborhood (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment108.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment08.mp3"
+  - index: 197
+    slug: "apartment109"
+    title: "Conversation: 9. Asking About the Neighborhood (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment109.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment09r.mp3"
+  - index: 198
+    slug: "apartment110"
+    title: "Conversation: 10. Asking About Safety Features"
+    url: "https://www.rong-chang.com/speak/s/apartment110.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment10.mp3"
+  - index: 199
+    slug: "apartment111"
+    title: "Conversation: 11. Asking About a Floor Plan"
+    url: "https://www.rong-chang.com/speak/s/apartment111.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment11i.mp3"
+  - index: 200
+    slug: "apartment112"
+    title: "Conversation: 12. Discrimination"
+    url: "https://www.rong-chang.com/speak/s/apartment112.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment12g.mp3"
+  - index: 201
+    slug: "apartment113"
+    title: "Conversation: 13. Scheduling an Apartment Viewing (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment113.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment13h.mp3"
+  - index: 202
+    slug: "apartment114"
+    title: "Conversation: 14. Scheduling an Apartment Viewing (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment114.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment14.mp3"
+  - index: 203
+    slug: "apartment115"
+    title: "Conversation: 15. Negotiating the Price (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment115.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment15t.mp3"
+  - index: 204
+    slug: "apartment116"
+    title: "Conversation: 16. Negotiating the Price (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment116.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment16.mp3"
+  - index: 205
+    slug: "apartment117"
+    title: "Conversation: 17. Going Over the Lease"
+    url: "https://www.rong-chang.com/speak/s/apartment117.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment17ed.mp3"
+  - index: 206
+    slug: "apartment118"
+    title: "Conversation: 18. Security Deposit (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment118.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment18.mp3"
+  - index: 207
+    slug: "apartment119"
+    title: "Conversation: 19. Security Deposit (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment119.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment19p.mp3"
+  - index: 208
+    slug: "apartment120"
+    title: "Conversation: 20. Policy Towards Pets (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment120.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment20.mp3"
+  - index: 209
+    slug: "apartment121"
+    title: "Conversation: 21. Policy Towards Pets (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment121.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment21r.mp3"
+  - index: 210
+    slug: "apartment122"
+    title: "Conversation: 22. Checking the Apartment for Damage (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment122.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment22.mp3"
+  - index: 211
+    slug: "apartment123"
+    title: "Conversation: 23. Checking the Apartment for Damages (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment123.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment23o.mp3"
+  - index: 212
+    slug: "apartment124"
+    title: "Conversation: 24. Asking about Public Transportation (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment124.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment24.mp3"
+  - index: 213
+    slug: "apartment125"
+    title: "Conversation: 25. Asking About Public Transportation (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment125.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment25t.mp3"
+  - index: 214
+    slug: "apartment126"
+    title: "Conversation: 26. Finding an Apartment"
+    url: "https://www.rong-chang.com/speak/s/apartment126.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment26.mp3"
+  - index: 215
+    slug: "apartment127"
+    title: "Conversation: 27. Asking a Friend to Help Move In (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment127.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment27.mp3"
+  - index: 216
+    slug: "apartment128"
+    title: "Conversation: 28. Asking a Friend to Help Move In (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment128.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment28e.mp3"
+  - index: 217
+    slug: "apartment129"
+    title: "Conversation: 29. Calling a Moving Company (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment129.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment29d.mp3"
+  - index: 218
+    slug: "apartment130"
+    title: "Conversation: 30. Calling a Moving Company (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment130.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment30.mp3"
+  - index: 219
+    slug: "apartment131"
+    title: "Conversation: 31. Where to Put the Furniture (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment131.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment31.mp3"
+  - index: 220
+    slug: "apartment132"
+    title: "Conversation: 32. Where to Put the Furniture (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment132.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment32.mp3"
+  - index: 221
+    slug: "apartment133"
+    title: "Conversation: 33. Calling the Water Company (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment133.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment33.mp3"
+  - index: 222
+    slug: "apartment134"
+    title: "Conversation: 34. Calling the Water Company (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment134.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/flookapartment34.mp3"
+  - index: 223
+    slug: "apartment201"
+    title: "Conversation: 1. Greeting the Neighbor (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment201.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment01c06o.mp3"
+  - index: 224
+    slug: "apartment202"
+    title: "Conversation: 2. Greeting the Neighbor (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment202.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment02.mp3"
+  - index: 225
+    slug: "apartment203"
+    title: "Conversation: 3. Questions about Parking"
+    url: "https://www.rong-chang.com/speak/s/apartment203.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment03p.mp3"
+  - index: 226
+    slug: "apartment204"
+    title: "Conversation: 4. Prohibited Parking"
+    url: "https://www.rong-chang.com/speak/s/apartment204.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment04.mp3"
+  - index: 227
+    slug: "apartment205"
+    title: "Conversation: 5. Meeting the Mailman"
+    url: "https://www.rong-chang.com/speak/s/apartment205.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment05y.mp3"
+  - index: 228
+    slug: "apartment206"
+    title: "Conversation: 6. Asking about Local Restaurants"
+    url: "https://www.rong-chang.com/speak/s/apartment206.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment06.mp3"
+  - index: 229
+    slug: "apartment207"
+    title: "Conversation: 7. Trash and Recycling (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment207.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment07r.mp3"
+  - index: 230
+    slug: "apartment208"
+    title: "Conversation: 8. Trash and Recycling (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment208.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment08i9g.mp3"
+  - index: 231
+    slug: "apartment209"
+    title: "Conversation: 9. Where Is the Laundry Room"
+    url: "https://www.rong-chang.com/speak/s/apartment209.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment09h.mp3"
+  - index: 232
+    slug: "apartment210"
+    title: "Conversation: 10. Laundry Room Rules"
+    url: "https://www.rong-chang.com/speak/s/apartment210.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment10.mp3"
+  - index: 233
+    slug: "apartment211"
+    title: "Conversation: 11. Asking for Directions (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment211.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment11t.mp3"
+  - index: 234
+    slug: "apartment212"
+    title: "Conversation: 12. Asking for Directions (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment212.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment12.mp3"
+  - index: 235
+    slug: "apartment213"
+    title: "Conversation: 13. Neighbors and Help (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment213.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment13p.mp3"
+  - index: 236
+    slug: "apartment214"
+    title: "Conversation: 14. Neighbors and Help (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment214.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment14.mp3"
+  - index: 237
+    slug: "apartment215"
+    title: "Conversation: 15. Visitors and Extra Tenants (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment215.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment15r.mp3"
+  - index: 238
+    slug: "apartment216"
+    title: "Conversation: 16. Visitors and Extra Tenants (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment216.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment16.mp3"
+  - index: 239
+    slug: "apartment217"
+    title: "Conversation: 17. Key and Lock Problems (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment217.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment17o.mp3"
+  - index: 240
+    slug: "apartment218"
+    title: "Conversation: 18. Key and Lock Problems (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment218.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment18.mp3"
+  - index: 241
+    slug: "apartment219"
+    title: "Conversation: 19. Checking Smoke Detectors"
+    url: "https://www.rong-chang.com/speak/s/apartment219.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment19t.mp3"
+  - index: 242
+    slug: "apartment220"
+    title: "Conversation: 20. Mailbox Key Missing"
+    url: "https://www.rong-chang.com/speak/s/apartment220.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment20.mp3"
+  - index: 243
+    slug: "apartment221"
+    title: "Conversation: 21. Locked Out"
+    url: "https://www.rong-chang.com/speak/s/apartment221.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment21e.mp3"
+  - index: 244
+    slug: "apartment222"
+    title: "Conversation: 22. A Noisy Neighbor (1)"
+    url: "https://www.rong-chang.com/speak/s/apartment222.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment22.mp3"
+  - index: 245
+    slug: "apartment223"
+    title: "Conversation: 23. A Noisy Neighbor (2)"
+    url: "https://www.rong-chang.com/speak/s/apartment223.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment23c.mp3"
+  - index: 246
+    slug: "apartment224"
+    title: "Conversation: 24. Plumbing Problems"
+    url: "https://www.rong-chang.com/speak/s/apartment224.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment24.mp3"
+  - index: 247
+    slug: "apartment225"
+    title: "Conversation: 25. Poor Upkeep"
+    url: "https://www.rong-chang.com/speak/s/apartment225.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment25t.mp3"
+  - index: 248
+    slug: "apartment226"
+    title: "Conversation: 26. Reporting a Problem to the Landlord"
+    url: "https://www.rong-chang.com/speak/s/apartment226.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fapartment26.mp3"
+  - index: 249
+    slug: "bus01"
+    title: "Conversation: 1. Which Bus to Take (1)"
+    url: "https://www.rong-chang.com/speak/s/bus01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus01.mp3"
+  - index: 250
+    slug: "bus02"
+    title: "Conversation: 2. Which Bus to Take (2)"
+    url: "https://www.rong-chang.com/speak/s/bus02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus02c.mp3"
+  - index: 251
+    slug: "bus03"
+    title: "Conversation: 3. Taking the Bus for the First Time"
+    url: "https://www.rong-chang.com/speak/s/bus03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus03.mp3"
+  - index: 252
+    slug: "bus04"
+    title: "Conversation: 4. Paying the Bus Fare"
+    url: "https://www.rong-chang.com/speak/s/bus04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus04co.mp3"
+  - index: 253
+    slug: "bus05"
+    title: "Conversation: 5. Asking for a Transfer (1)"
+    url: "https://www.rong-chang.com/speak/s/bus05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus05.mp3"
+  - index: 254
+    slug: "bus06"
+    title: "Conversation: 6. Asking for a Transfer (2)"
+    url: "https://www.rong-chang.com/speak/s/bus06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus06p.mp3"
+  - index: 255
+    slug: "bus07"
+    title: "Conversation: 7. Where to Get Off (1)"
+    url: "https://www.rong-chang.com/speak/s/bus07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus07.mp3"
+  - index: 256
+    slug: "bus08"
+    title: "Conversation: 8. Where to Get Off (2)"
+    url: "https://www.rong-chang.com/speak/s/bus08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus08y7ri.mp3"
+  - index: 257
+    slug: "bus09"
+    title: "Conversation: 9. Complaining about a Late Bus (1)"
+    url: "https://www.rong-chang.com/speak/s/bus09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus09.mp3"
+  - index: 258
+    slug: "bus10"
+    title: "Conversation: 10. Complaining about a Late bus (2)"
+    url: "https://www.rong-chang.com/speak/s/bus10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus10g.mp3"
+  - index: 259
+    slug: "bus11"
+    title: "Conversation: 11. Getting Off Too Early (1)"
+    url: "https://www.rong-chang.com/speak/s/bus11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus11.mp3"
+  - index: 260
+    slug: "bus12"
+    title: "Conversation: 12. Getting Off Too Early (2)"
+    url: "https://www.rong-chang.com/speak/s/bus12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus12h.mp3"
+  - index: 261
+    slug: "bus13"
+    title: "Conversation: 13. How to Buy a Pass (1)"
+    url: "https://www.rong-chang.com/speak/s/bus13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus13.mp3"
+  - index: 262
+    slug: "bus14"
+    title: "Conversation: 14. How to Buy a Pass (2)"
+    url: "https://www.rong-chang.com/speak/s/bus14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus14.mp3"
+  - index: 263
+    slug: "bus15"
+    title: "Conversation: 15. How to Buy a Pass (3)"
+    url: "https://www.rong-chang.com/speak/s/bus15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus15g.mp3"
+  - index: 264
+    slug: "bus16"
+    title: "Conversation: 16. Missing the Bus Stop (1)"
+    url: "https://www.rong-chang.com/speak/s/bus16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus16.mp3"
+  - index: 265
+    slug: "bus17"
+    title: "Conversation: 17. Missing the Bus Stop (2)"
+    url: "https://www.rong-chang.com/speak/s/bus17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus17.mp3"
+  - index: 266
+    slug: "bus18"
+    title: "Conversation: 18. On the Wrong Bus (1)"
+    url: "https://www.rong-chang.com/speak/s/bus18.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus18t.mp3"
+  - index: 267
+    slug: "bus19"
+    title: "Conversation: 19. On the Wrong Bus (2)"
+    url: "https://www.rong-chang.com/speak/s/bus19.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus19.mp3"
+  - index: 268
+    slug: "bus20"
+    title: "Conversation: 20. Student Discount (1)"
+    url: "https://www.rong-chang.com/speak/s/bus20.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus20is.mp3"
+  - index: 269
+    slug: "bus21"
+    title: "Conversation: 21. Student Discount (2)"
+    url: "https://www.rong-chang.com/speak/s/bus21.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus21.mp3"
+  - index: 270
+    slug: "bus22"
+    title: "Conversation: 22. Talking on the Bus (1)"
+    url: "https://www.rong-chang.com/speak/s/bus22.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus22p.mp3"
+  - index: 271
+    slug: "bus23"
+    title: "Conversation: 23. Talking on the Bus (2)"
+    url: "https://www.rong-chang.com/speak/s/bus23.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus23.mp3"
+  - index: 272
+    slug: "bus24"
+    title: "Conversation: 24. The Bus System (1)"
+    url: "https://www.rong-chang.com/speak/s/bus24.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus24r.mp3"
+  - index: 273
+    slug: "bus25"
+    title: "Conversation: 25. The Bus System (2)"
+    url: "https://www.rong-chang.com/speak/s/bus25.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus25.mp3"
+  - index: 274
+    slug: "bus26"
+    title: "Conversation: 26. Why to Buy a Pass (1)"
+    url: "https://www.rong-chang.com/speak/s/bus26.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus26.mp3"
+  - index: 275
+    slug: "bus27"
+    title: "Conversation: 27. Why to Buy a Pass (2)"
+    url: "https://www.rong-chang.com/speak/s/bus27.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus27o.mp3"
+  - index: 276
+    slug: "bus28"
+    title: "Conversation: 28. Where to Buy a Pass (1)"
+    url: "https://www.rong-chang.com/speak/s/bus28.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus28t.mp3"
+  - index: 277
+    slug: "bus29"
+    title: "Conversation: 29. Where to Buy a Pass (2)"
+    url: "https://www.rong-chang.com/speak/s/bus29.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus29.mp3"
+  - index: 278
+    slug: "bus30"
+    title: "Conversation: 30. Where to Take the Bus (1)"
+    url: "https://www.rong-chang.com/speak/s/bus30.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus30e.mp3"
+  - index: 279
+    slug: "bus31"
+    title: "Conversation: 31. Where to Take the Bus (2)"
+    url: "https://www.rong-chang.com/speak/s/bus31.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus31.mp3"
+  - index: 280
+    slug: "bus32"
+    title: "Conversation: 32. Where to Change the Bus (1)"
+    url: "https://www.rong-chang.com/speak/s/bus32.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus32c.mp3"
+  - index: 281
+    slug: "bus33"
+    title: "Conversation: 33. Where to Change the Bus (2)"
+    url: "https://www.rong-chang.com/speak/s/bus33.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbus33.mp3"
+  - index: 282
+    slug: "employ01"
+    title: "Conversation: 1. Looking for a Job"
+    url: "https://www.rong-chang.com/speak/s/employ01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy01.mp3"
+  - index: 283
+    slug: "employ02"
+    title: "Conversation: 2. Preparing for a Job Interview (1)"
+    url: "https://www.rong-chang.com/speak/s/employ02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy02c.mp3"
+  - index: 284
+    slug: "employ03"
+    title: "Conversation: 3. Preparing for a Job Interview (2)"
+    url: "https://www.rong-chang.com/speak/s/employ03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy03.mp3"
+  - index: 285
+    slug: "employ04"
+    title: "Conversation: 4. Greeted by Receptionist"
+    url: "https://www.rong-chang.com/speak/s/employ04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy04o047p.mp3"
+  - index: 286
+    slug: "employ05"
+    title: "Conversation: 5. Job Interview (1)"
+    url: "https://www.rong-chang.com/speak/s/employ05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy05.mp3"
+  - index: 287
+    slug: "employ06"
+    title: "Conversation: 6. Job Interview (2)"
+    url: "https://www.rong-chang.com/speak/s/employ06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy06y.mp3"
+  - index: 288
+    slug: "employ07"
+    title: "Conversation: 7. Asking questions at an Interview"
+    url: "https://www.rong-chang.com/speak/s/employ07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy07.mp3"
+  - index: 289
+    slug: "employ08"
+    title: "Conversation: 8. Accepting a Job Offer"
+    url: "https://www.rong-chang.com/speak/s/employ08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy08r.mp3"
+  - index: 290
+    slug: "employ09"
+    title: "Conversation: 9. Talking on the Phone"
+    url: "https://www.rong-chang.com/speak/s/employ09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy09.mp3"
+  - index: 291
+    slug: "employ10"
+    title: "Conversation: 10. Request for Office Supplies"
+    url: "https://www.rong-chang.com/speak/s/employ10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy10i.mp3"
+  - index: 292
+    slug: "employ11"
+    title: "Conversation: 11. Offering Help"
+    url: "https://www.rong-chang.com/speak/s/employ11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy11.mp3"
+  - index: 293
+    slug: "employ12"
+    title: "Conversation: 12. Asking for Help"
+    url: "https://www.rong-chang.com/speak/s/employ12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy12g.mp3"
+  - index: 294
+    slug: "employ13"
+    title: "Conversation: 13. Responding to a Plea for Help"
+    url: "https://www.rong-chang.com/speak/s/employ13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy13.mp3"
+  - index: 295
+    slug: "employ14"
+    title: "Conversation: 14. How to Do a Timesheet"
+    url: "https://www.rong-chang.com/speak/s/employ14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy14h.mp3"
+  - index: 296
+    slug: "employ15"
+    title: "Conversation: 15. Making a Phone Call"
+    url: "https://www.rong-chang.com/speak/s/employ15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy15.mp3"
+  - index: 297
+    slug: "employ16"
+    title: "Conversation: 16. Schedule an Appointment for a Meeting"
+    url: "https://www.rong-chang.com/speak/s/employ16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy16t.mp3"
+  - index: 298
+    slug: "employ17"
+    title: "Conversation: 17. Rearranging an Appointment"
+    url: "https://www.rong-chang.com/speak/s/employ17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy17.mp3"
+  - index: 299
+    slug: "employ18"
+    title: "Conversation: 18. Giving an Excuse for Being Late to Work"
+    url: "https://www.rong-chang.com/speak/s/employ18.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy18p.mp3"
+  - index: 300
+    slug: "employ19"
+    title: "Conversation: 19. Accepting Excuses for Not Meeting Commitments"
+    url: "https://www.rong-chang.com/speak/s/employ19.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy19.mp3"
+  - index: 301
+    slug: "employ20"
+    title: "Conversation: 20. Asking for a Description of a Person"
+    url: "https://www.rong-chang.com/speak/s/employ20.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy20r.mp3"
+  - index: 302
+    slug: "employ21"
+    title: "Conversation: 21. Asking for Permission"
+    url: "https://www.rong-chang.com/speak/s/employ21.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy21.mp3"
+  - index: 303
+    slug: "employ22"
+    title: "Conversation: 22. Express Agreement"
+    url: "https://www.rong-chang.com/speak/s/employ22.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy22o.mp3"
+  - index: 304
+    slug: "employ23"
+    title: "Conversation: 23. Express Disagreement"
+    url: "https://www.rong-chang.com/speak/s/employ23.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy23.mp3"
+  - index: 305
+    slug: "employ24"
+    title: "Conversation: 24. Express Certainty"
+    url: "https://www.rong-chang.com/speak/s/employ24.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy24t.mp3"
+  - index: 306
+    slug: "employ25"
+    title: "Conversation: 25. Express Uncertainty"
+    url: "https://www.rong-chang.com/speak/s/employ25.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy25.mp3"
+  - index: 307
+    slug: "employ26"
+    title: "Conversation: 26. Express Likes"
+    url: "https://www.rong-chang.com/speak/s/employ26.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy26e.mp3"
+  - index: 308
+    slug: "employ27"
+    title: "Conversation: 27. Express Dislikes"
+    url: "https://www.rong-chang.com/speak/s/employ27.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy27.mp3"
+  - index: 309
+    slug: "employ28"
+    title: "Conversation: 28. Making Promises"
+    url: "https://www.rong-chang.com/speak/s/employ28.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/femploy28d.mp3"
+  - index: 310
+    slug: "unemploy01"
+    title: "Conversation: 1. Unemployment Insurance"
+    url: "https://www.rong-chang.com/speak/s/unemploy01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funemploy01.mp3"
+  - index: 311
+    slug: "unemploy02"
+    title: "Conversation: 2. Calling EDD to Report Unemployment"
+    url: "https://www.rong-chang.com/speak/s/unemploy02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funemploy02t.mp3"
+  - index: 312
+    slug: "unemploy03"
+    title: "Conversation: 3. How to Collect Unemployment Benefits"
+    url: "https://www.rong-chang.com/speak/s/unemploy03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funemploy03.mp3"
+  - index: 313
+    slug: "unemploy04"
+    title: "Conversation: 4. Questions about the Forms"
+    url: "https://www.rong-chang.com/speak/s/unemploy04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funemploy04e.mp3"
+  - index: 314
+    slug: "unemploy05"
+    title: "Conversation: 5. At the EDD Office"
+    url: "https://www.rong-chang.com/speak/s/unemploy05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funemploy05.mp3"
+  - index: 315
+    slug: "unemploy06"
+    title: "Conversation: 6. Payment not Received"
+    url: "https://www.rong-chang.com/speak/s/unemploy06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funemploy06d.mp3"
+  - index: 316
+    slug: "unemploy07"
+    title: "Conversation: 7. Reduced Payments"
+    url: "https://www.rong-chang.com/speak/s/unemploy07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funemploy07.mp3"
+  - index: 317
+    slug: "unemploy08"
+    title: "Conversation: 8. Looking for Jobs at EDD"
+    url: "https://www.rong-chang.com/speak/s/unemploy08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funemploy08b.mp3"
+  - index: 318
+    slug: "unemploy09"
+    title: "Conversation: 9. Talking to People at EDD"
+    url: "https://www.rong-chang.com/speak/s/unemploy09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funemploy09y.mp3"
+  - index: 319
+    slug: "unemploy10"
+    title: "Conversation: 10. Attending a Workshop at EDD"
+    url: "https://www.rong-chang.com/speak/s/unemploy10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funemploy10.mp3"
+  - index: 320
+    slug: "unemploy11"
+    title: "Conversation: 11. How to prepare for an Interview"
+    url: "https://www.rong-chang.com/speak/s/unemploy11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/funemploy11l.mp3"
+  - index: 321
+    slug: "crime01"
+    title: "Conversation: 1. A News Report on Crime"
+    url: "https://www.rong-chang.com/speak/s/crime01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime01t.mp3"
+  - index: 322
+    slug: "crime02"
+    title: "Conversation: 2. About a Robbery"
+    url: "https://www.rong-chang.com/speak/s/crime02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime02.mp3"
+  - index: 323
+    slug: "crime03"
+    title: "Conversation: 3. Being Robbed"
+    url: "https://www.rong-chang.com/speak/s/crime03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime03p.mp3"
+  - index: 324
+    slug: "crime04"
+    title: "Conversation: 4. Witnessing a Robbery"
+    url: "https://www.rong-chang.com/speak/s/crime04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime04.mp3"
+  - index: 325
+    slug: "crime05"
+    title: "Conversation: 5. Reporting a Break-in"
+    url: "https://www.rong-chang.com/speak/s/crime05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime05r.mp3"
+  - index: 326
+    slug: "crime06"
+    title: "Conversation: 6. Picking a Suspect Out of a Line-up"
+    url: "https://www.rong-chang.com/speak/s/crime06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime06.mp3"
+  - index: 327
+    slug: "crime07"
+    title: "Conversation: 7. Answering Questions of the Police"
+    url: "https://www.rong-chang.com/speak/s/crime07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime07o.mp3"
+  - index: 328
+    slug: "crime08"
+    title: "Conversation: 8. Being Pulled Over"
+    url: "https://www.rong-chang.com/speak/s/crime08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime08.mp3"
+  - index: 329
+    slug: "crime09"
+    title: "Conversation: 9. Being Arrested"
+    url: "https://www.rong-chang.com/speak/s/crime09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime09t.mp3"
+  - index: 330
+    slug: "crime10"
+    title: "Conversation: 10. Pleading Not Guilty in Court"
+    url: "https://www.rong-chang.com/speak/s/crime10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime10.mp3"
+  - index: 331
+    slug: "crime11"
+    title: "Conversation: 11. Being Set Free"
+    url: "https://www.rong-chang.com/speak/s/crime11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime11e.mp3"
+  - index: 332
+    slug: "crime12"
+    title: "Conversation: 12. Discussing a Lawsuit against the Police"
+    url: "https://www.rong-chang.com/speak/s/crime12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime12.mp3"
+  - index: 333
+    slug: "crime13"
+    title: "Conversation: 13. Talking to a Lawyer"
+    url: "https://www.rong-chang.com/speak/s/crime13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime13.mp3"
+  - index: 334
+    slug: "crime14"
+    title: "Conversation: 14. Filing a Complaint at the Police Station"
+    url: "https://www.rong-chang.com/speak/s/crime14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fcrime14d.mp3"
+  - index: 335
+    slug: "date01"
+    title: "Conversation: 1. Dating in America"
+    url: "https://www.rong-chang.com/speak/s/date01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating01.mp3"
+  - index: 336
+    slug: "date02"
+    title: "Conversation: 2. Asking for a Date (1)"
+    url: "https://www.rong-chang.com/speak/s/date02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating02c.mp3"
+  - index: 337
+    slug: "date03"
+    title: "Conversation: 3. Asking for a Date (2)"
+    url: "https://www.rong-chang.com/speak/s/date03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating03.mp3"
+  - index: 338
+    slug: "date04"
+    title: "Conversation: 4. A Blind Date"
+    url: "https://www.rong-chang.com/speak/s/date04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating04o.mp3"
+  - index: 339
+    slug: "date05"
+    title: "Conversation: 5. Dating a long-time friend (1)"
+    url: "https://www.rong-chang.com/speak/s/date05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating05.mp3"
+  - index: 340
+    slug: "date06"
+    title: "Conversation: 6. Dating a long-time friend (2)"
+    url: "https://www.rong-chang.com/speak/s/date06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating06p.mp3"
+  - index: 341
+    slug: "date07"
+    title: "Conversation: 7. Calling After the Date (1)"
+    url: "https://www.rong-chang.com/speak/s/date07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating07.mp3"
+  - index: 342
+    slug: "date08"
+    title: "Conversation: 8. Calling After the Date (2)"
+    url: "https://www.rong-chang.com/speak/s/date08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating08y.mp3"
+  - index: 343
+    slug: "date09"
+    title: "Conversation: 9. Accepting an Invitation"
+    url: "https://www.rong-chang.com/speak/s/date09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating09p.mp3"
+  - index: 344
+    slug: "date10"
+    title: "Conversation: 10. Rejecting an Invitation"
+    url: "https://www.rong-chang.com/speak/s/date10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating10.mp3"
+  - index: 345
+    slug: "date11"
+    title: "Conversation: 11. An Argument (1)"
+    url: "https://www.rong-chang.com/speak/s/date11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating11r.mp3"
+  - index: 346
+    slug: "date12"
+    title: "Conversation: 12. An Argument (2)"
+    url: "https://www.rong-chang.com/speak/s/date12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating12.mp3"
+  - index: 347
+    slug: "date13"
+    title: "Conversation: 13. Stopping the Relationship"
+    url: "https://www.rong-chang.com/speak/s/date13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fdating13o.mp3"
+  - index: 348
+    slug: "health01"
+    title: "Conversation: 1. Health Insurance"
+    url: "https://www.rong-chang.com/speak/s/health01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth01n.mp3"
+  - index: 349
+    slug: "health02"
+    title: "Conversation: 2. A Medical Emergency"
+    url: "https://www.rong-chang.com/speak/s/health02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth02t.mp3"
+  - index: 350
+    slug: "health03"
+    title: "Conversation: 3. Going to an Emergency Room"
+    url: "https://www.rong-chang.com/speak/s/health03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth03.mp3"
+  - index: 351
+    slug: "health04"
+    title: "Conversation: 4. A Stomachache"
+    url: "https://www.rong-chang.com/speak/s/health04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth04.mp3"
+  - index: 352
+    slug: "health05"
+    title: "Conversation: 5. A Toothache"
+    url: "https://www.rong-chang.com/speak/s/health05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth05h.mp3"
+  - index: 353
+    slug: "health06"
+    title: "Conversation: 6. Buying Over-the-Counter Medicine"
+    url: "https://www.rong-chang.com/speak/s/health06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth06e3399.mp3"
+  - index: 354
+    slug: "health07"
+    title: "Conversation: 7. Filling Prescription"
+    url: "https://www.rong-chang.com/speak/s/health07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth07.mp3"
+  - index: 355
+    slug: "health08"
+    title: "Conversation: 8. Calling about Test Results"
+    url: "https://www.rong-chang.com/speak/s/health08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth08.mp3"
+  - index: 356
+    slug: "health09"
+    title: "Conversation: 9. Calling in Sick"
+    url: "https://www.rong-chang.com/speak/s/health09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth09a.mp3"
+  - index: 357
+    slug: "health10"
+    title: "Conversation: 10. Discussing Test Results"
+    url: "https://www.rong-chang.com/speak/s/health10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth10.mp3"
+  - index: 358
+    slug: "health11"
+    title: "Conversation: 11. Changing an Appointment Time"
+    url: "https://www.rong-chang.com/speak/s/health11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth11l.mp3"
+  - index: 359
+    slug: "health12"
+    title: "Conversation: 12. Going Home Early Because Of Being Ill"
+    url: "https://www.rong-chang.com/speak/s/health12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth12.mp3"
+  - index: 360
+    slug: "health13"
+    title: "Conversation: 13. Having a Blood Test in the Lab"
+    url: "https://www.rong-chang.com/speak/s/health13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth13t.mp3"
+  - index: 361
+    slug: "health14"
+    title: "Conversation: 14. Having a Cold"
+    url: "https://www.rong-chang.com/speak/s/health14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth14.mp3"
+  - index: 362
+    slug: "health15"
+    title: "Conversation: 15. Making a Doctor's Appointment"
+    url: "https://www.rong-chang.com/speak/s/health15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth15h.mp3"
+  - index: 363
+    slug: "health16"
+    title: "Conversation: 16. Blood Pressure"
+    url: "https://www.rong-chang.com/speak/s/health16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth16.mp3"
+  - index: 364
+    slug: "health17"
+    title: "Conversation: 17. Not Feeling Well"
+    url: "https://www.rong-chang.com/speak/s/health17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth17h.mp3"
+  - index: 365
+    slug: "health18"
+    title: "Conversation: 18. Physical Check-up"
+    url: "https://www.rong-chang.com/speak/s/health18.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth18.mp3"
+  - index: 366
+    slug: "health19"
+    title: "Conversation: 19. Seeing a Doctor in an Emergency"
+    url: "https://www.rong-chang.com/speak/s/health19.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth19e.mp3"
+  - index: 367
+    slug: "health20"
+    title: "Conversation: 20. Taking an X-Ray"
+    url: "https://www.rong-chang.com/speak/s/health20.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth20.mp3"
+  - index: 368
+    slug: "health21"
+    title: "Conversation: 21. Seeing the Doctor"
+    url: "https://www.rong-chang.com/speak/s/health21.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth21a.mp3"
+  - index: 369
+    slug: "health22"
+    title: "Conversation: 22. Asking the Doctor Questions"
+    url: "https://www.rong-chang.com/speak/s/health22.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth22l.mp3"
+  - index: 370
+    slug: "health23"
+    title: "Conversation: 23. Taking a Urine Sample"
+    url: "https://www.rong-chang.com/speak/s/health23.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth23.mp3"
+  - index: 371
+    slug: "health24"
+    title: "Conversation: 24. How to Stay Healthy"
+    url: "https://www.rong-chang.com/speak/s/health24.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth24t.mp3"
+  - index: 372
+    slug: "health25"
+    title: "Conversation: 25. Prescribing Medicine"
+    url: "https://www.rong-chang.com/speak/s/health25.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhealth25h.mp3"
+  - index: 373
+    slug: "hotel01"
+    title: "Conversation: 1. Calling to Make a Reservation"
+    url: "https://www.rong-chang.com/speak/s/hotel01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel01h.mp3"
+  - index: 374
+    slug: "hotel02"
+    title: "Conversation: 2. Making an Online Reservation"
+    url: "https://www.rong-chang.com/speak/s/hotel02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel02.mp3"
+  - index: 375
+    slug: "hotel03"
+    title: "Conversation: 3. Checking into the Hotel"
+    url: "https://www.rong-chang.com/speak/s/hotel03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel03o.mp3"
+  - index: 376
+    slug: "hotel04"
+    title: "Conversation: 4. Requesting a Wake-up Call"
+    url: "https://www.rong-chang.com/speak/s/hotel04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel04.mp3"
+  - index: 377
+    slug: "hotel05"
+    title: "Conversation: 5. Asking the Concierge for Sightseeing Advice"
+    url: "https://www.rong-chang.com/speak/s/hotel05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel05t.mp3"
+  - index: 378
+    slug: "hotel06"
+    title: "Conversation: 6. Asking the Concierge for Restaurant Advice"
+    url: "https://www.rong-chang.com/speak/s/hotel06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel06.mp3"
+  - index: 379
+    slug: "hotel07"
+    title: "Conversation: 7. Talking to Room Service"
+    url: "https://www.rong-chang.com/speak/s/hotel07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel07e.mp3"
+  - index: 380
+    slug: "hotel08"
+    title: "Conversation: 8. Calling to Report a Cockroach Problem (1)"
+    url: "https://www.rong-chang.com/speak/s/hotel08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel08.mp3"
+  - index: 381
+    slug: "hotel09"
+    title: "Conversation: 9. Calling to Report a Cockroach Problem (2)"
+    url: "https://www.rong-chang.com/speak/s/hotel09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel09l.mp3"
+  - index: 382
+    slug: "hotel10"
+    title: "Conversation: 10. Asking about the Hotel Gym"
+    url: "https://www.rong-chang.com/speak/s/hotel10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel10c89o.mp3"
+  - index: 383
+    slug: "hotel11"
+    title: "Conversation: 11. Asking for More Amenities"
+    url: "https://www.rong-chang.com/speak/s/hotel11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel11.mp3"
+  - index: 384
+    slug: "hotel12"
+    title: "Conversation: 12. Asking Where to Make a Copy"
+    url: "https://www.rong-chang.com/speak/s/hotel12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel12p.mp3"
+  - index: 385
+    slug: "hotel13"
+    title: "Conversation: 13. Calling to Report a Medical Emergency"
+    url: "https://www.rong-chang.com/speak/s/hotel13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel13.mp3"
+  - index: 386
+    slug: "hotel14"
+    title: "Conversation: 14. Calling for a Wireless Connection"
+    url: "https://www.rong-chang.com/speak/s/hotel14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel14y.mp3"
+  - index: 387
+    slug: "hotel15"
+    title: "Conversation: 15. Requesting More Supplies for the Minibar"
+    url: "https://www.rong-chang.com/speak/s/hotel15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel15.mp3"
+  - index: 388
+    slug: "hotel16"
+    title: "Conversation: 16. Asking about the Swimming Pool"
+    url: "https://www.rong-chang.com/speak/s/hotel16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel16r.mp3"
+  - index: 389
+    slug: "hotel17"
+    title: "Conversation: 17. Getting a Taxi via the Front Desk"
+    url: "https://www.rong-chang.com/speak/s/hotel17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel17.mp3"
+  - index: 390
+    slug: "hotel18"
+    title: "Conversation: 18. Checking Out"
+    url: "https://www.rong-chang.com/speak/s/hotel18.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel18i.mp3"
+  - index: 391
+    slug: "hotel19"
+    title: "Conversation: 19. Disputing the Bill"
+    url: "https://www.rong-chang.com/speak/s/hotel19.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel19.mp3"
+  - index: 392
+    slug: "hotel20"
+    title: "Conversation: 20. Storing Luggage for a Few Hours"
+    url: "https://www.rong-chang.com/speak/s/hotel20.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel20g.mp3"
+  - index: 393
+    slug: "hotel21"
+    title: "Conversation: 21. To Hold a Parcel for Pick-up"
+    url: "https://www.rong-chang.com/speak/s/hotel21.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel21.mp3"
+  - index: 394
+    slug: "hotel22"
+    title: "Conversation: 22. Calling to Cancel a Reservation"
+    url: "https://www.rong-chang.com/speak/s/hotel22.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fhotel22h.mp3"
+  - index: 395
+    slug: "social01"
+    title: "Conversation: 1. Making Plans for the Weekend"
+    url: "https://www.rong-chang.com/speak/s/social01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial01.mp3"
+  - index: 396
+    slug: "social02"
+    title: "Conversation: 2. Going to a Party"
+    url: "https://www.rong-chang.com/speak/s/social02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial02e.mp3"
+  - index: 397
+    slug: "social03"
+    title: "Conversation: 3. Inviting a Friend to a Birthday Party"
+    url: "https://www.rong-chang.com/speak/s/social03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial03.mp3"
+  - index: 398
+    slug: "social04"
+    title: "Conversation: 4. Inviting Your Boss to a Dinner Party"
+    url: "https://www.rong-chang.com/speak/s/social04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial04d.mp3"
+  - index: 399
+    slug: "social05"
+    title: "Conversation: 5. Accepting an Invitation to a Party"
+    url: "https://www.rong-chang.com/speak/s/social05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial05.mp3"
+  - index: 400
+    slug: "social06"
+    title: "Conversation: 6. Decline an Invitation to a Party"
+    url: "https://www.rong-chang.com/speak/s/social06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial06s.mp3"
+  - index: 401
+    slug: "social07"
+    title: "Conversation: 7. Buying Flowers"
+    url: "https://www.rong-chang.com/speak/s/social07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial07.mp3"
+  - index: 402
+    slug: "social08"
+    title: "Conversation: 8. Choosing a Gift"
+    url: "https://www.rong-chang.com/speak/s/social08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial08o.mp3"
+  - index: 403
+    slug: "social09"
+    title: "Conversation: 9. Greeting a Visitor"
+    url: "https://www.rong-chang.com/speak/s/social09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial09.mp3"
+  - index: 404
+    slug: "social10"
+    title: "Conversation: 10. Greeting an Old Friend"
+    url: "https://www.rong-chang.com/speak/s/social10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial10c.mp3"
+  - index: 405
+    slug: "social11"
+    title: "Conversation: 11. Accepting Food or Drinks"
+    url: "https://www.rong-chang.com/speak/s/social11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial11.mp3"
+  - index: 406
+    slug: "social12"
+    title: "Conversation: 12. Declining Food or Drinks"
+    url: "https://www.rong-chang.com/speak/s/social12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial12ia.mp3"
+  - index: 407
+    slug: "social13"
+    title: "Conversation: 13. Gossiping"
+    url: "https://www.rong-chang.com/speak/s/social13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial13.mp3"
+  - index: 408
+    slug: "social14"
+    title: "Conversation: 14. Wedding Discussion"
+    url: "https://www.rong-chang.com/speak/s/social14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial14l.mp3"
+  - index: 409
+    slug: "social15"
+    title: "Conversation: 15. At Beach"
+    url: "https://www.rong-chang.com/speak/s/social15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsocial15.mp3"
+  - index: 410
+    slug: "travel01"
+    title: "Conversation: 1. Visiting a Travel Agent"
+    url: "https://www.rong-chang.com/speak/s/travel01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel01t.mp3"
+  - index: 411
+    slug: "travel02"
+    title: "Conversation: 2. Making a Plane Reservation"
+    url: "https://www.rong-chang.com/speak/s/travel02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel02.mp3"
+  - index: 412
+    slug: "travel03"
+    title: "Conversation: 3. Booking a Flight Online"
+    url: "https://www.rong-chang.com/speak/s/travel03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel03ra.mp3"
+  - index: 413
+    slug: "travel04"
+    title: "Conversation: 4. Buying a Plane Ticket"
+    url: "https://www.rong-chang.com/speak/s/travel04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel04.mp3"
+  - index: 414
+    slug: "travel05"
+    title: "Conversation: 5. Making a Hotel Reservation"
+    url: "https://www.rong-chang.com/speak/s/travel05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel05v.mp3"
+  - index: 415
+    slug: "travel06"
+    title: "Conversation: 6. Getting a Passport"
+    url: "https://www.rong-chang.com/speak/s/travel06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel06.mp3"
+  - index: 416
+    slug: "travel07"
+    title: "Conversation: 7. Luggage Limits"
+    url: "https://www.rong-chang.com/speak/s/travel07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel07e.mp3"
+  - index: 417
+    slug: "travel08"
+    title: "Conversation: 8. Carry-on Luggage"
+    url: "https://www.rong-chang.com/speak/s/travel08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel08.mp3"
+  - index: 418
+    slug: "travel09"
+    title: "Conversation: 9. Dropping Off at the Airport"
+    url: "https://www.rong-chang.com/speak/s/travel09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel09l.mp3"
+  - index: 419
+    slug: "travel10"
+    title: "Conversation: 10. Picking Up at the Airport"
+    url: "https://www.rong-chang.com/speak/s/travel10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel10.mp3"
+  - index: 420
+    slug: "travel11"
+    title: "Conversation: 11. Going through the Customs"
+    url: "https://www.rong-chang.com/speak/s/travel11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel11a.mp3"
+  - index: 421
+    slug: "travel12"
+    title: "Conversation: 12. Talking to a Curbside Agent"
+    url: "https://www.rong-chang.com/speak/s/travel12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel12.mp3"
+  - index: 422
+    slug: "travel13"
+    title: "Conversation: 13. Talking to a Flight Attendant"
+    url: "https://www.rong-chang.com/speak/s/travel13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel13r.mp3"
+  - index: 423
+    slug: "travel14"
+    title: "Conversation: 14. Talking to a Seatmate"
+    url: "https://www.rong-chang.com/speak/s/travel14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel14.mp3"
+  - index: 424
+    slug: "travel15"
+    title: "Conversation: 15. Ordering Food and Drink"
+    url: "https://www.rong-chang.com/speak/s/travel15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel15o.mp3"
+  - index: 425
+    slug: "travel16"
+    title: "Conversation: 16. Missing Connecting Flight"
+    url: "https://www.rong-chang.com/speak/s/travel16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel16.mp3"
+  - index: 426
+    slug: "travel17"
+    title: "Conversation: 17. Ground Transportation"
+    url: "https://www.rong-chang.com/speak/s/travel17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel17u.mp3"
+  - index: 427
+    slug: "travel18"
+    title: "Conversation: 18. Arranging a Tour of the City"
+    url: "https://www.rong-chang.com/speak/s/travel18.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel18.mp3"
+  - index: 428
+    slug: "travel19"
+    title: "Conversation: 19. Complaining about a Tour"
+    url: "https://www.rong-chang.com/speak/s/travel19.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel19n.mp3"
+  - index: 429
+    slug: "travel20"
+    title: "Conversation: 20. Sightseeing"
+    url: "https://www.rong-chang.com/speak/s/travel20.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel20.mp3"
+  - index: 430
+    slug: "travel21"
+    title: "Conversation: 21. Making Alternate Plans"
+    url: "https://www.rong-chang.com/speak/s/travel21.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel21d.mp3"
+  - index: 431
+    slug: "travel22"
+    title: "Conversation: 22. Shopping for Souvenirs"
+    url: "https://www.rong-chang.com/speak/s/travel22.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel22.mp3"
+  - index: 432
+    slug: "travel23"
+    title: "Conversation: 23. Losing the Wallet and Passport"
+    url: "https://www.rong-chang.com/speak/s/travel23.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel23t.mp3"
+  - index: 433
+    slug: "travel24"
+    title: "Conversation: 24. Being Cautious in a Big City"
+    url: "https://www.rong-chang.com/speak/s/travel24.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel24h.mp3"
+  - index: 434
+    slug: "travel25"
+    title: "Conversation: 25. Local Customs"
+    url: "https://www.rong-chang.com/speak/s/travel25.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel25.mp3"
+  - index: 435
+    slug: "travel26"
+    title: "Conversation: 26. Shuttle Bus at the Airport"
+    url: "https://www.rong-chang.com/speak/s/travel26.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel26e.mp3"
+  - index: 436
+    slug: "travel27"
+    title: "Conversation: 27. Arriving Home"
+    url: "https://www.rong-chang.com/speak/s/travel27.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/ftravel27w.mp3"
+  - index: 437
+    slug: "vote01"
+    title: "Conversation: 1. Election Day"
+    url: "https://www.rong-chang.com/speak/s/vote01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote01rold.mp3"
+  - index: 438
+    slug: "vote02"
+    title: "Conversation: 2. Election System"
+    url: "https://www.rong-chang.com/speak/s/vote02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote02.mp3"
+  - index: 439
+    slug: "vote03"
+    title: "Conversation: 3. Polling Place"
+    url: "https://www.rong-chang.com/speak/s/vote03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote03c.mp3"
+  - index: 440
+    slug: "vote04"
+    title: "Conversation: 4. Absentee Ballot"
+    url: "https://www.rong-chang.com/speak/s/vote04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote04.mp3"
+  - index: 441
+    slug: "vote05"
+    title: "Conversation: 5. Speaking Negatively about the Candidate"
+    url: "https://www.rong-chang.com/speak/s/vote05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote05o.mp3"
+  - index: 442
+    slug: "vote06"
+    title: "Conversation: 6. Speaking Positively about the Candidate"
+    url: "https://www.rong-chang.com/speak/s/vote06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote06.mp3"
+  - index: 443
+    slug: "vote07"
+    title: "Conversation: 7. Fundraising for Campaigns"
+    url: "https://www.rong-chang.com/speak/s/vote07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote07p.mp3"
+  - index: 444
+    slug: "vote08"
+    title: "Conversation: 8. Volunteering for Campaigns"
+    url: "https://www.rong-chang.com/speak/s/vote08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote08.mp3"
+  - index: 445
+    slug: "vote09"
+    title: "Conversation: 9. Working at the Polling Place"
+    url: "https://www.rong-chang.com/speak/s/vote09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote09y.mp3"
+  - index: 446
+    slug: "vote10"
+    title: "Conversation: 10. Asking Questions at the Polling Place"
+    url: "https://www.rong-chang.com/speak/s/vote10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote10.mp3"
+  - index: 447
+    slug: "vote11"
+    title: "Conversation: 11. Meeting Candidate before Voting"
+    url: "https://www.rong-chang.com/speak/s/vote11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote11r.mp3"
+  - index: 448
+    slug: "vote12"
+    title: "Conversation: 12. Interviewing a Voter"
+    url: "https://www.rong-chang.com/speak/s/vote12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote12.mp3"
+  - index: 449
+    slug: "vote13"
+    title: "Conversation: 13. Excitement after Voting"
+    url: "https://www.rong-chang.com/speak/s/vote13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote13i.mp3"
+  - index: 450
+    slug: "vote14"
+    title: "Conversation: 14. Discussing Who You Voted for"
+    url: "https://www.rong-chang.com/speak/s/vote14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote14.mp3"
+  - index: 451
+    slug: "vote15"
+    title: "Conversation: 15. Disappointed at the Result"
+    url: "https://www.rong-chang.com/speak/s/vote15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote15g.mp3"
+  - index: 452
+    slug: "vote16"
+    title: "Conversation: 16. Happy with the Result"
+    url: "https://www.rong-chang.com/speak/s/vote16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote16.mp3"
+  - index: 453
+    slug: "vote17"
+    title: "Conversation: 17. Comments on the New President"
+    url: "https://www.rong-chang.com/speak/s/vote17.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fvote17t.mp3"
+  - index: 454
+    slug: "buyhouse01"
+    title: "Conversation: 1. Going to an Open House"
+    url: "https://www.rong-chang.com/speak/s/buyhouse01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse01c5.mp3"
+  - index: 455
+    slug: "buyhouse02"
+    title: "Conversation: 2. First Meeting with a Realtor"
+    url: "https://www.rong-chang.com/speak/s/buyhouse02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse02.mp3"
+  - index: 456
+    slug: "buyhouse03"
+    title: "Conversation: 3. Pre-Qualifying for a Loan"
+    url: "https://www.rong-chang.com/speak/s/buyhouse03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse03p67.mp3"
+  - index: 457
+    slug: "buyhouse04"
+    title: "Conversation: 4. An Appointment to View Houses"
+    url: "https://www.rong-chang.com/speak/s/buyhouse04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse04.mp3"
+  - index: 458
+    slug: "buyhouse05"
+    title: "Conversation: 5. Viewing Houses with a Realtor"
+    url: "https://www.rong-chang.com/speak/s/buyhouse05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse05y.mp3"
+  - index: 459
+    slug: "buyhouse06"
+    title: "Conversation: 6. Do not Like the House (1)"
+    url: "https://www.rong-chang.com/speak/s/buyhouse06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse06.mp3"
+  - index: 460
+    slug: "buyhouse07"
+    title: "Conversation: 7. Do not Like the House (2)"
+    url: "https://www.rong-chang.com/speak/s/buyhouse07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse07r.mp3"
+  - index: 461
+    slug: "buyhouse08"
+    title: "Conversation: 8. Find a House You Like"
+    url: "https://www.rong-chang.com/speak/s/buyhouse08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse08.mp3"
+  - index: 462
+    slug: "buyhouse09"
+    title: "Conversation: 9. Making an Offer through the Realtor"
+    url: "https://www.rong-chang.com/speak/s/buyhouse09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse09i.mp3"
+  - index: 463
+    slug: "buyhouse10"
+    title: "Conversation: 10. Discussing a Counter-Offer"
+    url: "https://www.rong-chang.com/speak/s/buyhouse10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse10.mp3"
+  - index: 464
+    slug: "buyhouse11"
+    title: "Conversation: 11: Re-offering and Acceptance"
+    url: "https://www.rong-chang.com/speak/s/buyhouse11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse11g.mp3"
+  - index: 465
+    slug: "buyhouse12"
+    title: "Conversation: 12. Discussing Home Inspection"
+    url: "https://www.rong-chang.com/speak/s/buyhouse12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse12.mp3"
+  - index: 466
+    slug: "buyhouse13"
+    title: "Conversation: 13. Signing Escrow Papers"
+    url: "https://www.rong-chang.com/speak/s/buyhouse13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse13h.mp3"
+  - index: 467
+    slug: "buyhouse14"
+    title: "Conversation: 14. Details of Moving In"
+    url: "https://www.rong-chang.com/speak/s/buyhouse14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fbuyhouse14.mp3"
+  - index: 468
+    slug: "sellhouse01"
+    title: "Conversation: 1. Ready To Sell the House"
+    url: "https://www.rong-chang.com/speak/s/sellhouse01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse01c.mp3"
+  - index: 469
+    slug: "sellhouse02"
+    title: "Conversation: 2. Marketing the House"
+    url: "https://www.rong-chang.com/speak/s/sellhouse02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse02.mp3"
+  - index: 470
+    slug: "sellhouse03"
+    title: "Conversation: 3. Setting an Asking Price"
+    url: "https://www.rong-chang.com/speak/s/sellhouse03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse03o.mp3"
+  - index: 471
+    slug: "sellhouse04"
+    title: "Conversation: 4. Signing a Contract with a Realtor"
+    url: "https://www.rong-chang.com/speak/s/sellhouse04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse04.mp3"
+  - index: 472
+    slug: "sellhouse05"
+    title: "Conversation: 5. Home Security During Listing"
+    url: "https://www.rong-chang.com/speak/s/sellhouse05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse05p.mp3"
+  - index: 473
+    slug: "sellhouse06"
+    title: "Conversation: 6. Fixing up the Interior"
+    url: "https://www.rong-chang.com/speak/s/sellhouse06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse06.mp3"
+  - index: 474
+    slug: "sellhouse07"
+    title: "Conversation: 7. Fixing up the Exterior"
+    url: "https://www.rong-chang.com/speak/s/sellhouse07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse07y.mp3"
+  - index: 475
+    slug: "sellhouse08"
+    title: "Conversation: 8. Preparing for an Open house"
+    url: "https://www.rong-chang.com/speak/s/sellhouse08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse08.mp3"
+  - index: 476
+    slug: "sellhouse09"
+    title: "Conversation: 9. Accepting an Offer"
+    url: "https://www.rong-chang.com/speak/s/sellhouse09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse09r.mp3"
+  - index: 477
+    slug: "sellhouse10"
+    title: "Conversation: 10. Counteroffer"
+    url: "https://www.rong-chang.com/speak/s/sellhouse10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse10.mp3"
+  - index: 478
+    slug: "sellhouse11"
+    title: "Conversation: 11. Rejecting a Counteroffer"
+    url: "https://www.rong-chang.com/speak/s/sellhouse11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse11i.mp3"
+  - index: 479
+    slug: "sellhouse12"
+    title: "Conversation: 12. Accepting a Counteroffer"
+    url: "https://www.rong-chang.com/speak/s/sellhouse12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse12.mp3"
+  - index: 480
+    slug: "sellhouse13"
+    title: "Conversation: 13. Deciding Which Offer to Accept"
+    url: "https://www.rong-chang.com/speak/s/sellhouse13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse13g.mp3"
+  - index: 481
+    slug: "sellhouse14"
+    title: "Conversation: 14. Deed Transfer"
+    url: "https://www.rong-chang.com/speak/s/sellhouse14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse14.mp3"
+  - index: 482
+    slug: "sellhouse15"
+    title: "Conversation: 15. Preparing to Move Out"
+    url: "https://www.rong-chang.com/speak/s/sellhouse15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse15h.mp3"
+  - index: 483
+    slug: "sellhouse16"
+    title: "Conversation: 16. Moving Day"
+    url: "https://www.rong-chang.com/speak/s/sellhouse16.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fsellhouse16.mp3"
+  - index: 484
+    slug: "restaurant01"
+    title: "Conversation: 1. Choosing a Good Restaurant"
+    url: "https://www.rong-chang.com/speak/s/restaurant01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant01.mp3"
+  - index: 485
+    slug: "restaurant02"
+    title: "Conversation: 2. Making a Reservation"
+    url: "https://www.rong-chang.com/speak/s/restaurant02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant02h.mp3"
+  - index: 486
+    slug: "restaurant03"
+    title: "Conversation: 3. Being seated at the Restaurant"
+    url: "https://www.rong-chang.com/speak/s/restaurant03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant03.mp3"
+  - index: 487
+    slug: "restaurant04"
+    title: "Conversation: 4. Ordering Drinks"
+    url: "https://www.rong-chang.com/speak/s/restaurant04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant04t.mp3"
+  - index: 488
+    slug: "restaurant05"
+    title: "Conversation: 5. Ordering Appetizers"
+    url: "https://www.rong-chang.com/speak/s/restaurant05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant05.mp3"
+  - index: 489
+    slug: "restaurant06"
+    title: "Conversation: 6. Ordering Main Entree"
+    url: "https://www.rong-chang.com/speak/s/restaurant06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant06p.mp3"
+  - index: 490
+    slug: "restaurant07"
+    title: "Conversation: 7. Ordering Dessert"
+    url: "https://www.rong-chang.com/speak/s/restaurant07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant07.mp3"
+  - index: 491
+    slug: "restaurant08"
+    title: "Conversation: 8. A mistake by the Waitress"
+    url: "https://www.rong-chang.com/speak/s/restaurant08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant08r.mp3"
+  - index: 492
+    slug: "restaurant09"
+    title: "Conversation: 9. Making Positive Comments on Food"
+    url: "https://www.rong-chang.com/speak/s/restaurant09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant09.mp3"
+  - index: 493
+    slug: "restaurant10"
+    title: "Conversation: 10. Making Negative Comments on Food"
+    url: "https://www.rong-chang.com/speak/s/restaurant10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant10o.mp3"
+  - index: 494
+    slug: "restaurant11"
+    title: "Conversation: 11. Good Tips for Good Service"
+    url: "https://www.rong-chang.com/speak/s/restaurant11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant11.mp3"
+  - index: 495
+    slug: "restaurant12"
+    title: "Conversation: 12. Little Tips for Bad Service"
+    url: "https://www.rong-chang.com/speak/s/restaurant12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant12t.mp3"
+  - index: 496
+    slug: "restaurant13"
+    title: "Conversation: 13. Talking Positively About a Restaurant"
+    url: "https://www.rong-chang.com/speak/s/restaurant13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant13e.mp3"
+  - index: 497
+    slug: "restaurant14"
+    title: "Conversation: 14. Talking Negative about a Restaurant"
+    url: "https://www.rong-chang.com/speak/s/restaurant14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant14c.mp3"
+  - index: 498
+    slug: "restaurant15"
+    title: "Conversation: 15. At a Fast Food Restaurant"
+    url: "https://www.rong-chang.com/speak/s/restaurant15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/frestaurant15t.mp3"
+  - index: 499
+    slug: "neighborhood01"
+    title: "Conversation: 1. Moving Into a New Neighborhood"
+    url: "https://www.rong-chang.com/speak/s/neighborhood01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fneighbor01.mp3"
+  - index: 500
+    slug: "neighborhood02"
+    title: "Conversation: 2. Meeting New Neighbors"
+    url: "https://www.rong-chang.com/speak/s/neighborhood02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fneighbor02c.mp3"
+  - index: 501
+    slug: "neighborhood03"
+    title: "Conversation: 3. Nearby Grocery Stores"
+    url: "https://www.rong-chang.com/speak/s/neighborhood03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fneighbor03op.mp3"
+  - index: 502
+    slug: "neighborhood04"
+    title: "Conversation: 4. Find a Church"
+    url: "https://www.rong-chang.com/speak/s/neighborhood04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fneighbor04.mp3"
+  - index: 503
+    slug: "neighborhood05"
+    title: "Conversation: 5. Find Places to Eat"
+    url: "https://www.rong-chang.com/speak/s/neighborhood05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fneighbor05y.mp3"
+  - index: 504
+    slug: "neighborhood06"
+    title: "Conversation: 6. The Nearest Mall"
+    url: "https://www.rong-chang.com/speak/s/neighborhood06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fneighbor06.mp3"
+  - index: 505
+    slug: "neighborhood07"
+    title: "Conversation: 7. At the Public Library"
+    url: "https://www.rong-chang.com/speak/s/neighborhood07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fneighbor07r.mp3"
+  - index: 506
+    slug: "neighborhood08"
+    title: "Conversation: 8. Enrolling a Child in School"
+    url: "https://www.rong-chang.com/speak/s/neighborhood08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fneighbor08.mp3"
+  - index: 507
+    slug: "neighborhood09"
+    title: "Conversation: 9. Hailing a Cab"
+    url: "https://www.rong-chang.com/speak/s/neighborhood09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fneighbor09i.mp3"
+  - index: 508
+    slug: "neighborhood10"
+    title: "Conversation: 10. Taking a Walk around a Park"
+    url: "https://www.rong-chang.com/speak/s/neighborhood10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fneighbor10.mp3"
+  - index: 509
+    slug: "neighborhood11"
+    title: "Conversation: 11. Playing with Kids at the Park"
+    url: "https://www.rong-chang.com/speak/s/neighborhood11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fneighbor11g.mp3"
+  - index: 510
+    slug: "entertain01"
+    title: "Conversation: 1. A New Game"
+    url: "https://www.rong-chang.com/speak/s/entertain01.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain01e.mp3"
+  - index: 511
+    slug: "entertain02"
+    title: "Conversation: 2. A Comic Book"
+    url: "https://www.rong-chang.com/speak/s/entertain02.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain02.mp3"
+  - index: 512
+    slug: "entertain03"
+    title: "Conversation: 3. Anime Series"
+    url: "https://www.rong-chang.com/speak/s/entertain03.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain03n.mp3"
+  - index: 513
+    slug: "entertain04"
+    title: "Conversation: 4. Comic-Con"
+    url: "https://www.rong-chang.com/speak/s/entertain04.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain04.mp3"
+  - index: 514
+    slug: "entertain05"
+    title: "Conversation: 5. Sitting on the Swings"
+    url: "https://www.rong-chang.com/speak/s/entertain05.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain05t.mp3"
+  - index: 515
+    slug: "entertain06"
+    title: "Conversation: 6. Enjoy Reading"
+    url: "https://www.rong-chang.com/speak/s/entertain06.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain06e.mp3"
+  - index: 516
+    slug: "entertain07"
+    title: "Conversation: 7. LARPing"
+    url: "https://www.rong-chang.com/speak/s/entertain07.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain07r.mp3"
+  - index: 517
+    slug: "entertain08"
+    title: "Conversation: 8. Arcade"
+    url: "https://www.rong-chang.com/speak/s/entertain08.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain08.mp3"
+  - index: 518
+    slug: "entertain09"
+    title: "Conversation: 9. Movie Stars"
+    url: "https://www.rong-chang.com/speak/s/entertain09.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain09t.mp3"
+  - index: 519
+    slug: "entertain10"
+    title: "Conversation: 10. Awards Show"
+    url: "https://www.rong-chang.com/speak/s/entertain10.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain10.mp3"
+  - index: 520
+    slug: "entertain11"
+    title: "Conversation: 11. Movie Rental"
+    url: "https://www.rong-chang.com/speak/s/entertain11.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain11ai.mp3"
+  - index: 521
+    slug: "entertain12"
+    title: "Conversation: 12. Not a Shooting Game"
+    url: "https://www.rong-chang.com/speak/s/entertain12.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain12m.mp3"
+  - index: 522
+    slug: "entertain13"
+    title: "Conversation: 13. Enthusiastic Fan"
+    url: "https://www.rong-chang.com/speak/s/entertain13.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain13.mp3"
+  - index: 523
+    slug: "entertain14"
+    title: "Conversation: 14. Record it for Me"
+    url: "https://www.rong-chang.com/speak/s/entertain14.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain14e.mp3"
+  - index: 524
+    slug: "entertain15"
+    title: "Conversation: 15. Beautiful Opera"
+    url: "https://www.rong-chang.com/speak/s/entertain15.htm"
+    mp3: "https://www.rong-chang.com/speak/audio/fentertain15.mp3"

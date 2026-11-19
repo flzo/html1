@@ -1,0 +1,38 @@
+A: How may I help you?
+B: I need to return these books.
+A: What happened to this one?
+B: The cover came off.
+A: You're going to need to pay for the damage.
+B: How much are you talking?
+A: It's going to be five dollars.
+B: That's not bad at all.
+A: It really isn't.
+B: Here you go.
+A: Thank you very much.
+B: You're welcome. Have a nice day.
+
+A: What can I do for you?
+B: I am returning these books.
+A: What did you do to this book?
+B: I accidentally ripped the cover.
+A: You will need to pay for the damage.
+B: How much do I need to pay?
+A: I'm going to need five dollars.
+B: That's not too expensive.
+A: It isn't.
+B: Here's the five dollars.
+A: Thank you.
+B: No problem. Have a good one.
+
+A: May I help you with something?
+B: I would like to return these books.
+A: What happened to this book?
+B: I dropped it, and the cover tore off.
+A: I'm going to have to charge you for the damage.
+B: How much?
+A: It's only five dollars.
+B: That's not too bad.
+A: I know it's not.
+B: Here's the money for the book.
+A: Thank you for your payment.
+B: You are very welcome.

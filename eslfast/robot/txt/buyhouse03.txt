@@ -1,0 +1,32 @@
+A: I would like to make an appointment to look at houses.
+B: Sure, would you prefer looking in the morning or afternoon?
+A: I would prefer mornings.
+B: Can you go during the week, or can you only go during the weekend?
+A: Going to look at houses during the week is best for me.
+B: Where would you like me to pick you up?
+A: I will meet you at the real estate office.
+B: I am thinking of looking at three houses, and it will take about two hours.
+A: That sounds good to me.
+B: Once I contact the owners and confirm the times, I will e-mail you a schedule.
+
+A: I would like to pick a time to look at houses with you.
+B: Would mornings or afternoons be best for you?
+A: It is easier for me to take off work in the afternoon.
+B: It is best if we can go during the week; does that work for you?
+A: Because of work, I can only go look at houses on the weekend.
+B: Would you like to meet at the real estate office, or should I pick you up at home?
+A: If you could pick me up at home, that would be great.
+B: We could spend most of the day looking at houses to see all that we have to see.
+A: That might be a little too much, but we'll see how it goes.
+B: I will fax you a schedule as soon as I contact the owners to confirm the times.
+
+A: Can we choose a time to look at houses together?
+B: Can you do that in the mornings, or would the afternoons be best?
+A: Either way is good for me.
+B: There are a number of open houses this weekend in your area. Would that okay with you?
+A: I can take a little time off work, or I can go on a weekend, also.
+B: We could meet at the real estate office, or I could pick you up at your home.
+A: I am leaving from work, so maybe I could just meet you at the first house that we will look at.
+B: I can think of five houses that we should look at. It will take most of the day.
+A: I would like to see as many as possible.
+B: When I have confirmed the times with the owners, I will e-mail you our plans for the day.

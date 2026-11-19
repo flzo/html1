@@ -1,0 +1,509 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/gradedread1/gr/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-18T15:43:59+08:00"
+  total: 100
+  failed: 0
+pages:
+  - index: 1
+    slug: "gr1001"
+    title: "1. Taking Online Classes"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1001.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1001.mp3"
+  - index: 2
+    slug: "gr1002"
+    title: "2. Screen Time Limit"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1002.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1002.mp3"
+  - index: 3
+    slug: "gr1003"
+    title: "3. Waking Up Late"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1003.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1003.mp3"
+  - index: 4
+    slug: "gr1004"
+    title: "4. A Pen Out of Ink"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1004.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1004.mp3"
+  - index: 5
+    slug: "gr1005"
+    title: "5. Falling Asleep in Class"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1005.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1005.mp3"
+  - index: 6
+    slug: "gr1006"
+    title: "6. A Busy Schedule"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1006.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1006.mp3"
+  - index: 7
+    slug: "gr1007"
+    title: "7. The School Cafeteria"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1007.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1007.mp3"
+  - index: 8
+    slug: "gr1008"
+    title: "8. Locker Assignment"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1008.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1008.mp3"
+  - index: 9
+    slug: "gr1009"
+    title: "9. Homecoming"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1009.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1009.mp3"
+  - index: 10
+    slug: "gr1010"
+    title: "10. Selling Candy Bars"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1010.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1010.mp3"
+  - index: 11
+    slug: "gr1011"
+    title: "11. Buying a New Bike"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1011.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1011.mp3"
+  - index: 12
+    slug: "gr1012"
+    title: "12. At the Bakery Shop"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1012.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1012.mp3"
+  - index: 13
+    slug: "gr1013"
+    title: "13. At the Corner Store"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1013.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1013.mp3"
+  - index: 14
+    slug: "gr1014"
+    title: "14. Frozen Yogurt"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1014.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1014.mp3"
+  - index: 15
+    slug: "gr1015"
+    title: "15. Bananas"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1015.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1015.mp3"
+  - index: 16
+    slug: "gr1016"
+    title: "16. Vegetarian"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1016.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1016.mp3"
+  - index: 17
+    slug: "gr1017"
+    title: "17. Trying Coffee for the First Time"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1017.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1017.mp3"
+  - index: 18
+    slug: "gr1018"
+    title: "18. Hot Dog Toppings"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1018.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1018.mp3"
+  - index: 19
+    slug: "gr1019"
+    title: "19. Expired Yogurt"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1019.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1019.mp3"
+  - index: 20
+    slug: "gr1020"
+    title: "20. Cereal and Milk for Breakfast"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1020.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1020.mp3"
+  - index: 21
+    slug: "gr1021"
+    title: "21. Cooking Chicken Drumsticks"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1021.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1021.mp3"
+  - index: 22
+    slug: "gr1022"
+    title: "22. Breakfast at a Restaurant"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1022.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1022.mp3"
+  - index: 23
+    slug: "gr1023"
+    title: "23. The Snack Shop"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1023.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1023.mp3"
+  - index: 24
+    slug: "gr1024"
+    title: "24. The Ice Cream Shop"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1024.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1024.mp3"
+  - index: 25
+    slug: "gr1025"
+    title: "25. A Sandwich for Lunch"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1025.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1025.mp3"
+  - index: 26
+    slug: "gr1026"
+    title: "26. A Spicy Surprise"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1026.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1026.mp3"
+  - index: 27
+    slug: "gr1027"
+    title: "27. The Kitchen Cabinet"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1027.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1027.mp3"
+  - index: 28
+    slug: "gr1028"
+    title: "28. A Free Meal"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1028.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1028.mp3"
+  - index: 29
+    slug: "gr1029"
+    title: "29. Different Clothes"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1029.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1029.mp3"
+  - index: 30
+    slug: "gr1030"
+    title: "30. Different Hats"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1030.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1030.mp3"
+  - index: 31
+    slug: "gr1031"
+    title: "31. An Extra Sweater"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1031.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1031.mp3"
+  - index: 32
+    slug: "gr1032"
+    title: "32. Buying a Laptop"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1032.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1032.mp3"
+  - index: 33
+    slug: "gr1033"
+    title: "33. A Twin Size Bed"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1033.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1033.mp3"
+  - index: 34
+    slug: "gr1034"
+    title: "34. Clearance Sale"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1034.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1034.mp3"
+  - index: 35
+    slug: "gr1035"
+    title: "35. Shopping Online"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1035.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1035.mp3"
+  - index: 36
+    slug: "gr1036"
+    title: "36. Turtles in the Lake"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1036.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1036.mp3"
+  - index: 37
+    slug: "gr1037"
+    title: "37. A Loving Dog"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1037.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1037.mp3"
+  - index: 38
+    slug: "gr1038"
+    title: "38. A Class Pet"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1038.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1038.mp3"
+  - index: 39
+    slug: "gr1039"
+    title: "39. A Little Ladybug"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1039.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1039.mp3"
+  - index: 40
+    slug: "gr1040"
+    title: "40. A Scary Spider"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1040.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1040.mp3"
+  - index: 41
+    slug: "gr1041"
+    title: "41. Ducks at the Lake"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1041.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1041.mp3"
+  - index: 42
+    slug: "gr1042"
+    title: "42. Seeing a Rainbow"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1042.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1042.mp3"
+  - index: 43
+    slug: "gr1043"
+    title: "43. An Unexpected Rainy Day"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1043.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1043.mp3"
+  - index: 44
+    slug: "gr1044"
+    title: "44. A Hot Day"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1044.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1044.mp3"
+  - index: 45
+    slug: "gr1045"
+    title: "45. A Baseball Game"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1045.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1045.mp3"
+  - index: 46
+    slug: "gr1046"
+    title: "46. Watching American Football"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1046.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1046.mp3"
+  - index: 47
+    slug: "gr1047"
+    title: "47. A Baseball Star"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1047.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1047.mp3"
+  - index: 48
+    slug: "gr1048"
+    title: "48. An Art Museum"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1048.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1048.mp3"
+  - index: 49
+    slug: "gr1049"
+    title: "49. The Amusement Park"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1049.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1049.mp3"
+  - index: 50
+    slug: "gr1050"
+    title: "50. The Summer Camp"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1050.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1050.mp3"
+  - index: 51
+    slug: "gr1051"
+    title: "51. Visiting Uncle Joseph"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1051.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1051.mp3"
+  - index: 52
+    slug: "gr1052"
+    title: "52. Promise to Talk Every Day"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1052.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1052.mp3"
+  - index: 53
+    slug: "gr1053"
+    title: "53. Cathy Likes Eric"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1053.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1053.mp3"
+  - index: 54
+    slug: "gr1054"
+    title: "54. A Surprise Party"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1054.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1054.mp3"
+  - index: 55
+    slug: "gr1055"
+    title: "55. Tutoring"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1055.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1055.mp3"
+  - index: 56
+    slug: "gr1056"
+    title: "56. Retaking a Class"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1056.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1056.mp3"
+  - index: 57
+    slug: "gr1057"
+    title: "57. The School Uniform"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1057.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1057.mp3"
+  - index: 58
+    slug: "gr1058"
+    title: "58. Socks of Different Colors"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1058.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1058.mp3"
+  - index: 59
+    slug: "gr1059"
+    title: "59. Sitting in the Front Row"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1059.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1059.mp3"
+  - index: 60
+    slug: "gr1060"
+    title: "60. An Uphill Walk"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1060.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1060.mp3"
+  - index: 61
+    slug: "gr1061"
+    title: "61. The Playground"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1061.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1061.mp3"
+  - index: 62
+    slug: "gr1062"
+    title: "62. Stage Fright"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1062.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1062.mp3"
+  - index: 63
+    slug: "gr1063"
+    title: "63. Violin Lessons"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1063.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1063.mp3"
+  - index: 64
+    slug: "gr1064"
+    title: "64. Pretty Yellow Roses"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1064.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1064.mp3"
+  - index: 65
+    slug: "gr1065"
+    title: "65. A Fast Runner"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1065.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1065.mp3"
+  - index: 66
+    slug: "gr1066"
+    title: "66. Getting on the Bu"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1066.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1066.mp3"
+  - index: 67
+    slug: "gr1067"
+    title: "67. Coffee Stains"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1067.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1067.mp3"
+  - index: 68
+    slug: "gr1068"
+    title: "68. A Dentist"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1068.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1068.mp3"
+  - index: 69
+    slug: "gr1069"
+    title: "69. An Optometrist"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1069.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1069.mp3"
+  - index: 70
+    slug: "gr1070"
+    title: "70. Picking a Glasses Frame"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1070.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1070.mp3"
+  - index: 71
+    slug: "gr1071"
+    title: "71. The Middle Child in the Family"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1071.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1071.mp3"
+  - index: 72
+    slug: "gr1072"
+    title: "72. A Book Lover"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1072.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1072.mp3"
+  - index: 73
+    slug: "gr1073"
+    title: "73. The Colorful Season"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1073.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1073.mp3"
+  - index: 74
+    slug: "gr1074"
+    title: "74. Decorating Her Room"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1074.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1074.mp3"
+  - index: 75
+    slug: "gr1075"
+    title: "75. The Ring Toss Game"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1075.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1075.mp3"
+  - index: 76
+    slug: "gr1076"
+    title: "76. Driving for Fun"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1076.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1076.mp3"
+  - index: 77
+    slug: "gr1077"
+    title: "77. Grandfather's Stories"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1077.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1077.mp3"
+  - index: 78
+    slug: "gr1078"
+    title: "78. The Halloween Parade"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1078.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1078.mp3"
+  - index: 79
+    slug: "gr1079"
+    title: "79. Heads or Tails Flip"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1079.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1079.mp3"
+  - index: 80
+    slug: "gr1080"
+    title: "80. Being Locked Out"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1080.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1080.mp3"
+  - index: 81
+    slug: "gr1081"
+    title: "81. Packing for the Flight"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1081.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1081.mp3"
+  - index: 82
+    slug: "gr1082"
+    title: "82. An Orange Tree"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1082.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1082.mp3"
+  - index: 83
+    slug: "gr1083"
+    title: "83. Donating Clothes"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1083.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1083.mp3"
+  - index: 84
+    slug: "gr1084"
+    title: "84. It's Too Hot"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1084.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1084.mp3"
+  - index: 85
+    slug: "gr1085"
+    title: "85. Lost and Found"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1085.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1085.mp3"
+  - index: 86
+    slug: "gr1086"
+    title: "86. A Sad Movie"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1086.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1086.mp3"
+  - index: 87
+    slug: "gr1087"
+    title: "87. A House on Fire"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1087.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1087.mp3"
+  - index: 88
+    slug: "gr1088"
+    title: "88. His Stomach Hurts"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1088.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1088.mp3"
+  - index: 89
+    slug: "gr1089"
+    title: "89. Learning How to Drive"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1089.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1089.mp3"
+  - index: 90
+    slug: "gr1090"
+    title: "90. The Broken Air Conditioner"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1090.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1090.mp3"
+  - index: 91
+    slug: "gr1091"
+    title: "91. A Pimple"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1091.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1091.mp3"
+  - index: 92
+    slug: "gr1092"
+    title: "92. Getting a Debit Card"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1092.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1092.mp3"
+  - index: 93
+    slug: "gr1093"
+    title: "93. A Great Test Taker"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1093.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1093.mp3"
+  - index: 94
+    slug: "gr1094"
+    title: "94. Passing Notes in Class"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1094.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1094.mp3"
+  - index: 95
+    slug: "gr1095"
+    title: "95. An Angry Teacher"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1095.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1095.mp3"
+  - index: 96
+    slug: "gr1096"
+    title: "96. Falling Down"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1096.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1096.mp3"
+  - index: 97
+    slug: "gr1097"
+    title: "97. A Lucky Ring"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1097.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1097.mp3"
+  - index: 98
+    slug: "gr1098"
+    title: "98. In Detention for the First Time"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1098.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1098.mp3"
+  - index: 99
+    slug: "gr1099"
+    title: "99. Visiting Colleges"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1099.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1099.mp3"
+  - index: 100
+    slug: "gr1100"
+    title: "100. Picking Up Graduation Gowns"
+    url: "https://www.eslfast.com/gradedread1/gr/gr1100.htm"
+    mp3: "https://www.eslfast.com/gradedread1/audio/gr1100.mp3"

@@ -1,0 +1,38 @@
+A: Are you new in town?
+B: Yes, I did just move in.
+A: How do you like it here so far?
+B: I think it's great.
+A: Where did you move from?
+B: I was living in El Salvador.
+A: Why did you decide to move?
+B: I figured I could have a better life here.
+A: Is life hard there?
+B: There aren't many opportunities for people.
+A: Was it hard for you to move?
+B: It was hard, but I know my life will be better here.
+
+A: Did you just move here?
+B: Yes, I just moved here.
+A: Do you like it here so far?
+B: I love it here.
+A: Where did you come from?
+B: I came from El Salvador.
+A: Why'd you move?
+B: I want to make a life for myself.
+A: Is that hard to do there?
+B: It's harder to make a good life there.
+A: So, was it easy for you to leave?
+B: It wasn't easy, but things will work out better for me here.
+
+A: Are you new here?
+B: I moved here a couple weeks ago.
+A: What do you think of it here?
+B: I like it here. It's very nice.
+A: Where were you living before?
+B: I was living in El Salvador.
+A: Why'd you leave?
+B: I wanted to start a better life for myself here.
+A: You couldn't do that there?
+B: It's not easy to do well there.
+A: It must've been hard for you to leave.
+B: I miss home, but I'm happy to start a new life here.

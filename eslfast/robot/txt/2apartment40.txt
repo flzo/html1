@@ -1,0 +1,38 @@
+A: Thank you for coming.
+B: You're welcome. What's the problem?
+A: I have a leaky pipe.
+B: Where exactly is the pipe?
+A: The pipe is behind a wall in my bathroom.
+B: How long has the pipe been leaking?
+A: It began leaking a couple of days ago.
+B: I must tell you that in order to get to the pipe, I must tear down that wall.
+A: I know.
+B: That won't be a problem?
+A: Not as long as it gets fixed.
+B: All right, I will start working now.
+
+A: Thank you for coming so quickly.
+B: No problem. What's wrong?
+A: A pipe in my apartment is leaking.
+B: Where is the pipe?
+A: The pipe is in my bathroom.
+B: Can you tell me how long the pipe has been leaking?
+A: The pipe has been leaking for a couple days.
+B: You do realize that I will need to rip down your wall to get to the pipe, right?
+A: Yes, I'm aware of that.
+B: Is that all right?
+A: I just need the problem fixed.
+B: I'll get started on it now.
+
+A: I'm glad you could make it.
+B: It's my job. What can I help you with?
+A: I think a pipe burst in my apartment.
+B: In what room is this pipe?
+A: You'll find the pipe in my bathroom.
+B: When did the pipe start leaking?
+A: It's been leaking for a couple of days now.
+B: I will need to tear down that wall to fix that pipe.
+A: I understand.
+B: You're fine with that?
+A: I just want the problem taken care of.
+B: Okay. I will begin working on it now, if you'd like.

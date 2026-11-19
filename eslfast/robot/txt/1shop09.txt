@@ -1,0 +1,69 @@
+Conversation 1:
+A: Can you help me pick out a gift for my niece?
+B: Most normal little girls go wild over Barbie dolls.
+A: That sounds good. Let me see one.
+B: Here's the latest model -- Digital Barbie.
+A: She's nice. How much is she?
+B: Why, she's only $29.95.
+A: That's reasonable. I'll take it.
+B: Excellent. Would you like anything else?
+A: No, thank you.
+B: The total will be $32.42. Will that be cash?
+A: Cash will be fine.
+B: Here's your change. Thank you for shopping with us.
+
+Conversation 2:
+A: I'm looking for a gift for my niece.
+B: Well, little girls seem to love Barbie dolls.
+A: That's perfect. I want to see one.
+B: Here you are. She's called Digital Barbie.
+A: I like Digital Barbie! How much does she cost?
+B: This Barbie is only $29.95.
+A: That's perfect. Let me have her.
+B: Very good. Is there anything else you would like?
+A: No, that'll do it for now.
+B: Including tax, your total will be $32.42. Cash or charge?
+A: Let me give you cash, please.
+B: Here's your change and receipt. Thank you.
+
+Conversation 3:
+A: Do you have anything for a little girl?
+B: Well, we have some new Barbie dolls.
+A: That's a great idea. Show me the Barbie dolls.
+B: Here's one, the new, beautiful Digital Barbie. This doll is hot!
+A: How lovely! How much is she?
+B: It's only $29.95.
+A: No problem. Let me have one.
+B: That's great. Anything else?
+A: No, thank you. That's all I need at the moment.
+B: The grand total is $32.42. How would you like to pay?
+A: I'll give you cash.
+B: Thank you so much for shopping here. Here's your change and receipt.
+
+Conversation 4:
+A: I want to get something nice for my niece.
+B: Well, I've never heard of a little girl that didn't love Barbie dolls.
+A: I like that suggestion. Show me one, please.
+B: Here you go. Digital Barbie.
+A: My niece will love her! How much for her?
+B: Barbie is our best seller. She's only $29.95.
+A: That's great. I'll take her.
+B: Your niece will love this. Anything else?
+A: Thank you, but no. This will do it for now.
+B: With the tax, your total is $32.42. Would you like to charge it?
+A: I'll pay cash, thank you.
+B: Thank you for shopping here.
+
+Conversation 5:
+A: Can you help me find a nice gift for my young niece?
+B: Barbie dolls are quite popular, you know.
+A: You're right. Girls love Barbie. Show me a Barbie doll.
+B: Take a look at the newest Barbie, Digital Barbie.
+A: She's beautiful. What's the price for Digital Barbie?
+B: Our regular price for Digital Barbie is $29.95 plus tax.
+A: Only $29.95? I'll buy it, of course.
+B: Another one sold. Do you see anything else you would like?
+A: Thank you, but no. This will do it for now.
+B: Tax brings your total to $32.42. How would you like to pay?
+A: Cash, please.
+B: Here's your change. Thank you.

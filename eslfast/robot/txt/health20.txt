@@ -1,0 +1,32 @@
+A: I need a doctor's appointment right away!
+B: Is this an emergency?
+A: I am having trouble breathing.
+B: Have you had a cold lately?
+A: It has been going on for a few days now.
+B: You should hang up and dial 911.
+A: I don't think that this is that bad, but I need to see a doctor right away.
+B: Is there someone who can drive you to our Urgent Care facility on Sunset Blvd.?
+A: Yes, I can get a ride to Urgent Care.
+B: Good. When you get there, a doctor will be able to see you right away.
+
+A: I need to see a doctor soon!
+B: Do you feel this is an emergency?
+A: My chest feels tight, and I can't catch my breath.
+B: Did this come on suddenly?
+A: It started yesterday.
+B: If you feel this is a real emergency, you should dial 911 for the paramedics.
+A: I don't want to dial 911, but I want to see a doctor right now.
+B: Do you have transportation to our Urgent Care facility on Sunset Blvd.?
+A: My friend can drive me to Urgent Care.
+B: That will work out well. Remember, if you have major problems, call 911.
+
+A: I have to see the doctor right now!
+B: What makes you feel this is an emergency?
+A: I feel like I can't breathe well.
+B: How long has this been going on?
+A: It started last night.
+B: In the event of a real emergency, please dial 911.
+A: I know that I can dial 911, but I just want to go to the doctor now.
+B: In that case, can you come to our Urgent Care facility on Sunset Blvd.?
+A: My family can bring me to Urgent Care.
+B: Come in right away, and they will see you as soon as possible.

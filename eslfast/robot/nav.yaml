@@ -1,0 +1,2454 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/robot/"
+  selector: "div.content-body (segments: audio-player + p.timed)"
+  generated_at: "2026-11-18T18:34:52+08:00"
+  total: 489
+  failed: 0
+pages:
+  - index: 1
+    slug: "smalltalk01"
+    title: "Conversation: 1. Greetings"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk0101.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0102.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0103.mp3"]
+  - index: 2
+    slug: "smalltalk02"
+    title: "Conversation: 2. Weather (1)"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk0201.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0202.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0203.mp3"]
+  - index: 3
+    slug: "smalltalk03"
+    title: "Conversation: 3. Weather (2)"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk0301.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0302.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0303.mp3"]
+  - index: 4
+    slug: "smalltalk04"
+    title: "Conversation: 4. Weather (3)"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk0401.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0402.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0403.mp3"]
+  - index: 5
+    slug: "smalltalk05"
+    title: "Conversation: 5. Calling a Friend"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk0501.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0502.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0503.mp3"]
+  - index: 6
+    slug: "smalltalk06"
+    title: "Conversation: 6. Describing People"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk0601.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0602.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0603.mp3"]
+  - index: 7
+    slug: "smalltalk07"
+    title: "Conversation: 7. Expressing Concern for Someone"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk0701.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0702.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0703.mp3"]
+  - index: 8
+    slug: "smalltalk08"
+    title: "Conversation: 8. Expressing Joy at Someone's Success"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk0801.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0802.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0803.mp3"]
+  - index: 9
+    slug: "smalltalk09"
+    title: "Conversation: 9. Complimenting Someone's Clothes"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk0901.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0902.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk0903.mp3"]
+  - index: 10
+    slug: "smalltalk10"
+    title: "Conversation: 10. Leisure Activities"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk1001.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1002.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1003.mp3"]
+  - index: 11
+    slug: "smalltalk11"
+    title: "Conversation: 11. Favorite Movie"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk1101.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1102.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1103.mp3"]
+  - index: 12
+    slug: "smalltalk12"
+    title: "Conversation: 12. Favorite Music"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk1201.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1202.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1203.mp3"]
+  - index: 13
+    slug: "smalltalk13"
+    title: "Conversation: 13. Sports"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk1301.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1302.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1303.mp3"]
+  - index: 14
+    slug: "smalltalk14"
+    title: "Conversation: 14. Invitation to a Movie"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk1401.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1402.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1403.mp3"]
+  - index: 15
+    slug: "smalltalk15"
+    title: "Conversation: 15. A Sick Classmate"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk1501.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1502.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1503.mp3"]
+  - index: 16
+    slug: "smalltalk16"
+    title: "Conversation: 16. Sharing News and Information"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk1601.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1602.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1603.mp3"]
+  - index: 17
+    slug: "smalltalk17"
+    title: "Conversation: 17. Changing the Subject"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk1701.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1702.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1703.mp3"]
+  - index: 18
+    slug: "smalltalk18"
+    title: "Conversation: 18. Receiving Visitors"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk18.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk1801.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1802.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1803.mp3"]
+  - index: 19
+    slug: "smalltalk19"
+    title: "Conversation: 19. Waiting for an Invitation"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk19.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk1901.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1902.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk1903.mp3"]
+  - index: 20
+    slug: "smalltalk20"
+    title: "Conversation: 20. Accepting an Invitation to a Party"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk20.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk2001.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk2002.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk2003.mp3"]
+  - index: 21
+    slug: "smalltalk21"
+    title: "Conversation: 21. Declining an Invitation to a Party (1)"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk21.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk2101.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk2102.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk2103.mp3"]
+  - index: 22
+    slug: "smalltalk22"
+    title: "Conversation: 22. Declining an Invitation to a Party (2)"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk22.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk2201.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk2202.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk2203.mp3"]
+  - index: 23
+    slug: "smalltalk23"
+    title: "Conversation: 23. Ending a Conversation"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk23.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk2301.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk2302.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk2303.mp3"]
+  - index: 24
+    slug: "smalltalk24"
+    title: "Conversation: 24. Leave-Taking"
+    url: "https://www.eslfast.com/robot/topics/smalltalk/smalltalk24.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/smalltalk/smalltalk2401.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk2402.mp3", "https://www.eslfast.com/robot/audio/smalltalk/smalltalk2403.mp3"]
+  - index: 25
+    slug: "collegelife01"
+    title: "Conversation: 1. Registering for a Class"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife0101.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0102.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0103.mp3"]
+  - index: 26
+    slug: "collegelife02"
+    title: "Conversation: 2. Meeting New Students"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife0201.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0202.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0203.mp3"]
+  - index: 27
+    slug: "collegelife03"
+    title: "Conversation: 3. Finding a Classroom"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife0301.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0302.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0303.mp3"]
+  - index: 28
+    slug: "collegelife04"
+    title: "Conversation: 4. Buying Textbooks"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife0401.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0402.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0403.mp3"]
+  - index: 29
+    slug: "collegelife05"
+    title: "Conversation: 5. Talking about a Professor"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife0501.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0502.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0503.mp3"]
+  - index: 30
+    slug: "collegelife06"
+    title: "Conversation: 6. Making an Appointment with Your Professor"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife0601.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0602.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0603.mp3"]
+  - index: 31
+    slug: "collegelife07"
+    title: "Conversation: 7. Turning Homework in Late"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife0701.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0702.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0703.mp3"]
+  - index: 32
+    slug: "collegelife08"
+    title: "Conversation: 8. Finding an Error in Your Test Score"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife0801.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0802.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0803.mp3"]
+  - index: 33
+    slug: "collegelife09"
+    title: "Conversation: 9. Borrowing Class Notes"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife0901.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0902.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife0903.mp3"]
+  - index: 34
+    slug: "collegelife10"
+    title: "Conversation: 10. Grading Policy"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife1001.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1002.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1003.mp3"]
+  - index: 35
+    slug: "collegelife11"
+    title: "Conversation: 11. Discussing Your Grades with Your Professor"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife1101.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1102.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1103.mp3"]
+  - index: 36
+    slug: "collegelife12"
+    title: "Conversation: 12. Talking to Professor about Being Absent"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife1201.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1202.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1203.mp3"]
+  - index: 37
+    slug: "collegelife13"
+    title: "Conversation: 13. Talking to Professor about Leaving Early"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife1301.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1302.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1303.mp3"]
+  - index: 38
+    slug: "collegelife14"
+    title: "Conversation: 14. Talking to a Counselor"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife1401.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1402.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1403.mp3"]
+  - index: 39
+    slug: "collegelife15"
+    title: "Conversation: 15. Adding a Class"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife1501.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1502.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1503.mp3"]
+  - index: 40
+    slug: "collegelife16"
+    title: "Conversation: 16. Date and Time of a Field Trip"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife1601.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1602.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1603.mp3"]
+  - index: 41
+    slug: "collegelife17"
+    title: "Conversation: 17. Where to Buy Lunch"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife1701.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1702.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1703.mp3"]
+  - index: 42
+    slug: "collegelife18"
+    title: "Conversation: 18. Using a Vending Machine"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife18.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife1801.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1802.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1803.mp3"]
+  - index: 43
+    slug: "collegelife19"
+    title: "Conversation: 19. Getting a Library"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife19.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife1901.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1902.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife1903.mp3"]
+  - index: 44
+    slug: "collegelife20"
+    title: "Conversation: 20. Returning Overdue Books"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife20.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife2001.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife2002.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife2003.mp3"]
+  - index: 45
+    slug: "collegelife21"
+    title: "Conversation: 21. Using a Parking Meter"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife21.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife2101.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife2102.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife2103.mp3"]
+  - index: 46
+    slug: "collegelife22"
+    title: "Conversation: 22. Purchasing a Parking Permit"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife22.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife2201.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife2202.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife2203.mp3"]
+  - index: 47
+    slug: "collegelife23"
+    title: "Conversation: 23. Parking at School"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife23.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife2301.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife2302.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife2303.mp3"]
+  - index: 48
+    slug: "collegelife24"
+    title: "Conversation: 24. Fighting a Parking Ticket"
+    url: "https://www.eslfast.com/robot/topics/college/collegelife24.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/collegelife/collegelife2401.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife2402.mp3", "https://www.eslfast.com/robot/audio/collegelife/collegelife2403.mp3"]
+  - index: 49
+    slug: "library01"
+    title: "Conversation: 2. Applying for a Passport"
+    url: "https://www.eslfast.com/robot/topics/library/library01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library0101.mp3", "https://www.eslfast.com/robot/audio/library/library0102.mp3", "https://www.eslfast.com/robot/audio/library/library0103.mp3"]
+  - index: 50
+    slug: "library02"
+    title: "Conversation: 2. Applying for a Passport"
+    url: "https://www.eslfast.com/robot/topics/library/library02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library0201.mp3", "https://www.eslfast.com/robot/audio/library/library0202.mp3", "https://www.eslfast.com/robot/audio/library/library0203.mp3"]
+  - index: 51
+    slug: "library03"
+    title: "Conversation: 3. Asking Questions at the Information Desk"
+    url: "https://www.eslfast.com/robot/topics/library/library03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library0301.mp3", "https://www.eslfast.com/robot/audio/library/library0302.mp3", "https://www.eslfast.com/robot/audio/library/library0303.mp3"]
+  - index: 52
+    slug: "library04"
+    title: "Conversation: 4. Asking the Librarian for Assistance"
+    url: "https://www.eslfast.com/robot/topics/library/library04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library0401.mp3", "https://www.eslfast.com/robot/audio/library/library0402.mp3", "https://www.eslfast.com/robot/audio/library/library0403.mp3"]
+  - index: 53
+    slug: "library05"
+    title: "Conversation: 5. Reserving a Book"
+    url: "https://www.eslfast.com/robot/topics/library/library05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library0501.mp3", "https://www.eslfast.com/robot/audio/library/library0502.mp3", "https://www.eslfast.com/robot/audio/library/library0503.mp3"]
+  - index: 54
+    slug: "library06"
+    title: "Conversation: 6. Late Fees"
+    url: "https://www.eslfast.com/robot/topics/library/library06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library0601.mp3", "https://www.eslfast.com/robot/audio/library/library0602.mp3", "https://www.eslfast.com/robot/audio/library/library0603.mp3"]
+  - index: 55
+    slug: "library07"
+    title: "Conversation: 7. Borrowing a Book from Another Library"
+    url: "https://www.eslfast.com/robot/topics/library/library07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library0701.mp3", "https://www.eslfast.com/robot/audio/library/library0702.mp3", "https://www.eslfast.com/robot/audio/library/library0703.mp3"]
+  - index: 56
+    slug: "library08"
+    title: "Conversation: 8. Checking Out a Book"
+    url: "https://www.eslfast.com/robot/topics/library/library08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library0801.mp3", "https://www.eslfast.com/robot/audio/library/library0802.mp3", "https://www.eslfast.com/robot/audio/library/library0803.mp3"]
+  - index: 57
+    slug: "library09"
+    title: "Conversation: 9. Checking Out a Magazine"
+    url: "https://www.eslfast.com/robot/topics/library/library09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library0901.mp3", "https://www.eslfast.com/robot/audio/library/library0902.mp3", "https://www.eslfast.com/robot/audio/library/library0903.mp3"]
+  - index: 58
+    slug: "library10"
+    title: "Conversation: 10. Checking Out a Video"
+    url: "https://www.eslfast.com/robot/topics/library/library10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library1001.mp3", "https://www.eslfast.com/robot/audio/library/library1002.mp3", "https://www.eslfast.com/robot/audio/library/library1003.mp3"]
+  - index: 59
+    slug: "library11"
+    title: "Conversation: 11. Paying for Damage Made to a Book"
+    url: "https://www.eslfast.com/robot/topics/library/library11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library1101.mp3", "https://www.eslfast.com/robot/audio/library/library1102.mp3", "https://www.eslfast.com/robot/audio/library/library1103.mp3"]
+  - index: 60
+    slug: "library12"
+    title: "Conversation: 12. Returning Books Late"
+    url: "https://www.eslfast.com/robot/topics/library/library12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library1201.mp3", "https://www.eslfast.com/robot/audio/library/library1202.mp3", "https://www.eslfast.com/robot/audio/library/library1203.mp3"]
+  - index: 61
+    slug: "library13"
+    title: "Conversation: 13. Using a Computer"
+    url: "https://www.eslfast.com/robot/topics/library/library13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library1301.mp3", "https://www.eslfast.com/robot/audio/library/library1302.mp3", "https://www.eslfast.com/robot/audio/library/library1303.mp3"]
+  - index: 62
+    slug: "library14"
+    title: "Conversation: 14. Using a Copier"
+    url: "https://www.eslfast.com/robot/topics/library/library14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/library/library1401.mp3", "https://www.eslfast.com/robot/audio/library/library1402.mp3", "https://www.eslfast.com/robot/audio/library/library1403.mp3"]
+  - index: 63
+    slug: "transfer01"
+    title: "Conversation: 1. Transfer Plans"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer0101.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0102.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0103.mp3"]
+  - index: 64
+    slug: "transfer02"
+    title: "Conversation: 2. What College to Transfer to"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer0201.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0202.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0203.mp3"]
+  - index: 65
+    slug: "transfer03"
+    title: "Conversation: 3. Classes Taken for Transfer"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer0301.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0302.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0303.mp3"]
+  - index: 66
+    slug: "transfer04"
+    title: "Conversation: 4. Classes Needed for Transfer"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer0401.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0402.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0403.mp3"]
+  - index: 67
+    slug: "transfer05"
+    title: "Conversation: 5. Filling out a College Application"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer0501.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0502.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0503.mp3"]
+  - index: 68
+    slug: "transfer06"
+    title: "Conversation: 6. Registering for Classes Needed for Transfer"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer0601.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0602.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0603.mp3"]
+  - index: 69
+    slug: "transfer07"
+    title: "Conversation: 7. Talking to a Counselor about Transferring"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer0701.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0702.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0703.mp3"]
+  - index: 70
+    slug: "transfer08"
+    title: "Conversation: 8. Asking a Professor to Write a Reference Letter"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer0801.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0802.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0803.mp3"]
+  - index: 71
+    slug: "transfer09"
+    title: "Conversation: 9. Not Accepted to a University"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer0901.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0902.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer0903.mp3"]
+  - index: 72
+    slug: "transfer10"
+    title: "Conversation: 10. Deciding not to Transfer"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer1001.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer1002.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer1003.mp3"]
+  - index: 73
+    slug: "transfer11"
+    title: "Conversation: 11. Accepted to a University"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer1101.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer1102.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer1103.mp3"]
+  - index: 74
+    slug: "transfer12"
+    title: "Conversation: 12. Before Transferring to a New School"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer1201.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer1202.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer1203.mp3"]
+  - index: 75
+    slug: "transfer13"
+    title: "Conversation: 13. First Day At a New School"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer1301.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer1302.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer1303.mp3"]
+  - index: 76
+    slug: "transfer14"
+    title: "Conversation: 14. Transferring from another school"
+    url: "https://www.eslfast.com/robot/topics/transfer/transfer14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transfer/transfer1401.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer1402.mp3", "https://www.eslfast.com/robot/audio/transfer/transfer1403.mp3"]
+  - index: 77
+    slug: "social01"
+    title: "Conversation: 1. Going to a Party"
+    url: "https://www.eslfast.com/robot/topics/social/social01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social0101.mp3", "https://www.eslfast.com/robot/audio/social/social0102.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social0103.mp3"]
+  - index: 78
+    slug: "social02"
+    title: "Conversation: 2. Making Plans for the Weekend"
+    url: "https://www.eslfast.com/robot/topics/social/social02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social0201.mp3", "https://www.eslfast.com/robot/audio/social/social0202.mp3", "https://www.eslfast.com/robot/audio/social/social0203.mp3"]
+  - index: 79
+    slug: "social03"
+    title: "Conversation: 3. Inviting a Friend to a Birthday Party"
+    url: "https://www.eslfast.com/robot/topics/social/social03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social0301.mp3", "https://www.eslfast.com/robot/audio/social/social0302.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social0303.mp3"]
+  - index: 80
+    slug: "social04"
+    title: "Conversation: 4. Inviting Boss to a Dinner Party"
+    url: "https://www.eslfast.com/robot/topics/social/social04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social0401.mp3", "https://www.eslfast.com/robot/audio/social/social0402.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social0403.mp3"]
+  - index: 81
+    slug: "social05"
+    title: "Conversation: 5. Accepting Invitation to a Party"
+    url: "https://www.eslfast.com/robot/topics/social/social05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social0501.mp3", "https://www.eslfast.com/robot/audio/social/social0502.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social0503.mp3"]
+  - index: 82
+    slug: "social06"
+    title: "Conversation: 6. Buying Flowers"
+    url: "https://www.eslfast.com/robot/topics/social/social06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social0601.mp3", "https://www.eslfast.com/robot/audio/social/social0602.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social0603.mp3"]
+  - index: 83
+    slug: "social07"
+    title: "Conversation: 7. Choosing a Gift"
+    url: "https://www.eslfast.com/robot/topics/social/social07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social0701.mp3", "https://www.eslfast.com/robot/audio/social/social0702.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social0703.mp3"]
+  - index: 84
+    slug: "social08"
+    title: "Conversation: 8. Greeting a Visitor"
+    url: "https://www.eslfast.com/robot/topics/social/social08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social0801.mp3", "https://www.eslfast.com/robot/audio/social/social0802.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social0803.mp3"]
+  - index: 85
+    slug: "social09"
+    title: "Conversation: 9. Greeting an Old Friend"
+    url: "https://www.eslfast.com/robot/topics/social/social09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social0901.mp3", "https://www.eslfast.com/robot/audio/social/social0902.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social0903.mp3"]
+  - index: 86
+    slug: "social10"
+    title: "Conversation: 10. Accepting Food or Drinks"
+    url: "https://www.eslfast.com/robot/topics/social/social10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social1001.mp3", "https://www.eslfast.com/robot/audio/social/social1002.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social1003.mp3"]
+  - index: 87
+    slug: "social11"
+    title: "Conversation: 11. Declining Food or Drinks"
+    url: "https://www.eslfast.com/robot/topics/social/social11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social1101.mp3", "https://www.eslfast.com/robot/audio/social/social1102.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social1103.mp3"]
+  - index: 88
+    slug: "social12"
+    title: "Conversation: 12. Gossiping"
+    url: "https://www.eslfast.com/robot/topics/social/social12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social1201.mp3", "https://www.eslfast.com/robot/audio/social/social1202.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social1203.mp3"]
+  - index: 89
+    slug: "social13"
+    title: "Conversation: 13. Wedding Discussion"
+    url: "https://www.eslfast.com/robot/topics/social/social13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social1301.mp3", "https://www.eslfast.com/robot/audio/social/social1302.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social1303.mp3"]
+  - index: 90
+    slug: "social14"
+    title: "Conversation: 14. Going to the Beach"
+    url: "https://www.eslfast.com/robot/topics/social/social14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/social/social1401.mp3", "https://www.eslfast.com/robot/audio/social/social1402.mp3.mp3", "https://www.eslfast.com/robot/audio/social/social1403.mp3"]
+  - index: 91
+    slug: "dating01"
+    title: "Conversation: 1. Dating Discussion"
+    url: "https://www.eslfast.com/robot/topics/dating/dating01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dating/dating0101.mp3", "https://www.eslfast.com/robot/audio/dating/dating0102.mp3", "https://www.eslfast.com/robot/audio/dating/dating0103.mp3"]
+  - index: 92
+    slug: "dating02"
+    title: "Conversation: 2. Asking for a Date (1)"
+    url: "https://www.eslfast.com/robot/topics/dating/dating02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dating/dating0201.mp3", "https://www.eslfast.com/robot/audio/dating/dating0202.mp3", "https://www.eslfast.com/robot/audio/dating/dating0203.mp3"]
+  - index: 93
+    slug: "dating03"
+    title: "Conversation: 3. Asking for a Date (2)"
+    url: "https://www.eslfast.com/robot/topics/dating/dating03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dating/dating0301.mp3", "https://www.eslfast.com/robot/audio/dating/dating0302.mp3", "https://www.eslfast.com/robot/audio/dating/dating0303.mp3"]
+  - index: 94
+    slug: "dating04"
+    title: "Conversation: 4. Meeting a Blind Date"
+    url: "https://www.eslfast.com/robot/topics/dating/dating04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dating/dating0401.mp3", "https://www.eslfast.com/robot/audio/dating/dating0402.mp3", "https://www.eslfast.com/robot/audio/dating/dating0403.mp3"]
+  - index: 95
+    slug: "dating05"
+    title: "Conversation: 5. Calling After the Date"
+    url: "https://www.eslfast.com/robot/topics/dating/dating05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dating/dating0501.mp3", "https://www.eslfast.com/robot/audio/dating/dating0502.mp3", "https://www.eslfast.com/robot/audio/dating/dating0503.mp3"]
+  - index: 96
+    slug: "dating06"
+    title: "Conversation: 6. An Argument"
+    url: "https://www.eslfast.com/robot/topics/dating/dating06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dating/dating0601.mp3", "https://www.eslfast.com/robot/audio/dating/dating0602.mp3", "https://www.eslfast.com/robot/audio/dating/dating0603.mp3"]
+  - index: 97
+    slug: "dating07"
+    title: "Conversation: 7. Rejecting an Invitation"
+    url: "https://www.eslfast.com/robot/topics/dating/dating07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dating/dating0701.mp3", "https://www.eslfast.com/robot/audio/dating/dating0702.mp3", "https://www.eslfast.com/robot/audio/dating/dating0703.mp3"]
+  - index: 98
+    slug: "dating08"
+    title: "Conversation: 8. Stopping the Relationship"
+    url: "https://www.eslfast.com/robot/topics/dating/dating08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dating/dating0801.mp3", "https://www.eslfast.com/robot/audio/dating/dating0802.mp3", "https://www.eslfast.com/robot/audio/dating/dating0803.mp3"]
+  - index: 99
+    slug: "1apartment01"
+    title: "Conversation: 1. Scheduling an Apartment Viewing"
+    url: "https://www.eslfast.com/robot/topics/apartment/1apartment01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/apartment0101.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0102.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0103.mp3"]
+  - index: 100
+    slug: "1apartment02"
+    title: "Conversation: 2. A Broken Window"
+    url: "https://www.eslfast.com/robot/topics/apartment/1apartment02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/apartment0201.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0202.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0203.mp3"]
+  - index: 101
+    slug: "1apartment03"
+    title: "Conversation: 3. Asking about Public Transportation"
+    url: "https://www.eslfast.com/robot/topics/apartment/1apartment03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/apartment0301.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0302.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0303.mp3"]
+  - index: 102
+    slug: "1apartment04"
+    title: "Conversation: 4. Interviewing a Potential Roommate"
+    url: "https://www.eslfast.com/robot/topics/apartment/1apartment04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/apartment0401.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0402.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0403.mp3"]
+  - index: 103
+    slug: "1apartment05"
+    title: "Conversation: 5. Garbage Disposal"
+    url: "https://www.eslfast.com/robot/topics/apartment/1apartment05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/apartment0501.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0502.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0503.mp3"]
+  - index: 104
+    slug: "1apartment06"
+    title: "Conversation: 6. Security Deposit"
+    url: "https://www.eslfast.com/robot/topics/apartment/1apartment06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/apartment0601.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0602.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0603.mp3"]
+  - index: 105
+    slug: "1apartment07"
+    title: "Conversation: 7. Warning about Late Rent Payment"
+    url: "https://www.eslfast.com/robot/topics/apartment/1apartment07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/apartment0701.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0702.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0703.mp3"]
+  - index: 106
+    slug: "1apartment08"
+    title: "Conversation: 8. Checking Smoke Detectors"
+    url: "https://www.eslfast.com/robot/topics/apartment/1apartment08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/apartment0801.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0802.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0803.mp3"]
+  - index: 107
+    slug: "1apartment09"
+    title: "Conversation: 9. Mailbox Key Missing"
+    url: "https://www.eslfast.com/robot/topics/apartment/1apartment09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/apartment0901.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0902.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment0903.mp3"]
+  - index: 108
+    slug: "1apartment10"
+    title: "Conversation: 10. Calling the Landlord about Moving Out"
+    url: "https://www.eslfast.com/robot/topics/apartment/1apartment10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/apartment1001.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment1002.mp3", "https://www.eslfast.com/robot/audio/apartment/apartment1003.mp3"]
+  - index: 109
+    slug: "2apartment01"
+    title: "Conversation: 1. Looking for an Apartment"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment0101.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0102.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0103.mp3"]
+  - index: 110
+    slug: "2apartment02"
+    title: "Conversation: 2. Subleasing"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment0201.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0202.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0203.mp3"]
+  - index: 111
+    slug: "2apartment03"
+    title: "Conversation: 3. Responding to an Ad for Roommates"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment0301.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0302.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0303.mp3"]
+  - index: 112
+    slug: "2apartment04"
+    title: "Conversation: 4. Finding an Apartment"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment0401.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0402.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0403.mp3"]
+  - index: 113
+    slug: "2apartment05"
+    title: "Conversation: 5. Asking about the Apartment Location"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment0501.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0502.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0503.mp3"]
+  - index: 114
+    slug: "2apartment06"
+    title: "Conversation: 6. Asking about the Neighborhood"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment0601.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0602.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0603.mp3"]
+  - index: 115
+    slug: "2apartment07"
+    title: "Conversation: 7. Asking about Safety Features"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment0701.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0702.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0703.mp3"]
+  - index: 116
+    slug: "2apartment08"
+    title: "Conversation: 8. Asking about Floor Plan"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment0801.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0802.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0803.mp3"]
+  - index: 117
+    slug: "2apartment09"
+    title: "Conversation: 9. Visiting a Rental Agent"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment0901.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0902.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment0903.mp3"]
+  - index: 118
+    slug: "2apartment10"
+    title: "Conversation: 10. Discrimination"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment1001.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1002.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1003.mp3"]
+  - index: 119
+    slug: "2apartment11"
+    title: "Conversation: 11. Making an Appointment for an Apartment Viewing"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment1101.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1102.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1103.mp3"]
+  - index: 120
+    slug: "2apartment12"
+    title: "Conversation: 12. Talking about the Lease"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment1201.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1202.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1203.mp3"]
+  - index: 121
+    slug: "2apartment13"
+    title: "Conversation: 13. Negotiating the Price (1)"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment1301.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1302.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1303.mp3"]
+  - index: 122
+    slug: "2apartment14"
+    title: "Conversation: 14. Negotiating the Price (2)"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment1401.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1402.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1403.mp3"]
+  - index: 123
+    slug: "2apartment15"
+    title: "Conversation: 15. Policy Towards Pets"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment1501.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1502.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1503.mp3"]
+  - index: 124
+    slug: "2apartment16"
+    title: "Conversation: 16. Checking the Apartment for Anything Damaged"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment1601.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1602.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1603.mp3"]
+  - index: 125
+    slug: "2apartment17"
+    title: "Conversation: 17. Asking a Friend to Help Move In"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment1701.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1702.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1703.mp3"]
+  - index: 126
+    slug: "2apartment18"
+    title: "Conversation: 18. Calling a Moving Company"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment18.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment1801.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1802.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1803.mp3"]
+  - index: 127
+    slug: "2apartment19"
+    title: "Conversation: 19. Calling the Water Company"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment19.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment1901.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1902.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment1903.mp3"]
+  - index: 128
+    slug: "2apartment20"
+    title: "Conversation: 20. Where to Put the Furniture"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment20.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment2001.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2002.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2003.mp3"]
+  - index: 129
+    slug: "2apartment21"
+    title: "Conversation: 21. Greeting a Neighbor"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment21.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment2101.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2102.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2103.mp3"]
+  - index: 130
+    slug: "2apartment22"
+    title: "Conversation: 22. Prohibited Parking"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment22.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment2201.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2202.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2203.mp3"]
+  - index: 131
+    slug: "2apartment23"
+    title: "Conversation: 23. Trash and Recycling"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment23.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment2301.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2302.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2303.mp3"]
+  - index: 132
+    slug: "2apartment24"
+    title: "Conversation: 24. Laundry Room Rules and Hours"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment24.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment2401.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2402.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2403.mp3"]
+  - index: 133
+    slug: "2apartment25"
+    title: "Conversation: 25. Neighbors and Help"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment25.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment2501.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2502.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2503.mp3"]
+  - index: 134
+    slug: "2apartment26"
+    title: "Conversation: 26. Visitors and Extra Tenants"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment26.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment2601.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2602.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2603.mp3"]
+  - index: 135
+    slug: "2apartment27"
+    title: "Conversation: 27. Locked Out"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment27.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment2701.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2702.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2703.mp3"]
+  - index: 136
+    slug: "2apartment28"
+    title: "Conversation: 28. Noisy Neighbors"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment28.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment2801.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2802.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2803.mp3"]
+  - index: 137
+    slug: "2apartment29"
+    title: "Conversation: 29. Asking the Neighbor Not to Make Noise"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment29.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment2901.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2902.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment2903.mp3"]
+  - index: 138
+    slug: "2apartment30"
+    title: "Conversation: 30. Poor Area Lighting"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment30.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment3001.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3002.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3003.mp3"]
+  - index: 139
+    slug: "2apartment31"
+    title: "Conversation: 31. Recreation Area Problems"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment31.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment3101.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3102.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3103.mp3"]
+  - index: 140
+    slug: "2apartment32"
+    title: "Conversation: 32. Fumigation and Relocation for a Night"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment32.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment3201.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3202.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3203.mp3"]
+  - index: 141
+    slug: "2apartment33"
+    title: "Conversation: 33. Key and Lock Problems"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment33.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment3301.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3302.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3303.mp3"]
+  - index: 142
+    slug: "2apartment34"
+    title: "Conversation: 34. Calling the Landlord to Report a Leak"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment34.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment3401.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3402.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3403.mp3"]
+  - index: 143
+    slug: "2apartment35"
+    title: "Conversation: 35. Roof Leaking"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment35.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment3501.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3502.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3503.mp3"]
+  - index: 144
+    slug: "2apartment36"
+    title: "Conversation: 36. Plumbing"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment36.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment3601.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3602.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3603.mp3"]
+  - index: 145
+    slug: "2apartment37"
+    title: "Conversation: 37. Threatening not to Rent"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment37.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment3701.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3702.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3703.mp3"]
+  - index: 146
+    slug: "2apartment38"
+    title: "Conversation: 38. Poor Upkeep"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment38.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment3801.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3802.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3803.mp3"]
+  - index: 147
+    slug: "2apartment39"
+    title: "Conversation: 39. Asking the Landlord about Fixing a Problem"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment39.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment3901.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3902.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment3903.mp3"]
+  - index: 148
+    slug: "2apartment40"
+    title: "Conversation: 40. Explaining the Problem to the Plumber"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment40.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment4001.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment4002.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment4003.mp3"]
+  - index: 149
+    slug: "2apartment41"
+    title: "Conversation: 41. Calling the Police about a Burglary"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment41.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment4101.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment4102.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment4103.mp3"]
+  - index: 150
+    slug: "2apartment42"
+    title: "Conversation: 42. Talking about Apartment Upgrades"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment42.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment4201.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment4202.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment4203.mp3"]
+  - index: 151
+    slug: "2apartment43"
+    title: "Conversation: 43. Moving Out"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment43.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment4301.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment4302.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment4303.mp3"]
+  - index: 152
+    slug: "2apartment44"
+    title: "Conversation: 44. Eviction Notice"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment44.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment4401.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment4402.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment4403.mp3"]
+  - index: 153
+    slug: "2apartment45"
+    title: "Conversation: 45. Getting the Deposit Back"
+    url: "https://www.eslfast.com/robot/topics/apartment/2apartment45.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/apartment/2apartment4501.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment4502.mp3", "https://www.eslfast.com/robot/audio/apartment/2apartment4503.mp3"]
+  - index: 154
+    slug: "bus01"
+    title: "Conversation: 1. Asking about Where to Get Off"
+    url: "https://www.eslfast.com/robot/topics/transport/bus01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus0101.mp3", "https://www.eslfast.com/robot/audio/transport/bus0102.mp3", "https://www.eslfast.com/robot/audio/transport/bus0103.mp3"]
+  - index: 155
+    slug: "bus02"
+    title: "Conversation: 2. Asking for a Transfer"
+    url: "https://www.eslfast.com/robot/topics/transport/bus02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus0201.mp3", "https://www.eslfast.com/robot/audio/transport/bus0202.mp3", "https://www.eslfast.com/robot/audio/transport/bus0203.mp3"]
+  - index: 156
+    slug: "bus03"
+    title: "Conversation: 3. Complaining about a Late Bus"
+    url: "https://www.eslfast.com/robot/topics/transport/bus03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus0301.mp3", "https://www.eslfast.com/robot/audio/transport/bus0302.mp3", "https://www.eslfast.com/robot/audio/transport/bus0303.mp3"]
+  - index: 157
+    slug: "bus04"
+    title: "Conversation: 4. Getting Off Too Early"
+    url: "https://www.eslfast.com/robot/topics/transport/bus04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus0401.mp3", "https://www.eslfast.com/robot/audio/transport/bus0402.mp3", "https://www.eslfast.com/robot/audio/transport/bus0403.mp3"]
+  - index: 158
+    slug: "bus05"
+    title: "Conversation: 5. How to Buy a Pass"
+    url: "https://www.eslfast.com/robot/topics/transport/bus05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus0501.mp3", "https://www.eslfast.com/robot/audio/transport/bus0502.mp3", "https://www.eslfast.com/robot/audio/transport/bus0503.mp3"]
+  - index: 159
+    slug: "bus06"
+    title: "Conversation: 6. Missing the Bus Stop"
+    url: "https://www.eslfast.com/robot/topics/transport/bus06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus0601.mp3", "https://www.eslfast.com/robot/audio/transport/bus0602.mp3", "https://www.eslfast.com/robot/audio/transport/bus0603.mp3"]
+  - index: 160
+    slug: "bus07"
+    title: "Conversation: 7. On a Wrong Bus"
+    url: "https://www.eslfast.com/robot/topics/transport/bus07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus0701.mp3", "https://www.eslfast.com/robot/audio/transport/bus0702.mp3", "https://www.eslfast.com/robot/audio/transport/bus0703.mp3"]
+  - index: 161
+    slug: "bus08"
+    title: "Conversation: 8. Student Discount"
+    url: "https://www.eslfast.com/robot/topics/transport/bus08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus0801.mp3", "https://www.eslfast.com/robot/audio/transport/bus0802.mp3", "https://www.eslfast.com/robot/audio/transport/bus0803.mp3"]
+  - index: 162
+    slug: "bus09"
+    title: "Conversation: 9. Talking to Someone on a Bus"
+    url: "https://www.eslfast.com/robot/topics/transport/bus09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus0901.mp3", "https://www.eslfast.com/robot/audio/transport/bus0902.mp3", "https://www.eslfast.com/robot/audio/transport/bus0903.mp3"]
+  - index: 163
+    slug: "bus10"
+    title: "Conversation: 10. The Bus System in LA"
+    url: "https://www.eslfast.com/robot/topics/transport/bus10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus1001.mp3", "https://www.eslfast.com/robot/audio/transport/bus1002.mp3", "https://www.eslfast.com/robot/audio/transport/bus1003.mp3"]
+  - index: 164
+    slug: "bus11"
+    title: "Conversation: 11. Where to Buy a Pass"
+    url: "https://www.eslfast.com/robot/topics/transport/bus11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus1101.mp3", "https://www.eslfast.com/robot/audio/transport/bus1102.mp3", "https://www.eslfast.com/robot/audio/transport/bus1103.mp3"]
+  - index: 165
+    slug: "bus12"
+    title: "Conversation: 12. Where to Take the Bus"
+    url: "https://www.eslfast.com/robot/topics/transport/bus12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus1201.mp3", "https://www.eslfast.com/robot/audio/transport/bus1202.mp3", "https://www.eslfast.com/robot/audio/transport/bus1203.mp3"]
+  - index: 166
+    slug: "bus13"
+    title: "Conversation: 13. Where to Change the Bus"
+    url: "https://www.eslfast.com/robot/topics/transport/bus13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus1301.mp3", "https://www.eslfast.com/robot/audio/transport/bus1302.mp3", "https://www.eslfast.com/robot/audio/transport/bus1303.mp3"]
+  - index: 167
+    slug: "bus14"
+    title: "Conversation: 14. Which Bus to Take"
+    url: "https://www.eslfast.com/robot/topics/transport/bus14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus1401.mp3", "https://www.eslfast.com/robot/audio/transport/bus1402.mp3", "https://www.eslfast.com/robot/audio/transport/bus1403.mp3"]
+  - index: 168
+    slug: "bus15"
+    title: "Conversation: 15. Why to Buy a Pass"
+    url: "https://www.eslfast.com/robot/topics/transport/bus15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/bus1501.mp3", "https://www.eslfast.com/robot/audio/transport/bus1502.mp3", "https://www.eslfast.com/robot/audio/transport/bus1503.mp3"]
+  - index: 169
+    slug: "dailylife01"
+    title: "Conversation: 1. Calling Credit Card Company"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife0101.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0102.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0103.mp3"]
+  - index: 170
+    slug: "dailylife02"
+    title: "Conversation: 2. Disputing a Charge"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife0201.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0202.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0203.mp3"]
+  - index: 171
+    slug: "dailylife03"
+    title: "Conversation: 3. Ordering Cable Services"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife0301.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0302.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0303.mp3"]
+  - index: 172
+    slug: "dailylife04"
+    title: "Conversation: 4. Inquiring about Internet Services"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife0401.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0402.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0403.mp3"]
+  - index: 173
+    slug: "dailylife05"
+    title: "Conversation: 5. Installing High Speed Internet"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife0501.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0502.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0503.mp3"]
+  - index: 174
+    slug: "dailylife06"
+    title: "Conversation: 6. Reporting an Internet Problem"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife0601.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0602.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0603.mp3"]
+  - index: 175
+    slug: "dailylife07"
+    title: "Conversation: 7. Asking for Credit for Service Interrupted"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife0701.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0702.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0703.mp3"]
+  - index: 176
+    slug: "dailylife08"
+    title: "Conversation: 8. Troubleshooting a Computer Problem"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife0801.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0802.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0803.mp3"]
+  - index: 177
+    slug: "dailylife09"
+    title: "Conversation: 9. Making an Appointment to Have a Haircut"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife0901.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0902.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife0903.mp3"]
+  - index: 178
+    slug: "dailylife10"
+    title: "Conversation: 10. Making Requests to the Hairdresser"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife1001.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1002.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1003.mp3"]
+  - index: 179
+    slug: "dailylife11"
+    title: "Conversation: 11. Paying the Hairdresser"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife1101.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1102.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1103.mp3"]
+  - index: 180
+    slug: "dailylife12"
+    title: "Conversation: 12. Complaining to the Hairdresser"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife1201.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1202.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1203.mp3"]
+  - index: 181
+    slug: "dailylife13"
+    title: "Conversation: 13. Talking to People at the Laundromat"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife1301.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1302.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1303.mp3"]
+  - index: 182
+    slug: "dailylife14"
+    title: "Conversation: 14. Operating the Washer and Dryer"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife1401.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1402.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1403.mp3"]
+  - index: 183
+    slug: "dailylife15"
+    title: "Conversation: 15. Returning a Call to Child's Teacher at School"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife1501.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1502.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1503.mp3"]
+  - index: 184
+    slug: "dailylife16"
+    title: "Conversation: 16. Meeting Child's Teacher at School"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife1601.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1602.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1603.mp3"]
+  - index: 185
+    slug: "dailylife17"
+    title: "Conversation: 17. Asking Someone to Run Errands"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife1701.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1702.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1703.mp3"]
+  - index: 186
+    slug: "dailylife18"
+    title: "Conversation: 18. Riding the Bus"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife18.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife1801.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1802.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1803.mp3"]
+  - index: 187
+    slug: "dailylife19"
+    title: "Conversation: 19. Talking with Angry Parent"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife19.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife1901.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1902.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife1903.mp3"]
+  - index: 188
+    slug: "dailylife20"
+    title: "Conversation: 20. Cleaning Up the Room"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife20.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife2001.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2002.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2003.mp3"]
+  - index: 189
+    slug: "dailylife21"
+    title: "Conversation: 21. Buying a Burrito"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife21.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife2101.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2102.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2103.mp3"]
+  - index: 190
+    slug: "dailylife22"
+    title: "Conversation: 22. Caring for Puppies"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife22.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife2201.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2202.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2203.mp3"]
+  - index: 191
+    slug: "dailylife23"
+    title: "Conversation: 23. Cooking Dinner"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife23.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife2301.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2302.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2303.mp3"]
+  - index: 192
+    slug: "dailylife24"
+    title: "Conversation: 24. Washing Clothes"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife24.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife2401.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2402.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2403.mp3"]
+  - index: 193
+    slug: "dailylife25"
+    title: "Conversation: 25. Time for Bed"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife25.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife2501.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2502.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2503.mp3"]
+  - index: 194
+    slug: "dailylife26"
+    title: "Conversation: 26. Waking Up for School"
+    url: "https://www.eslfast.com/robot/topics/dailylife/dailylife26.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/dailylife/dailylife2601.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2602.mp3", "https://www.eslfast.com/robot/audio/dailylife/dailylife2603.mp3"]
+  - index: 195
+    slug: "1shop01"
+    title: "Conversation: 1. Talking to Someone about a Sweater"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop0101.mp3", "https://www.eslfast.com/robot/audio/shop/shop0102.mp3", "https://www.eslfast.com/robot/audio/shop/shop0103.mp3", "https://www.eslfast.com/robot/audio/shop/shop0104.mp3", "https://www.eslfast.com/robot/audio/shop/shop0105.mp3"]
+  - index: 196
+    slug: "1shop02"
+    title: "Conversation: 2. Shopping for a Sweater"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop0201.mp3", "https://www.eslfast.com/robot/audio/shop/shop0202.mp3", "https://www.eslfast.com/robot/audio/shop/shop0203.mp3", "https://www.eslfast.com/robot/audio/shop/shop0204.mp3", "https://www.eslfast.com/robot/audio/shop/shop0205.mp3"]
+  - index: 197
+    slug: "1shop03"
+    title: "Conversation: 3. After Trying on the Sweater"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop0301.mp3", "https://www.eslfast.com/robot/audio/shop/shop0302.mp3", "https://www.eslfast.com/robot/audio/shop/shop0303.mp3", "https://www.eslfast.com/robot/audio/shop/shop0304.mp3", "https://www.eslfast.com/robot/audio/shop/shop0305.mp3"]
+  - index: 198
+    slug: "1shop04"
+    title: "Conversation: 4. Returning a Radio (1)"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop0401.mp3", "https://www.eslfast.com/robot/audio/shop/shop0402.mp3", "https://www.eslfast.com/robot/audio/shop/shop0403.mp3", "https://www.eslfast.com/robot/audio/shop/shop0404.mp3", "https://www.eslfast.com/robot/audio/shop/shop0405.mp3"]
+  - index: 199
+    slug: "1shop05"
+    title: "Conversation: 5. Returning a Radio (2)"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop0501.mp3", "https://www.eslfast.com/robot/audio/shop/shop0502.mp3", "https://www.eslfast.com/robot/audio/shop/shop0503.mp3", "https://www.eslfast.com/robot/audio/shop/shop0504.mp3", "https://www.eslfast.com/robot/audio/shop/shop0505.mp3"]
+  - index: 200
+    slug: "1shop06"
+    title: "Conversation: 6. Exchanging a DVD Player"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop0601.mp3", "https://www.eslfast.com/robot/audio/shop/shop0602.mp3", "https://www.eslfast.com/robot/audio/shop/shop0603.mp3", "https://www.eslfast.com/robot/audio/shop/shop0604.mp3", "https://www.eslfast.com/robot/audio/shop/shop0605.mp3"]
+  - index: 201
+    slug: "1shop07"
+    title: "Conversation: 7. Exchanging a DVD"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop0701.mp3", "https://www.eslfast.com/robot/audio/shop/shop0702.mp3", "https://www.eslfast.com/robot/audio/shop/shop0703.mp3", "https://www.eslfast.com/robot/audio/shop/shop0704.mp3", "https://www.eslfast.com/robot/audio/shop/shop0705.mp3"]
+  - index: 202
+    slug: "1shop08"
+    title: "Conversation: 8. Looking for a Perfect Gift (1)"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop0801.mp3", "https://www.eslfast.com/robot/audio/shop/shop0802.mp3", "https://www.eslfast.com/robot/audio/shop/shop0803.mp3", "https://www.eslfast.com/robot/audio/shop/shop0804.mp3", "https://www.eslfast.com/robot/audio/shop/shop0805.mp3"]
+  - index: 203
+    slug: "1shop09"
+    title: "Conversation: 9. Looking for a Perfect Gift (2)"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop0901.mp3", "https://www.eslfast.com/robot/audio/shop/shop0902.mp3", "https://www.eslfast.com/robot/audio/shop/shop0903.mp3", "https://www.eslfast.com/robot/audio/shop/shop0904.mp3", "https://www.eslfast.com/robot/audio/shop/shop0905.mp3"]
+  - index: 204
+    slug: "1shop10"
+    title: "Conversation: 10. Applying for a Credit Card (1)"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop1001.mp3", "https://www.eslfast.com/robot/audio/shop/shop1002.mp3", "https://www.eslfast.com/robot/audio/shop/shop1003.mp3", "https://www.eslfast.com/robot/audio/shop/shop1004.mp3", "https://www.eslfast.com/robot/audio/shop/shop1005.mp3"]
+  - index: 205
+    slug: "1shop11"
+    title: "Conversation: 11. Applying for a Credit Card (2)"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop1101.mp3", "https://www.eslfast.com/robot/audio/shop/shop1102.mp3", "https://www.eslfast.com/robot/audio/shop/shop1103.mp3", "https://www.eslfast.com/robot/audio/shop/shop1104.mp3", "https://www.eslfast.com/robot/audio/shop/shop1105.mp3"]
+  - index: 206
+    slug: "1shop12"
+    title: "Conversation: 12. The Sale Is Over"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop1201.mp3", "https://www.eslfast.com/robot/audio/shop/shop1202.mp3", "https://www.eslfast.com/robot/audio/shop/shop1203.mp3", "https://www.eslfast.com/robot/audio/shop/shop1204.mp3", "https://www.eslfast.com/robot/audio/shop/shop1205.mp3"]
+  - index: 207
+    slug: "1shop13"
+    title: "Conversation: 13. Misleading Advertisement"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop1301.mp3", "https://www.eslfast.com/robot/audio/shop/shop1302.mp3", "https://www.eslfast.com/robot/audio/shop/shop1303.mp3", "https://www.eslfast.com/robot/audio/shop/shop1304.mp3", "https://www.eslfast.com/robot/audio/shop/shop1305.mp3"]
+  - index: 208
+    slug: "1shop14"
+    title: "Conversation: 14. Exchanging a Dress"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop1401.mp3", "https://www.eslfast.com/robot/audio/shop/shop1402.mp3", "https://www.eslfast.com/robot/audio/shop/shop1403.mp3", "https://www.eslfast.com/robot/audio/shop/shop1404.mp3", "https://www.eslfast.com/robot/audio/shop/shop1405.mp3"]
+  - index: 209
+    slug: "1shop15"
+    title: "Conversation: 15. Buying Flowers"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop1501.mp3", "https://www.eslfast.com/robot/audio/shop/shop1502.mp3", "https://www.eslfast.com/robot/audio/shop/shop1503.mp3", "https://www.eslfast.com/robot/audio/shop/shop1504.mp3", "https://www.eslfast.com/robot/audio/shop/shop1505.mp3"]
+  - index: 210
+    slug: "1shop16"
+    title: "Conversation: 16. Going to an Antique Shop"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop1601.mp3", "https://www.eslfast.com/robot/audio/shop/shop1602.mp3", "https://www.eslfast.com/robot/audio/shop/shop1603.mp3", "https://www.eslfast.com/robot/audio/shop/shop1604.mp3", "https://www.eslfast.com/robot/audio/shop/shop1605.mp3"]
+  - index: 211
+    slug: "1shop17"
+    title: "Conversation: 17. Buying a Pan"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop1701.mp3", "https://www.eslfast.com/robot/audio/shop/shop1702.mp3", "https://www.eslfast.com/robot/audio/shop/shop1703.mp3", "https://www.eslfast.com/robot/audio/shop/shop1704.mp3", "https://www.eslfast.com/robot/audio/shop/shop1705.mp3"]
+  - index: 212
+    slug: "1shop18"
+    title: "Conversation: 18. Grocery Shopping (1)"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop18.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop1801.mp3", "https://www.eslfast.com/robot/audio/shop/shop1802.mp3", "https://www.eslfast.com/robot/audio/shop/shop1803.mp3", "https://www.eslfast.com/robot/audio/shop/shop1804.mp3", "https://www.eslfast.com/robot/audio/shop/shop1805.mp3"]
+  - index: 213
+    slug: "1shop19"
+    title: "Conversation: 19. Grocery Shopping (2)"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop19.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop1901.mp3", "https://www.eslfast.com/robot/audio/shop/shop1902.mp3", "https://www.eslfast.com/robot/audio/shop/shop1903.mp3", "https://www.eslfast.com/robot/audio/shop/shop1904.mp3", "https://www.eslfast.com/robot/audio/shop/shop1905.mp3"]
+  - index: 214
+    slug: "1shop20"
+    title: "Conversation: 20. Buying Business Cards"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop20.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop2001.mp3", "https://www.eslfast.com/robot/audio/shop/shop2002.mp3", "https://www.eslfast.com/robot/audio/shop/shop2003.mp3", "https://www.eslfast.com/robot/audio/shop/shop2004.mp3", "https://www.eslfast.com/robot/audio/shop/shop2005.mp3"]
+  - index: 215
+    slug: "1shop21"
+    title: "Conversation: 21. Flea Markets"
+    url: "https://www.eslfast.com/robot/topics/shop/1shop21.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/shop2101.mp3", "https://www.eslfast.com/robot/audio/shop/shop2102.mp3", "https://www.eslfast.com/robot/audio/shop/shop2103.mp3", "https://www.eslfast.com/robot/audio/shop/shop2104.mp3", "https://www.eslfast.com/robot/audio/shop/shop2105.mp3"]
+  - index: 216
+    slug: "2shop01"
+    title: "Conversation: 1. Asking about a Furniture"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop0101.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0102.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0103.mp3"]
+  - index: 217
+    slug: "2shop02"
+    title: "Conversation: 2. Asking about a Fridge"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop0201.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0202.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0203.mp3"]
+  - index: 218
+    slug: "2shop03"
+    title: "Conversation: 3. Calling to Reschedule a Time"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop0301.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0302.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0303.mp3"]
+  - index: 219
+    slug: "2shop04"
+    title: "Conversation: 4. Shopping Budget"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop0401.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0402.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0403.mp3"]
+  - index: 220
+    slug: "2shop05"
+    title: "Conversation: 5. Getting Things Fixed"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop0501.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0502.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0503.mp3"]
+  - index: 221
+    slug: "2shop06"
+    title: "Conversation: 6. Making a Shopping List"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop0601.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0602.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0603.mp3"]
+  - index: 222
+    slug: "2shop07"
+    title: "Conversation: 7. Negotiating a Price"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop0701.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0702.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0703.mp3"]
+  - index: 223
+    slug: "2shop08"
+    title: "Conversation: 8. Not Delivered on Time"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop0801.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0802.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0803.mp3"]
+  - index: 224
+    slug: "2shop09"
+    title: "Conversation: 9. Returning a Defective Item"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop0901.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0902.mp3", "https://www.eslfast.com/robot/audio/shop/2shop0903.mp3"]
+  - index: 225
+    slug: "2shop10"
+    title: "Conversation: 10. Scheduling a Delivery"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop1001.mp3", "https://www.eslfast.com/robot/audio/shop/2shop1002.mp3", "https://www.eslfast.com/robot/audio/shop/2shop1003.mp3"]
+  - index: 226
+    slug: "2shop11"
+    title: "Conversation: 11. Shopping for New Clothes"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop1101.mp3", "https://www.eslfast.com/robot/audio/shop/2shop1102.mp3", "https://www.eslfast.com/robot/audio/shop/2shop1103.mp3"]
+  - index: 227
+    slug: "2shop12"
+    title: "Conversation: 12. Trying on a New Outfit"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop1201.mp3", "https://www.eslfast.com/robot/audio/shop/2shop1202.mp3", "https://www.eslfast.com/robot/audio/shop/2shop1203.mp3"]
+  - index: 228
+    slug: "2shop13"
+    title: "Conversation: 13. Warranty Expired"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop1301.mp3", "https://www.eslfast.com/robot/audio/shop/2shop1302.mp3", "https://www.eslfast.com/robot/audio/shop/2shop1303.mp3"]
+  - index: 229
+    slug: "2shop14"
+    title: "Conversation: 14. Where to Buy What"
+    url: "https://www.eslfast.com/robot/topics/shop/2shop14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/shop/2shop1401.mp3", "https://www.eslfast.com/robot/audio/shop/2shop1402.mp3", "https://www.eslfast.com/robot/audio/shop/2shop1403.mp3"]
+  - index: 230
+    slug: "bank01"
+    title: "Conversation: 1. Setting up a Bank Account"
+    url: "https://www.eslfast.com/robot/topics/bank/bank01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank0101.mp3", "https://www.eslfast.com/robot/audio/bank/bank0102.mp3", "https://www.eslfast.com/robot/audio/bank/bank0103.mp3"]
+  - index: 231
+    slug: "bank02"
+    title: "Conversation: 2. Asking about Checks"
+    url: "https://www.eslfast.com/robot/topics/bank/bank02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank0201.mp3", "https://www.eslfast.com/robot/audio/bank/bank0202.mp3", "https://www.eslfast.com/robot/audio/bank/bank0203.mp3"]
+  - index: 232
+    slug: "bank03"
+    title: "Conversation: 3. Making a Deposit"
+    url: "https://www.eslfast.com/robot/topics/bank/bank03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank0301.mp3", "https://www.eslfast.com/robot/audio/bank/bank0302.mp3", "https://www.eslfast.com/robot/audio/bank/bank0303.mp3"]
+  - index: 233
+    slug: "bank04"
+    title: "Conversation: 4. Making a Withdrawal"
+    url: "https://www.eslfast.com/robot/topics/bank/bank04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank0401.mp3", "https://www.eslfast.com/robot/audio/bank/bank0402.mp3", "https://www.eslfast.com/robot/audio/bank/bank0403.mp3"]
+  - index: 234
+    slug: "bank05"
+    title: "Conversation: 5. A Check Bounces"
+    url: "https://www.eslfast.com/robot/topics/bank/bank05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank0501.mp3", "https://www.eslfast.com/robot/audio/bank/bank0502.mp3", "https://www.eslfast.com/robot/audio/bank/bank0503.mp3"]
+  - index: 235
+    slug: "bank06"
+    title: "Conversation: 6. Transferring Money"
+    url: "https://www.eslfast.com/robot/topics/bank/bank06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank0601.mp3", "https://www.eslfast.com/robot/audio/bank/bank0602.mp3", "https://www.eslfast.com/robot/audio/bank/bank0603.mp3"]
+  - index: 236
+    slug: "bank07"
+    title: "Conversation: 7. Canceling an Account"
+    url: "https://www.eslfast.com/robot/topics/bank/bank07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank0701.mp3", "https://www.eslfast.com/robot/audio/bank/bank0702.mp3", "https://www.eslfast.com/robot/audio/bank/bank0703.mp3"]
+  - index: 237
+    slug: "bank08"
+    title: "Conversation: 8. Cashing a Check"
+    url: "https://www.eslfast.com/robot/topics/bank/bank08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank0801.mp3", "https://www.eslfast.com/robot/audio/bank/bank0802.mp3", "https://www.eslfast.com/robot/audio/bank/bank0803.mp3"]
+  - index: 238
+    slug: "bank09"
+    title: "Conversation: 9. Canceling a Check"
+    url: "https://www.eslfast.com/robot/topics/bank/bank09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank0901.mp3", "https://www.eslfast.com/robot/audio/bank/bank0902.mp3", "https://www.eslfast.com/robot/audio/bank/bank0903.mp3"]
+  - index: 239
+    slug: "bank10"
+    title: "Conversation: 10. Using the ATM"
+    url: "https://www.eslfast.com/robot/topics/bank/bank10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank1001.mp3", "https://www.eslfast.com/robot/audio/bank/bank1002.mp3", "https://www.eslfast.com/robot/audio/bank/bank1003.mp3"]
+  - index: 240
+    slug: "bank11"
+    title: "Conversation: 11. The Card Gets Declined"
+    url: "https://www.eslfast.com/robot/topics/bank/bank11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank1101.mp3", "https://www.eslfast.com/robot/audio/bank/bank1102.mp3", "https://www.eslfast.com/robot/audio/bank/bank1103.mp3"]
+  - index: 241
+    slug: "bank12"
+    title: "Conversation: 12. Asking about Fees"
+    url: "https://www.eslfast.com/robot/topics/bank/bank12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank1201.mp3", "https://www.eslfast.com/robot/audio/bank/bank1202.mp3", "https://www.eslfast.com/robot/audio/bank/bank1203.mp3"]
+  - index: 242
+    slug: "bank13"
+    title: "Conversation: 13. Paying Fees"
+    url: "https://www.eslfast.com/robot/topics/bank/bank13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank1301.mp3", "https://www.eslfast.com/robot/audio/bank/bank1302.mp3", "https://www.eslfast.com/robot/audio/bank/bank1303.mp3"]
+  - index: 243
+    slug: "bank14"
+    title: "Conversation: 14. Minimum Balance Requirements"
+    url: "https://www.eslfast.com/robot/topics/bank/bank14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank1401.mp3", "https://www.eslfast.com/robot/audio/bank/bank1402.mp3", "https://www.eslfast.com/robot/audio/bank/bank1403.mp3"]
+  - index: 244
+    slug: "bank15"
+    title: "Conversation: 15. Not Getting a Bank Statement"
+    url: "https://www.eslfast.com/robot/topics/bank/bank15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank1501.mp3", "https://www.eslfast.com/robot/audio/bank/bank1502.mp3", "https://www.eslfast.com/robot/audio/bank/bank1503.mp3"]
+  - index: 245
+    slug: "bank16"
+    title: "Conversation: 16. Reporting Wrong Charges"
+    url: "https://www.eslfast.com/robot/topics/bank/bank16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank1601.mp3", "https://www.eslfast.com/robot/audio/bank/bank1602.mp3", "https://www.eslfast.com/robot/audio/bank/bank1603.mp3"]
+  - index: 246
+    slug: "bank17"
+    title: "Conversation: 17. Opening Another Account"
+    url: "https://www.eslfast.com/robot/topics/bank/bank17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/bank/bank1701.mp3", "https://www.eslfast.com/robot/audio/bank/bank1702.mp3", "https://www.eslfast.com/robot/audio/bank/bank1703.mp3"]
+  - index: 247
+    slug: "food01"
+    title: "Conversation: 1. Breakfast"
+    url: "https://www.eslfast.com/robot/topics/food/food01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food0101.mp3", "https://www.eslfast.com/robot/audio/food/food0102.mp3", "https://www.eslfast.com/robot/audio/food/food0103.mp3"]
+  - index: 248
+    slug: "food02"
+    title: "Conversation: 2. Lunch"
+    url: "https://www.eslfast.com/robot/topics/food/food02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food0201.mp3", "https://www.eslfast.com/robot/audio/food/food0202.mp3", "https://www.eslfast.com/robot/audio/food/food0203.mp3"]
+  - index: 249
+    slug: "food03"
+    title: "Conversation: 3. Dinner"
+    url: "https://www.eslfast.com/robot/topics/food/food03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food0301.mp3", "https://www.eslfast.com/robot/audio/food/food0302.mp3", "https://www.eslfast.com/robot/audio/food/food0303.mp3"]
+  - index: 250
+    slug: "food04"
+    title: "Conversation: 4. Drinks"
+    url: "https://www.eslfast.com/robot/topics/food/food04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food0401.mp3", "https://www.eslfast.com/robot/audio/food/food0402.mp3", "https://www.eslfast.com/robot/audio/food/food0403.mp3"]
+  - index: 251
+    slug: "food05"
+    title: "Conversation: 5. Fruit"
+    url: "https://www.eslfast.com/robot/topics/food/food05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food0501.mp3", "https://www.eslfast.com/robot/audio/food/food0502.mp3", "https://www.eslfast.com/robot/audio/food/food0503.mp3"]
+  - index: 252
+    slug: "food06"
+    title: "Conversation: 6. Salads"
+    url: "https://www.eslfast.com/robot/topics/food/food06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food0601.mp3", "https://www.eslfast.com/robot/audio/food/food0602.mp3", "https://www.eslfast.com/robot/audio/food/food0603.mp3"]
+  - index: 253
+    slug: "food07"
+    title: "Conversation: 7. Desserts"
+    url: "https://www.eslfast.com/robot/topics/food/food07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food0701.mp3", "https://www.eslfast.com/robot/audio/food/food0702.mp3", "https://www.eslfast.com/robot/audio/food/food0703.mp3"]
+  - index: 254
+    slug: "food08"
+    title: "Conversation: 8. Meat"
+    url: "https://www.eslfast.com/robot/topics/food/food08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food0801.mp3", "https://www.eslfast.com/robot/audio/food/food0802.mp3", "https://www.eslfast.com/robot/audio/food/food0803.mp3"]
+  - index: 255
+    slug: "food09"
+    title: "Conversation: 9. Snacks"
+    url: "https://www.eslfast.com/robot/topics/food/food09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food0901.mp3", "https://www.eslfast.com/robot/audio/food/food0902.mp3", "https://www.eslfast.com/robot/audio/food/food0903.mp3"]
+  - index: 256
+    slug: "food10"
+    title: "Conversation: 10. Vegetables"
+    url: "https://www.eslfast.com/robot/topics/food/food10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food1001.mp3", "https://www.eslfast.com/robot/audio/food/food1002.mp3", "https://www.eslfast.com/robot/audio/food/food1003.mp3"]
+  - index: 257
+    slug: "food11"
+    title: "Conversation: 11. Nutrition of Foods"
+    url: "https://www.eslfast.com/robot/topics/food/food11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food1101.mp3", "https://www.eslfast.com/robot/audio/food/food1102.mp3", "https://www.eslfast.com/robot/audio/food/food1103.mp3"]
+  - index: 258
+    slug: "food12"
+    title: "Conversation: 12. Foods Available at the Cafeteria (1)"
+    url: "https://www.eslfast.com/robot/topics/food/food12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food1201.mp3", "https://www.eslfast.com/robot/audio/food/food1202.mp3", "https://www.eslfast.com/robot/audio/food/food1203.mp3"]
+  - index: 259
+    slug: "food13"
+    title: "Conversation: 13. Foods Available at the Cafeteria (2)"
+    url: "https://www.eslfast.com/robot/topics/food/food13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food1301.mp3", "https://www.eslfast.com/robot/audio/food/food1302.mp3", "https://www.eslfast.com/robot/audio/food/food1303.mp3"]
+  - index: 260
+    slug: "food14"
+    title: "Conversation: 14. Ordering Food at the Cafeteria (1)"
+    url: "https://www.eslfast.com/robot/topics/food/food14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food1401.mp3", "https://www.eslfast.com/robot/audio/food/food1402.mp3", "https://www.eslfast.com/robot/audio/food/food1403.mp3"]
+  - index: 261
+    slug: "food15"
+    title: "Conversation: 15. Ordering Food at the Cafeteria (2)"
+    url: "https://www.eslfast.com/robot/topics/food/food15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food1501.mp3", "https://www.eslfast.com/robot/audio/food/food1502.mp3", "https://www.eslfast.com/robot/audio/food/food1503.mp3"]
+  - index: 262
+    slug: "food16"
+    title: "Conversation: 16. Where to Buy Food"
+    url: "https://www.eslfast.com/robot/topics/food/food16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food1601.mp3", "https://www.eslfast.com/robot/audio/food/food1602.mp3", "https://www.eslfast.com/robot/audio/food/food1603.mp3"]
+  - index: 263
+    slug: "food17"
+    title: "Conversation: 17. Making a Shopping List"
+    url: "https://www.eslfast.com/robot/topics/food/food17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food1701.mp3", "https://www.eslfast.com/robot/audio/food/food1702.mp3", "https://www.eslfast.com/robot/audio/food/food1703.mp3"]
+  - index: 264
+    slug: "food18"
+    title: "Conversation: 18. Buying Meat"
+    url: "https://www.eslfast.com/robot/topics/food/food18.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food1801.mp3", "https://www.eslfast.com/robot/audio/food/food1802.mp3", "https://www.eslfast.com/robot/audio/food/food1803.mp3"]
+  - index: 265
+    slug: "food19"
+    title: "Conversation: 19. Comparing Foods from Different Stores"
+    url: "https://www.eslfast.com/robot/topics/food/food19.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food1901.mp3", "https://www.eslfast.com/robot/audio/food/food1902.mp3", "https://www.eslfast.com/robot/audio/food/food1903.mp3"]
+  - index: 266
+    slug: "food20"
+    title: "Conversation: 20. Finding Foods in the Supermarket"
+    url: "https://www.eslfast.com/robot/topics/food/food20.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food2001.mp3", "https://www.eslfast.com/robot/audio/food/food2002.mp3", "https://www.eslfast.com/robot/audio/food/food2003.mp3"]
+  - index: 267
+    slug: "food21"
+    title: "Conversation: 21. How to Cook a Meal"
+    url: "https://www.eslfast.com/robot/topics/food/food21.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/food/food2101.mp3", "https://www.eslfast.com/robot/audio/food/food2102.mp3", "https://www.eslfast.com/robot/audio/food/food2103.mp3"]
+  - index: 268
+    slug: "restaurant01"
+    title: "Conversation: 1. Choosing a Good Restaurant"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant0101.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0102.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0103.mp3"]
+  - index: 269
+    slug: "restaurant02"
+    title: "Conversation: 2. Making a Reservation"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant0201.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0202.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0203.mp3"]
+  - index: 270
+    slug: "restaurant03"
+    title: "Conversation: 3. Being Seated at the Restaurant"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant0301.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0302.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0303.mp3"]
+  - index: 271
+    slug: "restaurant04"
+    title: "Conversation: 4. Ordering Food and Drinks"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant0401.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0402.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0403.mp3"]
+  - index: 272
+    slug: "restaurant05"
+    title: "Conversation: 5. Ordering Appetizers"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant0501.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0502.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0503.mp3"]
+  - index: 273
+    slug: "restaurant06"
+    title: "Conversation: 6. Ordering Main Entree"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant0601.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0602.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0603.mp3"]
+  - index: 274
+    slug: "restaurant07"
+    title: "Conversation: 7. Ordering Drinks"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant0701.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0702.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0703.mp3"]
+  - index: 275
+    slug: "restaurant08"
+    title: "Conversation: 8. Ordering Dessert"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant0801.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0802.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0803.mp3"]
+  - index: 276
+    slug: "restaurant09"
+    title: "Conversation: 9. A Mistake by the Waitress"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant0901.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0902.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant0903.mp3"]
+  - index: 277
+    slug: "restaurant10"
+    title: "Conversation: 10. Making Positive Comments on Food"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant1001.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1002.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1003.mp3"]
+  - index: 278
+    slug: "restaurant11"
+    title: "Conversation: 11. Making Negative Comments on Food"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant1101.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1102.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1103.mp3"]
+  - index: 279
+    slug: "restaurant12"
+    title: "Conversation: 12. Good Tips for Good Service"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant1201.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1202.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1203.mp3"]
+  - index: 280
+    slug: "restaurant13"
+    title: "Conversation: 13. Little Tips for Bad Service"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant1301.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1302.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1303.mp3"]
+  - index: 281
+    slug: "restaurant14"
+    title: "Conversation: 14. Talking Positively About the Restaurant"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant1401.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1402.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1403.mp3"]
+  - index: 282
+    slug: "restaurant15"
+    title: "Conversation: 15. Talking Negatively about the Restaurant"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant1501.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1502.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1503.mp3"]
+  - index: 283
+    slug: "restaurant16"
+    title: "Conversation: 16. Ordering Fast Food"
+    url: "https://www.eslfast.com/robot/topics/restaurant/restaurant16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/restaurant/restaurant1601.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1602.mp3", "https://www.eslfast.com/robot/audio/restaurant/restaurant1603.mp3"]
+  - index: 284
+    slug: "buycar01"
+    title: "Conversation: 1. Asking a Friend About Car Insurance"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar0101.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0102.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0103.mp3"]
+  - index: 285
+    slug: "buycar02"
+    title: "Conversation: 2. Buying Insurance"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar0201.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0202.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0203.mp3"]
+  - index: 286
+    slug: "buycar03"
+    title: "Conversation: 3. Deciding to Buy the Car"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar0301.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0302.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0303.mp3"]
+  - index: 287
+    slug: "buycar04"
+    title: "Conversation: 4. Declining to Buy the Car"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar0401.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0402.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0403.mp3"]
+  - index: 288
+    slug: "buycar05"
+    title: "Conversation: 5. Detecting a Problem with the Car"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar0501.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0502.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0503.mp3"]
+  - index: 289
+    slug: "buycar06"
+    title: "Conversation: 6. How to Pay for the Used Car"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar0601.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0602.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0603.mp3"]
+  - index: 290
+    slug: "buycar07"
+    title: "Conversation: 7. Making an Appointment with the DMV"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar0701.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0702.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0703.mp3"]
+  - index: 291
+    slug: "buycar08"
+    title: "Conversation: 8. Negotiating a Price with a Student"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar0801.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0802.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0803.mp3"]
+  - index: 292
+    slug: "buycar09"
+    title: "Conversation: 9. Negotiating a Price with a Dealer"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar0901.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0902.mp3", "https://www.eslfast.com/robot/audio/transport/buycar0903.mp3"]
+  - index: 293
+    slug: "buycar10"
+    title: "Conversation: 10. Test Driving the Car"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar1001.mp3", "https://www.eslfast.com/robot/audio/transport/buycar1002.mp3", "https://www.eslfast.com/robot/audio/transport/buycar1003.mp3"]
+  - index: 294
+    slug: "buycar11"
+    title: "Conversation: 11. Title Transfer"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar1101.mp3", "https://www.eslfast.com/robot/audio/transport/buycar1102.mp3", "https://www.eslfast.com/robot/audio/transport/buycar1103.mp3"]
+  - index: 295
+    slug: "buycar12"
+    title: "Conversation: 12. Where to Buy a Used Car"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar1201.mp3", "https://www.eslfast.com/robot/audio/transport/buycar1202.mp3", "https://www.eslfast.com/robot/audio/transport/buycar1203.mp3"]
+  - index: 296
+    slug: "buycar13"
+    title: "Conversation: 13. At the Window of the DMV"
+    url: "https://www.eslfast.com/robot/topics/transport/buycar13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/buycar1301.mp3", "https://www.eslfast.com/robot/audio/transport/buycar1302.mp3", "https://www.eslfast.com/robot/audio/transport/buycar1303.mp3"]
+  - index: 297
+    slug: "drive01"
+    title: "Conversation: 1. Applying For a Driving Permit"
+    url: "https://www.eslfast.com/robot/topics/transport/drive01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/drive0101.mp3", "https://www.eslfast.com/robot/audio/transport/drive0102.mp3", "https://www.eslfast.com/robot/audio/transport/drive0103.mp3"]
+  - index: 298
+    slug: "drive02"
+    title: "Conversation: 2. Taking the Written Test"
+    url: "https://www.eslfast.com/robot/topics/transport/drive02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/drive0201.mp3", "https://www.eslfast.com/robot/audio/transport/drive0202.mp3", "https://www.eslfast.com/robot/audio/transport/drive0203.mp3"]
+  - index: 299
+    slug: "drive03"
+    title: "Conversation: 3. Learning How to Drive (1)"
+    url: "https://www.eslfast.com/robot/topics/transport/drive03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/drive0301.mp3", "https://www.eslfast.com/robot/audio/transport/drive0302.mp3", "https://www.eslfast.com/robot/audio/transport/drive0303.mp3"]
+  - index: 300
+    slug: "drive04"
+    title: "Conversation: 4. Learning How to Drive (2)"
+    url: "https://www.eslfast.com/robot/topics/transport/drive04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/drive0401.mp3", "https://www.eslfast.com/robot/audio/transport/drive0402.mp3", "https://www.eslfast.com/robot/audio/transport/drive0403.mp3"]
+  - index: 301
+    slug: "drive05"
+    title: "Conversation: 5. Failing the Road Test"
+    url: "https://www.eslfast.com/robot/topics/transport/drive05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/drive0501.mp3", "https://www.eslfast.com/robot/audio/transport/drive0502.mp3", "https://www.eslfast.com/robot/audio/transport/drive0503.mp3"]
+  - index: 302
+    slug: "drive06"
+    title: "Conversation: 6. Passing the Road Test"
+    url: "https://www.eslfast.com/robot/topics/transport/drive06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/drive0601.mp3", "https://www.eslfast.com/robot/audio/transport/drive0602.mp3", "https://www.eslfast.com/robot/audio/transport/drive0603.mp3"]
+  - index: 303
+    slug: "drive07"
+    title: "Conversation: 7. Getting the Driver's License"
+    url: "https://www.eslfast.com/robot/topics/transport/drive07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/drive0701.mp3", "https://www.eslfast.com/robot/audio/transport/drive0702.mp3", "https://www.eslfast.com/robot/audio/transport/drive0703.mp3"]
+  - index: 304
+    slug: "drive08"
+    title: "Conversation: 8. Asking Where to Park on Campus"
+    url: "https://www.eslfast.com/robot/topics/transport/drive08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/drive0801.mp3", "https://www.eslfast.com/robot/audio/transport/drive0802.mp3", "https://www.eslfast.com/robot/audio/transport/drive0803.mp3"]
+  - index: 305
+    slug: "drive09"
+    title: "Conversation: 9. Getting a Parking Ticket"
+    url: "https://www.eslfast.com/robot/topics/transport/drive09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/drive0901.mp3", "https://www.eslfast.com/robot/audio/transport/drive0902.mp3", "https://www.eslfast.com/robot/audio/transport/drive0903.mp3"]
+  - index: 306
+    slug: "drive10"
+    title: "Conversation: 10. Paying Off Parking Tickets"
+    url: "https://www.eslfast.com/robot/topics/transport/drive10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/transport/drive1001.mp3", "https://www.eslfast.com/robot/audio/transport/drive1002.mp3", "https://www.eslfast.com/robot/audio/transport/drive1003.mp3"]
+  - index: 307
+    slug: "health01"
+    title: "Conversation: 1. Health Insurance"
+    url: "https://www.eslfast.com/robot/topics/health/health01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health0101.mp3", "https://www.eslfast.com/robot/audio/health/health0102.mp3", "https://www.eslfast.com/robot/audio/health/health0103.mp3"]
+  - index: 308
+    slug: "health02"
+    title: "Conversation: 2. A Medical Emergency"
+    url: "https://www.eslfast.com/robot/topics/health/health02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health0201.mp3", "https://www.eslfast.com/robot/audio/health/health0202.mp3", "https://www.eslfast.com/robot/audio/health/health0203.mp3"]
+  - index: 309
+    slug: "health03"
+    title: "Conversation: 3. Going to an Emergency Room"
+    url: "https://www.eslfast.com/robot/topics/health/health03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health0301.mp3", "https://www.eslfast.com/robot/audio/health/health0302.mp3", "https://www.eslfast.com/robot/audio/health/health0303.mp3"]
+  - index: 310
+    slug: "health04"
+    title: "Conversation: 4. A Stomachache"
+    url: "https://www.eslfast.com/robot/topics/health/health04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health0401.mp3", "https://www.eslfast.com/robot/audio/health/health0402.mp3", "https://www.eslfast.com/robot/audio/health/health0403.mp3"]
+  - index: 311
+    slug: "health05"
+    title: "Conversation: 5. A Toothache"
+    url: "https://www.eslfast.com/robot/topics/health/health05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health0501.mp3", "https://www.eslfast.com/robot/audio/health/health0502.mp3", "https://www.eslfast.com/robot/audio/health/health0503.mp3"]
+  - index: 312
+    slug: "health06"
+    title: "Conversation: 6. Buying Over-the-Counter Medicine"
+    url: "https://www.eslfast.com/robot/topics/health/health06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health0601.mp3", "https://www.eslfast.com/robot/audio/health/health0602.mp3", "https://www.eslfast.com/robot/audio/health/health0603.mp3"]
+  - index: 313
+    slug: "health07"
+    title: "Conversation: 7. Filling Prescription"
+    url: "https://www.eslfast.com/robot/topics/health/health07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health0701.mp3", "https://www.eslfast.com/robot/audio/health/health0702.mp3", "https://www.eslfast.com/robot/audio/health/health0703.mp3"]
+  - index: 314
+    slug: "health08"
+    title: "Conversation: 8. Normal Test Results"
+    url: "https://www.eslfast.com/robot/topics/health/health08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health0801.mp3", "https://www.eslfast.com/robot/audio/health/health0802.mp3", "https://www.eslfast.com/robot/audio/health/health0803.mp3"]
+  - index: 315
+    slug: "health09"
+    title: "Conversation: 9. Calling in Sick"
+    url: "https://www.eslfast.com/robot/topics/health/health09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health0901.mp3", "https://www.eslfast.com/robot/audio/health/health0902.mp3", "https://www.eslfast.com/robot/audio/health/health0903.mp3"]
+  - index: 316
+    slug: "health10"
+    title: "Conversation: 10. Missing Classes"
+    url: "https://www.eslfast.com/robot/topics/health/health10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health1001.mp3", "https://www.eslfast.com/robot/audio/health/health1002.mp3", "https://www.eslfast.com/robot/audio/health/health1003.mp3"]
+  - index: 317
+    slug: "health11"
+    title: "Conversation: 11. Discussing Test Results"
+    url: "https://www.eslfast.com/robot/topics/health/health11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health1101.mp3", "https://www.eslfast.com/robot/audio/health/health1102.mp3", "https://www.eslfast.com/robot/audio/health/health1103.mp3"]
+  - index: 318
+    slug: "health12"
+    title: "Conversation: 12. Changing an Appointment Time"
+    url: "https://www.eslfast.com/robot/topics/health/health12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health1201.mp3", "https://www.eslfast.com/robot/audio/health/health1202.mp3", "https://www.eslfast.com/robot/audio/health/health1203.mp3"]
+  - index: 319
+    slug: "health13"
+    title: "Conversation: 13. Going Home Early Because Of Being Ill"
+    url: "https://www.eslfast.com/robot/topics/health/health13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health1301.mp3", "https://www.eslfast.com/robot/audio/health/health1302.mp3", "https://www.eslfast.com/robot/audio/health/health1303.mp3"]
+  - index: 320
+    slug: "health14"
+    title: "Conversation: 14. Having a Blood Test in the Lab"
+    url: "https://www.eslfast.com/robot/topics/health/health14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health1401.mp3", "https://www.eslfast.com/robot/audio/health/health1402.mp3", "https://www.eslfast.com/robot/audio/health/health1403.mp3"]
+  - index: 321
+    slug: "health15"
+    title: "Conversation: 15. Having a Cold"
+    url: "https://www.eslfast.com/robot/topics/health/health15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health1501.mp3", "https://www.eslfast.com/robot/audio/health/health1502.mp3", "https://www.eslfast.com/robot/audio/health/health1503.mp3"]
+  - index: 322
+    slug: "health16"
+    title: "Conversation: 16. Making a Doctor's Appointment"
+    url: "https://www.eslfast.com/robot/topics/health/health16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health1601.mp3", "https://www.eslfast.com/robot/audio/health/health1602.mp3", "https://www.eslfast.com/robot/audio/health/health1603.mp3"]
+  - index: 323
+    slug: "health17"
+    title: "Conversation: 17. Blood Pressure"
+    url: "https://www.eslfast.com/robot/topics/health/health17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health1701.mp3", "https://www.eslfast.com/robot/audio/health/health1702.mp3", "https://www.eslfast.com/robot/audio/health/health1703.mp3"]
+  - index: 324
+    slug: "health18"
+    title: "Conversation: 18. Not Feeling Well"
+    url: "https://www.eslfast.com/robot/topics/health/health18.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health1801.mp3", "https://www.eslfast.com/robot/audio/health/health1802.mp3", "https://www.eslfast.com/robot/audio/health/health1803.mp3"]
+  - index: 325
+    slug: "health19"
+    title: "Conversation: 19. Physical Check-up"
+    url: "https://www.eslfast.com/robot/topics/health/health19.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health1901.mp3", "https://www.eslfast.com/robot/audio/health/health1902.mp3", "https://www.eslfast.com/robot/audio/health/health1903.mp3"]
+  - index: 326
+    slug: "health20"
+    title: "Conversation: 20. Seeing a Doctor in an Emergency"
+    url: "https://www.eslfast.com/robot/topics/health/health20.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health2001.mp3", "https://www.eslfast.com/robot/audio/health/health2002.mp3", "https://www.eslfast.com/robot/audio/health/health2003.mp3"]
+  - index: 327
+    slug: "health21"
+    title: "Conversation: 21. Taking an X-Ray"
+    url: "https://www.eslfast.com/robot/topics/health/health21.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health2101.mp3", "https://www.eslfast.com/robot/audio/health/health2102.mp3", "https://www.eslfast.com/robot/audio/health/health2103.mp3"]
+  - index: 328
+    slug: "health22"
+    title: "Conversation: 22. Seeing the Doctor"
+    url: "https://www.eslfast.com/robot/topics/health/health22.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health2201.mp3", "https://www.eslfast.com/robot/audio/health/health2202.mp3", "https://www.eslfast.com/robot/audio/health/health2203.mp3"]
+  - index: 329
+    slug: "health23"
+    title: "Conversation: 23. Talking to the Doctor about Problems"
+    url: "https://www.eslfast.com/robot/topics/health/health23.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health2301.mp3", "https://www.eslfast.com/robot/audio/health/health2302.mp3", "https://www.eslfast.com/robot/audio/health/health2303.mp3"]
+  - index: 330
+    slug: "health24"
+    title: "Conversation: 24. Taking a Urine Sample"
+    url: "https://www.eslfast.com/robot/topics/health/health24.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health2401.mp3", "https://www.eslfast.com/robot/audio/health/health2402.mp3", "https://www.eslfast.com/robot/audio/health/health2403.mp3"]
+  - index: 331
+    slug: "health25"
+    title: "Conversation: 25. How to Stay Healthy"
+    url: "https://www.eslfast.com/robot/topics/health/health25.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health2501.mp3", "https://www.eslfast.com/robot/audio/health/health2502.mp3", "https://www.eslfast.com/robot/audio/health/health2503.mp3"]
+  - index: 332
+    slug: "health26"
+    title: "Conversation: 26. Prescribing Medicine"
+    url: "https://www.eslfast.com/robot/topics/health/health26.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/health/health2601.mp3", "https://www.eslfast.com/robot/audio/health/health2602.mp3", "https://www.eslfast.com/robot/audio/health/health2603.mp3"]
+  - index: 333
+    slug: "employment01"
+    title: "Conversation: 1. How to Find a Job"
+    url: "https://www.eslfast.com/robot/topics/employment/employment01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment0101.mp3", "https://www.eslfast.com/robot/audio/employment/employment0102.mp3", "https://www.eslfast.com/robot/audio/employment/employment0103.mp3"]
+  - index: 334
+    slug: "employment02"
+    title: "Conversation: 2. Preparing for a Job Interview"
+    url: "https://www.eslfast.com/robot/topics/employment/employment02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment0201.mp3", "https://www.eslfast.com/robot/audio/employment/employment0202.mp3", "https://www.eslfast.com/robot/audio/employment/employment0203.mp3"]
+  - index: 335
+    slug: "employment03"
+    title: "Conversation: 3. Greeting by Receptionist"
+    url: "https://www.eslfast.com/robot/topics/employment/employment03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment0301.mp3", "https://www.eslfast.com/robot/audio/employment/employment0302.mp3", "https://www.eslfast.com/robot/audio/employment/employment0303.mp3"]
+  - index: 336
+    slug: "employment04"
+    title: "Conversation: 4. Job Interview (1)"
+    url: "https://www.eslfast.com/robot/topics/employment/employment04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment0401.mp3", "https://www.eslfast.com/robot/audio/employment/employment0402.mp3", "https://www.eslfast.com/robot/audio/employment/employment0403.mp3"]
+  - index: 337
+    slug: "employment05"
+    title: "Conversation: 5. Job Interview (2)"
+    url: "https://www.eslfast.com/robot/topics/employment/employment05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment0501.mp3", "https://www.eslfast.com/robot/audio/employment/employment0502.mp3", "https://www.eslfast.com/robot/audio/employment/employment0503.mp3"]
+  - index: 338
+    slug: "employment06"
+    title: "Conversation: 6. Asking Questions at an Interview"
+    url: "https://www.eslfast.com/robot/topics/employment/employment06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment0601.mp3", "https://www.eslfast.com/robot/audio/employment/employment0602.mp3", "https://www.eslfast.com/robot/audio/employment/employment0603.mp3"]
+  - index: 339
+    slug: "employment07"
+    title: "Conversation: 7. Accepting a Job Offer"
+    url: "https://www.eslfast.com/robot/topics/employment/employment07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment0701.mp3", "https://www.eslfast.com/robot/audio/employment/employment0702.mp3", "https://www.eslfast.com/robot/audio/employment/employment0703.mp3"]
+  - index: 340
+    slug: "employment08"
+    title: "Conversation: 8. Talking on the Phone"
+    url: "https://www.eslfast.com/robot/topics/employment/employment08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment0801.mp3", "https://www.eslfast.com/robot/audio/employment/employment0802.mp3", "https://www.eslfast.com/robot/audio/employment/employment0803.mp3"]
+  - index: 341
+    slug: "employment09"
+    title: "Conversation: 9. Making a Request for Office Supplies"
+    url: "https://www.eslfast.com/robot/topics/employment/employment09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment0901.mp3", "https://www.eslfast.com/robot/audio/employment/employment0902.mp3", "https://www.eslfast.com/robot/audio/employment/employment0903.mp3"]
+  - index: 342
+    slug: "employment10"
+    title: "Conversation: 10. Offering Help"
+    url: "https://www.eslfast.com/robot/topics/employment/employment10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment1001.mp3", "https://www.eslfast.com/robot/audio/employment/employment1002.mp3", "https://www.eslfast.com/robot/audio/employment/employment1003.mp3"]
+  - index: 343
+    slug: "employment11"
+    title: "Conversation: 11. Asking for Help"
+    url: "https://www.eslfast.com/robot/topics/employment/employment11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment1101.mp3", "https://www.eslfast.com/robot/audio/employment/employment1102.mp3", "https://www.eslfast.com/robot/audio/employment/employment1103.mp3"]
+  - index: 344
+    slug: "employment12"
+    title: "Conversation: 12. Responding to a Plea for Help"
+    url: "https://www.eslfast.com/robot/topics/employment/employment12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment1201.mp3", "https://www.eslfast.com/robot/audio/employment/employment1202.mp3", "https://www.eslfast.com/robot/audio/employment/employment1203.mp3"]
+  - index: 345
+    slug: "employment13"
+    title: "Conversation: 13. How to Do a Timesheet"
+    url: "https://www.eslfast.com/robot/topics/employment/employment13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment1301.mp3", "https://www.eslfast.com/robot/audio/employment/employment1302.mp3", "https://www.eslfast.com/robot/audio/employment/employment1303.mp3"]
+  - index: 346
+    slug: "employment14"
+    title: "Conversation: 14. Making a Phone Call"
+    url: "https://www.eslfast.com/robot/topics/employment/employment14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment1401.mp3", "https://www.eslfast.com/robot/audio/employment/employment1402.mp3", "https://www.eslfast.com/robot/audio/employment/employment1403.mp3"]
+  - index: 347
+    slug: "employment15"
+    title: "Conversation: 15. Making an Appointment for a Meeting"
+    url: "https://www.eslfast.com/robot/topics/employment/employment15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment1501.mp3", "https://www.eslfast.com/robot/audio/employment/employment1502.mp3", "https://www.eslfast.com/robot/audio/employment/employment1503.mp3"]
+  - index: 348
+    slug: "employment16"
+    title: "Conversation: 16. Rearranging an Appointment"
+    url: "https://www.eslfast.com/robot/topics/employment/employment16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment1601.mp3", "https://www.eslfast.com/robot/audio/employment/employment1602.mp3", "https://www.eslfast.com/robot/audio/employment/employment1603.mp3"]
+  - index: 349
+    slug: "employment17"
+    title: "Conversation: 17. Giving an Excuse for Being Late to Work"
+    url: "https://www.eslfast.com/robot/topics/employment/employment17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment1701.mp3", "https://www.eslfast.com/robot/audio/employment/employment1702.mp3", "https://www.eslfast.com/robot/audio/employment/employment1703.mp3"]
+  - index: 350
+    slug: "employment18"
+    title: "Conversation: 18. Accepting Excuses for Not Meeting Commitments"
+    url: "https://www.eslfast.com/robot/topics/employment/employment18.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment1801.mp3", "https://www.eslfast.com/robot/audio/employment/employment1802.mp3", "https://www.eslfast.com/robot/audio/employment/employment1803.mp3"]
+  - index: 351
+    slug: "employment19"
+    title: "Conversation: 19. Asking for a Description of a Person"
+    url: "https://www.eslfast.com/robot/topics/employment/employment19.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment1901.mp3", "https://www.eslfast.com/robot/audio/employment/employment1902.mp3", "https://www.eslfast.com/robot/audio/employment/employment1903.mp3"]
+  - index: 352
+    slug: "employment20"
+    title: "Conversation: 20. Asking for Permission"
+    url: "https://www.eslfast.com/robot/topics/employment/employment20.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment2001.mp3", "https://www.eslfast.com/robot/audio/employment/employment2002.mp3", "https://www.eslfast.com/robot/audio/employment/employment2003.mp3"]
+  - index: 353
+    slug: "employment21"
+    title: "Conversation: 21. Agreement and Disagreement"
+    url: "https://www.eslfast.com/robot/topics/employment/employment21.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment2101.mp3", "https://www.eslfast.com/robot/audio/employment/employment2102.mp3", "https://www.eslfast.com/robot/audio/employment/employment2103.mp3"]
+  - index: 354
+    slug: "employment22"
+    title: "Conversation: 22. Certainty and Uncertainty"
+    url: "https://www.eslfast.com/robot/topics/employment/employment22.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment2201.mp3", "https://www.eslfast.com/robot/audio/employment/employment2202.mp3", "https://www.eslfast.com/robot/audio/employment/employment2203.mp3"]
+  - index: 355
+    slug: "employment23"
+    title: "Conversation: 23. Likes and Dislikes"
+    url: "https://www.eslfast.com/robot/topics/employment/employment23.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment2301.mp3", "https://www.eslfast.com/robot/audio/employment/employment2302.mp3", "https://www.eslfast.com/robot/audio/employment/employment2303.mp3"]
+  - index: 356
+    slug: "employment24"
+    title: "Conversation: 24.Making Promises"
+    url: "https://www.eslfast.com/robot/topics/employment/employment24.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/employment/employment2401.mp3", "https://www.eslfast.com/robot/audio/employment/employment2402.mp3", "https://www.eslfast.com/robot/audio/employment/employment2403.mp3"]
+  - index: 357
+    slug: "unemployment01"
+    title: "Conversation: 1. Collecting Unemployment Benefits"
+    url: "https://www.eslfast.com/robot/topics/unemployment/unemployment01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/unemployment/unemployment0101.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0102.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0103.mp3"]
+  - index: 358
+    slug: "unemployment02"
+    title: "Conversation: 2. Forms to Fill Out"
+    url: "https://www.eslfast.com/robot/topics/unemployment/unemployment02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/unemployment/unemployment0201.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0202.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0203.mp3"]
+  - index: 359
+    slug: "unemployment03"
+    title: "Conversation: 3. Questions about the Forms"
+    url: "https://www.eslfast.com/robot/topics/unemployment/unemployment03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/unemployment/unemployment0301.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0302.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0303.mp3"]
+  - index: 360
+    slug: "unemployment04"
+    title: "Conversation: 4. EDD Office"
+    url: "https://www.eslfast.com/robot/topics/unemployment/unemployment04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/unemployment/unemployment0401.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0402.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0403.mp3"]
+  - index: 361
+    slug: "unemployment05"
+    title: "Conversation: 5. Payment Not Received"
+    url: "https://www.eslfast.com/robot/topics/unemployment/unemployment05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/unemployment/unemployment0501.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0502.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0503.mp3"]
+  - index: 362
+    slug: "unemployment06"
+    title: "Conversation: 6. Reduced Payment"
+    url: "https://www.eslfast.com/robot/topics/unemployment/unemployment06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/unemployment/unemployment0601.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0602.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0603.mp3"]
+  - index: 363
+    slug: "unemployment07"
+    title: "Conversation: 7. Looking for Jobs at EDD"
+    url: "https://www.eslfast.com/robot/topics/unemployment/unemployment07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/unemployment/unemployment0701.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0702.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0703.mp3"]
+  - index: 364
+    slug: "unemployment08"
+    title: "Conversation: 8. Talking to People at EDD"
+    url: "https://www.eslfast.com/robot/topics/unemployment/unemployment08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/unemployment/unemployment0801.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0802.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0803.mp3"]
+  - index: 365
+    slug: "unemployment09"
+    title: "Conversation: 9. Attending a Workshop at EDD"
+    url: "https://www.eslfast.com/robot/topics/unemployment/unemployment09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/unemployment/unemployment0901.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0902.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment0903.mp3"]
+  - index: 366
+    slug: "unemployment10"
+    title: "Conversation: 10. How to Go to an Interview"
+    url: "https://www.eslfast.com/robot/topics/unemployment/unemployment10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/unemployment/unemployment1001.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment1002.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment1003.mp3"]
+  - index: 367
+    slug: "unemployment11"
+    title: "Conversation: 11. Finding a Job"
+    url: "https://www.eslfast.com/robot/topics/unemployment/unemployment11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/unemployment/unemployment1101.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment1102.mp3", "https://www.eslfast.com/robot/audio/unemployment/unemployment1103.mp3"]
+  - index: 368
+    slug: "travel01"
+    title: "Conversation: 1. Visiting a Travel Agent"
+    url: "https://www.eslfast.com/robot/topics/travel/travel01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel0101.mp3", "https://www.eslfast.com/robot/audio/travel/travel0102.mp3", "https://www.eslfast.com/robot/audio/travel/travel0103.mp3"]
+  - index: 369
+    slug: "travel02"
+    title: "Conversation: 2. Making a Plane Reservation"
+    url: "https://www.eslfast.com/robot/topics/travel/travel02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel0201.mp3", "https://www.eslfast.com/robot/audio/travel/travel0202.mp3", "https://www.eslfast.com/robot/audio/travel/travel0203.mp3"]
+  - index: 370
+    slug: "travel03"
+    title: "Conversation: 3. Booking a Flight Online"
+    url: "https://www.eslfast.com/robot/topics/travel/travel03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel0301.mp3", "https://www.eslfast.com/robot/audio/travel/travel0302.mp3", "https://www.eslfast.com/robot/audio/travel/travel0303.mp3"]
+  - index: 371
+    slug: "travel04"
+    title: "Conversation: 4. Buying a Plane Ticket"
+    url: "https://www.eslfast.com/robot/topics/travel/travel04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel0401.mp3", "https://www.eslfast.com/robot/audio/travel/travel0402.mp3", "https://www.eslfast.com/robot/audio/travel/travel0403.mp3"]
+  - index: 372
+    slug: "travel05"
+    title: "Conversation: 5. Making a Hotel Reservation"
+    url: "https://www.eslfast.com/robot/topics/travel/travel05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel0501.mp3", "https://www.eslfast.com/robot/audio/travel/travel0502.mp3", "https://www.eslfast.com/robot/audio/travel/travel0503.mp3"]
+  - index: 373
+    slug: "travel06"
+    title: "Conversation: 6. Getting a Passport"
+    url: "https://www.eslfast.com/robot/topics/travel/travel06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel0601.mp3", "https://www.eslfast.com/robot/audio/travel/travel0602.mp3", "https://www.eslfast.com/robot/audio/travel/travel0603.mp3"]
+  - index: 374
+    slug: "travel07"
+    title: "Conversation: 7. Luggage Limits"
+    url: "https://www.eslfast.com/robot/topics/travel/travel07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel0701.mp3", "https://www.eslfast.com/robot/audio/travel/travel0702.mp3", "https://www.eslfast.com/robot/audio/travel/travel0703.mp3"]
+  - index: 375
+    slug: "travel08"
+    title: "Conversation: 8. Carry-on Luggage"
+    url: "https://www.eslfast.com/robot/topics/travel/travel08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel0801.mp3", "https://www.eslfast.com/robot/audio/travel/travel0802.mp3", "https://www.eslfast.com/robot/audio/travel/travel0803.mp3"]
+  - index: 376
+    slug: "travel09"
+    title: "Conversation: 9. Dropping Off at the Airport"
+    url: "https://www.eslfast.com/robot/topics/travel/travel09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel0901.mp3", "https://www.eslfast.com/robot/audio/travel/travel0902.mp3", "https://www.eslfast.com/robot/audio/travel/travel0903.mp3"]
+  - index: 377
+    slug: "travel10"
+    title: "Conversation: 10. Picking Up at the Airport"
+    url: "https://www.eslfast.com/robot/topics/travel/travel10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel1001.mp3", "https://www.eslfast.com/robot/audio/travel/travel1002.mp3", "https://www.eslfast.com/robot/audio/travel/travel1003.mp3"]
+  - index: 378
+    slug: "travel11"
+    title: "Conversation: 11. Going through the Customs"
+    url: "https://www.eslfast.com/robot/topics/travel/travel11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel1101.mp3", "https://www.eslfast.com/robot/audio/travel/travel1102.mp3", "https://www.eslfast.com/robot/audio/travel/travel1103.mp3"]
+  - index: 379
+    slug: "travel12"
+    title: "Conversation: 12. Talking to a Curbside Agent"
+    url: "https://www.eslfast.com/robot/topics/travel/travel12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel1201.mp3", "https://www.eslfast.com/robot/audio/travel/travel1202.mp3", "https://www.eslfast.com/robot/audio/travel/travel1203.mp3"]
+  - index: 380
+    slug: "travel13"
+    title: "Conversation: 13. Talking to a Flight Attendant"
+    url: "https://www.eslfast.com/robot/topics/travel/travel13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel1301.mp3", "https://www.eslfast.com/robot/audio/travel/travel1302.mp3", "https://www.eslfast.com/robot/audio/travel/travel1303.mp3"]
+  - index: 381
+    slug: "travel14"
+    title: "Conversation: 14. Talking to a Seatmate"
+    url: "https://www.eslfast.com/robot/topics/travel/travel14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel1401.mp3", "https://www.eslfast.com/robot/audio/travel/travel1402.mp3", "https://www.eslfast.com/robot/audio/travel/travel1403.mp3"]
+  - index: 382
+    slug: "travel15"
+    title: "Conversation: 15. Ordering Food and Drink"
+    url: "https://www.eslfast.com/robot/topics/travel/travel15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel1501.mp3", "https://www.eslfast.com/robot/audio/travel/travel1502.mp3", "https://www.eslfast.com/robot/audio/travel/travel1503.mp3"]
+  - index: 383
+    slug: "travel16"
+    title: "Conversation: 16. Missing Connecting Flight"
+    url: "https://www.eslfast.com/robot/topics/travel/travel16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel1601.mp3", "https://www.eslfast.com/robot/audio/travel/travel1602.mp3", "https://www.eslfast.com/robot/audio/travel/travel1603.mp3"]
+  - index: 384
+    slug: "travel17"
+    title: "Conversation: 17. Ground Transportation"
+    url: "https://www.eslfast.com/robot/topics/travel/travel17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel1701.mp3", "https://www.eslfast.com/robot/audio/travel/travel1702.mp3", "https://www.eslfast.com/robot/audio/travel/travel1703.mp3"]
+  - index: 385
+    slug: "travel18"
+    title: "Conversation: 18. Arranging a Tour of the City"
+    url: "https://www.eslfast.com/robot/topics/travel/travel18.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel1801.mp3", "https://www.eslfast.com/robot/audio/travel/travel1802.mp3", "https://www.eslfast.com/robot/audio/travel/travel1803.mp3"]
+  - index: 386
+    slug: "travel19"
+    title: "Conversation: 19. Complaining about a Tour"
+    url: "https://www.eslfast.com/robot/topics/travel/travel19.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel1901.mp3", "https://www.eslfast.com/robot/audio/travel/travel1902.mp3", "https://www.eslfast.com/robot/audio/travel/travel1903.mp3"]
+  - index: 387
+    slug: "travel20"
+    title: "Conversation: 20. Sightseeing"
+    url: "https://www.eslfast.com/robot/topics/travel/travel20.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel2001.mp3", "https://www.eslfast.com/robot/audio/travel/travel2002.mp3", "https://www.eslfast.com/robot/audio/travel/travel2003.mp3"]
+  - index: 388
+    slug: "travel21"
+    title: "Conversation: 21. Making Alternate Plans"
+    url: "https://www.eslfast.com/robot/topics/travel/travel21.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel2101.mp3", "https://www.eslfast.com/robot/audio/travel/travel2102.mp3", "https://www.eslfast.com/robot/audio/travel/travel2103.mp3"]
+  - index: 389
+    slug: "travel22"
+    title: "Conversation: 22. Shopping for Souvenirs"
+    url: "https://www.eslfast.com/robot/topics/travel/travel22.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel2201.mp3", "https://www.eslfast.com/robot/audio/travel/travel2202.mp3", "https://www.eslfast.com/robot/audio/travel/travel2203.mp3"]
+  - index: 390
+    slug: "travel23"
+    title: "Conversation: 23. Trying to Find a Doctor"
+    url: "https://www.eslfast.com/robot/topics/travel/travel23.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel2301.mp3", "https://www.eslfast.com/robot/audio/travel/travel2302.mp3", "https://www.eslfast.com/robot/audio/travel/travel2303.mp3"]
+  - index: 391
+    slug: "travel24"
+    title: "Conversation: 24. Losing the Wallet and Passport"
+    url: "https://www.eslfast.com/robot/topics/travel/travel24.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel2401.mp3", "https://www.eslfast.com/robot/audio/travel/travel2402.mp3", "https://www.eslfast.com/robot/audio/travel/travel2403.mp3"]
+  - index: 392
+    slug: "travel25"
+    title: "Conversation: 25. Being Cautious in a Big City"
+    url: "https://www.eslfast.com/robot/topics/travel/travel25.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel2501.mp3", "https://www.eslfast.com/robot/audio/travel/travel2502.mp3", "https://www.eslfast.com/robot/audio/travel/travel2503.mp3"]
+  - index: 393
+    slug: "travel26"
+    title: "Conversation: 26. Local Customs"
+    url: "https://www.eslfast.com/robot/topics/travel/travel26.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel2601.mp3", "https://www.eslfast.com/robot/audio/travel/travel2602.mp3", "https://www.eslfast.com/robot/audio/travel/travel2603.mp3"]
+  - index: 394
+    slug: "travel27"
+    title: "Conversation: 27. Shuttle Bus at the Airport"
+    url: "https://www.eslfast.com/robot/topics/travel/travel27.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel2701.mp3", "https://www.eslfast.com/robot/audio/travel/travel2702.mp3", "https://www.eslfast.com/robot/audio/travel/travel2703.mp3"]
+  - index: 395
+    slug: "travel28"
+    title: "Conversation: 28. Arriving Home"
+    url: "https://www.eslfast.com/robot/topics/travel/travel28.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/travel/travel2801.mp3", "https://www.eslfast.com/robot/audio/travel/travel2802.mp3", "https://www.eslfast.com/robot/audio/travel/travel2803.mp3"]
+  - index: 396
+    slug: "hotel01"
+    title: "Conversation: 1. Calling to Get a Reservation"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel0101.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0102.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0103.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0104.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0105.mp3"]
+  - index: 397
+    slug: "hotel02"
+    title: "Conversation: 2. Checking into the Hotel"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel0201.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0202.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0203.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0204.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0205.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0206.mp3"]
+  - index: 398
+    slug: "hotel03"
+    title: "Conversation: 3. Requesting a Wake-Up Call"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel0301.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0302.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0303.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0304.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0305.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0306.mp3"]
+  - index: 399
+    slug: "hotel04"
+    title: "Conversation: 4. Asking the Concierge for Sightseeing Advice"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel0401.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0402.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0403.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0404.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0405.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0406.mp3"]
+  - index: 400
+    slug: "hotel05"
+    title: "Conversation: 5. Asking the Concierge for Restaurant Advice"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel0501.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0502.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0503.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0504.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0505.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0506.mp3"]
+  - index: 401
+    slug: "hotel06"
+    title: "Conversation: 6. Talking to Room Service"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel0601.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0602.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0603.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0604.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0605.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0606.mp3"]
+  - index: 402
+    slug: "hotel07"
+    title: "Conversation: 7. Calling to Report a Cockroach Problem (1)"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel0701.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0702.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0703.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0704.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0705.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0706.mp3"]
+  - index: 403
+    slug: "hotel08"
+    title: "Conversation: 8. Calling to Report a Cockroach Problem (2)"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel0801.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0802.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0803.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0804.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0805.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0806.mp3"]
+  - index: 404
+    slug: "hotel09"
+    title: "Conversation: 9. Asking about the Hotel Gym"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel0901.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0902.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0903.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0904.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel0905.mp3"]
+  - index: 405
+    slug: "hotel10"
+    title: "Conversation: 10. Asking for More Amenities"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel1001.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1002.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1003.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1004.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1005.mp3"]
+  - index: 406
+    slug: "hotel11"
+    title: "Conversation: 11. Asking Where to Make a Copy"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel1101.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1102.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1103.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1104.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1105.mp3"]
+  - index: 407
+    slug: "hotel12"
+    title: "Conversation: 12. Calling to Report a Medical Emergency"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel1201.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1202.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1203.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1204.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1205.mp3"]
+  - index: 408
+    slug: "hotel13"
+    title: "Conversation: 13. Calling for a Wireless Connection"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel1301.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1302.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1303.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1304.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1305.mp3"]
+  - index: 409
+    slug: "hotel14"
+    title: "Conversation: 14. Requesting More Supplies for the Minibar"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel1401.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1402.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1403.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1404.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1405.mp3"]
+  - index: 410
+    slug: "hotel15"
+    title: "Conversation: 15. Asking about the Swimming Pool"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel1501.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1502.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1503.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1504.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1505.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1506.mp3"]
+  - index: 411
+    slug: "hotel16"
+    title: "Conversation: 16. Getting a Taxi via the Front Desk"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel1601.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1602.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1603.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1604.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1605.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1606.mp3"]
+  - index: 412
+    slug: "hotel17"
+    title: "Conversation: 17. Checking Out"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel1701.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1702.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1703.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1704.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1705.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1706.mp3"]
+  - index: 413
+    slug: "hotel18"
+    title: "Conversation: 18. Disputing the Bill"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel18.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel1801.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1802.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1803.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1804.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1805.mp3"]
+  - index: 414
+    slug: "hotel19"
+    title: "Conversation: 19. Storing Luggage for a Few Hours"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel19.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel1901.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1902.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1903.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1904.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel1905.mp3"]
+  - index: 415
+    slug: "hotel20"
+    title: "Conversation: 20. To Hold a Parcel for Pick-up"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel20.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel2001.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel2002.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel2003.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel2004.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel2005.mp3"]
+  - index: 416
+    slug: "hotel21"
+    title: "Conversation: 21. Calling to Cancel a Reservation"
+    url: "https://www.eslfast.com/robot/topics/hotel/hotel21.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/hotel/hotel2101.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel2102.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel2103.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel2104.mp3", "https://www.eslfast.com/robot/audio/hotel/hotel2105.mp3"]
+  - index: 417
+    slug: "buyhouse01"
+    title: "Conversation: 1. First Meeting with a Realtor"
+    url: "https://www.eslfast.com/robot/topics/buyhouse/buyhouse01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/buyhouse/buyhouse0101.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0102.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0103.mp3"]
+  - index: 418
+    slug: "buyhouse02"
+    title: "Conversation: 2. Pre-Qualifying for a Loan"
+    url: "https://www.eslfast.com/robot/topics/buyhouse/buyhouse02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/buyhouse/buyhouse0201.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0202.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0203.mp3"]
+  - index: 419
+    slug: "buyhouse03"
+    title: "Conversation: 3. Setting up an Appointment to View Houses"
+    url: "https://www.eslfast.com/robot/topics/buyhouse/buyhouse03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/buyhouse/buyhouse0301.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0302.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0303.mp3"]
+  - index: 420
+    slug: "buyhouse04"
+    title: "Conversation: 4. Viewing Houses with a Realtor"
+    url: "https://www.eslfast.com/robot/topics/buyhouse/buyhouse04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/buyhouse/buyhouse0401.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0402.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0403.mp3"]
+  - index: 421
+    slug: "buyhouse05"
+    title: "Conversation: 5. Not Liking the Houses"
+    url: "https://www.eslfast.com/robot/topics/buyhouse/buyhouse05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/buyhouse/buyhouse0501.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0502.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0503.mp3"]
+  - index: 422
+    slug: "buyhouse06"
+    title: "Conversation: 6. Making an Offer through a Realtor"
+    url: "https://www.eslfast.com/robot/topics/buyhouse/buyhouse06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/buyhouse/buyhouse0601.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0602.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0603.mp3"]
+  - index: 423
+    slug: "buyhouse07"
+    title: "Conversation: 7. Discussing Counter-Offer with a Realtor"
+    url: "https://www.eslfast.com/robot/topics/buyhouse/buyhouse07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/buyhouse/buyhouse0701.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0702.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0703.mp3"]
+  - index: 424
+    slug: "buyhouse08"
+    title: "Conversation: 8. Re-offering and Acceptance"
+    url: "https://www.eslfast.com/robot/topics/buyhouse/buyhouse08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/buyhouse/buyhouse0801.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0802.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0803.mp3"]
+  - index: 425
+    slug: "buyhouse09"
+    title: "Conversation: 9. Going to an Open House with a Friend"
+    url: "https://www.eslfast.com/robot/topics/buyhouse/buyhouse09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/buyhouse/buyhouse0901.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0902.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse0903.mp3"]
+  - index: 426
+    slug: "buyhouse10"
+    title: "Conversation: 11. Signing Escrow Papers"
+    url: "https://www.eslfast.com/robot/topics/buyhouse/buyhouse10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/buyhouse/buyhouse1001.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse1002.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse1003.mp3"]
+  - index: 427
+    slug: "buyhouse11"
+    title: "Conversation: 11. Signing Escrow Papers"
+    url: "https://www.eslfast.com/robot/topics/buyhouse/buyhouse11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/buyhouse/buyhouse1101.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse1102.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse1103.mp3"]
+  - index: 428
+    slug: "buyhouse12"
+    title: "Conversation: 12. Discussing Details of Moving in"
+    url: "https://www.eslfast.com/robot/topics/buyhouse/buyhouse12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/buyhouse/buyhouse1201.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse1202.mp3", "https://www.eslfast.com/robot/audio/buyhouse/buyhouse1203.mp3"]
+  - index: 429
+    slug: "salehouse01"
+    title: "Conversation: 1. First Appointment with Realtor"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse0101.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0102.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0103.mp3"]
+  - index: 430
+    slug: "salehouse02"
+    title: "Conversation: 2. Marketing the House"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse0201.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0202.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0203.mp3"]
+  - index: 431
+    slug: "salehouse03"
+    title: "Conversation: 3. Setting an Asking Price"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse0301.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0302.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0303.mp3"]
+  - index: 432
+    slug: "salehouse04"
+    title: "Conversation: 4. Signing Contract With Realtor"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse0401.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0402.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0403.mp3"]
+  - index: 433
+    slug: "salehouse05"
+    title: "Conversation: 5. Home Security During Listing"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse0501.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0502.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0503.mp3"]
+  - index: 434
+    slug: "salehouse06"
+    title: "Conversation: 6. Fixing Up the Interior"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse0601.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0602.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0603.mp3"]
+  - index: 435
+    slug: "salehouse07"
+    title: "Conversation: 7. Fixing Up the Exterior"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse0701.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0702.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0703.mp3"]
+  - index: 436
+    slug: "salehouse08"
+    title: "Conversation: 8. Preparing for an Open House"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse0801.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0802.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0803.mp3"]
+  - index: 437
+    slug: "salehouse09"
+    title: "Conversation: 9. Accepting an Offer"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse0901.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0902.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse0903.mp3"]
+  - index: 438
+    slug: "salehouse10"
+    title: "Conversation: 10. Counteroffer"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse1001.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1002.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1003.mp3"]
+  - index: 439
+    slug: "salehouse11"
+    title: "Conversation: 11. Accepting a Counteroffer"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse1101.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1102.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1103.mp3"]
+  - index: 440
+    slug: "salehouse12"
+    title: "Conversation: 12. Rejecting a Counteroffer"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse1201.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1202.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1203.mp3"]
+  - index: 441
+    slug: "salehouse13"
+    title: "Conversation: 13. Deciding Which Offer to Accept"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse1301.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1302.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1303.mp3"]
+  - index: 442
+    slug: "salehouse14"
+    title: "Conversation: 14. Deciding Whether to Carry Part of a Loan"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse1401.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1402.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1403.mp3"]
+  - index: 443
+    slug: "salehouse15"
+    title: "Conversation: 15. Deed Transfer"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse1501.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1502.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1503.mp3"]
+  - index: 444
+    slug: "salehouse16"
+    title: "Conversation: 16. Preparing to Move Out"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse1601.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1602.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1603.mp3"]
+  - index: 445
+    slug: "salehouse17"
+    title: "Conversation: 17. Moving Day"
+    url: "https://www.eslfast.com/robot/topics/salehouse/salehouse17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/salehouse/salehouse1701.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1702.mp3", "https://www.eslfast.com/robot/audio/salehouse/salehouse1703.mp3"]
+  - index: 446
+    slug: "community01"
+    title: "Conversation: 1. What to Do in the Neighborhood"
+    url: "https://www.eslfast.com/robot/topics/community/community01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community0101.mp3", "https://www.eslfast.com/robot/audio/community/community0102.mp3", "https://www.eslfast.com/robot/audio/community/community0103.mp3"]
+  - index: 447
+    slug: "community02"
+    title: "Conversation: 2. Meeting New People"
+    url: "https://www.eslfast.com/robot/topics/community/community02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community0201.mp3", "https://www.eslfast.com/robot/audio/community/community0202.mp3", "https://www.eslfast.com/robot/audio/community/community0203.mp3"]
+  - index: 448
+    slug: "community03"
+    title: "Conversation: 3. To Have a Better Life"
+    url: "https://www.eslfast.com/robot/topics/community/community03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community0301.mp3", "https://www.eslfast.com/robot/audio/community/community0302.mp3", "https://www.eslfast.com/robot/audio/community/community0303.mp3"]
+  - index: 449
+    slug: "community04"
+    title: "Conversation: 4. Where to Find a Church"
+    url: "https://www.eslfast.com/robot/topics/community/community04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community0401.mp3", "https://www.eslfast.com/robot/audio/community/community0402.mp3", "https://www.eslfast.com/robot/audio/community/community0403.mp3"]
+  - index: 450
+    slug: "community05"
+    title: "Conversation: 5. Where to Find a Movie Theater"
+    url: "https://www.eslfast.com/robot/topics/community/community05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community0501.mp3", "https://www.eslfast.com/robot/audio/community/community0502.mp3", "https://www.eslfast.com/robot/audio/community/community0503.mp3"]
+  - index: 451
+    slug: "community06"
+    title: "Conversation: 6. Where to Find Places to Eat"
+    url: "https://www.eslfast.com/robot/topics/community/community06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community0601.mp3", "https://www.eslfast.com/robot/audio/community/community0602.mp3", "https://www.eslfast.com/robot/audio/community/community0603.mp3"]
+  - index: 452
+    slug: "community07"
+    title: "Conversation: 7. Where is the Nearest Mall"
+    url: "https://www.eslfast.com/robot/topics/community/community07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community0701.mp3", "https://www.eslfast.com/robot/audio/community/community0702.mp3", "https://www.eslfast.com/robot/audio/community/community0703.mp3"]
+  - index: 453
+    slug: "community08"
+    title: "Conversation: 8. Looking for the Library"
+    url: "https://www.eslfast.com/robot/topics/community/community08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community0801.mp3", "https://www.eslfast.com/robot/audio/community/community0802.mp3", "https://www.eslfast.com/robot/audio/community/community0803.mp3"]
+  - index: 454
+    slug: "community09"
+    title: "Conversation: 9. Searching for a Book in the Library"
+    url: "https://www.eslfast.com/robot/topics/community/community09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community0901.mp3", "https://www.eslfast.com/robot/audio/community/community0902.mp3", "https://www.eslfast.com/robot/audio/community/community0903.mp3"]
+  - index: 455
+    slug: "community10"
+    title: "Conversation: 10. Hailing a Cab"
+    url: "https://www.eslfast.com/robot/topics/community/community10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community1001.mp3", "https://www.eslfast.com/robot/audio/community/community1002.mp3", "https://www.eslfast.com/robot/audio/community/community1003.mp3"]
+  - index: 456
+    slug: "community11"
+    title: "Conversation: 11. Taking a Walk around a Park"
+    url: "https://www.eslfast.com/robot/topics/community/community11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community1101.mp3", "https://www.eslfast.com/robot/audio/community/community1102.mp3", "https://www.eslfast.com/robot/audio/community/community1103.mp3"]
+  - index: 457
+    slug: "community12"
+    title: "Conversation: 12. Playing with Kids at the Park"
+    url: "https://www.eslfast.com/robot/topics/community/community12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community1201.mp3", "https://www.eslfast.com/robot/audio/community/community1202.mp3", "https://www.eslfast.com/robot/audio/community/community1203.mp3"]
+  - index: 458
+    slug: "community13"
+    title: "Conversation: 13. Enrolling a Child in a New School"
+    url: "https://www.eslfast.com/robot/topics/community/community13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/community/community1301.mp3", "https://www.eslfast.com/robot/audio/community/community1302.mp3", "https://www.eslfast.com/robot/audio/community/community1303.mp3"]
+  - index: 459
+    slug: "crime01"
+    title: "Conversation: 1. Discussing a News Report on a Crime"
+    url: "https://www.eslfast.com/robot/topics/crime/crime01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime0101.mp3", "https://www.eslfast.com/robot/audio/crime/crime0102.mp3", "https://www.eslfast.com/robot/audio/crime/crime0103.mp3"]
+  - index: 460
+    slug: "crime02"
+    title: "Conversation: 2. Discussing a Robbery"
+    url: "https://www.eslfast.com/robot/topics/crime/crime02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime0201.mp3", "https://www.eslfast.com/robot/audio/crime/crime0202.mp3", "https://www.eslfast.com/robot/audio/crime/crime0203.mp3"]
+  - index: 461
+    slug: "crime03"
+    title: "Conversation: 3. Being Robbed"
+    url: "https://www.eslfast.com/robot/topics/crime/crime03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime0301.mp3", "https://www.eslfast.com/robot/audio/crime/crime0302.mp3", "https://www.eslfast.com/robot/audio/crime/crime0303.mp3"]
+  - index: 462
+    slug: "crime04"
+    title: "Conversation: 4. Reporting a Break-in"
+    url: "https://www.eslfast.com/robot/topics/crime/crime04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime0401.mp3", "https://www.eslfast.com/robot/audio/crime/crime0402.mp3", "https://www.eslfast.com/robot/audio/crime/crime0403.mp3"]
+  - index: 463
+    slug: "crime05"
+    title: "Conversation: 5. Witnessing a Robbery"
+    url: "https://www.eslfast.com/robot/topics/crime/crime05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime0501.mp3", "https://www.eslfast.com/robot/audio/crime/crime0502.mp3", "https://www.eslfast.com/robot/audio/crime/crime0503.mp3"]
+  - index: 464
+    slug: "crime06"
+    title: "Conversation: 6. Picking a Suspect out of a Line-up"
+    url: "https://www.eslfast.com/robot/topics/crime/crime06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime0601.mp3", "https://www.eslfast.com/robot/audio/crime/crime0602.mp3", "https://www.eslfast.com/robot/audio/crime/crime0603.mp3"]
+  - index: 465
+    slug: "crime07"
+    title: "Conversation: 7. Answering Questions of the Police"
+    url: "https://www.eslfast.com/robot/topics/crime/crime07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime0701.mp3", "https://www.eslfast.com/robot/audio/crime/crime0702.mp3", "https://www.eslfast.com/robot/audio/crime/crime0703.mp3"]
+  - index: 466
+    slug: "crime08"
+    title: "Conversation: 8. Being Arrested"
+    url: "https://www.eslfast.com/robot/topics/crime/crime08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime0801.mp3", "https://www.eslfast.com/robot/audio/crime/crime0802.mp3", "https://www.eslfast.com/robot/audio/crime/crime0803.mp3"]
+  - index: 467
+    slug: "crime09"
+    title: "Conversation: 9. Being Pulled Over"
+    url: "https://www.eslfast.com/robot/topics/crime/crime09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime0901.mp3", "https://www.eslfast.com/robot/audio/crime/crime0902.mp3", "https://www.eslfast.com/robot/audio/crime/crime0903.mp3"]
+  - index: 468
+    slug: "crime10"
+    title: "Conversation: 10. Pleading Not Guilty in Court"
+    url: "https://www.eslfast.com/robot/topics/crime/crime10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime1001.mp3", "https://www.eslfast.com/robot/audio/crime/crime1002.mp3", "https://www.eslfast.com/robot/audio/crime/crime1003.mp3"]
+  - index: 469
+    slug: "crime11"
+    title: "Conversation: 11. Being Set Free"
+    url: "https://www.eslfast.com/robot/topics/crime/crime11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime1101.mp3", "https://www.eslfast.com/robot/audio/crime/crime1102.mp3", "https://www.eslfast.com/robot/audio/crime/crime1103.mp3"]
+  - index: 470
+    slug: "crime12"
+    title: "Conversation: 12. Discussing a Lawsuit against the Police"
+    url: "https://www.eslfast.com/robot/topics/crime/crime12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime1201.mp3", "https://www.eslfast.com/robot/audio/crime/crime1202.mp3", "https://www.eslfast.com/robot/audio/crime/crime1203.mp3"]
+  - index: 471
+    slug: "crime13"
+    title: "Conversation: 13. Talking to a Lawyer"
+    url: "https://www.eslfast.com/robot/topics/crime/crime13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime1301.mp3", "https://www.eslfast.com/robot/audio/crime/crime1302.mp3", "https://www.eslfast.com/robot/audio/crime/crime1303.mp3"]
+  - index: 472
+    slug: "crime14"
+    title: "Conversation: 14. Filing a Complaint at the Police Station"
+    url: "https://www.eslfast.com/robot/topics/crime/crime14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/crime/crime1401.mp3", "https://www.eslfast.com/robot/audio/crime/crime1402.mp3", "https://www.eslfast.com/robot/audio/crime/crime1403.mp3"]
+  - index: 473
+    slug: "vote01"
+    title: "Conversation: 1. Election Day"
+    url: "https://www.eslfast.com/robot/topics/vote/vote01.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote0101.mp3", "https://www.eslfast.com/robot/audio/vote/vote0102.mp3", "https://www.eslfast.com/robot/audio/vote/vote0103.mp3"]
+  - index: 474
+    slug: "vote02"
+    title: "Conversation: 2. Election System"
+    url: "https://www.eslfast.com/robot/topics/vote/vote02.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote0201.mp3", "https://www.eslfast.com/robot/audio/vote/vote0202.mp3", "https://www.eslfast.com/robot/audio/vote/vote0203.mp3"]
+  - index: 475
+    slug: "vote03"
+    title: "Conversation: 3. Polling Place"
+    url: "https://www.eslfast.com/robot/topics/vote/vote03.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote0301.mp3", "https://www.eslfast.com/robot/audio/vote/vote0302.mp3", "https://www.eslfast.com/robot/audio/vote/vote0303.mp3"]
+  - index: 476
+    slug: "vote04"
+    title: "Conversation: 4. Absentee Ballot"
+    url: "https://www.eslfast.com/robot/topics/vote/vote04.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote401.mp3", "https://www.eslfast.com/robot/audio/vote/vote0402.mp3", "https://www.eslfast.com/robot/audio/vote/vote0403.mp3"]
+  - index: 477
+    slug: "vote05"
+    title: "Conversation: 5. Speaking Negatively about the Candidate"
+    url: "https://www.eslfast.com/robot/topics/vote/vote05.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote0501.mp3", "https://www.eslfast.com/robot/audio/vote/vote0502.mp3", "https://www.eslfast.com/robot/audio/vote/vote0503.mp3"]
+  - index: 478
+    slug: "vote06"
+    title: "Conversation: 6. Speaking Positively about the Candidate"
+    url: "https://www.eslfast.com/robot/topics/vote/vote06.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote0601.mp3", "https://www.eslfast.com/robot/audio/vote/vote0602.mp3", "https://www.eslfast.com/robot/audio/vote/vote0603.mp3"]
+  - index: 479
+    slug: "vote07"
+    title: "Conversation: 7. Fundraising for Campaigns"
+    url: "https://www.eslfast.com/robot/topics/vote/vote07.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote0701.mp3", "https://www.eslfast.com/robot/audio/vote/vote0702.mp3", "https://www.eslfast.com/robot/audio/vote/vote0703.mp3"]
+  - index: 480
+    slug: "vote08"
+    title: "Conversation: 8. Volunteering for Campaigns"
+    url: "https://www.eslfast.com/robot/topics/vote/vote08.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote0801.mp3", "https://www.eslfast.com/robot/audio/vote/vote0802.mp3", "https://www.eslfast.com/robot/audio/vote/vote0803.mp3"]
+  - index: 481
+    slug: "vote09"
+    title: "Conversation: 9. Working at the Polling Place"
+    url: "https://www.eslfast.com/robot/topics/vote/vote09.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote0901.mp3", "https://www.eslfast.com/robot/audio/vote/vote0902.mp3", "https://www.eslfast.com/robot/audio/vote/vote0903.mp3"]
+  - index: 482
+    slug: "vote10"
+    title: "Conversation: 10. Asking Questions at the Polling Place"
+    url: "https://www.eslfast.com/robot/topics/vote/vote10.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote1001.mp3", "https://www.eslfast.com/robot/audio/vote/vote1002.mp3", "https://www.eslfast.com/robot/audio/vote/vote1003.mp3"]
+  - index: 483
+    slug: "vote11"
+    title: "Conversation: 11. Meeting Candidate before Voting"
+    url: "https://www.eslfast.com/robot/topics/vote/vote11.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote1101.mp3", "https://www.eslfast.com/robot/audio/vote/vote1102.mp3", "https://www.eslfast.com/robot/audio/vote/vote1103.mp3"]
+  - index: 484
+    slug: "vote12"
+    title: "Conversation: 12. Interviewing a Voter"
+    url: "https://www.eslfast.com/robot/topics/vote/vote12.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote1201.mp3", "https://www.eslfast.com/robot/audio/vote/vote1202.mp3", "https://www.eslfast.com/robot/audio/vote/vote1203.mp3"]
+  - index: 485
+    slug: "vote13"
+    title: "Conversation: 13. Excitement after Voting"
+    url: "https://www.eslfast.com/robot/topics/vote/vote13.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote1301.mp3", "https://www.eslfast.com/robot/audio/vote/vote1302.mp3", "https://www.eslfast.com/robot/audio/vote/vote1303.mp3"]
+  - index: 486
+    slug: "vote14"
+    title: "Conversation: 14. Discussions After Voting"
+    url: "https://www.eslfast.com/robot/topics/vote/vote14.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote1401.mp3", "https://www.eslfast.com/robot/audio/vote/vote1402.mp3", "https://www.eslfast.com/robot/audio/vote/vote1403.mp3"]
+  - index: 487
+    slug: "vote15"
+    title: "Conversation: 15. Disappointed at the Result"
+    url: "https://www.eslfast.com/robot/topics/vote/vote15.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote1501.mp3", "https://www.eslfast.com/robot/audio/vote/vote1502.mp3", "https://www.eslfast.com/robot/audio/vote/vote1503.mp3"]
+  - index: 488
+    slug: "vote16"
+    title: "Conversation: 16. Happy with the Result"
+    url: "https://www.eslfast.com/robot/topics/vote/vote16.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote1601.mp3", "https://www.eslfast.com/robot/audio/vote/vote1602.mp3", "https://www.eslfast.com/robot/audio/vote/vote1603.mp3"]
+  - index: 489
+    slug: "vote17"
+    title: "Conversation: 17. Comments on the New President"
+    url: "https://www.eslfast.com/robot/topics/vote/vote17.htm"
+    mp3: ["https://www.eslfast.com/robot/audio/vote/vote1701.mp3", "https://www.eslfast.com/robot/audio/vote/vote1702.mp3", "https://www.eslfast.com/robot/audio/vote/vote1703.mp3"]

@@ -1,0 +1,59 @@
+Conversation 1:
+A: I'd like to order a restock on my minibar.
+B: You finished everything in there, sir?
+A: Absolutely everything.
+B: What would you like to order?
+A: Three bottles each of Perrier and Jim Beam.
+B: Uh-huh. What else do you want?
+A: The apples were great. Could you bring a couple more up?
+B: No problem. Is there anything else I can get for you?
+A: Some grape juice would also be nice.
+B: I'll get all of that for you right away. Someone should be up shortly.
+
+Conversation 2:
+A: I need my minibar restocked.
+B: Everything is gone, sir?
+A: There's not a drop left of anything.
+B: Is there anything in particular you'd like?
+A: Yes, the Perrier and the Jim Beam hit the spot. Let me have three more of each.
+B: Got it. Anything else?
+A: I really liked the apples. Bring me a couple of apples, please.
+B: Not a problem. Anything else?
+A: Yes, one more thing: some grape juice.
+B: Someone will be up shortly with your order, sir.
+
+Conversation 3:
+A: My minibar is empty.
+B: You already finished off everything, sir?
+A: I finished off everything.
+B: Would you like anything in particular?
+A: The Perrier and the Jim Beam. Let me have three more of each.
+B: Beam and Perrier. Anything else, sir?
+A: I really loved the apples in my room. Bring me a few more, please.
+B: Sure thing. Might there by anything else?
+A: Yes, speaking of fruit, bring me some grape juice, too.
+B: Perrier, Jim Beam, apples, and grape juice. It will all be there shortly, sir.
+
+Conversation 4:
+A: How do I restock my minibar?
+B: You've drunk everything, sir?
+A: I finished it all.
+B: Do you want the whole minibar, or just certain items?
+A: Send me up three bottles each of Perrier and Jim Beam.
+B: That's three Jim Beams and three Perriers. Anything else, sir?
+A: The apples in my room were delicious. Bring me a few more, please.
+B: Okay. Are you sure there isn't anything else?
+A: You know, some grape juice would be really nice, too.
+B: Be patient for just a few minutes, sir, and someone will be at your door.
+
+Conversation 5:
+A: My minibar is completely empty.
+B: Everything in that minibar has been consumed, sir?
+A: Everything's gone.
+B: Is there anything special you'd like?
+A: Just bring me three bottles each of Jim Beam and Perrier.
+B: Okay, sir. Three of each. Would you like anything else?
+A: The fruit basket was great. I need a few more apples, please.
+B: Perrier, Jim Beam, and apples. Is that it for now?
+A: Yes, one last thing: I could use some grape juice.
+B: Your order will be brought to you momentarily, sir.

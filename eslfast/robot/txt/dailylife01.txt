@@ -1,0 +1,38 @@
+A: I'm calling today about a bill that I never received.
+B: Can you tell me which credit card it was for?
+A: It was for my Master Card.
+B: You should've gotten that bill two weeks ago.
+A: I haven't got it in the mail yet.
+B: The computer is showing that all bills have been mailed.
+A: What am I supposed to do about my bill then?
+B: Maybe you should call your post office.
+A: But if it's their mistake, can I get an extension on my bill payment?
+B: Yes, but you will need to send us proof of their mistake.
+A: Thank you very much for your help.
+B: No problem. Enjoy the rest of your day.
+
+A: I haven't received my credit card bill yet.
+B: Which credit card are you speaking of?
+A: My Master Card.
+B: We sent that bill out a couple of weeks ago.
+A: I never got it.
+B: Your bill was mailed already.
+A: What am I going to do since I haven't received the bill?
+B: If you haven't gotten it yet, then you should probably take that up with your post office.
+A: Can I get an extension on my bill if it does happen to be the post office's fault?
+B: If that's the case, you will need to provide proof of their mistake.
+A: Thanks for everything.
+B: Don't mention it. Call back if you have any more problems.
+
+A: I was inquiring about a bill that I never got.
+B: Which credit card was the bill for?
+A: The bill was for my Master Card.
+B: That bill should have been mailed about two weeks ago.
+A: It never came in the mail.
+B: My computer shows that it has already been mailed.
+A: I have not gotten my bill, so what should I do about that?
+B: You should try contacting your post office.
+A: If it is the post office's fault, may I have an extension on my bill?
+B: You'll have to prove it was their error; then you can get an extension.
+A: Thank you for all your help.
+B: You are very welcome. Have a good day.

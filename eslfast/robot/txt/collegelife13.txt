@@ -1,0 +1,32 @@
+A: Professor, I am going to need to leave class early today.
+B: What is the problem?
+A: I need to go to the airport to pick up a relative.
+B: Are you planning on having someone take notes for you?
+A: Yes, I've got that part covered.
+B: When, exactly do you need to leave?
+A: I don't need to leave until the very end of class.
+B: Fine, but next time try and not have to miss class again.
+A: Thanks, Professor. See you later!
+B: See you later! Drive carefully.
+
+A: Excuse me, Professor, I have a problem and need to leave class early.
+B: Why do you have to leave early?
+A: I am not feeling well.
+B: Could you make it up by attending my other section this week?
+A: Yes, it's all taken care of.
+B: Are you leaving right away or can you stay for a few more minutes?
+A: I can stay a few more minutes.
+B: OK, but please make sure that you get all of your make-up work completed.
+A: Thanks, Professor. I've got it covered!
+B: Go do what you have to do, but make sure it doesn't happen again.
+
+A: I am sorry, but I can't stay until the end of class.
+B: Where do you need to be that is more important than school?
+A: I have an appointment.
+B: Do you have a plan to make up your missed work?
+A: No, but I'll make sure someone helps me out this week with my missed work.
+B: Are you going to go right away?
+A: I am leaving right now.
+B: All right, but please remember that it is your responsibility to catch up.
+A: Thanks, Professor. I'll make sure everything gets taken care of.
+B: Goodbye, and try not to miss any more school.

@@ -1,0 +1,38 @@
+A: Is this the water company?
+B: This is the water company. May I help you?
+A: As a matter of fact, you can.
+B: What do you need?
+A: In a few days, I'm going to be moving.
+B: Okay, and what do you need help with?
+A: I'm going to need the water turned on in my new house.
+B: When do you need your water turned on?
+A: I'm going to need it done by Saturday.
+B: That shouldn't be a problem.
+A: What do you need from me in order to do that?
+B: All I need is your name, social security number, and your new address.
+
+A: Am I speaking with someone from the water company?
+B: Yes. Can I assist you with something?
+A: I certainly hope so.
+B: What's the problem?
+A: I will be moving into a new house in a few days.
+B: What exactly do you need my help with?
+A: I'll need you to turn the water on in my house.
+B: What day are you moving in?
+A: I'm moving in this Saturday.
+B: We can help you with that.
+A: Do I need to give you any information?
+B: You need to give me your full name, social, and the address of your new house.
+
+A: I need to speak with someone from the water company.
+B: Is there something that I can do for you?
+A: Actually, there is something I need help with.
+B: How may I assist you?
+A: I'm going to be moving in a few days.
+B: How can I assist you with your move?
+A: My water needs to be turned on.
+B: Okay, when exactly will you need this done?
+A: I need the water turned on no later than Saturday evening.
+B: I can have it turned on for you by then.
+A: What information do I need to give you to have that done?
+B: What I need is your social security number, full name, and your new address.

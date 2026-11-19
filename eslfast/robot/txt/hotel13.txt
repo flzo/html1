@@ -1,0 +1,69 @@
+Conversation 1:
+A: I'd like to order broadband internet for my laptop.
+B: Just plug the Ethernet cable into your computer, and a prompt will tell you the payment options.
+A: I don't have an Ethernet port. My computer runs entirely on wireless service.
+B: That's too bad. But there are several alternatives, if you want to hear them.
+A: Yes, please! Tell me about the alternatives.
+B: We run a fully equipped computer lab on the first floor.
+A: Very good. How much does that cost?
+B: The service is free to hotel patrons. However, printing costs ten cents per page.
+A: I see. And the other alternatives?
+B: Alternatively, we do offer wireless in our lobby. You can bring your laptop down here.
+A: Great! What if I need to print something in the lobby?
+B: You would have to use the computer lab. I'm sorry for the inconvenience.
+
+Conversation 2:
+A: I need broadband for my computer.
+B: No problem. Just plug the Ethernet cable into your computer, and you're good to go.
+A: That's a problem. My laptop has no Ethernet port, it's wireless only.
+B: Hmm. Well, we have some alternatives, if you're interested.
+A: Go ahead. I'm all ears.
+B: We have a computer lab on the first floor.
+A: That's great! How much is it?
+B: It's absolutely free to guests. Except for printing, of course.
+A: What about the other alternatives?
+B: You could use your wireless right here in our lobby.
+A: Yes, that's the ticket! And if I need to print something there?
+B: Well, we don't have a printer in the lobby yet. You'll have to use the lab.
+
+Conversation 3:
+A: I'd like to get busy on my computer, but I need some broadband.
+B: There's an Ethernet cable in your room. Just plug it into the back of your laptop.
+A: I can't use Ethernet. My computer is wireless only.
+B: That's okay. I can tell you about some alternatives we have.
+A: Any alternative that works will be great.
+B: Well, there's our computer lab on the first floor.
+A: That sounds good. What's the charge?
+B: The lab and the computers are no charge, but you have to pay for whatever you print.
+A: That sounds good. Now, how about the other alternatives?
+B: Of course. Our lobby is set up for wireless, so just bring your computer down here.
+A: Use my laptop in the lobby? That's great! Now, if I need to print something there?
+B: They plan to install a printer here. But until then, you'll have to use the lab.
+
+Conversation 4:
+A: I can't get going on my computer until I get a broadband hookup.
+B: Just plug the Ethernet cable into your computer, and you'll be off and running.
+A: That would be okay if I had an Ethernet port. Unfortunately, my laptop uses wireless only.
+B: In that case, let me tell you about some alternatives.
+A: Anything to get me up and running.
+B: For starters, we have a computer lab.
+A: Fantastic! What do I have to pay per hour?
+B: The lab is completely free. But you do have to pay a dime a page for printing.
+A: That's fine. Now tell me about the other alternatives.
+B: Just bring your laptop down here to the lobby. We're set up for wireless right here.
+A: Great! I like that suggestion, but what if I need to print something there?
+B: Unfortunately, you'll have to go to the computer lab for your printing needs.
+
+Conversation 5:
+A: How do I get online with my laptop?
+B: Just plug the Ethernet cable into your computer, and you'll be online in a heartbeat.
+A: I see the cable. But my computer runs on wireless only.
+B: No problem. I'll tell you about our alternatives.
+A: Yes, I'd love to hear what the alternatives are.
+B: Our state-of-the-art computer lab is on the first floor.
+A: Great! But is it free?
+B: Sir, the computers are free to guests, but you do have to pay a nominal printing fee.
+A: You said there were other alternatives?
+B: Just use your computer here in the lobby. It's set up for wireless.
+A: That sounds like a winner. Now if I need to print something in the lobby?
+B: We might have a printer here next month. But for now, you'll have to go to the lab.

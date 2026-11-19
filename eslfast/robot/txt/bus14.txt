@@ -1,0 +1,38 @@
+A: I really need to find a bus that goes by PCC.
+B: Where do you need to catch this bus at?
+A: All the way up on Las Flores Drive and Fair Oaks.
+B: I can tell you what bus to catch, but you have to walk a little bit.
+A: Walking isn't a problem for me.
+B: The 267 stops at Altadena Drive and Fair Oaks.
+A: Which direction do I want?
+B: Get on the bus heading west.
+A: Do you know where I get off at?
+B: Del Mar and Hill.
+A: Thanks for letting me know.
+B: No problem.
+
+A: Do you know which bus I can take to PCC?
+B: Tell me where you need to get on at.
+A: I live on Las Flores and Fair Oaks.
+B: If you don't mind walking, I know a bus you can take.
+A: I'm okay with walking.
+B: Walk all the way down Fair Oaks, and catch the 267 on Altadena Drive.
+A: Do you know which direction it should be heading?
+B: You have to catch it going west.
+A: Which stop do I get off on?
+B: You need to get off on the corner of Del Mar and Hill.
+A: Thank you for telling me.
+B: It was my pleasure.
+
+A: I need to get to PCC, but I don't know which bus to catch.
+B: Where exactly are you coming from?
+A: I'm coming from Fair Oaks and Las Flores Drive in Altadena.
+B: Do you have a problem walking a little bit?
+A: I don't mind walking.
+B: If you walk down Fair Oaks to Altadena Drive, you can catch the 267.
+A: Tell me which direction it should be going.
+B: Make sure to catch it going west.
+A: Where do I get off?
+B: You get off on Del Mar and Hill.
+A: Thanks for the help.
+B: Don't mention it.

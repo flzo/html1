@@ -1,0 +1,32 @@
+A: This is Ray. May I speak with Lee?
+B: Yes, this is Lee speaking.
+A: Lee. How are you today?
+B: Oh, things are going great. What's up?
+A: I was wondering if you could meet me tomorrow for lunch?
+B: Sure! Where did you have in mind?
+A: I was thinking of Joe's in the village.
+B: I love that place. Sure, let's go there.
+A: Fine then, I'll meet you around twelve.
+B: I'll see you there. Look forward to it.
+
+A: Good morning, this is Ray speaking. Is Lee in?
+B: Hi, Ray. This is Lee.
+A: Good morning, Lee. How is it going with you today?
+B: Things are wonderful. What can I help you with?
+A: Could we meet for lunch tomorrow to discuss the new project?
+B: That would be great. What restaurant did you have in mind?
+A: We could go to Lozano's downtown.
+B: That would be perfect. It's a nice quiet place to meet.
+A: I'll see you there around twelve then.
+B: I am looking forward to meeting with you. See you then.
+
+A: May I speak with Lee? This is Ray.
+B: Lee here.
+A: Lee, I thought that was you. How's it going?
+B: I am doing well. How can I help you?
+A: I would like to treat you to lunch tomorrow so I can get some suggestions from you.
+B: Sounds like a plan. Where would you like to meet?
+A: How about the new Chinese place next door?
+B: Yes, that would work well for me.
+A: I'll join you around twelve for lunch then.
+B: It's a go then. See you there.

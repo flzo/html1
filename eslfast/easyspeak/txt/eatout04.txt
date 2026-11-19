@@ -1,0 +1,12 @@
+A: Would you like to try our new item for free?
+B: If it's free, then of course.
+A: Great! Here it is.
+B: What is this?
+A: It's a smoothie made from chicken and beef.
+B: That is absolutely disgusting.
+A: You didn't even try it yet.
+B: I already know it's going to taste bad.
+A: Please try it. You might love it.
+B: I'll just have a slice of pizza.
+A: I will get that for you.
+B: Thanks, and take back the smoothie.

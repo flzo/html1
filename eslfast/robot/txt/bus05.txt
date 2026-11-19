@@ -1,0 +1,38 @@
+A: I need to buy a bus pass.
+B: What kind of bus pass would you like to buy?
+A: What are the different kinds?
+B: You can get a day, weekly, monthly, or student pass.
+A: Could I get a student pass, please?
+B: Sure, can I see your student ID?
+A: Sure, here it is.
+B: Very good.
+A: How much for the pass?
+B: It's free, but the monthly sticker is $24.
+A: I'll take it.
+B: Thank you for your purchase.
+
+A: I would like to get a bus pass.
+B: Do you know what kind of pass you want?
+A: Can you tell me my options?
+B: There are passes for a day, month, and week, and there are student passes.
+A: I would like the student pass.
+B: Let me see your student ID.
+A: Here you go.
+B: Thank you very much.
+A: How much will it be for the pass?
+B: The monthly sticker is $24, but the actual pass is free.
+A: That'll be fine.
+B: We appreciate your business.
+
+A: Could I buy a bus pass today?
+B: Which bus pass would you like to purchase?
+A: What kinds of passes are there?
+B: There are day passes, weekly passes, monthly passes, and student passes.
+A: Let me get a student pass.
+B: Could I see your student ID, please?
+A: No problem, here you go.
+B: Thanks.
+A: How much does this pass cost?
+B: The pass is free; the monthly sticker costs $24.
+A: That's fine then.
+B: I hope you enjoy your pass.

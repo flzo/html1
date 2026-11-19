@@ -1,0 +1,38 @@
+A: Are you okay?
+B: No.
+A: What's wrong?
+B: I got robbed!
+A: By who?
+B: Some guy on the street just mugged me.
+A: Are you hurt?
+B: No, he just stole all of my things.
+A: That's crazy.
+B: I need to go to the police station.
+A: Do you want me to take you?
+B: That would be great. Thank you.
+
+A: Is everything all right?
+B: Not at all.
+A: What's the problem?
+B: Someone just robbed me.
+A: What do you mean?
+B: This guy just robbed me right on the street.
+A: He didn't hurt you, did he?
+B: I'm okay. He just stole my things.
+A: I'm so sorry.
+B: I have to file a report at the police station.
+A: Let me take you.
+B: I would like that.
+
+A: Are you all right?
+B: No, I'm not.
+A: What's going on?
+B: I was just robbed!
+A: Are you serious?
+B: Someone just robbed me.
+A: Did he hurt you?
+B: He took all my things, but he didn't hurt me.
+A: I can't believe that.
+B: I need to make a statement at the police station.
+A: I'll take you, if you'd like.
+B: Thanks. You're very kind.

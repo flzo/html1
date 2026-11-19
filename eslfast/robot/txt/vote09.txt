@@ -1,0 +1,38 @@
+A: Where are you going?
+B: I have to go to work.
+A: Going to work where?
+B: I'm working at the polling place.
+A: I didn't know you were working there this year.
+B: I work at the polling place every year.
+A: How did you get that job?
+B: I signed up for it online.
+A: That's really cool.
+B: It's a very cool job.
+A: Do they pay you a lot?
+B: They pay well enough.
+
+A: Are you going somewhere?
+B: I'm on my way to work.
+A: Where do you work?
+B: I work at the polling place.
+A: You didn't tell me you were working there this year.
+B: I do this every year.
+A: How'd you get that job?
+B: I applied online.
+A: That's interesting.
+B: I enjoy working there every year.
+A: How much do they pay?
+B: They pay just enough.
+
+A: Are you leaving?
+B: I'm going to work.
+A: You have a job?
+B: I'm going to work at the polling place.
+A: You're working there this year?
+B: I work there every year.
+A: How are you able to work at the polling place?
+B: I applied for the job online.
+A: Sounds like fun.
+B: It's a fun job.
+A: They don't pay a lot, do they?
+B: They pay enough.

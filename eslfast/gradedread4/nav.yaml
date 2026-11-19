@@ -1,0 +1,509 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/gradedread4/gr4/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-18T16:22:04+08:00"
+  total: 100
+  failed: 0
+pages:
+  - index: 1
+    slug: "gr4001"
+    title: "1. High School Diploma Needed"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4001.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4001.mp3"
+  - index: 2
+    slug: "gr4002"
+    title: "2. Breaking Free from the Grip of Addiction"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4002.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4002.mp3"
+  - index: 3
+    slug: "gr4003"
+    title: "3. Divorce: Painful Untangling"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4003.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4003.mp3"
+  - index: 4
+    slug: "gr4004"
+    title: "4. Lillian's Visit to the Urgent Care Clinic"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4004.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4004.mp3"
+  - index: 5
+    slug: "gr4005"
+    title: "5. Ramp Up Production"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4005.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4005.mp3"
+  - index: 6
+    slug: "gr4006"
+    title: "6. A Hard Decision: Firing Someone"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4006.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4006.mp3"
+  - index: 7
+    slug: "gr4007"
+    title: "7. Back to Sweet Home"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4007.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4007.mp3"
+  - index: 8
+    slug: "gr4008"
+    title: "8. Unfulfilled New Year Resolution"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4008.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4008.mp3"
+  - index: 9
+    slug: "gr4009"
+    title: "9. Gerald's Google Drive"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4009.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4009.mp3"
+  - index: 10
+    slug: "gr4010"
+    title: "10. A New Home in America"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4010.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4010.mp3"
+  - index: 11
+    slug: "gr4011"
+    title: "11. A Tale of Courage and Hope"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4011.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4011.mp3"
+  - index: 12
+    slug: "gr4012"
+    title: "12. Online Fame and Rediscovery"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4012.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4012.mp3"
+  - index: 13
+    slug: "gr4013"
+    title: "13. Shadows of Hope: An Illegal Immigrant"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4013.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4013.mp3"
+  - index: 14
+    slug: "gr4014"
+    title: "14. Embracing Remote Work Culture"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4014.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4014.mp3"
+  - index: 15
+    slug: "gr4015"
+    title: "15. Bonnie's Quest for Self-Acceptance"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4015.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4015.mp3"
+  - index: 16
+    slug: "gr4016"
+    title: "16. Stocks Success Story"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4016.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4016.mp3"
+  - index: 17
+    slug: "gr4017"
+    title: "17. The Joys of Middle-Class Living"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4017.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4017.mp3"
+  - index: 18
+    slug: "gr4018"
+    title: "18. A Single Mom's Busy Day"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4018.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4018.mp3"
+  - index: 19
+    slug: "gr4019"
+    title: "19. From Prosperity to Homelessness"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4019.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4019.mp3"
+  - index: 20
+    slug: "gr4020"
+    title: "20. Visiting Grandma's Nursing Home"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4020.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4020.mp3"
+  - index: 21
+    slug: "gr4021"
+    title: "21. Committed to Their Family"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4021.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4021.mp3"
+  - index: 22
+    slug: "gr4022"
+    title: "22. Dreaming of Being a Famous Athlete"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4022.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4022.mp3"
+  - index: 23
+    slug: "gr4023"
+    title: "23. A Graduate Student Pursues Dreams"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4023.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4023.mp3"
+  - index: 24
+    slug: "gr4024"
+    title: "24. Moving to Big City"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4024.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4024.mp3"
+  - index: 25
+    slug: "gr4025"
+    title: "25. A Vote for Belonging"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4025.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4025.mp3"
+  - index: 26
+    slug: "gr4026"
+    title: "26. A Family's Love Across Oceans"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4026.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4026.mp3"
+  - index: 27
+    slug: "gr4027"
+    title: "27. Young Man Joins Army"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4027.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4027.mp3"
+  - index: 28
+    slug: "gr4028"
+    title: "28. Love in Bits and Bytes"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4028.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4028.mp3"
+  - index: 29
+    slug: "gr4029"
+    title: "29. Heartfelt Journey to Recovery"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4029.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4029.mp3"
+  - index: 30
+    slug: "gr4030"
+    title: "30. Grandson's Video Call"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4030.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4030.mp3"
+  - index: 31
+    slug: "gr4031"
+    title: "31. National Guards Respond to Disaster"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4031.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4031.mp3"
+  - index: 32
+    slug: "gr4032"
+    title: "32. Accepted by Her Dream University"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4032.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4032.mp3"
+  - index: 33
+    slug: "gr4033"
+    title: "33. The First Day in Weston College"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4033.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4033.mp3"
+  - index: 34
+    slug: "gr4034"
+    title: "34. Taking Final Exams"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4034.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4034.mp3"
+  - index: 35
+    slug: "gr4035"
+    title: "35. Watch Rocket Launch"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4035.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4035.mp3"
+  - index: 36
+    slug: "gr4036"
+    title: "36. Setting Up a Smart TV"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4036.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4036.mp3"
+  - index: 37
+    slug: "gr4037"
+    title: "37. Green Ride Revolution"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4037.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4037.mp3"
+  - index: 38
+    slug: "gr4038"
+    title: "38. Immigrant Family Overcoming Challenges"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4038.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4038.mp3"
+  - index: 39
+    slug: "gr4039"
+    title: "39. Finding Light in Shadows"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4039.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4039.mp3"
+  - index: 40
+    slug: "gr4040"
+    title: "40. The Tapestry of Friendship"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4040.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4040.mp3"
+  - index: 41
+    slug: "gr4041"
+    title: "41. Digital Shadows: Navigating Privacy"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4041.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4041.mp3"
+  - index: 42
+    slug: "gr4042"
+    title: "42. Bridging the Divide: A Tale of Two Friends"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4042.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4042.mp3"
+  - index: 43
+    slug: "gr4043"
+    title: "43. Changing Gender Roles"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4043.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4043.mp3"
+  - index: 44
+    slug: "gr4044"
+    title: "44. Navigating Obamacare After Job Loss"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4044.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4044.mp3"
+  - index: 45
+    slug: "gr4045"
+    title: "A City's Journey to Unity"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4045.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4045.mp3"
+  - index: 46
+    slug: "gr4046"
+    title: "46. A Storm in Willow Creek"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4046.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4046.mp3"
+  - index: 47
+    slug: "gr4047"
+    title: "47. An Immigrant Child Found Hope"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4047.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4047.mp3"
+  - index: 48
+    slug: "gr4048"
+    title: "48. Remote Work Challenges"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4048.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4048.mp3"
+  - index: 49
+    slug: "gr4049"
+    title: "49. Jacqueline's Gardening Journey"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4049.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4049.mp3"
+  - index: 50
+    slug: "gr4050"
+    title: "50. Jack's Home Security Initiative"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4050.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4050.mp3"
+  - index: 51
+    slug: "gr4051"
+    title: "51. Paula's Congressional Journey"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4051.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4051.mp3"
+  - index: 52
+    slug: "gr4052"
+    title: "52. Hiking with a Friend"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4052.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4052.mp3"
+  - index: 53
+    slug: "gr4053"
+    title: "53. From Garage to Glory"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4053.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4053.mp3"
+  - index: 54
+    slug: "gr4054"
+    title: "54. Testing Pressure: Triumph and Relief"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4054.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4054.mp3"
+  - index: 55
+    slug: "gr4055"
+    title: "55. Parents' Education Dreams"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4055.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4055.mp3"
+  - index: 56
+    slug: "gr4056"
+    title: "56. Boarding School Adventures"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4056.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4056.mp3"
+  - index: 57
+    slug: "gr4057"
+    title: "57. Plagiarism: Teachable Moment"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4057.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4057.mp3"
+  - index: 58
+    slug: "gr4058"
+    title: "58. After-School Soccer Fun"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4058.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4058.mp3"
+  - index: 59
+    slug: "gr4059"
+    title: "59. Spring Fling Talent Showcase"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4059.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4059.mp3"
+  - index: 60
+    slug: "gr4060"
+    title: "60. Baseball Match between Schools"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4060.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4060.mp3"
+  - index: 61
+    slug: "gr4061"
+    title: "61. The Spirit of Competition"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4061.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4061.mp3"
+  - index: 62
+    slug: "gr4062"
+    title: "62. Pursue Ph.D. in America"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4062.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4062.mp3"
+  - index: 63
+    slug: "gr4063"
+    title: "63. Suburban Family Life"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4063.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4063.mp3"
+  - index: 64
+    slug: "gr4064"
+    title: "64. Urban Lovebirds"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4064.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4064.mp3"
+  - index: 65
+    slug: "gr4065"
+    title: "65. The Lost Compass"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4065.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4065.mp3"
+  - index: 66
+    slug: "gr4066"
+    title: "66. A Startup CEO's Day"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4066.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4066.mp3"
+  - index: 67
+    slug: "gr4067"
+    title: "67. A Supermarket Manager's Hustle"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4067.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4067.mp3"
+  - index: 68
+    slug: "gr4068"
+    title: "68. Excited Woman Receives Package"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4068.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4068.mp3"
+  - index: 69
+    slug: "gr4069"
+    title: "69. Potluck Party Fun"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4069.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4069.mp3"
+  - index: 70
+    slug: "gr4070"
+    title: "70. Family Celebrates Football Victory"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4070.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4070.mp3"
+  - index: 71
+    slug: "gr4071"
+    title: "71. Teen Learns Video Making"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4071.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4071.mp3"
+  - index: 72
+    slug: "gr4072"
+    title: "72. A Story of TikTok Success"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4072.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4072.mp3"
+  - index: 73
+    slug: "gr4073"
+    title: "73. Timmy and Facebook"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4073.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4073.mp3"
+  - index: 74
+    slug: "gr4074"
+    title: "74. A YouTube Success Story"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4074.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4074.mp3"
+  - index: 75
+    slug: "gr4075"
+    title: "75. Robocall Scam Victim"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4075.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4075.mp3"
+  - index: 76
+    slug: "gr4076"
+    title: "76. Factory Workers' Strike"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4076.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4076.mp3"
+  - index: 77
+    slug: "gr4077"
+    title: "77. A Job Interview to Find the Perfect Fit"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4077.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4077.mp3"
+  - index: 78
+    slug: "gr4078"
+    title: "78. The Journey Through Military Training"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4078.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4078.mp3"
+  - index: 79
+    slug: "gr4079"
+    title: "79. Life in the National Guard"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4079.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4079.mp3"
+  - index: 80
+    slug: "gr4080"
+    title: "80. A Pilot's Heroic Mission"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4080.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4080.mp3"
+  - index: 81
+    slug: "gr4081"
+    title: "81. Working on a Group Project"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4081.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4081.mp3"
+  - index: 82
+    slug: "gr4082"
+    title: "82. Return a Smartwatch Bought Online"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4082.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4082.mp3"
+  - index: 83
+    slug: "gr4083"
+    title: "83. Drone Captures Maplewood Beauty"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4083.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4083.mp3"
+  - index: 84
+    slug: "gr4084"
+    title: "84. The Quest for Authenticity"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4084.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4084.mp3"
+  - index: 85
+    slug: "gr4085"
+    title: "85. Political Polarization in Northwood"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4085.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4085.mp3"
+  - index: 86
+    slug: "gr4086"
+    title: "86. Climate Change: Embrace Hope"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4086.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4086.mp3"
+  - index: 87
+    slug: "gr4087"
+    title: "87. Harmony Across Generations"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4087.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4087.mp3"
+  - index: 88
+    slug: "gr4088"
+    title: "88. Dedication to the Crypto Cause"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4088.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4088.mp3"
+  - index: 89
+    slug: "gr4089"
+    title: "89. Finding Reality in Digital Age"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4089.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4089.mp3"
+  - index: 90
+    slug: "gr4090"
+    title: "90. Tech Privacy Battle"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4090.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4090.mp3"
+  - index: 91
+    slug: "gr4091"
+    title: "91. The Leap into Digital Gold"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4091.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4091.mp3"
+  - index: 92
+    slug: "gr4092"
+    title: "92. Election Dispute Resolution"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4092.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4092.mp3"
+  - index: 93
+    slug: "gr4093"
+    title: "93. A Day in the Life of Wealth"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4093.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4093.mp3"
+  - index: 94
+    slug: "gr4094"
+    title: "94. A Skiing Expedition"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4094.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4094.mp3"
+  - index: 95
+    slug: "gr4095"
+    title: "95. School Funding Struggle Triumph"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4095.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4095.mp3"
+  - index: 96
+    slug: "gr4096"
+    title: "96. Tax Deduction Adventure"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4096.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4096.mp3"
+  - index: 97
+    slug: "gr4097"
+    title: "97. The Elixir Experiment"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4097.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4097.mp3"
+  - index: 98
+    slug: "gr4098"
+    title: "98. Granddaughter's Talent"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4098.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4098.mp3"
+  - index: 99
+    slug: "gr4099"
+    title: "99. The Success of Global Traders"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4099.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4099.mp3"
+  - index: 100
+    slug: "gr4100"
+    title: "100. Manufacturing Military Equipment"
+    url: "https://www.eslfast.com/gradedread4/gr4/gr4100.htm"
+    mp3: "https://www.eslfast.com/gradedread4/audio/gr4100.mp3"

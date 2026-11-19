@@ -1,0 +1,1374 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/easydialogs/"
+  selector: "div.content-body > div > p.timed"
+  generated_at: "2026-11-18T13:45:23+08:00"
+  total: 273
+  failed: 0
+pages:
+  - index: 1
+    slug: "dailylife001"
+    title: "Conversation: 1. I Live in Pasadena"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife001.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife001.mp3"
+  - index: 2
+    slug: "dailylife002"
+    title: "Conversation: 2. I Have a Honda"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife002.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife002.mp3"
+  - index: 3
+    slug: "dailylife003"
+    title: "Conversation: 3. Do You Have a Girlfriend?"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife003.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife003.mp3"
+  - index: 4
+    slug: "dailylife004"
+    title: "Conversation: 4. Walking the Dog"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife004.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife004.mp3"
+  - index: 5
+    slug: "dailylife005"
+    title: "Conversation: 5. Borrowing Money"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife005.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife005.mp3"
+  - index: 6
+    slug: "dailylife006"
+    title: "Conversation: 6. Going to the Beach"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife006.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife006.mp3"
+  - index: 7
+    slug: "dailylife007"
+    title: "Conversation: 7. My Wife Left Me"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife007.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife007.mp3"
+  - index: 8
+    slug: "dailylife008"
+    title: "Conversation: 8. What's on TV?"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife008.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife008.mp3"
+  - index: 9
+    slug: "dailylife009"
+    title: "Conversation: 9. A Nice Place to Live"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife009.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife009.mp3"
+  - index: 10
+    slug: "dailylife010"
+    title: "Conversation: 10. The New Mattress"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife010.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife010.mp3"
+  - index: 11
+    slug: "dailylife011"
+    title: "Conversation: 11. My Laptop Is So Slow"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife011.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife011.mp3"
+  - index: 12
+    slug: "dailylife012"
+    title: "Conversation: 12. How about a Pizza?"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife012.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife012.mp3"
+  - index: 13
+    slug: "dailylife013"
+    title: "Conversation: 13. The New House"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife013.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife013.mp3"
+  - index: 14
+    slug: "dailylife014"
+    title: "Conversation: 14. Fish Are Everywhere"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife014.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife014.mp3"
+  - index: 15
+    slug: "dailylife015"
+    title: "Conversation: 15. A Bad Boyfriend"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife015.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife015.mp3"
+  - index: 16
+    slug: "dailylife016"
+    title: "Conversation: 16. Talking Animals"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife016.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife016.mp3"
+  - index: 17
+    slug: "dailylife017"
+    title: "Conversation: 17. House-cleaning Day"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife017.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife017.mp3"
+  - index: 18
+    slug: "dailylife018"
+    title: "Conversation: 18. A TV Lover"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife018.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife018.mp3"
+  - index: 19
+    slug: "dailylife019"
+    title: "Conversation: 19. Write to Your Grandma"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife019.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife019.mp3"
+  - index: 20
+    slug: "dailylife020"
+    title: "Conversation: 20. Are You Sleepy?"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife020.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife020.mp3"
+  - index: 21
+    slug: "dailylife021"
+    title: "Conversation: 21. God Is Watching"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife021.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife021.mp3"
+  - index: 22
+    slug: "dailylife022"
+    title: "Conversation: 22. Feed the Cat"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife022.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife022.mp3"
+  - index: 23
+    slug: "dailylife023"
+    title: "Conversation: 23. Shave Your Face"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife023.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife023.mp3"
+  - index: 24
+    slug: "dailylife024"
+    title: "Conversation: 24. Two Polite People"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife024.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife024.mp3"
+  - index: 25
+    slug: "dailylife025"
+    title: "Conversation: 25. Give Me a Puppy"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife025.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife025.mp3"
+  - index: 26
+    slug: "dailylife026"
+    title: "Conversation: 26. Kittens to Give Away"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife026.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife026.mp3"
+  - index: 27
+    slug: "dailylife027"
+    title: "Conversation: 27. Happy in Heaven"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife027.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife027.mp3"
+  - index: 28
+    slug: "dailylife028"
+    title: "Conversation: 28. His Line Is Never Busy"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife028.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife028.mp3"
+  - index: 29
+    slug: "dailylife029"
+    title: "Conversation: 29. Friday the 13th"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife029.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife029.mp3"
+  - index: 30
+    slug: "dailylife030"
+    title: "Conversation: 30. Do You Love Me?"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife030.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife030.mp3"
+  - index: 31
+    slug: "dailylife031"
+    title: "Conversation: 31. Dad Has a Girlfriend"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife031.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife031.mp3"
+  - index: 32
+    slug: "dailylife032"
+    title: "Conversation: 32. What's That Smell?"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife032.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife032.mp3"
+  - index: 33
+    slug: "dailylife033"
+    title: "Conversation: 33. They Deliver"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife033.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife033.mp3"
+  - index: 34
+    slug: "dailylife034"
+    title: "Conversation: 34. A Lost Button"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife034.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife034.mp3"
+  - index: 35
+    slug: "dailylife035"
+    title: "Conversation: 35. Did You Say Something?"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife035.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife035.mp3"
+  - index: 36
+    slug: "dailylife036"
+    title: "Conversation: 36. Washed and Folded"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife036.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife036.mp3"
+  - index: 37
+    slug: "dailylife037"
+    title: "Conversation: 37. Talk Radio"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife037.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife037.mp3"
+  - index: 38
+    slug: "dailylife038"
+    title: "Conversation: 38. A Bad Diet"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife038.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife038.mp3"
+  - index: 39
+    slug: "dailylife039"
+    title: "Conversation: 39. A Ham Sandwich"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife039.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife039.mp3"
+  - index: 40
+    slug: "dailylife040"
+    title: "Conversation: 40. Time for Your Bath"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife040.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife040.mp3"
+  - index: 41
+    slug: "dailylife041"
+    title: "Conversation: 41. A Black Screen"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife041.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife041.mp3"
+  - index: 42
+    slug: "dailylife042"
+    title: "Conversation: 42. A New Hard Drive"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife042.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife042.mp3"
+  - index: 43
+    slug: "dailylife043"
+    title: "Conversation: 43. Your Email Address"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife043.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife043.mp3"
+  - index: 44
+    slug: "dailylife044"
+    title: "Conversation: 44. Time for a Nap"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife044.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife044.mp3"
+  - index: 45
+    slug: "dailylife045"
+    title: "Conversation: 45. Thinking about His Funeral"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife045.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife045.mp3"
+  - index: 46
+    slug: "dailylife046"
+    title: "Conversation: 46. The Elephant"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife046.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife046.mp3"
+  - index: 47
+    slug: "dailylife047"
+    title: "Conversation: 47. You Can Have Some of My Friends"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife047.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife047.mp3"
+  - index: 48
+    slug: "dailylife048"
+    title: "Conversation: 48. If You Cheat, You Will Die"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife048.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife048.mp3"
+  - index: 49
+    slug: "dailylife049"
+    title: "Conversation: 49. Let's Not Go Out"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife049.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife049.mp3"
+  - index: 50
+    slug: "dailylife050"
+    title: "Conversation: 50. Fill Out the Form"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife050.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife050.mp3"
+  - index: 51
+    slug: "dailylife051"
+    title: "Conversation: 51. The Animal Shelter"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife051.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife051.mp3"
+  - index: 52
+    slug: "dailylife052"
+    title: "Conversation: 52. Is It Raining?"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife052.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife052.mp3"
+  - index: 53
+    slug: "dailylife053"
+    title: "Conversation: 53. It's So Hot"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife053.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife053.mp3"
+  - index: 54
+    slug: "dailylife054"
+    title: "Conversation: 54. A Snowman"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife054.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife054.mp3"
+  - index: 55
+    slug: "dailylife055"
+    title: "Conversation: 55. The ATM"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife055.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife055.mp3"
+  - index: 56
+    slug: "dailylife056"
+    title: "Conversation: 56. Move the Blue Bin"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife056.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife056.mp3"
+  - index: 57
+    slug: "dailylife057"
+    title: "Conversation: 57. Digital TV"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife057.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife057.mp3"
+  - index: 58
+    slug: "dailylife058"
+    title: "Conversation: 58. Just Shoot Me"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife058.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife058.mp3"
+  - index: 59
+    slug: "dailylife059"
+    title: "Conversation: 59. Don't Be a Racist"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife059.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife059.mp3"
+  - index: 60
+    slug: "dailylife060"
+    title: "Conversation: 60. Use a Tissue"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife060.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife060.mp3"
+  - index: 61
+    slug: "dailylife061"
+    title: "Conversation: 61. Two Little Ones"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife061.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife061.mp3"
+  - index: 62
+    slug: "dailylife062"
+    title: "Conversation: 62. But Is It Art?"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife062.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife062.mp3"
+  - index: 63
+    slug: "dailylife063"
+    title: "Conversation: 63. Life Is for Living"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife063.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife063.mp3"
+  - index: 64
+    slug: "dailylife064"
+    title: "Conversation: 64. A Tough Choice"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife064.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife064.mp3"
+  - index: 65
+    slug: "dailylife065"
+    title: "Conversation: 65. Patch It or Sew It?"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife065.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife065.mp3"
+  - index: 66
+    slug: "dailylife066"
+    title: "Conversation: 66. What's So Funny?"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife066.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife066.mp3"
+  - index: 67
+    slug: "dailylife067"
+    title: "Conversation: 67. Spanish Spoken Here"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife067.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife067.mp3"
+  - index: 68
+    slug: "dailylife068"
+    title: "Conversation: 68. It's the Only Earth We've Got"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife068.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife068.mp3"
+  - index: 69
+    slug: "dailylife069"
+    title: "Conversation: 69. No Time for Rhyme1. I Live in Pasadena"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife069.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife069.mp3"
+  - index: 70
+    slug: "dailylife070"
+    title: "Conversation: 70. Dumb and Happy"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife070.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife070.mp3"
+  - index: 71
+    slug: "dailylife071"
+    title: "Conversation: 71. Live from NBC 4!"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife071.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife071.mp3"
+  - index: 72
+    slug: "dailylife072"
+    title: "Conversation: 72. Life after Death"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife072.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife072.mp3"
+  - index: 73
+    slug: "dailylife073"
+    title: "Conversation: 73. Wipe Your Feet"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife073.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife073.mp3"
+  - index: 74
+    slug: "dailylife074"
+    title: "Conversation: 74. Mother's Day"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife074.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife074.mp3"
+  - index: 75
+    slug: "dailylife075"
+    title: "Conversation: 75. A New Flag"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife075.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife075.mp3"
+  - index: 76
+    slug: "dailylife076"
+    title: "Conversation: 76. Work up an Appetite"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife076.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife076.mp3"
+  - index: 77
+    slug: "dailylife077"
+    title: "Conversation: 77. Dialing for a Dollar"
+    url: "https://www.eslfast.com/easydialogs/ec/dailylife077.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dailylife077.mp3"
+  - index: 78
+    slug: "schoollife01"
+    title: "Conversation: 1. I Go to College"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife01.mp3"
+  - index: 79
+    slug: "schoollife02"
+    title: "Conversation: 2. A Lost Pen"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife02.mp3"
+  - index: 80
+    slug: "schoollife03"
+    title: "Conversation: 3. Gravity for All"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife03.mp3"
+  - index: 81
+    slug: "schoollife04"
+    title: "Conversation: 4. New Glasses"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife04.mp3"
+  - index: 82
+    slug: "schoollife05"
+    title: "Conversation: 5. School Items"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife05.mp3"
+  - index: 83
+    slug: "schoollife06"
+    title: "Conversation: 6. A Good Magazine"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife06.mp3"
+  - index: 84
+    slug: "schoollife07"
+    title: "Conversation: 7. Shake Your Pen"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife07.mp3"
+  - index: 85
+    slug: "schoollife08"
+    title: "Conversation: 8. Do Your Homework"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife08.mp3"
+  - index: 86
+    slug: "schoollife09"
+    title: "Conversation: 9. The Soldier"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife09.mp3"
+  - index: 87
+    slug: "schoollife10"
+    title: "Conversation: 10. The English Major"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife10.mp3"
+  - index: 88
+    slug: "schoollife11"
+    title: "Conversation: 11. No Parking"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife11.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife11.mp3"
+  - index: 89
+    slug: "schoollife12"
+    title: "Conversation: 12. Keep Your Eyes Open"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife12.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife12.mp3"
+  - index: 90
+    slug: "schoollife13"
+    title: "Conversation: 13. Two Plus Two"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife13.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife13.mp3"
+  - index: 91
+    slug: "schoollife14"
+    title: "Conversation: 14. Prayers"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife14.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife14.mp3"
+  - index: 92
+    slug: "schoollife15"
+    title: "Conversation: 15. Hit and Run"
+    url: "https://www.eslfast.com/easydialogs/ec/schoollife15.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/schoollife15.mp3"
+  - index: 93
+    slug: "transportation01"
+    title: "Conversation: 1. What Will People Think?"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation01.mp3"
+  - index: 94
+    slug: "transportation02"
+    title: "Conversation: 2. Don't Ride the Bus"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation02.mp3"
+  - index: 95
+    slug: "transportation03"
+    title: "Conversation: 3. Don't Cut the Tires"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation03.mp3"
+  - index: 96
+    slug: "transportation04"
+    title: "Conversation: 4. The Crosswalk"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation04.mp3"
+  - index: 97
+    slug: "transportation05"
+    title: "Conversation: 5. It's Okay to Speed"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation05.mp3"
+  - index: 98
+    slug: "transportation06"
+    title: "Conversation: 6. Check Your Tires"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation06.mp3"
+  - index: 99
+    slug: "transportation07"
+    title: "Conversation: 7. Don't Be in a Hurry"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation07.mp3"
+  - index: 100
+    slug: "transportation08"
+    title: "Conversation: 8. A New Car"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation08.mp3"
+  - index: 101
+    slug: "transportation09"
+    title: "Conversation: 9. I'm Going to Explode"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation09.mp3"
+  - index: 102
+    slug: "transportation10"
+    title: "Conversation: 10. The Missing Car"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation10.mp3"
+  - index: 103
+    slug: "transportation11"
+    title: "Conversation: 11. Too Many Cars"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation11.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation11.mp3"
+  - index: 104
+    slug: "transportation12"
+    title: "Conversation: 12. Don't Call the Police"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation12.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation12.mp3"
+  - index: 105
+    slug: "transportation13"
+    title: "Conversation: 13. Wash the Car"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation13.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation13.mp3"
+  - index: 106
+    slug: "transportation14"
+    title: "Conversation: 14. Windy Weather"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation14.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation14.mp3"
+  - index: 107
+    slug: "transportation15"
+    title: "Conversation: 15. Two Birds with One Stone"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation15.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation15.mp3"
+  - index: 108
+    slug: "transportation16"
+    title: "Conversation: 16. Beat the Light"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation16.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation16.mp3"
+  - index: 109
+    slug: "transportation17"
+    title: "Conversation: 17. A Dream Car"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation17.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation17.mp3"
+  - index: 110
+    slug: "transportation18"
+    title: "Conversation: 18. A Bad Driver?"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation18.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation18.mp3"
+  - index: 111
+    slug: "transportation19"
+    title: "Conversation: 19. A Slow Walker"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation19.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation19.mp3"
+  - index: 112
+    slug: "transportation20"
+    title: "Conversation: 20. Hit and Run"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation20.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation20.mp3"
+  - index: 113
+    slug: "transportation21"
+    title: "Conversation: 21. Beware the Carts"
+    url: "https://www.eslfast.com/easydialogs/ec/transportation21.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/transportation21.mp3"
+  - index: 114
+    slug: "entertainment01"
+    title: "Conversation: 1. A Great Movie"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment01.mp3"
+  - index: 115
+    slug: "entertainment02"
+    title: "Conversation: 2. A Card Game"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment02.mp3"
+  - index: 116
+    slug: "entertainment03"
+    title: "Conversation: 3. I Have Four Aces"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment03.mp3"
+  - index: 117
+    slug: "entertainment04"
+    title: "Conversation: 4. Too Much Volume"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment04.mp3"
+  - index: 118
+    slug: "entertainment05"
+    title: "Conversation: 5. Don't Waste Your Money"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment05.mp3"
+  - index: 119
+    slug: "entertainment06"
+    title: "Conversation: 6. Rained Out"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment06.mp3"
+  - index: 120
+    slug: "entertainment07"
+    title: "Conversation: 7. A Sip of Coffee"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment07.mp3"
+  - index: 121
+    slug: "entertainment08"
+    title: "Conversation: 8. A Chilly Day"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment08.mp3"
+  - index: 122
+    slug: "entertainment09"
+    title: "Conversation: 9. A Crazy Driver"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment09.mp3"
+  - index: 123
+    slug: "entertainment10"
+    title: "Conversation: 10. It Isn't News"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment10.mp3"
+  - index: 124
+    slug: "entertainment11"
+    title: "Conversation: 11. The Great Wall"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment11.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment11.mp3"
+  - index: 125
+    slug: "entertainment12"
+    title: "Conversation: 12. The Beatles"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment12.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment12.mp3"
+  - index: 126
+    slug: "entertainment13"
+    title: "Conversation: 13. See a Movie"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment13.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment13.mp3"
+  - index: 127
+    slug: "entertainment14"
+    title: "Conversation: 14. People-Watching"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment14.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment14.mp3"
+  - index: 128
+    slug: "entertainment15"
+    title: "Conversation: 15. Free Money"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment15.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment15.mp3"
+  - index: 129
+    slug: "entertainment16"
+    title: "Conversation: 16. Old Movies"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment16.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment16.mp3"
+  - index: 130
+    slug: "entertainment17"
+    title: "Conversation: 17. Something for Nothing"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment17.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment17.mp3"
+  - index: 131
+    slug: "entertainment18"
+    title: "Conversation: 18. Judge Judy"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment18.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment18.mp3"
+  - index: 132
+    slug: "entertainment19"
+    title: "Conversation: 19. A Good Singer"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment19.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment19.mp3"
+  - index: 133
+    slug: "entertainment20"
+    title: "Conversation: 20. Going Digital"
+    url: "https://www.eslfast.com/easydialogs/ec/entertainment20.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/entertainment20.mp3"
+  - index: 134
+    slug: "dating01"
+    title: "Conversation: 1. A Blind Date"
+    url: "https://www.eslfast.com/easydialogs/ec/dating01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating01.mp3"
+  - index: 135
+    slug: "dating02"
+    title: "Conversation: 2. Let's Have Dinner"
+    url: "https://www.eslfast.com/easydialogs/ec/dating02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating02.mp3"
+  - index: 136
+    slug: "dating03"
+    title: "Conversation: 3. Blue Eyes"
+    url: "https://www.eslfast.com/easydialogs/ec/dating03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating03.mp3"
+  - index: 137
+    slug: "dating04"
+    title: "Conversation: 4. True Love"
+    url: "https://www.eslfast.com/easydialogs/ec/dating04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating04.mp3"
+  - index: 138
+    slug: "dating05"
+    title: "Conversation: 5. Ask Her Out"
+    url: "https://www.eslfast.com/easydialogs/ec/dating05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating05.mp3"
+  - index: 139
+    slug: "dating06"
+    title: "Conversation: 6. A Night by Himself"
+    url: "https://www.eslfast.com/easydialogs/ec/dating06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating06.mp3"
+  - index: 140
+    slug: "dating07"
+    title: "Conversation: 7. Go on a Blind Date"
+    url: "https://www.eslfast.com/easydialogs/ec/dating07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating07.mp3"
+  - index: 141
+    slug: "dating08"
+    title: "Conversation: 8. Two Pineapples"
+    url: "https://www.eslfast.com/easydialogs/ec/dating08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating08.mp3"
+  - index: 142
+    slug: "dating09"
+    title: "Conversation: 9. One Date Only"
+    url: "https://www.eslfast.com/easydialogs/ec/dating09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating09.mp3"
+  - index: 143
+    slug: "dating10"
+    title: "Conversation: 10. A Bad Date"
+    url: "https://www.eslfast.com/easydialogs/ec/dating10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating10.mp3"
+  - index: 144
+    slug: "dating11"
+    title: "Conversation: 11. Sweet Dreams"
+    url: "https://www.eslfast.com/easydialogs/ec/dating11.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating11.mp3"
+  - index: 145
+    slug: "dating12"
+    title: "Conversation: 12. I Love You More than Money"
+    url: "https://www.eslfast.com/easydialogs/ec/dating12.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating12.mp3"
+  - index: 146
+    slug: "dating13"
+    title: "Conversation: 13. A Good Nose"
+    url: "https://www.eslfast.com/easydialogs/ec/dating13.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/dating13.mp3"
+  - index: 147
+    slug: "restaurant01"
+    title: "Conversation: 1. I Feel Like Chinese"
+    url: "https://www.eslfast.com/easydialogs/ec/restaurant01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/restaurant01.mp3"
+  - index: 148
+    slug: "restaurant02"
+    title: "Conversation: 2. A Slow Burger"
+    url: "https://www.eslfast.com/easydialogs/ec/restaurant02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/restaurant02.mp3"
+  - index: 149
+    slug: "restaurant03"
+    title: "Conversation: 3. A Good Lunch"
+    url: "https://www.eslfast.com/easydialogs/ec/restaurant03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/restaurant03.mp3"
+  - index: 150
+    slug: "restaurant04"
+    title: "Conversation: 4. A Bad Steak"
+    url: "https://www.eslfast.com/easydialogs/ec/restaurant04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/restaurant04.mp3"
+  - index: 151
+    slug: "restaurant05"
+    title: "Conversation: 5. Dirty Nails"
+    url: "https://www.eslfast.com/easydialogs/ec/restaurant05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/restaurant05.mp3"
+  - index: 152
+    slug: "restaurant06"
+    title: "Conversation: 6. Hot Bread"
+    url: "https://www.eslfast.com/easydialogs/ec/restaurant06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/restaurant06.mp3"
+  - index: 153
+    slug: "restaurant07"
+    title: "Conversation: 7. Fear of Germs"
+    url: "https://www.eslfast.com/easydialogs/ec/restaurant07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/restaurant07.mp3"
+  - index: 154
+    slug: "restaurant08"
+    title: "Conversation: 8. Bad Service"
+    url: "https://www.eslfast.com/easydialogs/ec/restaurant08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/restaurant08.mp3"
+  - index: 155
+    slug: "restaurant09"
+    title: "Conversation: 9. A Good Table"
+    url: "https://www.eslfast.com/easydialogs/ec/restaurant09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/restaurant09.mp3"
+  - index: 156
+    slug: "restaurant10"
+    title: "Conversation: 10. Do I Hear $60,000?"
+    url: "https://www.eslfast.com/easydialogs/ec/restaurant10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/restaurant10.mp3"
+  - index: 157
+    slug: "sports01"
+    title: "Conversation: 1. Take Me to the Ball Game"
+    url: "https://www.eslfast.com/easydialogs/ec/sports01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/sports01.mp3"
+  - index: 158
+    slug: "sports02"
+    title: "Conversation: 2. Golf Is Silly"
+    url: "https://www.eslfast.com/easydialogs/ec/sports02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/sports02.mp3"
+  - index: 159
+    slug: "sports03"
+    title: "Conversation: 3. Fresh Fish"
+    url: "https://www.eslfast.com/easydialogs/ec/sports03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/sports03.mp3"
+  - index: 160
+    slug: "sports04"
+    title: "Conversation: 4. I Love Baseball"
+    url: "https://www.eslfast.com/easydialogs/ec/sports04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/sports04.mp3"
+  - index: 161
+    slug: "sports05"
+    title: "Conversation: 5. New Shoes"
+    url: "https://www.eslfast.com/easydialogs/ec/sports05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/sports05.mp3"
+  - index: 162
+    slug: "sports06"
+    title: "Conversation: 6. I'm Worried about Tiger"
+    url: "https://www.eslfast.com/easydialogs/ec/sports06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/sports06.mp3"
+  - index: 163
+    slug: "sports07"
+    title: "Conversation: 7. Where Is Tiger From?"
+    url: "https://www.eslfast.com/easydialogs/ec/sports07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/sports07.mp3"
+  - index: 164
+    slug: "sports08"
+    title: "Conversation: 8. Babe Ruth"
+    url: "https://www.eslfast.com/easydialogs/ec/sports08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/sports08.mp3"
+  - index: 165
+    slug: "sports09"
+    title: "Conversation: 9. The Season's Over"
+    url: "https://www.eslfast.com/easydialogs/ec/sports09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/sports09.mp3"
+  - index: 166
+    slug: "sports10"
+    title: "Conversation: 10. Cheap Seats"
+    url: "https://www.eslfast.com/easydialogs/ec/sports10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/sports10.mp3"
+  - index: 167
+    slug: "sports11"
+    title: "Conversation: 11. Golf Is No Picnic"
+    url: "https://www.eslfast.com/easydialogs/ec/sports11.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/sports11.mp3"
+  - index: 168
+    slug: "sports12"
+    title: "Conversation: 12. A Player Cheats"
+    url: "https://www.eslfast.com/easydialogs/ec/sports12.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/sports12.mp3"
+  - index: 169
+    slug: "safety01"
+    title: "Conversation: 1. Too Much Crime"
+    url: "https://www.eslfast.com/easydialogs/ec/safety01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/safety01.mp3"
+  - index: 170
+    slug: "safety02"
+    title: "Conversation: 2. No One Ever Leaves"
+    url: "https://www.eslfast.com/easydialogs/ec/safety02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/safety02.mp3"
+  - index: 171
+    slug: "safety03"
+    title: "Conversation: 3. Fire and Smoke"
+    url: "https://www.eslfast.com/easydialogs/ec/safety03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/safety03.mp3"
+  - index: 172
+    slug: "safety04"
+    title: "Conversation: 4. Play with Fire"
+    url: "https://www.eslfast.com/easydialogs/ec/safety04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/safety04.mp3"
+  - index: 173
+    slug: "safety05"
+    title: "Conversation: 5. Fasten Your Seatbelt"
+    url: "https://www.eslfast.com/easydialogs/ec/safety05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/safety05.mp3"
+  - index: 174
+    slug: "safety06"
+    title: "Conversation: 6. Use the Stepladder"
+    url: "https://www.eslfast.com/easydialogs/ec/safety06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/safety06.mp3"
+  - index: 175
+    slug: "safety07"
+    title: "Conversation: 7. A Puddle on the Floor"
+    url: "https://www.eslfast.com/easydialogs/ec/safety07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/safety07.mp3"
+  - index: 176
+    slug: "safety08"
+    title: "Conversation: 8. The Fire Alarm"
+    url: "https://www.eslfast.com/easydialogs/ec/safety08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/safety08.mp3"
+  - index: 177
+    slug: "safety09"
+    title: "Conversation: 9. Double-Check Everything"
+    url: "https://www.eslfast.com/easydialogs/ec/safety09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/safety09.mp3"
+  - index: 178
+    slug: "safety10"
+    title: "Conversation: 10. Guns for All"
+    url: "https://www.eslfast.com/easydialogs/ec/safety10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/safety10.mp3"
+  - index: 179
+    slug: "safety11"
+    title: "Conversation: 11. Crime Reduction"
+    url: "https://www.eslfast.com/easydialogs/ec/safety11.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/safety11.mp3"
+  - index: 180
+    slug: "safety12"
+    title: "Conversation: 12. Two Different States"
+    url: "https://www.eslfast.com/easydialogs/ec/safety12.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/safety12.mp3"
+  - index: 181
+    slug: "travel01"
+    title: "Conversation: 1. Beautiful Hawaii"
+    url: "https://www.eslfast.com/easydialogs/ec/travel01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel01.mp3"
+  - index: 182
+    slug: "travel02"
+    title: "Conversation: 2. A Real Meal"
+    url: "https://www.eslfast.com/easydialogs/ec/travel02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel02.mp3"
+  - index: 183
+    slug: "travel03"
+    title: "Conversation: 3. New Sheets"
+    url: "https://www.eslfast.com/easydialogs/ec/travel03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel03.mp3"
+  - index: 184
+    slug: "travel04"
+    title: "Conversation: 4. The Airport"
+    url: "https://www.eslfast.com/easydialogs/ec/travel04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel04.mp3"
+  - index: 185
+    slug: "travel05"
+    title: "Conversation: 5. A Christmas Flight"
+    url: "https://www.eslfast.com/easydialogs/ec/travel05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel05.mp3"
+  - index: 186
+    slug: "travel06"
+    title: "Conversation: 6. Fear of Flying"
+    url: "https://www.eslfast.com/easydialogs/ec/travel06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel06.mp3"
+  - index: 187
+    slug: "travel07"
+    title: "Conversation: 7. Row Your Boat"
+    url: "https://www.eslfast.com/easydialogs/ec/travel07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel07.mp3"
+  - index: 188
+    slug: "travel08"
+    title: "Conversation: 8. A Cruise"
+    url: "https://www.eslfast.com/easydialogs/ec/travel08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel08.mp3"
+  - index: 189
+    slug: "travel09"
+    title: "Conversation: 9. Prepare for Takeoff"
+    url: "https://www.eslfast.com/easydialogs/ec/travel09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel09.mp3"
+  - index: 190
+    slug: "travel10"
+    title: "Conversation: 10. The Grand Canyon"
+    url: "https://www.eslfast.com/easydialogs/ec/travel10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel10.mp3"
+  - index: 191
+    slug: "travel11"
+    title: "Conversation: 11. Hotel Hell"
+    url: "https://www.eslfast.com/easydialogs/ec/travel11.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel11.mp3"
+  - index: 192
+    slug: "travel12"
+    title: "Conversation: 12. A Long Day"
+    url: "https://www.eslfast.com/easydialogs/ec/travel12.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel12.mp3"
+  - index: 193
+    slug: "travel13"
+    title: "Conversation: 13. A Free Trip"
+    url: "https://www.eslfast.com/easydialogs/ec/travel13.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel13.mp3"
+  - index: 194
+    slug: "travel14"
+    title: "Conversation: 14. Serving Your Country"
+    url: "https://www.eslfast.com/easydialogs/ec/travel14.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/travel14.mp3"
+  - index: 195
+    slug: "jobs01"
+    title: "Conversation: 1. I Need a Job"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs01.mp3"
+  - index: 196
+    slug: "jobs02"
+    title: "Conversation: 2. Before Going to an Interview"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs02.mp3"
+  - index: 197
+    slug: "jobs03"
+    title: "Conversation: 3. Work Is Hard"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs03.mp3"
+  - index: 198
+    slug: "jobs04"
+    title: "Conversation: 4. Peas in a Pod"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs04.mp3"
+  - index: 199
+    slug: "jobs05"
+    title: "Conversation: 5. I Am a Babysitter"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs05.mp3"
+  - index: 200
+    slug: "jobs06"
+    title: "Conversation: 6. Hire Me"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs06.mp3"
+  - index: 201
+    slug: "jobs07"
+    title: "Conversation: 7. What If?"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs07.mp3"
+  - index: 202
+    slug: "jobs08"
+    title: "Conversation: 8. Become a Teacher"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs08.mp3"
+  - index: 203
+    slug: "jobs09"
+    title: "Conversation: 9. Over and Over"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs09.mp3"
+  - index: 204
+    slug: "jobs10"
+    title: "Conversation: 10. A Bad Boss"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs10.mp3"
+  - index: 205
+    slug: "jobs11"
+    title: "Conversation: 11. Light My Fire"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs11.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs11.mp3"
+  - index: 206
+    slug: "jobs12"
+    title: "Conversation: 12. Still Working"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs12.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs12.mp3"
+  - index: 207
+    slug: "jobs13"
+    title: "Conversation: 13. All His Eggs in One Basket"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs13.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs13.mp3"
+  - index: 208
+    slug: "jobs14"
+    title: "Conversation: 14. His Parents Are Disappointed"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs14.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs14.mp3"
+  - index: 209
+    slug: "jobs15"
+    title: "Conversation: 15. Nice Doggy"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs15.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs15.mp3"
+  - index: 210
+    slug: "jobs16"
+    title: "Conversation: 16. Knock, Knock!"
+    url: "https://www.eslfast.com/easydialogs/ec/jobs16.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/jobs16.mp3"
+  - index: 211
+    slug: "food01"
+    title: "Conversation: 1. A Good Salad"
+    url: "https://www.eslfast.com/easydialogs/ec/food01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/food01.mp3"
+  - index: 212
+    slug: "food02"
+    title: "Conversation: 2. We Get Cheese from Cows"
+    url: "https://www.eslfast.com/easydialogs/ec/food02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/food02.mp3"
+  - index: 213
+    slug: "food03"
+    title: "Conversation: 3. I Used to Work in a Deli"
+    url: "https://www.eslfast.com/easydialogs/ec/food03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/food03.mp3"
+  - index: 214
+    slug: "food04"
+    title: "Conversation: 4. A New Diet"
+    url: "https://www.eslfast.com/easydialogs/ec/food04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/food04.mp3"
+  - index: 215
+    slug: "food05"
+    title: "Conversation: 5. Bad Manners"
+    url: "https://www.eslfast.com/easydialogs/ec/food05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/food05.mp3"
+  - index: 216
+    slug: "food06"
+    title: "Conversation: 6. Same Old Diet"
+    url: "https://www.eslfast.com/easydialogs/ec/food06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/food06.mp3"
+  - index: 217
+    slug: "food07"
+    title: "Conversation: 7. A Pink Orange"
+    url: "https://www.eslfast.com/easydialogs/ec/food07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/food07.mp3"
+  - index: 218
+    slug: "food08"
+    title: "Conversation: 8. Roasted or Boiled"
+    url: "https://www.eslfast.com/easydialogs/ec/food08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/food08.mp3"
+  - index: 219
+    slug: "food09"
+    title: "Conversation: 9. A Pound a Week"
+    url: "https://www.eslfast.com/easydialogs/ec/food09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/food09.mp3"
+  - index: 220
+    slug: "food10"
+    title: "Conversation: 10. No More for Me"
+    url: "https://www.eslfast.com/easydialogs/ec/food10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/food10.mp3"
+  - index: 221
+    slug: "food11"
+    title: "Conversation: 11. Don't Be Lazy"
+    url: "https://www.eslfast.com/easydialogs/ec/food11.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/food11.mp3"
+  - index: 222
+    slug: "shop01"
+    title: "Conversation: 1. I Like That Shirt"
+    url: "https://www.eslfast.com/easydialogs/ec/shop01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/shop01.mp3"
+  - index: 223
+    slug: "shop02"
+    title: "Conversation: 2. Pants That Fit"
+    url: "https://www.eslfast.com/easydialogs/ec/shop02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/shop02.mp3"
+  - index: 224
+    slug: "shop03"
+    title: "Conversation: 3. The Shopping List"
+    url: "https://www.eslfast.com/easydialogs/ec/shop03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/shop03.mp3"
+  - index: 225
+    slug: "shop04"
+    title: "Conversation: 4. Poor Pockets"
+    url: "https://www.eslfast.com/easydialogs/ec/shop04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/shop04.mp3"
+  - index: 226
+    slug: "shop05"
+    title: "Conversation: 5. Wipe Everything"
+    url: "https://www.eslfast.com/easydialogs/ec/shop05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/shop05.mp3"
+  - index: 227
+    slug: "shop06"
+    title: "Conversation: 6. The 99 Cents Store"
+    url: "https://www.eslfast.com/easydialogs/ec/shop06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/shop06.mp3"
+  - index: 228
+    slug: "shop07"
+    title: "Conversation: 7. PC or Mac?"
+    url: "https://www.eslfast.com/easydialogs/ec/shop07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/shop07.mp3"
+  - index: 229
+    slug: "shop08"
+    title: "Conversation: 8. Bad Business"
+    url: "https://www.eslfast.com/easydialogs/ec/shop08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/shop08.mp3"
+  - index: 230
+    slug: "shop09"
+    title: "Conversation: 9. Sharpen the Pencil"
+    url: "https://www.eslfast.com/easydialogs/ec/shop09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/shop09.mp3"
+  - index: 231
+    slug: "shop10"
+    title: "Conversation: 10. To Save Money"
+    url: "https://www.eslfast.com/easydialogs/ec/shop10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/shop10.mp3"
+  - index: 232
+    slug: "housing01"
+    title: "Conversation: 1. A New House"
+    url: "https://www.eslfast.com/easydialogs/ec/housing01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/housing01.mp3"
+  - index: 233
+    slug: "housing02"
+    title: "Conversation: 2. We Can't Afford This House"
+    url: "https://www.eslfast.com/easydialogs/ec/housing02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/housing02.mp3"
+  - index: 234
+    slug: "housing03"
+    title: "Conversation: 3. On the Corner"
+    url: "https://www.eslfast.com/easydialogs/ec/housing03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/housing03.mp3"
+  - index: 235
+    slug: "housing04"
+    title: "Conversation: 4. A Great Apartment"
+    url: "https://www.eslfast.com/easydialogs/ec/housing04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/housing04.mp3"
+  - index: 236
+    slug: "housing05"
+    title: "Conversation: 5. Fix the Doorbell"
+    url: "https://www.eslfast.com/easydialogs/ec/housing05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/housing05.mp3"
+  - index: 237
+    slug: "housing06"
+    title: "Conversation: 6. Almost Perfect"
+    url: "https://www.eslfast.com/easydialogs/ec/housing06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/housing06.mp3"
+  - index: 238
+    slug: "housing07"
+    title: "Conversation: 7. Life Was Hard"
+    url: "https://www.eslfast.com/easydialogs/ec/housing07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/housing07.mp3"
+  - index: 239
+    slug: "housing08"
+    title: "Conversation: 8. Sell Now"
+    url: "https://www.eslfast.com/easydialogs/ec/housing08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/housing08.mp3"
+  - index: 240
+    slug: "housing09"
+    title: "Conversation: 9. Who Cares?"
+    url: "https://www.eslfast.com/easydialogs/ec/housing09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/housing09.mp3"
+  - index: 241
+    slug: "housing10"
+    title: "Conversation: 10. Hungry Bears"
+    url: "https://www.eslfast.com/easydialogs/ec/housing10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/housing10.mp3"
+  - index: 242
+    slug: "election01"
+    title: "Conversation: 1. Yes, We Can"
+    url: "https://www.eslfast.com/easydialogs/ec/election01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/election01.mp3"
+  - index: 243
+    slug: "election02"
+    title: "Conversation: 2. Don't Vote for Him"
+    url: "https://www.eslfast.com/easydialogs/ec/election02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/election02.mp3"
+  - index: 244
+    slug: "election03"
+    title: "Conversation: 3. He Got Reelected"
+    url: "https://www.eslfast.com/easydialogs/ec/election03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/election03.mp3"
+  - index: 245
+    slug: "election04"
+    title: "Conversation: 4. Change Is Good"
+    url: "https://www.eslfast.com/easydialogs/ec/election04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/election04.mp3"
+  - index: 246
+    slug: "election05"
+    title: "Conversation: 5. A Powerful Position"
+    url: "https://www.eslfast.com/easydialogs/ec/election05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/election05.mp3"
+  - index: 247
+    slug: "election06"
+    title: "Conversation: 6. A Traveling Man"
+    url: "https://www.eslfast.com/easydialogs/ec/election06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/election06.mp3"
+  - index: 248
+    slug: "election07"
+    title: "Conversation: 7. Vote for Ralph"
+    url: "https://www.eslfast.com/easydialogs/ec/election07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/election07.mp3"
+  - index: 249
+    slug: "election08"
+    title: "Conversation: 8. Why Vote?"
+    url: "https://www.eslfast.com/easydialogs/ec/election08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/election08.mp3"
+  - index: 250
+    slug: "election09"
+    title: "Conversation: 9. Every Vote Counts"
+    url: "https://www.eslfast.com/easydialogs/ec/election09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/election09.mp3"
+  - index: 251
+    slug: "election10"
+    title: "Conversation: 10. George Tells Jokes"
+    url: "https://www.eslfast.com/easydialogs/ec/election10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/election10.mp3"
+  - index: 252
+    slug: "election11"
+    title: "Conversation: 11. Give Them More"
+    url: "https://www.eslfast.com/easydialogs/ec/election11.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/election11.mp3"
+  - index: 253
+    slug: "election12"
+    title: "Conversation: 12. They're Lying"
+    url: "https://www.eslfast.com/easydialogs/ec/election12.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/election12.mp3"
+  - index: 254
+    slug: "health01"
+    title: "Conversation: 1. A Stomachache"
+    url: "https://www.eslfast.com/easydialogs/ec/health01.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health01.mp3"
+  - index: 255
+    slug: "health02"
+    title: "Conversation: 2. A Blood Stain"
+    url: "https://www.eslfast.com/easydialogs/ec/health02.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health02.mp3"
+  - index: 256
+    slug: "health03"
+    title: "Conversation: 3. Sore Fingers"
+    url: "https://www.eslfast.com/easydialogs/ec/health03.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health03.mp3"
+  - index: 257
+    slug: "health04"
+    title: "Conversation: 4. Too Much Stress"
+    url: "https://www.eslfast.com/easydialogs/ec/health04.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health04.mp3"
+  - index: 258
+    slug: "health05"
+    title: "Conversation: 5. A Paper Cut"
+    url: "https://www.eslfast.com/easydialogs/ec/health05.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health05.mp3"
+  - index: 259
+    slug: "health06"
+    title: "Conversation: 6. Cigarette Smoke"
+    url: "https://www.eslfast.com/easydialogs/ec/health06.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health06.mp3"
+  - index: 260
+    slug: "health07"
+    title: "Conversation: 7. Nose Drops"
+    url: "https://www.eslfast.com/easydialogs/ec/health07.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health07.mp3"
+  - index: 261
+    slug: "health08"
+    title: "Conversation: 8. Skin Cancer"
+    url: "https://www.eslfast.com/easydialogs/ec/health08.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health08.mp3"
+  - index: 262
+    slug: "health09"
+    title: "Conversation: 9. Quitting Smoking"
+    url: "https://www.eslfast.com/easydialogs/ec/health09.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health09.mp3"
+  - index: 263
+    slug: "health10"
+    title: "Conversation: 10. A Bad Back"
+    url: "https://www.eslfast.com/easydialogs/ec/health10.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health10.mp3"
+  - index: 264
+    slug: "health11"
+    title: "Conversation: 11. Three a Day"
+    url: "https://www.eslfast.com/easydialogs/ec/health11.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health11.mp3"
+  - index: 265
+    slug: "health12"
+    title: "Conversation: 12. Brush, Brush"
+    url: "https://www.eslfast.com/easydialogs/ec/health12.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health12.mp3"
+  - index: 266
+    slug: "health13"
+    title: "Conversation: 13. A Hot Hike"
+    url: "https://www.eslfast.com/easydialogs/ec/health13.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health13.mp3"
+  - index: 267
+    slug: "health14"
+    title: "Conversation: 14. Another Pimple"
+    url: "https://www.eslfast.com/easydialogs/ec/health14.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health14.mp3"
+  - index: 268
+    slug: "health15"
+    title: "Conversation: 15. No Need to Worry"
+    url: "https://www.eslfast.com/easydialogs/ec/health15.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health15.mp3"
+  - index: 269
+    slug: "health16"
+    title: "Conversation: 16. Use a Tissue"
+    url: "https://www.eslfast.com/easydialogs/ec/health16.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health16.mp3"
+  - index: 270
+    slug: "health17"
+    title: "Conversation: 17. A Dirty Remote"
+    url: "https://www.eslfast.com/easydialogs/ec/health17.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health17.mp3"
+  - index: 271
+    slug: "health18"
+    title: "Conversation: 18. An Earful of Pain"
+    url: "https://www.eslfast.com/easydialogs/ec/health18.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health18.mp3"
+  - index: 272
+    slug: "health19"
+    title: "Conversation: 19. A New Face"
+    url: "https://www.eslfast.com/easydialogs/ec/health19.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health19.mp3"
+  - index: 273
+    slug: "health20"
+    title: "Conversation: 20. A Sore Hand"
+    url: "https://www.eslfast.com/easydialogs/ec/health20.htm"
+    mp3: "https://www.eslfast.com/easydialogs/audio/health20.mp3"

@@ -1,0 +1,38 @@
+A: Where do you need to go?
+B: To PCC.
+A: I can take you there.
+B: How long is the ride?
+A: It's going to take me about 25 minutes to get there.
+B: Can you get me there faster?
+A: That's as fast as I can get there.
+B: Fine. How much will this ride be?
+A: It may cost you more because of the traffic.
+B: Are you serious?
+A: Yes, but I'll take you there for $30.
+B: That's fine. Thank you very much.
+
+A: Where would you like me to take you?
+B: I need you to take me to PCC.
+A: I can do that.
+B: How long will it take you to get from here to PCC?
+A: It'll be about 25 minutes.
+B: You can't get there any faster than that?
+A: That's as quick as I can do it.
+B: How much are you going to charge me?
+A: The traffic is going to cause you to pay more.
+B: You can't be serious.
+A: I'll take you to PCC for $30.
+B: I can live with that.
+
+A: Where am I taking you?
+B: I need to go to PCC.
+A: That's no problem.
+B: How long is it going to take you?
+A: With traffic it'll take 25 minutes.
+B: Do you think you can get there quicker?
+A: I can't get there any faster.
+B: How much will the fare be?
+A: It will be more, because there's traffic.
+B: That's crazy.
+A: If you give me $30, I'll take you there.
+B: How kind of you. Thank you so much.

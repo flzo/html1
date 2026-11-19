@@ -1,0 +1,32 @@
+A: I haven't traveled much and need to know what I can carry in my luggage.
+B: There are different considerations. You have to consider airline rules and rules for customs.
+A: How do I find out about each country's Customs regulations?
+B: You can go to a website for the particular country you are interested in.
+A: Is there anything that I should keep in mind for all countries?
+B: Do not ever lie about what you are carrying in your luggage. If you get caught, there is a major fine just for lying.
+A: How about regulations for what you can carry on an airline?
+B: The Internet is a good source for special regulations for particular airports and airlines.
+A: I heard that I can't bring my own bottled water on the plane.
+B: You can buy water at the airport once you pass luggage inspection.
+
+A: What can I carry in my luggage when I travel on an airline trip?
+B: When you fly, you need to think about what you can carry onboard and what you can take into a particular country.
+A: Where can I go to find out about Customs regulations?
+B: Just Google the country you are interested in with these keywords: Customs and restrictions.
+A: Are there any general rules for all countries?
+B: Always answer all questions accurately. If you get caught omitting anything, you will be fined and possibly detained.
+A: What about airline regulations for the contents of your luggage?
+B: If you go to a website for a particular airport or airline, you can get specific information.
+A: Is it true that I can't even bring my own water with me?
+B: You can bring an empty bottle with you if you like and fill it up once you pass inspection.
+
+A: How can I find out what I can carry in my luggage on an airline flight?
+B: You have to think about Customs regulations and airline regulations.
+A: What is the best place to get information about the Customs regulations for a country?
+B: It is easier to go online, but if you can't do that, you can write the Customs Office for the country you are interested in.
+A: What is the most important thing I should keep in mind as far as Customs is concerned?
+B: Always be honest in declaring everything you are carrying. Otherwise, you can be fined for not declaring everything.
+A: How do you find out what you can carry in your luggage for a particular airline?
+B: You can always call the airline you are flying, and they can give you specific information.
+A: Can I at least bring my own bottled water with me?
+B: You can't bring your own water. You must buy it at the airport.

@@ -1,0 +1,32 @@
+A: You don't look so good.
+B: I have a major stomachache
+A: Did you eat something strange?
+B: I had spaghetti with clam sauce for lunch.
+A: Maybe you have food poisoning.
+B: Yes, that could have been it, but I haven't been feeling that great for the past few days.
+A: Are you under a lot of stress?
+B: Not really. Things have been going OK.
+A: Maybe you have a touch of the flu.
+B: I think that I might be getting the flu.
+
+A: Are you feeling OK?
+B: My stomach is bothering me.
+A: What have you been eating?
+B: I had a ham sandwich with mayonnaise for lunch.
+A: Maybe the food had something wrong with it.
+B: It could be bad food, but I didn't feel so well yesterday, either.
+A: Have you been under a lot of pressure lately?
+B: I haven't been under any more stress than usual.
+A: Perhaps you have caught that bug that is going around.
+B: I feel like maybe I am coming down with the flu.
+
+A: You look kind of green.
+B: I don't feel so good. I am feeling sick to my stomach.
+A: Have you had anything to eat lately?
+B: I had fried shrimp and clams for lunch.
+A: Perhaps the food was bad.
+B: Perhaps, but I haven't felt well for a few days now.
+A: Has anything been upsetting you lately?
+B: My stress level is pretty much what is usually is.
+A: Do you think that maybe you are getting the flu?
+B: It seems to me like I may have caught a bug.

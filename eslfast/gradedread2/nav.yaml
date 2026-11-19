@@ -1,0 +1,509 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/gradedread2/gr2/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-18T15:57:42+08:00"
+  total: 100
+  failed: 0
+pages:
+  - index: 1
+    slug: "gr2001"
+    title: "1. John's Morning"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2001.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2001.mp3"
+  - index: 2
+    slug: "gr2002"
+    title: "2. The Daily Life of an Accountant"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2002.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2002.mp3"
+  - index: 3
+    slug: "gr2003"
+    title: "3. The First Day of Kindergarten"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2003.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2003.mp3"
+  - index: 4
+    slug: "gr2004"
+    title: "4. A New Computer Game"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2004.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2004.mp3"
+  - index: 5
+    slug: "gr2005"
+    title: "5. Smartphones"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2005.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2005.mp3"
+  - index: 6
+    slug: "gr2006"
+    title: "6. A School Soccer Player"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2006.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2006.mp3"
+  - index: 7
+    slug: "gr2007"
+    title: "7. The Colorful World"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2007.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2007.mp3"
+  - index: 8
+    slug: "gr2008"
+    title: "8. Sophie's Zoo Visit"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2008.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2008.mp3"
+  - index: 9
+    slug: "gr2009"
+    title: "9. Lily's Birthday Party"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2009.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2009.mp3"
+  - index: 10
+    slug: "gr2010"
+    title: "10. Making a Sandwich for Himself"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2010.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2010.mp3"
+  - index: 11
+    slug: "gr2011"
+    title: "11. A Party-Ready Girl"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2011.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2011.mp3"
+  - index: 12
+    slug: "gr2012"
+    title: "12. The Animals in the Forest"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2012.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2012.mp3"
+  - index: 13
+    slug: "gr2013"
+    title: "13. Max and His Dog"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2013.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2013.mp3"
+  - index: 14
+    slug: "gr2014"
+    title: "14. The Easter Celebration"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2014.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2014.mp3"
+  - index: 15
+    slug: "gr2015"
+    title: "15. Traveling to the Waterfall"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2015.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2015.mp3"
+  - index: 16
+    slug: "gr2016"
+    title: "16. The Importance of Washing Hands"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2016.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2016.mp3"
+  - index: 17
+    slug: "gr2017"
+    title: "17. Moving to a New Home"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2017.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2017.mp3"
+  - index: 18
+    slug: "gr2018"
+    title: "18. Rowing in the Lake"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2018.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2018.mp3"
+  - index: 19
+    slug: "gr2019"
+    title: "19. Having a Picnic"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2019.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2019.mp3"
+  - index: 20
+    slug: "gr2020"
+    title: "20. Learning to Add Numbers"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2020.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2020.mp3"
+  - index: 21
+    slug: "gr2021"
+    title: "21. A Trip to a Farm"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2021.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2021.mp3"
+  - index: 22
+    slug: "gr2022"
+    title: "22. Becoming a Skilled Horse Rider"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2022.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2022.mp3"
+  - index: 23
+    slug: "gr2023"
+    title: "23. A Good Teacher for Kids"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2023.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2023.mp3"
+  - index: 24
+    slug: "gr2024"
+    title: "24. Teaching Kids How to Swim"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2024.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2024.mp3"
+  - index: 25
+    slug: "gr2025"
+    title: "25. Online Learning Challenge"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2025.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2025.mp3"
+  - index: 26
+    slug: "gr2026"
+    title: "26. His First Credit Card"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2026.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2026.mp3"
+  - index: 27
+    slug: "gr2027"
+    title: "27. The First Summer Job"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2027.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2027.mp3"
+  - index: 28
+    slug: "gr2028"
+    title: "28. Buying a New Car"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2028.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2028.mp3"
+  - index: 29
+    slug: "gr2029"
+    title: "29. Sending a Birthday Card"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2029.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2029.mp3"
+  - index: 30
+    slug: "gr2030"
+    title: "30. Learning to Cook"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2030.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2030.mp3"
+  - index: 31
+    slug: "gr2031"
+    title: "31. A Family at Dinner"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2031.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2031.mp3"
+  - index: 32
+    slug: "gr2032"
+    title: "32. A Special Gift for Christmas"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2032.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2032.mp3"
+  - index: 33
+    slug: "gr2033"
+    title: "33. The Moon in the Sky"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2033.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2033.mp3"
+  - index: 34
+    slug: "gr2034"
+    title: "34. Washing Dishes"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2034.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2034.mp3"
+  - index: 35
+    slug: "gr2035"
+    title: "35. A Brown Sparrow"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2035.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2035.mp3"
+  - index: 36
+    slug: "gr2036"
+    title: "36. Jason and His Dog"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2036.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2036.mp3"
+  - index: 37
+    slug: "gr2037"
+    title: "37. A Family at the Beach"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2037.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2037.mp3"
+  - index: 38
+    slug: "gr2038"
+    title: "38. Learning to Play Piano"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2038.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2038.mp3"
+  - index: 39
+    slug: "gr2039"
+    title: "39. Babysitting for a Family"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2039.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2039.mp3"
+  - index: 40
+    slug: "gr2040"
+    title: "40. Visiting a Pet Store"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2040.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2040.mp3"
+  - index: 41
+    slug: "gr2041"
+    title: "41. Learning to Paint"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2041.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2041.mp3"
+  - index: 42
+    slug: "gr2042"
+    title: "42. Going to a Baseball Game"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2042.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2042.mp3"
+  - index: 43
+    slug: "gr2043"
+    title: "43. A Dog-walking Business"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2043.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2043.mp3"
+  - index: 44
+    slug: "gr2044"
+    title: "44. Working in Her Garden"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2044.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2044.mp3"
+  - index: 45
+    slug: "gr2045"
+    title: "45. Horse Riding"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2045.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2045.mp3"
+  - index: 46
+    slug: "gr2046"
+    title: "46. Learning to Make Soup"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2046.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2046.mp3"
+  - index: 47
+    slug: "gr2047"
+    title: "47. Class Registration"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2047.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2047.mp3"
+  - index: 48
+    slug: "gr2048"
+    title: "48. The First Class at School"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2048.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2048.mp3"
+  - index: 49
+    slug: "gr2049"
+    title: "49. A Student's Busy Day"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2049.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2049.mp3"
+  - index: 50
+    slug: "gr2050"
+    title: "50. Choose between Two Jobs"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2050.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2050.mp3"
+  - index: 51
+    slug: "gr2051"
+    title: "51. Money and Happiness"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2051.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2051.mp3"
+  - index: 52
+    slug: "gr2052"
+    title: "52. A Good Job for Alex"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2052.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2052.mp3"
+  - index: 53
+    slug: "gr2053"
+    title: "53. Starting a New Business"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2053.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2053.mp3"
+  - index: 54
+    slug: "gr2054"
+    title: "54. A Bad Day at Work"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2054.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2054.mp3"
+  - index: 55
+    slug: "gr2055"
+    title: "55. Proud of Being a Teacher"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2055.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2055.mp3"
+  - index: 56
+    slug: "gr2056"
+    title: "56. A Broken Window"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2056.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2056.mp3"
+  - index: 57
+    slug: "gr2057"
+    title: "57. Christmas Decorations"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2057.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2057.mp3"
+  - index: 58
+    slug: "gr2058"
+    title: "58. Roommates"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2058.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2058.mp3"
+  - index: 59
+    slug: "gr2059"
+    title: "59. Having a Housewarming Party"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2059.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2059.mp3"
+  - index: 60
+    slug: "gr2060"
+    title: "60. A Beloved Dog"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2060.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2060.mp3"
+  - index: 61
+    slug: "gr2061"
+    title: "61. A Noisy Neighbor"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2061.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2061.mp3"
+  - index: 62
+    slug: "gr2062"
+    title: "62. A Surprise on the Bus"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2062.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2062.mp3"
+  - index: 63
+    slug: "gr2063"
+    title: "63. Making Friends Online"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2063.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2063.mp3"
+  - index: 64
+    slug: "gr2064"
+    title: "64. Sending Money to Grandma"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2064.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2064.mp3"
+  - index: 65
+    slug: "gr2065"
+    title: "65. Emma's First Date"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2065.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2065.mp3"
+  - index: 66
+    slug: "gr2066"
+    title: "66. Paying the Bill at Restaurant"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2066.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2066.mp3"
+  - index: 67
+    slug: "gr2067"
+    title: "67. Online Banking"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2067.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2067.mp3"
+  - index: 68
+    slug: "gr2068"
+    title: "68. A Wrong Charge"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2068.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2068.mp3"
+  - index: 69
+    slug: "gr2069"
+    title: "69. Speedy Sam Learns a Lesson"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2069.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2069.mp3"
+  - index: 70
+    slug: "gr2070"
+    title: "70. Sharing Rides to School"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2070.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2070.mp3"
+  - index: 71
+    slug: "gr2071"
+    title: "71. The Scratched Car"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2071.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2071.mp3"
+  - index: 72
+    slug: "gr2072"
+    title: "72. Picking Flowers for Grandma"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2072.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2072.mp3"
+  - index: 73
+    slug: "gr2073"
+    title: "73. A Lazy Employee"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2073.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2073.mp3"
+  - index: 74
+    slug: "gr2074"
+    title: "74. Bargaining"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2074.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2074.mp3"
+  - index: 75
+    slug: "gr2075"
+    title: "75. Nancy's Online Shopping Adventure"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2075.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2075.mp3"
+  - index: 76
+    slug: "gr2076"
+    title: "76. Learning to Swim"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2076.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2076.mp3"
+  - index: 77
+    slug: "gr2077"
+    title: "77. Learning to Play Baseball"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2077.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2077.mp3"
+  - index: 78
+    slug: "gr2078"
+    title: "78. The Fast Race"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2078.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2078.mp3"
+  - index: 79
+    slug: "gr2079"
+    title: "79. A Ride to the Park"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2079.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2079.mp3"
+  - index: 80
+    slug: "gr2080"
+    title: "80. A Day at the Movies"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2080.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2080.mp3"
+  - index: 81
+    slug: "gr2081"
+    title: "81. The Dinner Party Surprise"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2081.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2081.mp3"
+  - index: 82
+    slug: "gr2082"
+    title: "82. A Day at the Amusement Park"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2082.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2082.mp3"
+  - index: 83
+    slug: "gr2083"
+    title: "83. The Dance Class"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2083.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2083.mp3"
+  - index: 84
+    slug: "gr2084"
+    title: "84. A Trip to the Supermarket"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2084.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2084.mp3"
+  - index: 85
+    slug: "gr2085"
+    title: "85. A New Friend at the Park"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2085.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2085.mp3"
+  - index: 86
+    slug: "gr2086"
+    title: "86. A Guitar Lesson"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2086.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2086.mp3"
+  - index: 87
+    slug: "gr2087"
+    title: "87. Discovering Spyware"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2087.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2087.mp3"
+  - index: 88
+    slug: "gr2088"
+    title: "88. Writing a Get-Well Card"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2088.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2088.mp3"
+  - index: 89
+    slug: "gr2089"
+    title: "89. The Shaky Surprise"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2089.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2089.mp3"
+  - index: 90
+    slug: "gr2090"
+    title: "90. The Surprising Phone Bill"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2090.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2090.mp3"
+  - index: 91
+    slug: "gr2091"
+    title: "91. Fun in the Sun"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2091.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2091.mp3"
+  - index: 92
+    slug: "gr2092"
+    title: "92. The Exciting Plane Ride"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2092.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2092.mp3"
+  - index: 93
+    slug: "gr2093"
+    title: "93. A Happy Family Reunion"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2093.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2093.mp3"
+  - index: 94
+    slug: "gr2094"
+    title: "94. A Special Day for Mom"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2094.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2094.mp3"
+  - index: 95
+    slug: "gr2095"
+    title: "95. A Father's Day Surprise"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2095.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2095.mp3"
+  - index: 96
+    slug: "gr2096"
+    title: "96. The Magic Security Camera"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2096.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2096.mp3"
+  - index: 97
+    slug: "gr2097"
+    title: "97. A Day of Fishing Fun"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2097.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2097.mp3"
+  - index: 98
+    slug: "gr2098"
+    title: "98. Weekends at Grandma's"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2098.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2098.mp3"
+  - index: 99
+    slug: "gr2099"
+    title: "99. Sandra's Chopstick Adventure"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2099.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2099.mp3"
+  - index: 100
+    slug: "gr2100"
+    title: "100. A Fair Meal at the Restaurant"
+    url: "https://www.eslfast.com/gradedread2/gr2/gr2100.htm"
+    mp3: "https://www.eslfast.com/gradedread2/audio/gr2100.mp3"

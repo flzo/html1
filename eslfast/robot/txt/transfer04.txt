@@ -1,0 +1,38 @@
+A: Are you planning on taking classes next semester?
+B: Yeah. That's the plan.
+A: What classes are you going to take?
+B: I'm going to take an English and a math class.
+A: What else are you taking?
+B: I'm also going to take a psychology class.
+A: Is that for your major?
+B: It counts toward my major, but I'm taking it as part of my GE.
+A: So you're working on finishing your GE?
+B: That's all I'm trying to do right now.
+A: Why are you only working on your GE classes?
+B: Once I finish those classes, then I can transfer.
+
+A: Are you going to take classes next semester?
+B: I plan to.
+A: Which classes?
+B: I will be taking another English and math class.
+A: Is there anything else?
+B: I'm going to take a psychology class.
+A: Are you taking the psychology class as part of your major?
+B: It goes toward my GE and my major.
+A: So, you're just working on your GE right now?
+B: Yeah. That's the plan for right now.
+A: Why only your GE classes?
+B: I'll be able to transfer once I finish those classes.
+
+A: Were you going to take some classes next semester?
+B: Of course!
+A: Which ones?
+B: I need to take another English and math class.
+A: That's it?
+B: I think I may also sign up for a psych class.
+A: Is the psychology class for your major?
+B: That class will count toward my GE and my major.
+A: You're just trying to finish your GE?
+B: I need to finish these classes for now.
+A: I don't understand why you're only working on your GE classes.
+B: Because I can't transfer until I finish those classes.

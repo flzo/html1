@@ -1,0 +1,32 @@
+A: Hi, I haven't seen you in a while.
+B: Yes, it has been a long time!
+A: How long has it been since we last saw each other?
+B: I think that we last saw each other two years ago.
+A: What have you been doing for the past two years?
+B: I have been going to graduate school at USC.
+A: What are you majoring in?
+B: I am studying international communications.
+A: You should easily be able to find a job with that major.
+B: I am counting on being able to get a good job.
+
+A: Hello, it's been a long time since I have seen you.
+B: It is true that I have not seen you in a while.
+A: Exactly how long do you think that it has been?
+B: I believe that it has been two years since we last saw each other.
+A: So where have you been since I last saw you?
+B: I am working on my doctorate at USC.
+A: What is your field of emphasis?
+B: I decided to pursue international communications.
+A: I think that you will be very employable after you finish your degree.
+B: I hope that when I finish I will find good work.
+
+A: It has certainly been a long time since I saw you last.
+B: It has been a long time since I last saw you.
+A: Can you remember when we last saw each other?
+B: It was about two years ago that we saw each other.
+A: What have you been up to for the past two years?
+B: I am finishing up my doctorate at USC.
+A: What subject did you decide to study?
+B: International communications is my field.
+A: That sounds like a very marketable degree.
+B: I am expecting to get my degree and find an interesting position.

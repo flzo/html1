@@ -1,0 +1,12 @@
+A: Where do I buy my bus ticket?
+B: You buy it in the bus.
+A: Isn't there a station?
+B: Yes, but that's not where you buy tickets.
+A: Does the bus driver give me my ticket?
+B: The bus driver has a machine that does.
+A: Do I buy a new ticket every time I ride the bus?
+B: Yes, but if you plan to ride several buses, buy a day pass.
+A: Why should I buy a day pass?
+B: It would be cheaper than buying several tickets.
+A: So I just wait for the bus to get here?
+B: Yes, and make sure you have change.

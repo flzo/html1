@@ -1,0 +1,509 @@
+# Navigation index for the scraped ESLFast story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/kidsenglish/ke/"
+  selector: "body > div:nth-child(1) > div > div.contain > div"
+  generated_at: "2026-11-18T10:53:09+08:00"
+  total: 100
+  failed: 0
+pages:
+  - index: 1
+    slug: "ke001"
+    title: "1. Going to the Zoo"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke001.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke001c3.mp3"
+  - index: 2
+    slug: "ke002"
+    title: "2. Christmas Time"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke002.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke002op.mp3"
+  - index: 3
+    slug: "ke003"
+    title: "3. She Goes to the Nurse"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke003.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke003yr2.mp3"
+  - index: 4
+    slug: "ke004"
+    title: "4. Waiting"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke004.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke004.mp3"
+  - index: 5
+    slug: "ke005"
+    title: "5. Chores"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke005.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke005ig5.mp3"
+  - index: 6
+    slug: "ke006"
+    title: "6. The First Song"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke006.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke006.mp3"
+  - index: 7
+    slug: "ke007"
+    title: "7. Visiting the Doctor"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke007.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke007h6.mp3"
+  - index: 8
+    slug: "ke008"
+    title: "8. Different Foods"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke008.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke008.mp3"
+  - index: 9
+    slug: "ke009"
+    title: "9. The Corner"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke009.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke009t4.mp3"
+  - index: 10
+    slug: "ke010"
+    title: "10. A Surprise Party"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke010.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke010.mp3"
+  - index: 11
+    slug: "ke011"
+    title: "11. A New Pet"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke011.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke011pr3.mp3"
+  - index: 12
+    slug: "ke012"
+    title: "12. Group Project"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke012.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke012o5.mp3"
+  - index: 13
+    slug: "ke013"
+    title: "13. A Cat and A Mouse"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke013.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke013.mp3"
+  - index: 14
+    slug: "ke014"
+    title: "14. Lemonade Stand"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke014.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke014t7.mp3"
+  - index: 15
+    slug: "ke015"
+    title: "15. New and Old"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke015.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke015ec.mp3"
+  - index: 16
+    slug: "ke016"
+    title: "16. The Kind Dentist"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke016.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke016t9.mp3"
+  - index: 17
+    slug: "ke017"
+    title: "17. A Trip to the Library"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke017.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke017ct1.mp3"
+  - index: 18
+    slug: "ke018"
+    title: "18. A Lot of Ants"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke018.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke018.mp3"
+  - index: 19
+    slug: "ke019"
+    title: "19. Picking a Costume"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke019.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke019ed3.mp3"
+  - index: 20
+    slug: "ke020"
+    title: "20. Petting Zoo"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke020.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke020.mp3"
+  - index: 21
+    slug: "ke021"
+    title: "21. Mom is Mad"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke021.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke021c5.mp3"
+  - index: 22
+    slug: "ke022"
+    title: "22. Father's Day"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke022.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke022o7.mp3"
+  - index: 23
+    slug: "ke023"
+    title: "23. The Baby Sister"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke023.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke023.mp3"
+  - index: 24
+    slug: "ke024"
+    title: "24. Sometimes You Lose"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke024.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke024p9.mp3"
+  - index: 25
+    slug: "ke025"
+    title: "25. A New Home"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke025.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke025.mp3"
+  - index: 26
+    slug: "ke026"
+    title: "26. Chris and His Fish"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke026.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke026y2.mp3"
+  - index: 27
+    slug: "ke027"
+    title: "27. The Oldest Brother"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke027.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke027.mp3"
+  - index: 28
+    slug: "ke028"
+    title: "28. A Successful Trade"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke028.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke028ri3.mp3"
+  - index: 29
+    slug: "ke029"
+    title: "29. Making a Snowman"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke029.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke029.mp3"
+  - index: 30
+    slug: "ke030"
+    title: "30. English Skills"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke030.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke030g4.mp3"
+  - index: 31
+    slug: "ke031"
+    title: "31. Practicing Drawing"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke031.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke031.mp3"
+  - index: 32
+    slug: "ke032"
+    title: "32. A Day for Ice Cream"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke032.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke032h6.mp3"
+  - index: 33
+    slug: "ke033"
+    title: "33. Taking Tests"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke033.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke033.mp3"
+  - index: 34
+    slug: "ke034"
+    title: "34. Helen is Busy"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke034.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke034t8.mp3"
+  - index: 35
+    slug: "ke035"
+    title: "35. Messing Up"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke035.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke035.mp3"
+  - index: 36
+    slug: "ke036"
+    title: "36. Introducing Myselfe"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke036.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke036pr9.mp3"
+  - index: 37
+    slug: "ke037"
+    title: "37. A Long Wait"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke037.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke037.mp3"
+  - index: 38
+    slug: "ke038"
+    title: "38. The Teacher Takes Away His Phone"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke038.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke038.mp3"
+  - index: 39
+    slug: "ke039"
+    title: "39. No One Likes the Flu"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke039.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke039o35.mp3"
+  - index: 40
+    slug: "ke040"
+    title: "40. The Circus"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke040.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke040.mp3"
+  - index: 41
+    slug: "ke041"
+    title: "41. An Unhealthy Boy"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke041.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke041t73.mp3"
+  - index: 42
+    slug: "ke042"
+    title: "42. Ferris Wheel"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke042.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke042.mp3"
+  - index: 43
+    slug: "ke043"
+    title: "43. More Money"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke043.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke043e65.mp3"
+  - index: 44
+    slug: "ke044"
+    title: "44. Loving Dance"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke044.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke044.mp3"
+  - index: 45
+    slug: "ke045"
+    title: "45. A Fun Sleepover"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke045.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke045ct1.mp3"
+  - index: 46
+    slug: "ke046"
+    title: "46. Apology"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke046.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke046.mp3"
+  - index: 47
+    slug: "ke047"
+    title: "47. Glass of Milk on the Desk"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke047.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke047ed.mp3"
+  - index: 48
+    slug: "ke048"
+    title: "48. A Simple Gift"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke048.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke048.mp3"
+  - index: 49
+    slug: "ke049"
+    title: "49. Hide and Seek"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke049.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke049co3.mp3"
+  - index: 50
+    slug: "ke050"
+    title: "50. Excited for the Mail"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke050.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke050.mp3"
+  - index: 51
+    slug: "ke051"
+    title: "51. Having Fun on a Swing"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke051.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke051py5.mp3"
+  - index: 52
+    slug: "ke052"
+    title: "52. He Walks His Dogs"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke052.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke052.mp3"
+  - index: 53
+    slug: "ke053"
+    title: "53. A Pencil for Everything"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke053.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke053r7.mp3"
+  - index: 54
+    slug: "ke054"
+    title: "54. Being Careless"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke054.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke054.mp3"
+  - index: 55
+    slug: "ke055"
+    title: "55. Fluffy the Rabbit"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke055.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke055i9.mp3"
+  - index: 56
+    slug: "ke056"
+    title: "56. Three Friends and a Jump Rope"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke056.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke056.mp3"
+  - index: 57
+    slug: "ke057"
+    title: "57. He Plays with the Ladybug"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke057.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke057gh1.mp3"
+  - index: 58
+    slug: "ke058"
+    title: "58. The Dog That Digs"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke058.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke058.mp3"
+  - index: 59
+    slug: "ke059"
+    title: "59. Playing with the Monkey Bars"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke059.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke059ted2.mp3"
+  - index: 60
+    slug: "ke060"
+    title: "60. Playing a Doctor"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke060.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke060.mp3"
+  - index: 61
+    slug: "ke061"
+    title: "61. Art Class"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke061.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke061c4.mp3"
+  - index: 62
+    slug: "ke062"
+    title: "62. Getting Ready for Soccer Practice"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke062.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke062.mp3"
+  - index: 63
+    slug: "ke063"
+    title: "63. The Pouch of a Kangaroo"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke063.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke063o6.mp3"
+  - index: 64
+    slug: "ke064"
+    title: "64. Aunt and Uncle"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke064.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke064.mp3"
+  - index: 65
+    slug: "ke065"
+    title: "65. A Busy Boy"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke065.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke065py8.mp3"
+  - index: 66
+    slug: "ke066"
+    title: "66. Fruit Salad"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke066.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke066.mp3"
+  - index: 67
+    slug: "ke067"
+    title: "67. He Takes His Test"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke067.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke067ri9.mp3"
+  - index: 68
+    slug: "ke068"
+    title: "68. Parent-teacher Conference"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke068.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke068.mp3"
+  - index: 69
+    slug: "ke069"
+    title: "69. The Second Dog"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke069.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke069ght.mp3"
+  - index: 70
+    slug: "ke070"
+    title: "70. A Cat and a Ball of Yarn"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke070.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke070.mp3"
+  - index: 71
+    slug: "ke071"
+    title: "71. Taking Care of His Orange Tree"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke071.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke071p3.mp3"
+  - index: 72
+    slug: "ke072"
+    title: "72. The Missing Notebook"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke072.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke072.mp3"
+  - index: 73
+    slug: "ke073"
+    title: "73. Tag, You're It!"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke073.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke073r25.mp3"
+  - index: 74
+    slug: "ke074"
+    title: "74. Different Flavors"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke074.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke074ot11.mp3"
+  - index: 75
+    slug: "ke075"
+    title: "75. Daydreaming at School"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke075.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke075ed.mp3"
+  - index: 76
+    slug: "ke076"
+    title: "76. A Pet for Dad"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke076.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke076.mp3"
+  - index: 77
+    slug: "ke077"
+    title: "77. Too Sick"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke077.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke077c15.mp3"
+  - index: 78
+    slug: "ke078"
+    title: "78. The Worst Student"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke078.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke078.mp3"
+  - index: 79
+    slug: "ke079"
+    title: "79. Bad Manners"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke079.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke079op13.mp3"
+  - index: 80
+    slug: "ke080"
+    title: "80. Transferring to Another Class"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke080.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke080y.mp3"
+  - index: 81
+    slug: "ke081"
+    title: "81. Good Manners"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke081.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke081.mp3"
+  - index: 82
+    slug: "ke082"
+    title: "82. The Trouble with Braces"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke082.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke082ri14.mp3"
+  - index: 83
+    slug: "ke083"
+    title: "83. Lost on the First Day"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke083.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke083.mp3"
+  - index: 84
+    slug: "ke084"
+    title: "84. Stealing is Bad"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke084.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke084gh15.mp3"
+  - index: 85
+    slug: "ke085"
+    title: "85. Picking Her Up"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke085.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke085.mp3"
+  - index: 86
+    slug: "ke086"
+    title: "86. Saving the Princess"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke086.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke086t36.mp3"
+  - index: 87
+    slug: "ke087"
+    title: "87. Make It Hot, Make It Cold"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke087.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke087.mp3"
+  - index: 88
+    slug: "ke088"
+    title: "88. A Good Shower"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke088.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke088pr9.mp3"
+  - index: 89
+    slug: "ke089"
+    title: "89. The Wrong Color"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke089.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke089.mp3"
+  - index: 90
+    slug: "ke090"
+    title: "90. Forgetting Her Glasses"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke090.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke090o8.mp3"
+  - index: 91
+    slug: "ke091"
+    title: "91. Quitting His Job"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke091.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke091.mp3"
+  - index: 92
+    slug: "ke092"
+    title: "92. Future Goals"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke092.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke092t9.mp3"
+  - index: 93
+    slug: "ke093"
+    title: "93. A Kind Stranger"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke093.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke093.mp3"
+  - index: 94
+    slug: "ke094"
+    title: "94. Excited for Thanksgiving"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke094.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke094ed1.mp3"
+  - index: 95
+    slug: "ke095"
+    title: "95. A Sad Book and a Happy Book"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke095.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke095.mp3"
+  - index: 96
+    slug: "ke096"
+    title: "96. The Water Slide at the Amusement Park"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke096.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke096co3.mp3"
+  - index: 97
+    slug: "ke097"
+    title: "97. Keeping a Diary"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke097.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke097.mp3"
+  - index: 98
+    slug: "ke098"
+    title: "98. Trying on Shoes"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke098.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke098py1.mp3"
+  - index: 99
+    slug: "ke099"
+    title: "99. A Lot of Pants"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke099.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke099.mp3"
+  - index: 100
+    slug: "ke100"
+    title: "100. Chili Sauce Lover"
+    url: "https://www.eslfast.com/kidsenglish/ke/ke100.htm"
+    mp3: "https://www.eslfast.com/kidsenglish/audio/ke100.mp3"

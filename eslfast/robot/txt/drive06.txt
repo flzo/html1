@@ -1,0 +1,38 @@
+A: How'd I do on my driving test?
+B: You did great on your test.
+A: Did I pass my test?
+B: You passed with flying colors.
+A: Did I mess up at all on my test?
+B: There was only one thing.
+A: What was it?
+B: You had some problems with parking.
+A: Parking is always the hardest thing for me.
+B: You should practice that.
+A: I will, but in the meantime, do I get my license?
+B: Yes. You got your license.
+
+A: Did I do well on my driving test?
+B: You did a wonderful job.
+A: So, I passed?
+B: Yes, you passed.
+A: Did I mess up on anything?
+B: You did mess up on something.
+A: What was that?
+B: Your parallel parking isn't all that great.
+A: Yes, that's pretty hard for me.
+B: You just need a little more practice.
+A: I know, but I still get my license, right?
+B: You got it.
+
+A: About my driving test, did I do well?
+B: You did a fabulous job.
+A: Are you telling me that I passed the test?
+B: That's what I'm telling you.
+A: What did I mess up on?
+B: You did mess up a little on one thing.
+A: Tell me.
+B: You had a little trouble on your parallel parking.
+A: That's not easy for me.
+B: That's something that you really need to work on.
+A: Am I still going to get my license?
+B: You're still going to get it.

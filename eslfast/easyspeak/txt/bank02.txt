@@ -1,0 +1,12 @@
+A: I'd like to open a checking account.
+B: We would love to have you as our customer.
+A: What documents do you need from me?
+B: Do you have state issue identification?
+A: Is my driver's license okay?
+B: That's perfect. I also need your Social Security Number.
+A: Is there a minimum balance requirement?
+B: Our basic checking account has a $25.00 minimum balance per month.
+A: I can keep that in my account.
+B: I also need proof of address.
+A: Can I show you my gas bill?
+B: Yes, now I need you to sign some papers.

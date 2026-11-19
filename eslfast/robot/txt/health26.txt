@@ -1,0 +1,32 @@
+A: Is there a medication you can prescribe to help me with my problem?
+B: There are various choices of blood pressure medication that we can try.
+A: What is available?
+B: We could start with Hydrochlorothiazide, which is a diuretic.
+A: Are there many side effects?
+B: There really are not many side effects. You need to drink a lot of water when you take this pill.
+A: Is that the only medication I need to take?
+B: It might be, but for a while I also want you to take an ACE inhibitor, Lisinopril.
+A: What are the side effects of that drug?
+B: You may have a little bit of a dry cough, but you will feel much better.
+
+A: Can I get some medicine to help me?
+B: For your high blood pressure, we have several choices of medications.
+A: What types of drugs can I try?
+B: Hydrochlorothiazide is a diuretic that helps with water retention.
+A: What about side effects from that medication?
+B: Most people have no side effects. You will have to make sure that you drink plenty of liquids with this medication.
+A: Do I only need to take that one drug?
+B: I am going to add a second drug for now, Lisinopril, which is an ACE inhibitor.
+A: What can I expect when I take that medication?
+B: You will feel much better except for the fact that you might have a little cough.
+
+A: What about a medication to help me with my problem?
+B: There are several types of medications that we can try for your high blood pressure.
+A: What types of medications would be best?
+B: For water retention, I am going to start you on Hydrochlorothiazide, which is a diuretic.
+A: What are the side effects from taking that drug,
+B: You need to stay hydrated on this drug, but most people experience little side effects.
+A: Will that one medication take care of all of my problems?
+B: For now I want you to take a second drug, Lisinopril, an ACE inhibitor.
+A: Am I going to experience any complications with that drug?
+B: The most you will experience will be a dry cough but you probably won't experience anything negative.

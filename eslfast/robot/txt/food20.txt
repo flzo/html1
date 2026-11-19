@@ -1,0 +1,37 @@
+A: I can't seem to find the cereal aisle.
+B: You'll find the cereal by the breakfast foods.
+A: What breakfast foods?
+B: They're over by the oatmeal and the breakfast bars.
+A: I think I know what you're talking about.
+B: Can I help you with anything else?
+A: Could you tell me where the dishwashing detergent is?
+B: You'll find that by the paper towels.
+A: I didn't think of that.
+B: That's where it'll be.
+A: Thank you very much.
+B: If you need anything else, please feel free to ask me.
+
+A: Could you tell me where the cereal is?
+B: If you go to the breakfast aisle, you'll find the cereal there.
+A: What aisle is that?
+B: You'll find it by the oatmeal and breakfast bars.
+A: I know where that is at.
+B: Is there anything else you need help finding?
+A: Could you point me toward the dishwashing detergent?
+B: That's over by the paper towels and toilet paper.
+A: I didn't even think about that.
+B: That's where it is.
+A: Thank you so much for helping me.
+B: Let me know if you need anything else.
+
+A: I need to find the cereal aisle.
+B: The cereal is over by the breakfast foods.
+A: Where is that at?
+B: It's by the oatmeal and breakfast bars.
+A: I think I can find that.
+B: Did you need help finding anything else?
+A: Actually, I do need to find the dishwashing detergent.
+B: That would be over by the paper towels and toilet paper.
+A: I thought it was over there.
+B: Yeah, you'll find it there.
+A: I really appreciate all your help.

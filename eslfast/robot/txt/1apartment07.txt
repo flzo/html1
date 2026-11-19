@@ -1,0 +1,44 @@
+A: Hello, Nicole here.
+B: Nicole, this is Richard. I think you know why I'm calling.
+A: Oh, it's about the rent.
+B: Yes, this is the second month in a row.
+A: I thought there was a grace period.
+B: There is no grace period in the rental agreement.
+A: Oh, I guess I forgot.
+B: Well, when can I expect the rent?
+A: You'll get it by Monday.
+B: Don't forget the $50 late fee.
+A: Is that in the rental agreement?
+B: The late fee is circled in red ink!
+A: Oh, Well, I can't find my copy of the agreement.
+B: If you're late next month, I might give you an eviction notice.
+
+A: Hi, this is Nicole.
+B: Hi, Nicole. Richard here. I think you've got a good idea why I'm calling.
+A: Yes. It's about the rent, isn't it?
+B: Yes, your rent is late. This is the second month in a row.
+A: But I thought that I had a grace period.
+B: I told you last month that the rental agreement contains no grace period.
+A: Oh, I guess I was thinking about the last place that I lived.
+B: Well, tell me when I'm going to get your rent.
+A: I get paid tomorrow, so you'll get the check by Monday.
+B: Don't forget to include the $50 late fee.
+A: Are you sure a late fee is in the rental agreement?
+B: How could you miss the late fee? It's circled in red ink!
+A: I can't find my copy of the rental agreement. I know it's somewhere in my apartment.
+B: If you're late one more time, I'm probably going to evict you.
+
+A: Hello, Nicole here. Who's calling, please?
+B: Hey, Nicole. It's Richard. I'm pretty sure you know why I'm calling.
+A: Yes, a dollar gets a dime that you're calling about the rent.
+B: Nicole, for the second month in a row, your rent is late.
+A: I thought you said there is a grace period.
+B: No, I didn't. There was no grace period last month, this month, or any month.
+A: Maybe I'm confusing this place with my last place.
+B: Well, I'm waiting to receive your rent check.
+A: I get my money tomorrow, so I can pay you by Monday.
+B: Remember, just like last month, you have to pay the $50 late fee.
+A: I don't remember seeing a late fee in the rental agreement.
+B: If you look at your agreement, you'll see the late fee circled in red ink!
+A: I forget where I put my rental agreement.
+B: One more late check, and you're looking at eviction.

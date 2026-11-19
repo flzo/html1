@@ -1,0 +1,38 @@
+A: Could you help me?
+B: What do you need?
+A: I can't seem to find my class.
+B: What building is it in?
+A: It's in the C building.
+B: Oh, I know exactly where that is.
+A: Do you think you can tell me where it is?
+B: Sure, what room number is it?
+A: It's room number 261.
+B: I have a class around there right now.
+A: Could you show me where it is?
+B: No problem, come on.
+
+A: Excuse me, I need your assistance.
+B: Sure, what's up?
+A: I have no idea where my class is.
+B: Tell me which building it's in.
+A: My class is in the C building.
+B: I know where the C building is.
+A: Do you mind telling me where it is?
+B: Of course, which room number is it?
+A: Number 261.
+B: I actually have a class right around there.
+A: Can you please show me?
+B: I can do that.
+
+A: Do you mind helping me?
+B: What can I help you with?
+A: I'm not sure how to find my next class.
+B: Do you know what building that it's in?
+A: The C building, I think.
+B: Well, that's not far away.
+A: Could you point me in that direction?
+B: Do you know what the room number is?
+A: It's C261.
+B: My next class is around there.
+A: Can you show it to me?
+B: Sure, let's go.

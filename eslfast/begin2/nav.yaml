@@ -1,0 +1,559 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/begin2/b2/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-18T14:37:59+08:00"
+  total: 110
+  failed: 0
+pages:
+  - index: 1
+    slug: "b2001"
+    title: "1. Getting Ready for Work"
+    url: "https://www.eslfast.com/begin2/b2/b2001.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2001p8.mp3"
+  - index: 2
+    slug: "b2002"
+    title: "2. Going to Sleep"
+    url: "https://www.eslfast.com/begin2/b2/b2002.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2002.mp3"
+  - index: 3
+    slug: "b2003"
+    title: "3. Walking the Dog"
+    url: "https://www.eslfast.com/begin2/b2/b2003.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2003r6.mp3"
+  - index: 4
+    slug: "b2004"
+    title: "4. Lemonade on a Hot Day"
+    url: "https://www.eslfast.com/begin2/b2/b2004.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2004.mp3"
+  - index: 5
+    slug: "b2005"
+    title: "5. Coffee on a Cold Night"
+    url: "https://www.eslfast.com/begin2/b2/b2005.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2005o5.mp3"
+  - index: 6
+    slug: "b2006"
+    title: "6. Jim Picks Up His Little Sister"
+    url: "https://www.eslfast.com/begin2/b2/b2006.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2006.mp3"
+  - index: 7
+    slug: "b2007"
+    title: "7. Jim Walks Nancy Home from School"
+    url: "https://www.eslfast.com/begin2/b2/b2007.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2007t7.mp3"
+  - index: 8
+    slug: "b2008"
+    title: "8. Making a Sandwich"
+    url: "https://www.eslfast.com/begin2/b2/b2008.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2008.mp3"
+  - index: 9
+    slug: "b2009"
+    title: "9. Making Scrambled Eggs"
+    url: "https://www.eslfast.com/begin2/b2/b2009.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2009e2.mp3"
+  - index: 10
+    slug: "b2010"
+    title: "10. John Loves to Read Books"
+    url: "https://www.eslfast.com/begin2/b2/b2010.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2010.mp3"
+  - index: 11
+    slug: "b2011"
+    title: "11. Sam Loves Watching Television"
+    url: "https://www.eslfast.com/begin2/b2/b2011.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2011c4.mp3"
+  - index: 12
+    slug: "b2012"
+    title: "12. Exercising"
+    url: "https://www.eslfast.com/begin2/b2/b2012.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2012.mp3"
+  - index: 13
+    slug: "b2013"
+    title: "13. Her Love of Food"
+    url: "https://www.eslfast.com/begin2/b2/b2013.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2013t8.mp3"
+  - index: 14
+    slug: "b2014"
+    title: "14. Lost Dog"
+    url: "https://www.eslfast.com/begin2/b2/b2014.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2014.mp3"
+  - index: 15
+    slug: "b2015"
+    title: "15. The Dog Spike"
+    url: "https://www.eslfast.com/begin2/b2/b2015.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2015i6.mp3"
+  - index: 16
+    slug: "b2016"
+    title: "16. Falling and Breaking an Arm"
+    url: "https://www.eslfast.com/begin2/b2/b2016.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2016.mp3"
+  - index: 17
+    slug: "b2017"
+    title: "17. Learning to Roller-Skate"
+    url: "https://www.eslfast.com/begin2/b2/b2017.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2017o1.mp3"
+  - index: 18
+    slug: "b2018"
+    title: "18. Lying on the Beach"
+    url: "https://www.eslfast.com/begin2/b2/b2018.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2018.mp3"
+  - index: 19
+    slug: "b2019"
+    title: "19. Tommy has a Bake Sale"
+    url: "https://www.eslfast.com/begin2/b2/b2019.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2019n3.mp3"
+  - index: 20
+    slug: "b2020"
+    title: "20. Math Test"
+    url: "https://www.eslfast.com/begin2/b2/b2020.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2020.mp3"
+  - index: 21
+    slug: "b2021"
+    title: "21. Graduating from High School"
+    url: "https://www.eslfast.com/begin2/b2/b2021.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2021p5.mp3"
+  - index: 22
+    slug: "b2022"
+    title: "22. Ice-cream and Yogurt"
+    url: "https://www.eslfast.com/begin2/b2/b2022.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2022.mp3"
+  - index: 23
+    slug: "b2023"
+    title: "23. Lisa the Artist"
+    url: "https://www.eslfast.com/begin2/b2/b2023.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2023r7.mp3"
+  - index: 24
+    slug: "b2024"
+    title: "24. Closing the Store at Night"
+    url: "https://www.eslfast.com/begin2/b2/b2024.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2024.mp3"
+  - index: 25
+    slug: "b2025"
+    title: "25. Oatmeal for Breakfast"
+    url: "https://www.eslfast.com/begin2/b2/b2025.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2025o9.mp3"
+  - index: 26
+    slug: "b2026"
+    title: "26. Sally and her Cat"
+    url: "https://www.eslfast.com/begin2/b2/b2026.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2026.mp3"
+  - index: 27
+    slug: "b2027"
+    title: "27. Buying a Couch"
+    url: "https://www.eslfast.com/begin2/b2/b2027.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2027t4.mp3"
+  - index: 28
+    slug: "b2028"
+    title: "28. Tom's Fourth of July"
+    url: "https://www.eslfast.com/begin2/b2/b2028.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2028.mp3"
+  - index: 29
+    slug: "b2029"
+    title: "29. Mark's Thanksgiving"
+    url: "https://www.eslfast.com/begin2/b2/b2029.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2029e6.mp3"
+  - index: 30
+    slug: "b2030"
+    title: "30. David Runs a Marathon"
+    url: "https://www.eslfast.com/begin2/b2/b2030.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2030.mp3"
+  - index: 31
+    slug: "b2031"
+    title: "31. Joe's Walk in the Park"
+    url: "https://www.eslfast.com/begin2/b2/b2031.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2031c5.mp3"
+  - index: 32
+    slug: "b2032"
+    title: "32. Meeting a Jazz Artist at a Record Store"
+    url: "https://www.eslfast.com/begin2/b2/b2032.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2032.mp3"
+  - index: 33
+    slug: "b2033"
+    title: "33. Old Man Crosses the Street"
+    url: "https://www.eslfast.com/begin2/b2/b2033.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2033t7.mp3"
+  - index: 34
+    slug: "b2034"
+    title: "34. Waiting for a Friend in the Cold"
+    url: "https://www.eslfast.com/begin2/b2/b2034.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2034.mp3"
+  - index: 35
+    slug: "b2035"
+    title: "35. Shopping at the Mall"
+    url: "https://www.eslfast.com/begin2/b2/b2035.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2035i9.mp3"
+  - index: 36
+    slug: "b2036"
+    title: "36. Buying a Laptop"
+    url: "https://www.eslfast.com/begin2/b2/b2036.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2036.mp3"
+  - index: 37
+    slug: "b2037"
+    title: "37. The Popular Girl at School"
+    url: "https://www.eslfast.com/begin2/b2/b2037.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2037o5.mp3"
+  - index: 38
+    slug: "b2038"
+    title: "38. He Was the King"
+    url: "https://www.eslfast.com/begin2/b2/b2038.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2038.mp3"
+  - index: 39
+    slug: "b2039"
+    title: "39. Talking"
+    url: "https://www.eslfast.com/begin2/b2/b2039.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2039n3.mp3"
+  - index: 40
+    slug: "b2040"
+    title: "40. It's a Big World"
+    url: "https://www.eslfast.com/begin2/b2/b2040.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2040.mp3"
+  - index: 41
+    slug: "b2041"
+    title: "41. Having Lunch"
+    url: "https://www.eslfast.com/begin2/b2/b2041.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2041to.mp3"
+  - index: 42
+    slug: "b2042"
+    title: "42. The Cat Tom"
+    url: "https://www.eslfast.com/begin2/b2/b2042.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2042.mp3"
+  - index: 43
+    slug: "b2043"
+    title: "43. Suzan Has the Flu"
+    url: "https://www.eslfast.com/begin2/b2/b2043.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2043be.mp3"
+  - index: 44
+    slug: "b2044"
+    title: "44. John and Jim Play Country Music"
+    url: "https://www.eslfast.com/begin2/b2/b2044.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2044.mp3"
+  - index: 45
+    slug: "b2045"
+    title: "45. She Sings Pop Music"
+    url: "https://www.eslfast.com/begin2/b2/b2045.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2045p1.mp3"
+  - index: 46
+    slug: "b2046"
+    title: "46. The Camping Trip (1)"
+    url: "https://www.eslfast.com/begin2/b2/b2046.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2046.mp3"
+  - index: 47
+    slug: "b2047"
+    title: "47. The Camping Trip (2)"
+    url: "https://www.eslfast.com/begin2/b2/b2047.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2047r3.mp3"
+  - index: 48
+    slug: "b2048"
+    title: "48. He Likes Her (1)"
+    url: "https://www.eslfast.com/begin2/b2/b2048.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2048.mp3"
+  - index: 49
+    slug: "b2049"
+    title: "49. He Likes Her (2)"
+    url: "https://www.eslfast.com/begin2/b2/b2049.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2049o4.mp3"
+  - index: 50
+    slug: "b2050"
+    title: "50. Late to Work"
+    url: "https://www.eslfast.com/begin2/b2/b2050.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2050.mp3"
+  - index: 51
+    slug: "b2051"
+    title: "51. Late to School"
+    url: "https://www.eslfast.com/begin2/b2/b2051.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2051t5.mp3"
+  - index: 52
+    slug: "b2052"
+    title: "52. All You Can Eat Restaurant"
+    url: "https://www.eslfast.com/begin2/b2/b2052.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2052.mp3"
+  - index: 53
+    slug: "b2053"
+    title: "53. A night at the Theater"
+    url: "https://www.eslfast.com/begin2/b2/b2053.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2053e6.mp3"
+  - index: 54
+    slug: "b2054"
+    title: "54. Waiting for Friday"
+    url: "https://www.eslfast.com/begin2/b2/b2054.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2054.mp3"
+  - index: 55
+    slug: "b2055"
+    title: "55. Lisa Got a Car"
+    url: "https://www.eslfast.com/begin2/b2/b2055.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2055c7.mp3"
+  - index: 56
+    slug: "b2056"
+    title: "56. Party"
+    url: "https://www.eslfast.com/begin2/b2/b2056.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2056b1.mp3"
+  - index: 57
+    slug: "b2057"
+    title: "57. Riding the Bus"
+    url: "https://www.eslfast.com/begin2/b2/b2057.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2057.mp3"
+  - index: 58
+    slug: "b2058"
+    title: "58. Diving Off a Cliff"
+    url: "https://www.eslfast.com/begin2/b2/b2058.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2058e9.mp3"
+  - index: 59
+    slug: "b2059"
+    title: "59. A Familiar Face"
+    url: "https://www.eslfast.com/begin2/b2/b2059.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2059.mp3"
+  - index: 60
+    slug: "b2060"
+    title: "60. Home Again"
+    url: "https://www.eslfast.com/begin2/b2/b2060.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2060g3.mp3"
+  - index: 61
+    slug: "b2061"
+    title: "61. Roller Coaster Ride"
+    url: "https://www.eslfast.com/begin2/b2/b2061.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2061.mp3"
+  - index: 62
+    slug: "b2062"
+    title: "62. Ready for the Race"
+    url: "https://www.eslfast.com/begin2/b2/b2062.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2062i5.mp3"
+  - index: 63
+    slug: "b2063"
+    title: "63. Alex's Friends"
+    url: "https://www.eslfast.com/begin2/b2/b2063.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2063.mp3"
+  - index: 64
+    slug: "b2064"
+    title: "64. Suzan's Garden"
+    url: "https://www.eslfast.com/begin2/b2/b2064.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2064n7.mp3"
+  - index: 65
+    slug: "b2065"
+    title: "65. Dreams"
+    url: "https://www.eslfast.com/begin2/b2/b2065.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2065.mp3"
+  - index: 66
+    slug: "b2066"
+    title: "66. Hiking"
+    url: "https://www.eslfast.com/begin2/b2/b2066.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2066t2.mp3"
+  - index: 67
+    slug: "b2067"
+    title: "67. Storm"
+    url: "https://www.eslfast.com/begin2/b2/b2067.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2067.mp3"
+  - index: 68
+    slug: "b2068"
+    title: "68. Road Trip"
+    url: "https://www.eslfast.com/begin2/b2/b2068.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2068h4.mp3"
+  - index: 69
+    slug: "b2069"
+    title: "69. Bicycle Shop"
+    url: "https://www.eslfast.com/begin2/b2/b2069.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2069.mp3"
+  - index: 70
+    slug: "b2070"
+    title: "70. Library Visit"
+    url: "https://www.eslfast.com/begin2/b2/b2070.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2070r5.mp3"
+  - index: 71
+    slug: "b2071"
+    title: "71. Wandering Man"
+    url: "https://www.eslfast.com/begin2/b2/b2071.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2071e6.mp3"
+  - index: 72
+    slug: "b2072"
+    title: "72. Flight to Boston"
+    url: "https://www.eslfast.com/begin2/b2/b2072.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2072.mp3"
+  - index: 73
+    slug: "b2073"
+    title: "73. Family Reunion"
+    url: "https://www.eslfast.com/begin2/b2/b2073.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2073e8.mp3"
+  - index: 74
+    slug: "b2074"
+    title: "74. The Interview"
+    url: "https://www.eslfast.com/begin2/b2/b2074.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2074.mp3"
+  - index: 75
+    slug: "b2075"
+    title: "75. Package in the Mail"
+    url: "https://www.eslfast.com/begin2/b2/b2075.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2075f0.mp3"
+  - index: 76
+    slug: "b2076"
+    title: "76. Frisbee"
+    url: "https://www.eslfast.com/begin2/b2/b2076.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2076.mp3"
+  - index: 77
+    slug: "b2077"
+    title: "77. Stomachache"
+    url: "https://www.eslfast.com/begin2/b2/b2077.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2077i9.mp3"
+  - index: 78
+    slug: "b2078"
+    title: "78. First Day of College"
+    url: "https://www.eslfast.com/begin2/b2/b2078.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2078.mp3"
+  - index: 79
+    slug: "b2079"
+    title: "79. Walking After Midnight"
+    url: "https://www.eslfast.com/begin2/b2/b2079.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2079l7.mp3"
+  - index: 80
+    slug: "b2080"
+    title: "80. Haircut at the Salon"
+    url: "https://www.eslfast.com/begin2/b2/b2080.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2080.mp3"
+  - index: 81
+    slug: "b2081"
+    title: "81. Best Friends"
+    url: "https://www.eslfast.com/begin2/b2/b2081.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2081b6.mp3"
+  - index: 82
+    slug: "b2082"
+    title: "82. Sixteenth Birthday"
+    url: "https://www.eslfast.com/begin2/b2/b2082.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2082.mp3"
+  - index: 83
+    slug: "b2083"
+    title: "83. A Nice House"
+    url: "https://www.eslfast.com/begin2/b2/b2083.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2083e3.mp3"
+  - index: 84
+    slug: "b2084"
+    title: "84. Break-in"
+    url: "https://www.eslfast.com/begin2/b2/b2084.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2084.mp3"
+  - index: 85
+    slug: "b2085"
+    title: "85. Death of a Grandmother"
+    url: "https://www.eslfast.com/begin2/b2/b2085.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2085g3.mp3"
+  - index: 86
+    slug: "b2086"
+    title: "86. Circus"
+    url: "https://www.eslfast.com/begin2/b2/b2086.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2086.mp3"
+  - index: 87
+    slug: "b2087"
+    title: "87. Henry the Strong Man"
+    url: "https://www.eslfast.com/begin2/b2/b2087.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2087i5.mp3"
+  - index: 88
+    slug: "b2088"
+    title: "88. A Family Visit to the Zoo"
+    url: "https://www.eslfast.com/begin2/b2/b2088.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2088.mp3"
+  - index: 89
+    slug: "b2089"
+    title: "89. A Toothache"
+    url: "https://www.eslfast.com/begin2/b2/b2089.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2089n7.mp3"
+  - index: 90
+    slug: "b2090"
+    title: "90. Guitar Man"
+    url: "https://www.eslfast.com/begin2/b2/b2090.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2090.mp3"
+  - index: 91
+    slug: "b2091"
+    title: "91. Lost in the Woods"
+    url: "https://www.eslfast.com/begin2/b2/b2091.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2091t9.mp3"
+  - index: 92
+    slug: "b2092"
+    title: "92. A Broken Cell Phone"
+    url: "https://www.eslfast.com/begin2/b2/b2092.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2092.mp3"
+  - index: 93
+    slug: "b2093"
+    title: "93. Easter"
+    url: "https://www.eslfast.com/begin2/b2/b2093.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2093h1.mp3"
+  - index: 94
+    slug: "b2094"
+    title: "94. Night Sky"
+    url: "https://www.eslfast.com/begin2/b2/b2094.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2094.mp3"
+  - index: 95
+    slug: "b2095"
+    title: "95. Late Night Caller"
+    url: "https://www.eslfast.com/begin2/b2/b2095.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2095r3.mp3"
+  - index: 96
+    slug: "b2096"
+    title: "96. Comic Books"
+    url: "https://www.eslfast.com/begin2/b2/b2096.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2096.mp3"
+  - index: 97
+    slug: "b2097"
+    title: "97. Skyscraper"
+    url: "https://www.eslfast.com/begin2/b2/b2097.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2097e5.mp3"
+  - index: 98
+    slug: "b2098"
+    title: "98. Jane from LA"
+    url: "https://www.eslfast.com/begin2/b2/b2098.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2098e.mp3"
+  - index: 99
+    slug: "b2099"
+    title: "99. Parade"
+    url: "https://www.eslfast.com/begin2/b2/b2099.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2099.mp3"
+  - index: 100
+    slug: "b2100"
+    title: "100. Music Festival"
+    url: "https://www.eslfast.com/begin2/b2/b2100.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2100b6.mp3"
+  - index: 101
+    slug: "b2101"
+    title: "101. Playing in the Snow"
+    url: "https://www.eslfast.com/begin2/b2/b2101.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2101.mp3"
+  - index: 102
+    slug: "b2102"
+    title: "102. Late to Class"
+    url: "https://www.eslfast.com/begin2/b2/b2102.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2102e7.mp3"
+  - index: 103
+    slug: "b2103"
+    title: "103. Class Time"
+    url: "https://www.eslfast.com/begin2/b2/b2103.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2103.mp3"
+  - index: 104
+    slug: "b2104"
+    title: "104. Question for the Teacher"
+    url: "https://www.eslfast.com/begin2/b2/b2104.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2104g8.mp3"
+  - index: 105
+    slug: "b2105"
+    title: "105. A Hot Day"
+    url: "https://www.eslfast.com/begin2/b2/b2105.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2105.mp3"
+  - index: 106
+    slug: "b2106"
+    title: "106. Making Friends"
+    url: "https://www.eslfast.com/begin2/b2/b2106.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2106i9.mp3"
+  - index: 107
+    slug: "b2107"
+    title: "107. Summer Day at the Pool"
+    url: "https://www.eslfast.com/begin2/b2/b2107.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2107.mp3"
+  - index: 108
+    slug: "b2108"
+    title: "108. Ice Skating"
+    url: "https://www.eslfast.com/begin2/b2/b2108.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2108n4.mp3"
+  - index: 109
+    slug: "b2109"
+    title: "109. Scary Movie"
+    url: "https://www.eslfast.com/begin2/b2/b2109.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2109.mp3"
+  - index: 110
+    slug: "b2110"
+    title: "110. Mowing the Lawn"
+    url: "https://www.eslfast.com/begin2/b2/b2110.htm"
+    mp3: "https://www.eslfast.com/begin2/audio/b2110.mp3"

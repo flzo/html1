@@ -1,0 +1,509 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/begin6/b6/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-18T15:28:52+08:00"
+  total: 100
+  failed: 0
+pages:
+  - index: 1
+    slug: "b6001"
+    title: "1. The Hairstyle Change"
+    url: "https://www.eslfast.com/begin6/b6/b6001.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6001c.mp3"
+  - index: 2
+    slug: "b6002"
+    title: "2. Too Old for Trick-or-Treating"
+    url: "https://www.eslfast.com/begin6/b6/b6002.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6002o.mp3"
+  - index: 3
+    slug: "b6003"
+    title: "3. The Night Shift"
+    url: "https://www.eslfast.com/begin6/b6/b6003.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6003p.mp3"
+  - index: 4
+    slug: "b6004"
+    title: "4. A Wonderful Surprise"
+    url: "https://www.eslfast.com/begin6/b6/b6004.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6004y.mp3"
+  - index: 5
+    slug: "b6005"
+    title: "5. A Group of Friends"
+    url: "https://www.eslfast.com/begin6/b6/b6005.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6005r.mp3"
+  - index: 6
+    slug: "b6006"
+    title: "6. A Long Distance Relationship"
+    url: "https://www.eslfast.com/begin6/b6/b6006.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6006i.mp3"
+  - index: 7
+    slug: "b6007"
+    title: "7. Ruby's Role Model"
+    url: "https://www.eslfast.com/begin6/b6/b6007.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6007g.mp3"
+  - index: 8
+    slug: "b6008"
+    title: "8. Confidence Is Key"
+    url: "https://www.eslfast.com/begin6/b6/b6008.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6008h.mp3"
+  - index: 9
+    slug: "b6009"
+    title: "9. Not a Dancer"
+    url: "https://www.eslfast.com/begin6/b6/b6009.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6009t.mp3"
+  - index: 10
+    slug: "b6010"
+    title: "10. Being Too Superstitious"
+    url: "https://www.eslfast.com/begin6/b6/b6010.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6010pr.mp3"
+  - index: 11
+    slug: "b6011"
+    title: "11. Irene's Secret"
+    url: "https://www.eslfast.com/begin6/b6/b6011.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6011ot.mp3"
+  - index: 12
+    slug: "b6012"
+    title: "12. A Boy or a Girl"
+    url: "https://www.eslfast.com/begin6/b6/b6012.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6012e.mp3"
+  - index: 13
+    slug: "b6013"
+    title: "13. Money Matters"
+    url: "https://www.eslfast.com/begin6/b6/b6013.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6013c.mp3"
+  - index: 14
+    slug: "b6014"
+    title: "14. Not So Average"
+    url: "https://www.eslfast.com/begin6/b6/b6014.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6014t.mp3"
+  - index: 15
+    slug: "b6015"
+    title: "15. At the Arcadee"
+    url: "https://www.eslfast.com/begin6/b6/b6015.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6015e.mp3"
+  - index: 16
+    slug: "b6016"
+    title: "16. On a Healthy Diet"
+    url: "https://www.eslfast.com/begin6/b6/b6016.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6016d.mp3"
+  - index: 17
+    slug: "b6017"
+    title: "17. Pet Shopping"
+    url: "https://www.eslfast.com/begin6/b6/b6017.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6017d.mp3"
+  - index: 18
+    slug: "b6018"
+    title: "18. Moving into a New Apartment"
+    url: "https://www.eslfast.com/begin6/b6/b6018.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6018o.mp3"
+  - index: 19
+    slug: "b6019"
+    title: "19. A Study Group"
+    url: "https://www.eslfast.com/begin6/b6/b6019.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6019n.mp3"
+  - index: 20
+    slug: "b6020"
+    title: "20. Going to Teach Abroad"
+    url: "https://www.eslfast.com/begin6/b6/b6020.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6020t.mp3"
+  - index: 21
+    slug: "b6021"
+    title: "21. Making Sushi at Home"
+    url: "https://www.eslfast.com/begin6/b6/b6021.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6021c.mp3"
+  - index: 22
+    slug: "b6022"
+    title: "22. Jogging around the Neighborhood"
+    url: "https://www.eslfast.com/begin6/b6/b6022.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6022o.mp3"
+  - index: 23
+    slug: "b6023"
+    title: "23. A Lonely Puppy"
+    url: "https://www.eslfast.com/begin6/b6/b6023.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6023p.mp3"
+  - index: 24
+    slug: "b6024"
+    title: "24. An Innocent Mistake"
+    url: "https://www.eslfast.com/begin6/b6/b6024.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6024y.mp3"
+  - index: 25
+    slug: "b6025"
+    title: "25. The First Date"
+    url: "https://www.eslfast.com/begin6/b6/b6025.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6025.mp3"
+  - index: 26
+    slug: "b6026"
+    title: "26. Do-It-Yourself Projects"
+    url: "https://www.eslfast.com/begin6/b6/b6026.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6026y.mp3"
+  - index: 27
+    slug: "b6027"
+    title: "27. A Beach Day"
+    url: "https://www.eslfast.com/begin6/b6/b6027.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6027y.mp3"
+  - index: 28
+    slug: "b6028"
+    title: "28. Michelle's New Look"
+    url: "https://www.eslfast.com/begin6/b6/b6028.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6028y.mp3"
+  - index: 29
+    slug: "b6029"
+    title: "29. Christmas Gift Shopping"
+    url: "https://www.eslfast.com/begin6/b6/b6029.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6029y.mp3"
+  - index: 30
+    slug: "b6030"
+    title: "30. The Job Search"
+    url: "https://www.eslfast.com/begin6/b6/b6030.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6030y.mp3"
+  - index: 31
+    slug: "b6031"
+    title: "31. The Extreme Burger"
+    url: "https://www.eslfast.com/begin6/b6/b6031.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6031y.mp3"
+  - index: 32
+    slug: "b6032"
+    title: "32. The Old Dog"
+    url: "https://www.eslfast.com/begin6/b6/b6032.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6032y.mp3"
+  - index: 33
+    slug: "b6033"
+    title: "33. Lactose Intolerant"
+    url: "https://www.eslfast.com/begin6/b6/b6033.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6033y.mp3"
+  - index: 34
+    slug: "b6034"
+    title: "34. Financial Aid"
+    url: "https://www.eslfast.com/begin6/b6/b6034.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6034y.mp3"
+  - index: 35
+    slug: "b6035"
+    title: "35. New Year Resolutions"
+    url: "https://www.eslfast.com/begin6/b6/b6035.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6035y.mp3"
+  - index: 36
+    slug: "b6036"
+    title: "36. If Only She Waited One Day"
+    url: "https://www.eslfast.com/begin6/b6/b6036.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6036y.mp3"
+  - index: 37
+    slug: "b6037"
+    title: "37. Getting a Divorce"
+    url: "https://www.eslfast.com/begin6/b6/b6037.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6037y.mp3"
+  - index: 38
+    slug: "b6038"
+    title: "38. A Waste of Water"
+    url: "https://www.eslfast.com/begin6/b6/b6038.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6038y.mp3"
+  - index: 39
+    slug: "b6039"
+    title: "39. An Ice Cream Accident"
+    url: "https://www.eslfast.com/begin6/b6/b6039.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6039y.mp3"
+  - index: 40
+    slug: "b6040"
+    title: "40. A Pair of Magi-pants"
+    url: "https://www.eslfast.com/begin6/b6/b6040.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6040y.mp3"
+  - index: 41
+    slug: "b6041"
+    title: "41. Embarrassed to Be Seen"
+    url: "https://www.eslfast.com/begin6/b6/b6041.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6041.mp3"
+  - index: 42
+    slug: "b6042"
+    title: "42. The School Dress Code"
+    url: "https://www.eslfast.com/begin6/b6/b6042.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6042.mp3"
+  - index: 43
+    slug: "b6043"
+    title: "43. To Be Independent"
+    url: "https://www.eslfast.com/begin6/b6/b6043.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6043.mp3"
+  - index: 44
+    slug: "b6044"
+    title: "44. An Artist's Dream"
+    url: "https://www.eslfast.com/begin6/b6/b6044.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6044.mp3"
+  - index: 45
+    slug: "b6045"
+    title: "45. Lying About Being Rich"
+    url: "https://www.eslfast.com/begin6/b6/b6045.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6045.mp3"
+  - index: 46
+    slug: "b6046"
+    title: "46. Getting Contact Lense"
+    url: "https://www.eslfast.com/begin6/b6/b6046.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6046.mp3"
+  - index: 47
+    slug: "b6047"
+    title: "47. From Skinny to Muscular"
+    url: "https://www.eslfast.com/begin6/b6/b6047.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6047.mp3"
+  - index: 48
+    slug: "b6048"
+    title: "48. Fishing for Compliments"
+    url: "https://www.eslfast.com/begin6/b6/b6048.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6048.mp3"
+  - index: 49
+    slug: "b6049"
+    title: "49. Quitting College to Follow Dreams"
+    url: "https://www.eslfast.com/begin6/b6/b6049.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6049.mp3"
+  - index: 50
+    slug: "b6050"
+    title: "50. A Fashion Trend Setter"
+    url: "https://www.eslfast.com/begin6/b6/b6050.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6050.mp3"
+  - index: 51
+    slug: "b6051"
+    title: "51. The Job Search"
+    url: "https://www.eslfast.com/begin6/b6/b6051.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6051.mp3"
+  - index: 52
+    slug: "b6052"
+    title: "52. The Rainy Days"
+    url: "https://www.eslfast.com/begin6/b6/b6052.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6052.mp3"
+  - index: 53
+    slug: "b6053"
+    title: "53. Susan's Favorite Band"
+    url: "https://www.eslfast.com/begin6/b6/b6053.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6053.mp3"
+  - index: 54
+    slug: "b6054"
+    title: "54. Different Morning Routines"
+    url: "https://www.eslfast.com/begin6/b6/b6054.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6054.mp3"
+  - index: 55
+    slug: "b6055"
+    title: "55. A Hiking Trip"
+    url: "https://www.eslfast.com/begin6/b6/b6055.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6055.mp3"
+  - index: 56
+    slug: "b6056"
+    title: "56. The Physical Education Class"
+    url: "https://www.eslfast.com/begin6/b6/b6056.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6056.mp3"
+  - index: 57
+    slug: "b6057"
+    title: "57. Learning How to Drive"
+    url: "https://www.eslfast.com/begin6/b6/b6057.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6057.mp3"
+  - index: 58
+    slug: "b6058"
+    title: "58. Apartment Hunting"
+    url: "https://www.eslfast.com/begin6/b6/b6058.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6058.mp3"
+  - index: 59
+    slug: "b6059"
+    title: "59. Embarrassing Moments"
+    url: "https://www.eslfast.com/begin6/b6/b6059.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6059.mp3"
+  - index: 60
+    slug: "b6060"
+    title: "60. Mark's New Year Resolution"
+    url: "https://www.eslfast.com/begin6/b6/b6060.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6060.mp3"
+  - index: 61
+    slug: "b6061"
+    title: "61. An Intern's First Day at a Law Firm"
+    url: "https://www.eslfast.com/begin6/b6/b6061.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6061.mp3"
+  - index: 62
+    slug: "b6062"
+    title: "62. Margaret liked Taking Pictures"
+    url: "https://www.eslfast.com/begin6/b6/b6062.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6062.mp3"
+  - index: 63
+    slug: "b6063"
+    title: "63. She Quit Her Job at the Grocery Store"
+    url: "https://www.eslfast.com/begin6/b6/b6063.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6063.mp3"
+  - index: 64
+    slug: "b6064"
+    title: "64. A Bad Roommate"
+    url: "https://www.eslfast.com/begin6/b6/b6064.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6064.mp3"
+  - index: 65
+    slug: "b6065"
+    title: "65. Being Clumsy"
+    url: "https://www.eslfast.com/begin6/b6/b6065.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6065.mp3"
+  - index: 66
+    slug: "b6066"
+    title: "66. Don't Need a Man"
+    url: "https://www.eslfast.com/begin6/b6/b6066.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6066.mp3"
+  - index: 67
+    slug: "b6067"
+    title: "67. We'll Get Married Eventually"
+    url: "https://www.eslfast.com/begin6/b6/b6067.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6067.mp3"
+  - index: 68
+    slug: "b6068"
+    title: "68. Riding a Roller Coaster"
+    url: "https://www.eslfast.com/begin6/b6/b6068.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6068.mp3"
+  - index: 69
+    slug: "b6069"
+    title: "69. Moving into the Dorm"
+    url: "https://www.eslfast.com/begin6/b6/b6069.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6069.mp3"
+  - index: 70
+    slug: "b6070"
+    title: "70. Homecoming Queen (1)"
+    url: "https://www.eslfast.com/begin6/b6/b6070.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6070.mp3"
+  - index: 71
+    slug: "b6071"
+    title: "71. Homecoming Queen (2)"
+    url: "https://www.eslfast.com/begin6/b6/b6071.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6071.mp3"
+  - index: 72
+    slug: "b6072"
+    title: "72. Not to Give Any Spoilers"
+    url: "https://www.eslfast.com/begin6/b6/b6072.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6072.mp3"
+  - index: 73
+    slug: "b6073"
+    title: "73. The Cyberbully Confessed"
+    url: "https://www.eslfast.com/begin6/b6/b6073.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6073.mp3"
+  - index: 74
+    slug: "b6074"
+    title: "74. A Cheap Birthday Gift"
+    url: "https://www.eslfast.com/begin6/b6/b6074.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6074.mp3"
+  - index: 75
+    slug: "b6075"
+    title: "75. To Enter the Pie-Eating Contest"
+    url: "https://www.eslfast.com/begin6/b6/b6075.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6075.mp3"
+  - index: 76
+    slug: "b6076"
+    title: "76. She Deleted His Number"
+    url: "https://www.eslfast.com/begin6/b6/b6076.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6076.mp3"
+  - index: 77
+    slug: "b6077"
+    title: "77. He decided to Hire Her"
+    url: "https://www.eslfast.com/begin6/b6/b6077.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6077.mp3"
+  - index: 78
+    slug: "b6078"
+    title: "78. Transferring to a Different College"
+    url: "https://www.eslfast.com/begin6/b6/b6078.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6078.mp3"
+  - index: 79
+    slug: "b6079"
+    title: "79. Running a Marathon"
+    url: "https://www.eslfast.com/begin6/b6/b6079.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6079.mp3"
+  - index: 80
+    slug: "b6080"
+    title: "80. Sean Wanted to Change His Name"
+    url: "https://www.eslfast.com/begin6/b6/b6080.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6080.mp3"
+  - index: 81
+    slug: "b6081"
+    title: "81. Having a Hard time Getting Hired"
+    url: "https://www.eslfast.com/begin6/b6/b6081.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6081.mp3"
+  - index: 82
+    slug: "b6082"
+    title: "82. Adjusting to Cold Weather"
+    url: "https://www.eslfast.com/begin6/b6/b6082.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6082.mp3"
+  - index: 83
+    slug: "b6083"
+    title: "83. Movie Hopping"
+    url: "https://www.eslfast.com/begin6/b6/b6083.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6083.mp3"
+  - index: 84
+    slug: "b6084"
+    title: "84. They All Have Different plans"
+    url: "https://www.eslfast.com/begin6/b6/b6084.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6084.mp3"
+  - index: 85
+    slug: "b6085"
+    title: "85. He Promised to Never Smoke Again"
+    url: "https://www.eslfast.com/begin6/b6/b6085.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6085.mp3"
+  - index: 86
+    slug: "b6086"
+    title: "86. Her Handwriting Was Messy"
+    url: "https://www.eslfast.com/begin6/b6/b6086.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6086.mp3"
+  - index: 87
+    slug: "b6087"
+    title: "87. Getting Bored of the Fish"
+    url: "https://www.eslfast.com/begin6/b6/b6087.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6087.mp3"
+  - index: 88
+    slug: "b6088"
+    title: "88. The Man Without a Mustache"
+    url: "https://www.eslfast.com/begin6/b6/b6088.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6088.mp3"
+  - index: 89
+    slug: "b6089"
+    title: "89. Puberty and the Voice Crack"
+    url: "https://www.eslfast.com/begin6/b6/b6089.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6089.mp3"
+  - index: 90
+    slug: "b6090"
+    title: "90. Tall Girls and Heels"
+    url: "https://www.eslfast.com/begin6/b6/b6090.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6090.mp3"
+  - index: 91
+    slug: "b6091"
+    title: "91. A Male Nurse"
+    url: "https://www.eslfast.com/begin6/b6/b6091.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6091.mp3"
+  - index: 92
+    slug: "b6092"
+    title: "92. A Female Engineer"
+    url: "https://www.eslfast.com/begin6/b6/b6092.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6092.mp3"
+  - index: 93
+    slug: "b6093"
+    title: "93. She Wanted to Major in Sociology"
+    url: "https://www.eslfast.com/begin6/b6/b6093.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6093.mp3"
+  - index: 94
+    slug: "b6094"
+    title: "94. Love or Money"
+    url: "https://www.eslfast.com/begin6/b6/b6094.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6094.mp3"
+  - index: 95
+    slug: "b6095"
+    title: "95. A Big Secret"
+    url: "https://www.eslfast.com/begin6/b6/b6095.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6095.mp3"
+  - index: 96
+    slug: "b6096"
+    title: "96. A Good, Broken Promise"
+    url: "https://www.eslfast.com/begin6/b6/b6096.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6096.mp3"
+  - index: 97
+    slug: "b6097"
+    title: "97. They Pretended to Be Dating"
+    url: "https://www.eslfast.com/begin6/b6/b6097.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6097.mp3"
+  - index: 98
+    slug: "b6098"
+    title: "98. She Feels Underappreciated"
+    url: "https://www.eslfast.com/begin6/b6/b6098.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6098.mp3"
+  - index: 99
+    slug: "b6099"
+    title: "99. A Missing Video"
+    url: "https://www.eslfast.com/begin6/b6/b6099.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6099.mp3"
+  - index: 100
+    slug: "b6100"
+    title: "100. To See a Psychic"
+    url: "https://www.eslfast.com/begin6/b6/b6100.htm"
+    mp3: "https://www.eslfast.com/begin6/audio/b6100.mp3"

@@ -1,0 +1,38 @@
+A: What can I do for you today?
+B: I have an issue.
+A: What is your problem?
+B: There were charges on my debit card that I never made.
+A: Do you have a statement for your debit card?
+B: I do.
+A: Which charges are you talking about?
+B: It's the last four charges.
+A: We're going to have to do an investigation.
+B: Is that going to take long?
+A: I'm not sure, but in the meantime we will freeze these charges.
+B: That's wonderful. Thank you.
+
+A: How may I help you?
+B: I'm having a problem.
+A: What problem are you having?
+B: There have been charges made on my debit card that I didn't make.
+A: Do you have the statement for your card?
+B: Here it is.
+A: What are the charges you're referring to?
+B: The last four charges on the page.
+A: I'm afraid we're going to have to investigate these charges.
+B: How long will an investigation take?
+A: I honestly don't know, but we will freeze payment on these charges.
+B: That sounds absolutely fantastic.
+
+A: May I help you?
+B: I have a problem.
+A: What's the problem?
+B: Someone else is making charges on my debit card.
+A: I need to see a statement for your debit card.
+B: I have it right here.
+A: Can you show me which charges you're referring to?
+B: The last four charges.
+A: We will need to do an investigation on this.
+B: How long will that take?
+A: We'll have to freeze payment on those charges until the investigation is finished.
+B: I really appreciate your help.

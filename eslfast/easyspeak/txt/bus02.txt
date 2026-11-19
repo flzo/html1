@@ -1,0 +1,12 @@
+A: There are so many buses going to Montebello.
+B: There are many places in Montebello.
+A: How do I know which bus to take?
+B: First, choose where you want to go in Montelello.
+A: Alright, then what's next?
+B: Read the list of Montebello buses going to that stop.
+A: There are three. How do I choose one?
+B: They're all going to the same place?
+A: Yes, it looks like they are.
+B: Then choose the bus based on the timetable.
+A: This is the bus that gets me there the soonest.
+B: You'd better get moving; it'll be here soon!

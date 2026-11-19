@@ -1,0 +1,38 @@
+A: Can you help me figure out how to use this machine?
+B: Yes, I would be happy to help. What do you want to buy?
+A: I want to buy that candy.
+B: OK. So this machine will make change if you need it. Do you have your dollars ready?
+A: Yeah, so far, so good.
+B: Next, you feed your dollars into the machine in the slot. Make sure they are smooth.
+A: Yeah, I already knew that.
+B: I'm sure you know that if the dollar gets stuck, you might have to re-feed it.
+A: OK, let's move on!
+B: Now you just make your selection and pray. If nothing comes out, try again or call the number on the side of the machine.
+A: I hope it works!
+B: Well, good luck!
+
+A: I've never seen a machine like this before and need some help.
+B: Sure, no problem. What are you trying to get?
+A: I want to buy a drink.
+B: OK. This machine needs you to use that change machine first to get correct change.
+A: I've got the correct change already.
+B: First you put your money in the dollar slot or the coin slot. The dollars have to be smooth.
+A: OK, what next?
+B: Just know that sometimes the money doesn't go in perfectly the first time and you have to try again.
+A: OK, next?
+B: Choose what you want and push the button. Sometimes it takes a couple of tries.
+A: I agree with you.
+B: Hope that works for you!
+
+A: I want to know how to buy something from this machine.
+B: Yeah, the new ones can be tricky. What are you trying to buy?
+A: I want to buy one of those snack things.
+B: Are you ready to go?
+A: I'm clear so far.
+B: The money goes in the slot over there. It has to be smooth to go in.
+A: It won't go in!
+B: Just remember that you might have to feed the money in a couple of times to get it to work.
+A: Yes, next step.
+B: Make your selection and hope for the best. Vending machines aren't all that reliable.
+A: They're totally unreliable.
+B: You seem to have it down. Have a good day!

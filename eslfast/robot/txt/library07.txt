@@ -1,0 +1,38 @@
+A: What can I do for you?
+B: I am trying to find this book.
+A: What's the problem?
+B: It doesn't seem like this library has it.
+A: Have you checked the computer?
+B: I have already.
+A: What did it say?
+B: It says the book is on the shelf, but I didn't find it there.
+A: I can always borrow the book from another library.
+B: You can do that?
+A: I'll make the call and contact you when it gets in.
+B: That's fantastic. Thank you.
+
+A: May I help you?
+B: I would like to find this book.
+A: Is there a problem?
+B: I don't think you guys have it.
+A: You should look it up on our computer.
+B: I did that.
+A: What came up?
+B: It should be on the shelf, but I didn't see it.
+A: I can try to get the book from a different library.
+B: I didn't know you could do that.
+A: I will call you when I find it.
+B: I appreciate your help.
+
+A: Do you need help with something?
+B: I'm looking for this book.
+A: Is there something wrong?
+B: I don't see it on the shelf.
+A: Did you check the computer?
+B: I already looked.
+A: Did it say anything?
+B: It said that the book is on the shelf, but it isn't.
+A: I'm sure I can get it from another library.
+B: Could you do that?
+A: I'll let you know when I get the book in.
+B: That's great. Thank you so much.

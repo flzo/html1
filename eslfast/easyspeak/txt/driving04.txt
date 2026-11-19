@@ -1,0 +1,12 @@
+A: Driving is so bad for the environment.
+B: We should carpool.
+A: That is a smart idea!
+B: Where do you live?
+A: I live on Broadway in Los Angeles.
+B: Perfect! I live two streets down.
+A: I can drive on Mondays and Tuesdays.
+B: I'll drive for the rest of the week then.
+A: Can we start tomorrow?
+B: Sure, I'll pick you up at 8 a.m.
+A: What color is your car?
+B: You can't miss it. It's green.

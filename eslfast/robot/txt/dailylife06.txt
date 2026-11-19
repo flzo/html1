@@ -1,0 +1,38 @@
+A: I need somebody to come over and fix my internet.
+B: What's wrong with it?
+A: For some reason it's just not connecting.
+B: How long have you been having this problem?
+A: It hasn't been working the past few days.
+B: Does the internet come up at all?
+A: It does, but it won't connect to anything.
+B: Well, the internet isn't down, so there must be something wrong with your connection.
+A: Could you send someone to fix it today?
+B: I'll send somebody over right away to fix it.
+A: When will they be here?
+B: They should be there in the next hour.
+
+A: I need to get my internet fixed.
+B: What's the problem with your internet?
+A: It won't connect.
+B: How long has this been happening?
+A: This problem has been happening for a few days now.
+B: The internet doesn't come up at all?
+A: It just won't connect to a webpage, but it will pop up.
+B: There's obviously a problem with your connection.
+A: I'm going to need someone to come and fix it for me.
+B: I can send somebody right now to fix it.
+A: How long will it take for them to get here?
+B: They'll be there in about an hour.
+
+A: Can you send someone to fix my internet?
+B: Are you having a problem with it?
+A: My internet is having problems connecting.
+B: Can you tell me how long your internet has been messing up?
+A: I've been having this problem for the last few days.
+B: Will the internet even pop up?
+A: It'll pop up, but it won't connect to a webpage.
+B: Since the internet isn't broken, your connection must be messed up.
+A: Do you think you can send somebody over to fix it?
+B: If you'd like, I can send someone to fix it right now.
+A: How long will it be till they get here?
+B: It should be no longer than an hour.

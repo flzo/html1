@@ -1,0 +1,38 @@
+A: I'm moving out.
+B: Your lease isn't up yet.
+A: I won't be able to stay here anymore.
+B: That's going to be a problem.
+A: I don't know why there's a problem.
+B: It's a problem because I can't give you your deposit back.
+A: Why can't you give it back to me?
+B: You're breaking our contract.
+A: I'm going to need my deposit back.
+B: That's not going to happen.
+A: I can't stay here, though.
+B: That's really not my problem.
+
+A: I have to move.
+B: You have not fulfilled your lease agreement yet.
+A: I can't stay here anymore.
+B: There's a problem with that.
+A: What is the problem?
+B: I won't be able to give you back your deposit.
+A: Why not?
+B: This was stated in our agreement.
+A: But I need it back.
+B: I can't do it.
+A: It will be impossible for me to stay here.
+B: That's not my fault.
+
+A: I'm going to be moving out soon.
+B: You still have time on your lease.
+A: There's no way that I can stay here.
+B: That's not going to be all right.
+A: I don't understand why.
+B: I'm going to have to keep your deposit
+A: Why can't I have it back?
+B: Because you're leaving before your lease is over.
+A: You have to give it back to me.
+B: You're not going to get it.
+A: But I'm not able to live here anymore.
+B: I can't help you with that.

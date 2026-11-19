@@ -1,0 +1,32 @@
+A: Can you help me figure out where I should go first to check in at this airport?
+B: If you already have your ticket, we can take your bags here at the curbside check-in.
+A: How do I know what gate to go to?
+B: There are arrivals and departures listed on the screens inside.
+A: Is there someplace where I can find out what I can carry in my baggage?
+B: There are signs posted near the baggage check area to help you know what the rules are.
+A: Can my friend go inside with me?
+B: Your friend can go with you to the ticket counter but not past the security check.
+A: When I return, will this curbside area be a good place to get picked up?
+B: This area is only for departures. The bottom level is for arrivals.
+
+A: I don't know the departure procedures at this airport and was wondering if you could help me.
+B: If you need to pick up your ticket, you need to go to the ticket counter right inside the door. They will check your bags for you.
+A: I don't know where my plane is departing from.
+B: There are agents for your airline at the counter in the corner.
+A: Where can I find out what I can carry on in my bag?
+B: There should be a list of restrictions printed on your ticket.
+A: Can I take my friend along with me to say goodbye?
+B: Only ticketed passengers can go past the security checkpoint.
+A: Is this the area for departures and arrivals or only departures?
+B: This is the drop-off area for departures. Arrivals are on the lower level.
+
+A: I am flying out today and need to know where I should begin checking in.
+B: If you only have a carry-on and already have a ticket, you may proceed directly to the gate to check in.
+A: Do you know what gate my plane is leaving from?
+B: Check on the screens when you go through baggage inspection for your airline.
+A: I need to know what the restrictions are for carry-on luggage contents.
+B: Check out the list of banned carry-on materials on the signs inside the airport.
+A: I have a lot of time to kill before my flight departs and want my friend to keep me company.
+B: For security purposes, only ticketed passengers can go to the gate.
+A: Can my friends pick me up here when I return?
+B: The curbside area is a departure area only. Arrivals are downstairs.

@@ -1,0 +1,38 @@
+A: I'm having a problem.
+B: What's the problem?
+A: A pipe burst in my wall.
+B: Is the pipe causing any water damage?
+A: The water is causing mildew.
+B: I can come fix the pipe sometime tomorrow.
+A: Can I just call someone myself to fix it?
+B: I don't think that would be a good idea.
+A: You won't do it until tomorrow.
+B: I guess you have a point.
+A: So, I can call someone to fix it?
+B: Go right ahead.
+
+A: I have an issue.
+B: What's going on?
+A: There is a leaking pipe in my wall.
+B: Is there any water damage?
+A: There is mildew.
+B: I'll go to your apartment tomorrow to fix the pipe.
+A: Why can't I call someone to fix it today?
+B: I'll just do it myself.
+A: I need it done today.
+B: You're right about that.
+A: Are you okay with me calling a plumber?
+B: That's fine.
+
+A: There is a problem in my apartment.
+B: What is it?
+A: A pipe broke in my wall, and water is leaking.
+B: Is the water causing any damage?
+A: Yes, it's creating mildew on the walls.
+B: I won't be able to fix the pipe until tomorrow.
+A: I can call a plumber to fix it right now.
+B: I'll do it for you.
+A: You can't do it until tomorrow, and I need it fixed now.
+B: That's true.
+A: You're okay with me calling someone?
+B: I'm all right with that.

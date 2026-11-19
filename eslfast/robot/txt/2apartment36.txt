@@ -1,0 +1,32 @@
+A: I am having some plumbing problems and need them fixed.
+B: What exactly is wrong with the plumbing?
+A: The toilet flushes really slowly.
+B: Are there any problems with the plumbing in the kitchen?
+A: Both the kitchen and the bathroom plumbing are messed up.
+B: How long have you had these problems?
+A: It has been going on for a while, but just started to get worse this morning.
+B: I will send someone out to take a look at the problem. Will you be home this afternoon?
+A: Yes, I will be home this afternoon.
+B: Fine. I will be there around 2:00. If someone is not there, I will use my key to get in.
+
+A: I just moved into my apartment, and the plumbing is not working.
+B: Can you describe the plumbing problems you are having?
+A: The bathtub barely drains at all.
+B: Okay, the bathroom plumbing needs looking at. What about the kitchen plumbing?
+A: Neither the kitchen nor the bathroom plumbing is working well.
+B: Has this problem been going on for a long time?
+A: It just started happening last night.
+B: I will be coming over to look at it this afternoon. Will you be there?
+A: I will not be home.
+B: I can always use my key to get in, but I would prefer that you be there.
+
+A: The plumbing in my new apartment is not working.
+B: I need you to tell me what the problem is.
+A: The bathroom sink is stopped up.
+B: Is the kitchen plumbing messed up also, or just the bathroom plumbing?
+A: Just the bathroom plumbing seems to have a problem.
+B: Did this just start happening, or has it been going on for a while?
+A: Everything worked beautifully until a few hours ago.
+B: Are you going to be home so I can come by and take a look at the problem?
+A: I am not sure if I will be home later.
+B: I will be coming by around 10 this morning. If you aren't there, I'll just use my key.

@@ -1,0 +1,12 @@
+A: I'd like to deposit my paycheck.
+B: Do you have an account here?
+A: I have a checking account.
+B: You need to fill out a deposit slip.
+A: Where can I find those?
+B: There are deposit slips on the tables throughout the branch.
+A: What information do I put on the deposit slip?
+B: You need to put the name on the account, the account number and the amount of the deposit.
+A: How long till I can access the money?
+B: You can access it immediately.
+A: Can I only make a deposit with a teller?
+B: No, you can also use an ATM or even your cell phone.

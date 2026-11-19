@@ -1,0 +1,38 @@
+A: What can I do for you today?
+B: I need to return a book.
+A: Can I do anything else for you?
+B: I want to check this magazine out.
+A: We don't allow people to check out magazines.
+B: Why not?
+A: It's just a policy of ours.
+B: So what am I allowed to check out?
+A: You may check out books or videos.
+B: I need to check out this magazine.
+A: You will have to just read it in the library.
+B: That doesn't make any sense.
+
+A: How may I help you?
+B: I want to return this video.
+A: Is that all you need?
+B: I also need to check this magazine out.
+A: You're not allowed to do that.
+B: I don't understand.
+A: It's our policy.
+B: What can I check out?
+A: Only books or videos.
+B: I need this magazine.
+A: You will have to read it here.
+B: That's weird.
+
+A: May I help you?
+B: I would like to return this book.
+A: May I do anything else for you?
+B: I would also like to check out this magazine.
+A: I can't let you do that.
+B: Why is that?
+A: Our policy doesn't allow anyone to check out the magazines.
+B: What things am I allowed to check out?
+A: You are only allowed to check out books or videos.
+B: I really need to check out this magazine.
+A: I'm sorry, but that's our policy.
+B: That's stupid.

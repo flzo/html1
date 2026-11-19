@@ -1,0 +1,32 @@
+A: Can I ask you some questions about the in-flight instructions?
+B: I would be happy to help you clarify anything you need help with.
+A: Could you help me find out where my nearest exit is?
+B: There is a card in your seat pocket that shows you where your nearest exit is. Yours is two rows in front of you.
+A: Where is my oxygen mask that you were talking about?
+B: Your oxygen mask is above you, next to the reading light. It will drop down when you need it.
+A: I am concerned about landing in the water.
+B: The life jackets are under your seat. You can also use your seat cushion as a flotation device.
+A: What is the most important thing we can do to stay safe?
+B: The most important thing you can do is keep your seatbelt fastened when the captain asks you to.
+
+A: I am kind of confused about the in-flight instructions and need to ask you a few questions.
+B: It would be my pleasure to help you with any questions you might have.
+A: Where is that card that shows my nearest exit?
+B: That card is in the seat pocket right in front of you. Your nearest exit is directly behind you.
+A: Is my oxygen mask up here?
+B: Your oxygen mask will drop down if we lose cabin pressure.
+A: Do we have any life jackets on this plane if we need them?
+B: Your seat cushion can be used as a flotation device and your life jacket is under the seat cushion.
+A: It seems really windy outside.
+B: The wind won't be a problem. Always make sure that your seatbelt is fastened when you are requested to fasten it.
+
+A: Would it be all right if I asked you a few questions about your in-flight instructions?
+B: I would love to help clarify any questions you might have.
+A: When you were talking about the nearest exit, what were you talking about?
+B: There's a card in this seat pocket that shows you where your nearest exit is. Your nearest exit is right here.
+A: What if I need an oxygen mask?
+B: The oxygen mask is above you and will drop down if you need it.
+A: Where are the life jackets?
+B: You will find your life jacket under your seat if you need it. Also, you have a seat cushion that can be used as a flotation device.
+A: If I want to be safe, what can I do?
+B: Keep your seatbelt fastened at all times. If you fall asleep, keep it fastened loosely around you in case we hit turbulence unexpectedly.

@@ -1,0 +1,38 @@
+A: How do I buy my textbooks?
+B: Do you have your book list for your class?
+A: Yes, I have my list.
+B: Fine. Once you have it, you can go to the bookstore. Do you know where that is?
+A: Yes, I know where the bookstore is.
+B: OK, so once you pass the gym, it's the first door on your left. Do you know you can also sell your used textbooks there?
+A: No, I didn't know I could do that.
+B: You just take them with you and trade them with the used textbook man just outside the door. Do you think you will be doing that today?
+A: Yes, I am going today.
+B: Well, if you decide to go, I could meet you over there at 1:00 today or tomorrow to help you. Would that work for you?
+A: Yes, thank you. That would be great.
+B: Well, then, I'll talk to you later. Have a good day!
+
+A: Where can I buy textbooks?
+B: First, you need to have the list of books for your class. Do you have that?
+A: Yes, I have that.
+B: Well, when you have that, you can take it over to the bookstore. Can you find it?
+A: No, I don't know where the bookstore is.
+B: Just pass the gym and it's the first door on your left. Were you aware that you can also turn in your old textbooks for money?
+A: Really? How can I do that?
+B: Take your used textbooks with you and give them to the representative near the entrance. He will pay you for them. Are you going today?
+A: No, I can't make it today.
+B: I could help you with buying your books if you meet me there at 1:00 today or tomorrow. Would you like my help?
+A: No, thanks. I'm good.
+B: I'll see you later then. Have a great day!
+
+A: Can you help me buy my textbooks?
+B: There will probably be a book list in the bookstore. Do you have your class schedule handy?
+A: No, I don't have that.
+B: To get started, take that list over to the bookstore. Do you know where the bookstore is?
+A: I am not sure where the bookstore is.
+B: When you pass the gym, it'll be the first door on the left. Do you know how to sell your old textbooks for money?
+A: Yes, I knew I could do that. Exactly how do I go about selling them?
+B: If you give your used textbooks to the person at the booth outside the door, he will reimburse you. Can you go over there today?
+A: I think maybe I could be there.
+B: I am free at 1:00 today or tomorrow if you need some help. Want to meet me over there?
+A: Maybe that would work.
+B: I'll catch you later then. Have a wonderful morning.

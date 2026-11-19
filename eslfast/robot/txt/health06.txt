@@ -1,0 +1,32 @@
+A: Excuse me, could you help me pick out a lotion?
+B: Sure, what is the problem?
+A: I got poison oak while hiking, and I need something to help me with the itching.
+B: I can suggest a product called Technu that comes in a lotion or cream.
+A: Which do you prefer?
+B: Hikers tell me that the cream is best because it stays on longer.
+A: Is there anything else I can do to help with the itching?
+B: You can take an antihistamine.
+A: Thank you so much for all of the information.
+B: You are welcome. Please feel free to ask me a question any time you need help.
+
+A: I need help picking out a lotion.
+B: It would be my pleasure to help you. What do you need help with?
+A: I picked up some poison oak while hiking, and I can't stop itching.
+B: We have Technu, and it is available in lotion or cream.
+A: Do you find that one works better than the other?
+B: I have heard that the cream is longer lasting.
+A: Is there anything I can take that will help with the itching?
+B: If you take an antihistamine, that would help a lot.
+A: Thank you for helping me figure out what to do with my poison oak.
+B: It was a pleasure. Come back anytime.
+
+A: Can you help me find a lotion for a problem I am having?
+B: That's what I am here for. What questions can I answer for you?
+A: I have poison oak, and I need help with the rash that won't stop itching.
+B: The best product is Technu, and you can buy either the lotion or cream.
+A: Which one is best?
+B: The cream form is very popular.
+A: Can I do anything else to help with the itching?
+B: You could also take an antihistamine to help the rash go away quicker.
+A: I appreciate you helping me find a solution to the itching.
+B: Anytime you have a question, please feel free to ask.

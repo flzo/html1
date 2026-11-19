@@ -1,0 +1,649 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.rong-chang.com"
+  section: "/customs/cc/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-19T12:40:34+08:00"
+  total: 128
+  failed: 0
+pages:
+  - index: 1
+    slug: "customs001"
+    title: "1. America: Land of Opportunity"
+    url: "https://www.rong-chang.com/customs/cc/customs001.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc001c.mp3"
+  - index: 2
+    slug: "customs002"
+    title: "2. The Fourth of July"
+    url: "https://www.rong-chang.com/customs/cc/customs002.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc002o.mp3"
+  - index: 3
+    slug: "customs003"
+    title: "3. The U.S. Federal Government"
+    url: "https://www.rong-chang.com/customs/cc/customs003.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc003p.mp3"
+  - index: 4
+    slug: "customs004"
+    title: "4. Christmas - A holiday of Traditions"
+    url: "https://www.rong-chang.com/customs/cc/customs004.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc004y.mp3"
+  - index: 5
+    slug: "customs005"
+    title: "5. New Year's Day - A Holiday of New Beginnings"
+    url: "https://www.rong-chang.com/customs/cc/customs005.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc005r.mp3"
+  - index: 6
+    slug: "customs006"
+    title: "6. Martin Luther King Jr. Day - To Remember a Civil Rights Leader"
+    url: "https://www.rong-chang.com/customs/cc/customs006.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc006i.mp3"
+  - index: 7
+    slug: "customs007"
+    title: "7. Valentine's Day - A Holiday of Love and Friendship"
+    url: "https://www.rong-chang.com/customs/cc/customs007.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc007g.mp3"
+  - index: 8
+    slug: "customs008"
+    title: "8. St. Patrick's Day - A Holiday to Celebrate the Irish"
+    url: "https://www.rong-chang.com/customs/cc/customs008.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc008h.mp3"
+  - index: 9
+    slug: "customs009"
+    title: "9. Passover - A Jewish Holiday of Remembering"
+    url: "https://www.rong-chang.com/customs/cc/customs009.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc009t.mp3"
+  - index: 10
+    slug: "customs010"
+    title: "10. Easter - An Important Christian Holiday"
+    url: "https://www.rong-chang.com/customs/cc/customs010.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc010s.mp3"
+  - index: 11
+    slug: "customs011"
+    title: "11. Mother's Day - A Holiday to Honor Motherhood"
+    url: "https://www.rong-chang.com/customs/cc/customs011.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc011i.mp3"
+  - index: 12
+    slug: "customs012"
+    title: "12. Father's Day - A Holiday to Honor Fatherhood"
+    url: "https://www.rong-chang.com/customs/cc/customs012.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc012n.mp3"
+  - index: 13
+    slug: "customs013"
+    title: "13. Memorial Day - A Holiday to Remember Fallen Soldiers"
+    url: "https://www.rong-chang.com/customs/cc/customs013.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc013f.mp3"
+  - index: 14
+    slug: "customs014"
+    title: "14. Labor Day - A Holiday to Honor Workers"
+    url: "https://www.rong-chang.com/customs/cc/customs014.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc014r.mp3"
+  - index: 15
+    slug: "customs015"
+    title: "15. Columbus Day -A Holiday to Remember an Explorer"
+    url: "https://www.rong-chang.com/customs/cc/customs015.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc015i.mp3"
+  - index: 16
+    slug: "customs016"
+    title: "16. Halloween - A Holiday for Costumes and Candy"
+    url: "https://www.rong-chang.com/customs/cc/customs016.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc016n.mp3"
+  - index: 17
+    slug: "customs017"
+    title: "17. Veterans Day - A Holiday Honoring All Soldiers"
+    url: "https://www.rong-chang.com/customs/cc/customs017.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc017g.mp3"
+  - index: 18
+    slug: "customs018"
+    title: "18. ChanukahÂ - A Holiday of Lights"
+    url: "https://www.rong-chang.com/customs/cc/customs018.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc018e.mp3"
+  - index: 19
+    slug: "customs019"
+    title: "19. Thanksgiving - Families Coming Together"
+    url: "https://www.rong-chang.com/customs/cc/customs019.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc019m.mp3"
+  - index: 20
+    slug: "customs020"
+    title: "20. Lottery - A Chance at Millions"
+    url: "https://www.rong-chang.com/customs/cc/customs020.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc020e.mp3"
+  - index: 21
+    slug: "customs021"
+    title: "21. One Country, Many Taxes"
+    url: "https://www.rong-chang.com/customs/cc/customs021.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc021n.mp3"
+  - index: 22
+    slug: "customs022"
+    title: "22. Medical Insurance - Making it Easier to Get Health Care"
+    url: "https://www.rong-chang.com/customs/cc/customs022.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc022m.mp3"
+  - index: 23
+    slug: "customs023"
+    title: "23. Immigration - A Broken System"
+    url: "https://www.rong-chang.com/customs/cc/customs023.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc023w.mp3"
+  - index: 24
+    slug: "customs024"
+    title: "24. Community Colleges (1)"
+    url: "https://www.rong-chang.com/customs/cc/customs024.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc024i.mp3"
+  - index: 25
+    slug: "customs025"
+    title: "25. Community College (2)"
+    url: "https://www.rong-chang.com/customs/cc/customs025.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc025l.mp3"
+  - index: 26
+    slug: "customs026"
+    title: "26. Elementary Schools in the U.S."
+    url: "https://www.rong-chang.com/customs/cc/customs026.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc026l.mp3"
+  - index: 27
+    slug: "customs027"
+    title: "27. Middle Schools in the U.S."
+    url: "https://www.rong-chang.com/customs/cc/customs027.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc027b.mp3"
+  - index: 28
+    slug: "customs028"
+    title: "28. High School in the U.S."
+    url: "https://www.rong-chang.com/customs/cc/customs028.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc028e.mp3"
+  - index: 29
+    slug: "customs029"
+    title: "29. Homeschooling"
+    url: "https://www.rong-chang.com/customs/cc/customs029.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc029p.mp3"
+  - index: 30
+    slug: "customs030"
+    title: "30. Parent-Teacher Conferences"
+    url: "https://www.rong-chang.com/customs/cc/customs030.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc030r.mp3"
+  - index: 31
+    slug: "customs031"
+    title: "31. Private Schools - An Expensive Educational Alternative"
+    url: "https://www.rong-chang.com/customs/cc/customs031.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc031o.mp3"
+  - index: 32
+    slug: "customs032"
+    title: "32. The California College and University System"
+    url: "https://www.rong-chang.com/customs/cc/customs032.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc032s.mp3"
+  - index: 33
+    slug: "customs033"
+    title: "33. Driving in the United States"
+    url: "https://www.rong-chang.com/customs/cc/customs033.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc033e.mp3"
+  - index: 34
+    slug: "customs034"
+    title: "34. Pasadena Rose Parade"
+    url: "https://www.rong-chang.com/customs/cc/customs034.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc034c.mp3"
+  - index: 35
+    slug: "customs035"
+    title: "35. Selfies"
+    url: "https://www.rong-chang.com/customs/cc/customs035.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc035u.mp3"
+  - index: 36
+    slug: "customs036"
+    title: "36. Apartment Pets"
+    url: "https://www.rong-chang.com/customs/cc/customs036.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc036t.mp3"
+  - index: 37
+    slug: "customs037"
+    title: "37. Non-traditional Wakes"
+    url: "https://www.rong-chang.com/customs/cc/customs037.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc037e.mp3"
+  - index: 38
+    slug: "customs038"
+    title: "38. Homelessness in Los Angeles"
+    url: "https://www.rong-chang.com/customs/cc/customs038.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc038d.mp3"
+  - index: 39
+    slug: "customs039"
+    title: "39. Paramedics"
+    url: "https://www.rong-chang.com/customs/cc/customs039.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc039.mp3"
+  - index: 40
+    slug: "customs040"
+    title: "40. September 11th"
+    url: "https://www.rong-chang.com/customs/cc/customs040.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc040.mp3"
+  - index: 41
+    slug: "customs041"
+    title: "41. The California Redwoods and Giant Sequoias"
+    url: "https://www.rong-chang.com/customs/cc/customs041.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc041.mp3"
+  - index: 42
+    slug: "customs042"
+    title: "42. The California Highway Patrol"
+    url: "https://www.rong-chang.com/customs/cc/customs042.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc042.mp3"
+  - index: 43
+    slug: "customs043"
+    title: "43. The Golden Gate Bridge"
+    url: "https://www.rong-chang.com/customs/cc/customs043.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc043.mp3"
+  - index: 44
+    slug: "customs044"
+    title: "44.The San Francisco Cable Cars"
+    url: "https://www.rong-chang.com/customs/cc/customs044.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc044.mp3"
+  - index: 45
+    slug: "customs045"
+    title: "45. Car Chase Television"
+    url: "https://www.rong-chang.com/customs/cc/customs045.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc045.mp3"
+  - index: 46
+    slug: "customs046"
+    title: "46. Los Angeles Coroner's Office"
+    url: "https://www.rong-chang.com/customs/cc/customs046.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc046.mp3"
+  - index: 47
+    slug: "customs047"
+    title: "47. Museum Mile in New York City"
+    url: "https://www.rong-chang.com/customs/cc/customs047.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc047.mp3"
+  - index: 48
+    slug: "customs048"
+    title: "48. A Building for the Empire State"
+    url: "https://www.rong-chang.com/customs/cc/customs048.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc048.mp3"
+  - index: 49
+    slug: "customs049"
+    title: "49. The Statue of Liberty Enlightening the World"
+    url: "https://www.rong-chang.com/customs/cc/customs049.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc049.mp3"
+  - index: 50
+    slug: "customs050"
+    title: "50. Rockefeller Center - Top of the Rock"
+    url: "https://www.rong-chang.com/customs/cc/customs050.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc050.mp3"
+  - index: 51
+    slug: "customs051"
+    title: "51. Manhattan, New York City"
+    url: "https://www.rong-chang.com/customs/cc/customs051.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc051c.mp3"
+  - index: 52
+    slug: "customs052"
+    title: "52. Las Vegas, Nevada"
+    url: "https://www.rong-chang.com/customs/cc/customs052.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc052o.mp3"
+  - index: 53
+    slug: "customs053"
+    title: "53. Mr. Rogers' Neighborhood"
+    url: "https://www.rong-chang.com/customs/cc/customs053.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc053p.mp3"
+  - index: 54
+    slug: "customs054"
+    title: "54. The Cinco de Mayo Celebration"
+    url: "https://www.rong-chang.com/customs/cc/customs054.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc054y.mp3"
+  - index: 55
+    slug: "customs055"
+    title: "55. The Attack on Pearl Harbor"
+    url: "https://www.rong-chang.com/customs/cc/customs055.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc055r.mp3"
+  - index: 56
+    slug: "customs056"
+    title: "56. Funeral Customs in the United States"
+    url: "https://www.rong-chang.com/customs/cc/customs056.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc056i.mp3"
+  - index: 57
+    slug: "customs057"
+    title: "57. The John F. Kennedy Assassination"
+    url: "https://www.rong-chang.com/customs/cc/customs057.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc057g.mp3"
+  - index: 58
+    slug: "customs058"
+    title: "58. Social Class in the United States"
+    url: "https://www.rong-chang.com/customs/cc/customs058.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc058h.mp3"
+  - index: 59
+    slug: "customs059"
+    title: "59. Rosa Parks and the Civil Rights Movement"
+    url: "https://www.rong-chang.com/customs/cc/customs059.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc059t.mp3"
+  - index: 60
+    slug: "customs060"
+    title: "60. Chicago - The Windy City"
+    url: "https://www.rong-chang.com/customs/cc/customs060.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc060s.mp3"
+  - index: 61
+    slug: "customs061"
+    title: "61. Boston - A Revolutionary City"
+    url: "https://www.rong-chang.com/customs/cc/customs061.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc061p.mp3"
+  - index: 62
+    slug: "customs062"
+    title: "62. A Nation Was Born"
+    url: "https://www.rong-chang.com/customs/cc/customs062.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc062r.mp3"
+  - index: 63
+    slug: "customs063"
+    title: "63. The American Civil War"
+    url: "https://www.rong-chang.com/customs/cc/customs063.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc063o.mp3"
+  - index: 64
+    slug: "customs064"
+    title: "64. Fires that Changed Cities"
+    url: "https://www.rong-chang.com/customs/cc/customs064.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc064t.mp3"
+  - index: 65
+    slug: "customs065"
+    title: "65. A Bewitched City"
+    url: "https://www.rong-chang.com/customs/cc/customs065.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc065e.mp3"
+  - index: 66
+    slug: "customs066"
+    title: "66. The United Nations in New York City"
+    url: "https://www.rong-chang.com/customs/cc/customs066.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc066c.mp3"
+  - index: 67
+    slug: "customs067"
+    title: "67. New York City - The Big Apple"
+    url: "https://www.rong-chang.com/customs/cc/customs067.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc067t.mp3"
+  - index: 68
+    slug: "customs068"
+    title: "68. The World Trade Center"
+    url: "https://www.rong-chang.com/customs/cc/customs068.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc068e.mp3"
+  - index: 69
+    slug: "customs069"
+    title: "69. Central Park"
+    url: "https://www.rong-chang.com/customs/cc/customs069.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc069d.mp3"
+  - index: 70
+    slug: "customs070"
+    title: "70. The Marlboro Man"
+    url: "https://www.rong-chang.com/customs/cc/customs070.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc070.mp3"
+  - index: 71
+    slug: "customs071"
+    title: "71. The Beatles"
+    url: "https://www.rong-chang.com/customs/cc/customs071.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc071.mp3"
+  - index: 72
+    slug: "customs072"
+    title: "72. The Griffith Observatory"
+    url: "https://www.rong-chang.com/customs/cc/customs072.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc072.mp3"
+  - index: 73
+    slug: "customs073"
+    title: "73. One Country, Many Religions"
+    url: "https://www.rong-chang.com/customs/cc/customs073.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc073.mp3"
+  - index: 74
+    slug: "customs074"
+    title: "74. Woodstock: Defining a Generation"
+    url: "https://www.rong-chang.com/customs/cc/customs074.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc074.mp3"
+  - index: 75
+    slug: "customs075"
+    title: "75. The Veterans Administration"
+    url: "https://www.rong-chang.com/customs/cc/customs075.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc075.mp3"
+  - index: 76
+    slug: "customs076"
+    title: "76. Married with Children"
+    url: "https://www.rong-chang.com/customs/cc/customs076.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc076.mp3"
+  - index: 77
+    slug: "customs077"
+    title: "77. Facebook"
+    url: "https://www.rong-chang.com/customs/cc/customs077.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc077.mp3"
+  - index: 78
+    slug: "customs078"
+    title: "78. Don't be Tardy to the Party"
+    url: "https://www.rong-chang.com/customs/cc/customs078.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc078.mp3"
+  - index: 79
+    slug: "customs079"
+    title: "79. A Bridal Shower"
+    url: "https://www.rong-chang.com/customs/cc/customs079.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc079.mp3"
+  - index: 80
+    slug: "customs080"
+    title: "80. A Baby Shower"
+    url: "https://www.rong-chang.com/customs/cc/customs080.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc080.mp3"
+  - index: 81
+    slug: "customs081"
+    title: "81. A Housewarming Party"
+    url: "https://www.rong-chang.com/customs/cc/customs081.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc081c.mp3"
+  - index: 82
+    slug: "customs082"
+    title: "82. The Wedding Reception (1)"
+    url: "https://www.rong-chang.com/customs/cc/customs082.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc082.mp3"
+  - index: 83
+    slug: "customs083"
+    title: "83. The Wedding Reception (2)"
+    url: "https://www.rong-chang.com/customs/cc/customs083.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc083o.mp3"
+  - index: 84
+    slug: "customs084"
+    title: "84. Bride and Groom Traditions"
+    url: "https://www.rong-chang.com/customs/cc/customs084.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc084.mp3"
+  - index: 85
+    slug: "customs085"
+    title: "85. Theme Parties"
+    url: "https://www.rong-chang.com/customs/cc/customs085.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc085p.mp3"
+  - index: 86
+    slug: "customs086"
+    title: "86. Helicopter versus Free-Range Moms"
+    url: "https://www.rong-chang.com/customs/cc/customs086.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc086.mp3"
+  - index: 87
+    slug: "customs087"
+    title: "87. Attachment Parenting"
+    url: "https://www.rong-chang.com/customs/cc/customs087.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc087y.mp3"
+  - index: 88
+    slug: "customs088"
+    title: "88. A Kid's Party for Adults"
+    url: "https://www.rong-chang.com/customs/cc/customs088.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc088.mp3"
+  - index: 89
+    slug: "customs089"
+    title: "89. When a Kid Becomes an Adult"
+    url: "https://www.rong-chang.com/customs/cc/customs089.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc089r.mp3"
+  - index: 90
+    slug: "customs090"
+    title: "90. Taking Care of Mom and Dad"
+    url: "https://www.rong-chang.com/customs/cc/customs090.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc090.mp3"
+  - index: 91
+    slug: "customs091"
+    title: "91. Vacation Time"
+    url: "https://www.rong-chang.com/customs/cc/customs091.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc091i.mp3"
+  - index: 92
+    slug: "customs092"
+    title: "92. Camping"
+    url: "https://www.rong-chang.com/customs/cc/customs092.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc092.mp3"
+  - index: 93
+    slug: "customs093"
+    title: "93. Renting an Apartment (1)"
+    url: "https://www.rong-chang.com/customs/cc/customs093.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc093g.mp3"
+  - index: 94
+    slug: "customs094"
+    title: "94. Renting an Apartment (2)"
+    url: "https://www.rong-chang.com/customs/cc/customs094.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc094.mp3"
+  - index: 95
+    slug: "customs095"
+    title: "95. What is in a Lease (1)"
+    url: "https://www.rong-chang.com/customs/cc/customs095.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc095h.mp3"
+  - index: 96
+    slug: "customs096"
+    title: "96. What is in a Lease (2)"
+    url: "https://www.rong-chang.com/customs/cc/customs096.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc096.mp3"
+  - index: 97
+    slug: "customs097"
+    title: "97. Public Housing"
+    url: "https://www.rong-chang.com/customs/cc/customs097.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc097t.mp3"
+  - index: 98
+    slug: "customs098"
+    title: "98. Applying for Public Housing"
+    url: "https://www.rong-chang.com/customs/cc/customs098.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc098.mp3"
+  - index: 99
+    slug: "customs099"
+    title: "99. Section 8"
+    url: "https://www.rong-chang.com/customs/cc/customs099.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc099p.mp3"
+  - index: 100
+    slug: "customs100"
+    title: "100. Baseball: The National Pastime"
+    url: "https://www.rong-chang.com/customs/cc/customs100.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc100.mp3"
+  - index: 101
+    slug: "customs101"
+    title: "101. Southern California Theme Parks"
+    url: "https://www.rong-chang.com/customs/cc/customs101.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc101r.mp3"
+  - index: 102
+    slug: "customs102"
+    title: "102. The Los Angeles Memorial Coliseum"
+    url: "https://www.rong-chang.com/customs/cc/customs102.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc102.mp3"
+  - index: 103
+    slug: "customs103"
+    title: "103. The land of Mobile Dining"
+    url: "https://www.rong-chang.com/customs/cc/customs103.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc103o.mp3"
+  - index: 104
+    slug: "customs104"
+    title: "104. Venice Beach and Boardwalk"
+    url: "https://www.rong-chang.com/customs/cc/customs104.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc104.mp3"
+  - index: 105
+    slug: "customs105"
+    title: "105. The La Brea Tar Pits"
+    url: "https://www.rong-chang.com/customs/cc/customs105.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc105t.mp3"
+  - index: 106
+    slug: "customs106"
+    title: "106. Space Shuttle Endeavour"
+    url: "https://www.rong-chang.com/customs/cc/customs106.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc106.mp3"
+  - index: 107
+    slug: "customs107"
+    title: "107. The Demolition Derby"
+    url: "https://www.rong-chang.com/customs/cc/customs107.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc107e.mp3"
+  - index: 108
+    slug: "customs108"
+    title: "108. California's Earthquakes"
+    url: "https://www.rong-chang.com/customs/cc/customs108.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc108.mp3"
+  - index: 109
+    slug: "customs109"
+    title: "109. Free Summer Fun"
+    url: "https://www.rong-chang.com/customs/cc/customs109.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc109c.mp3"
+  - index: 110
+    slug: "customs110"
+    title: "110. Paying Your Fare"
+    url: "https://www.rong-chang.com/customs/cc/customs110.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc110.mp3"
+  - index: 111
+    slug: "customs111"
+    title: "111. Library Resources"
+    url: "https://www.rong-chang.com/customs/cc/customs111.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc111t.mp3"
+  - index: 112
+    slug: "customs112"
+    title: "112. Finding a Job in California"
+    url: "https://www.rong-chang.com/customs/cc/customs112.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc112.mp3"
+  - index: 113
+    slug: "customs113"
+    title: "113. The Backyard Barbeque"
+    url: "https://www.rong-chang.com/customs/cc/customs113.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc113e.mp3"
+  - index: 114
+    slug: "customs114"
+    title: "114. The Blended Family"
+    url: "https://www.rong-chang.com/customs/cc/customs114.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc114.mp3"
+  - index: 115
+    slug: "customs115"
+    title: "115. Keeping a Diary for Your Health"
+    url: "https://www.rong-chang.com/customs/cc/customs115.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc115d.mp3"
+  - index: 116
+    slug: "customs116"
+    title: "116. Santa Anita Race Track"
+    url: "https://www.rong-chang.com/customs/cc/customs116.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc116.mp3"
+  - index: 117
+    slug: "customs117"
+    title: "117. Miniature Golf"
+    url: "https://www.rong-chang.com/customs/cc/customs117.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc117.mp3"
+  - index: 118
+    slug: "customs118"
+    title: "118. Working Out in L.A."
+    url: "https://www.rong-chang.com/customs/cc/customs118.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc118.mp3"
+  - index: 119
+    slug: "customs119"
+    title: "119. Sunset Boulevard and Hollywood"
+    url: "https://www.rong-chang.com/customs/cc/customs119.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc119.mp3"
+  - index: 120
+    slug: "customs120"
+    title: "120. Catalina Island"
+    url: "https://www.rong-chang.com/customs/cc/customs120.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc120.mp3"
+  - index: 121
+    slug: "customs121"
+    title: "121. Tonya Harding and Nancy Kerrigan"
+    url: "https://www.rong-chang.com/customs/cc/customs121.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc121.mp3"
+  - index: 122
+    slug: "customs122"
+    title: "122. Couch Potatoes"
+    url: "https://www.rong-chang.com/customs/cc/customs122.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc122.mp3"
+  - index: 123
+    slug: "customs123"
+    title: "123. The Los Angeles County Fair"
+    url: "https://www.rong-chang.com/customs/cc/customs123.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc123.mp3"
+  - index: 124
+    slug: "customs124"
+    title: "124. Bilingual Is Better"
+    url: "https://www.rong-chang.com/customs/cc/customs124.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc124.mp3"
+  - index: 125
+    slug: "customs125"
+    title: "125. Casey Anthony: America's Most Hated Woman"
+    url: "https://www.rong-chang.com/customs/cc/customs125.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc125.mp3"
+  - index: 126
+    slug: "customs126"
+    title: "126. The Star Wars Phenomenon"
+    url: "https://www.rong-chang.com/customs/cc/customs126.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc126.mp3"
+  - index: 127
+    slug: "customs127"
+    title: "127. Star Trek"
+    url: "https://www.rong-chang.com/customs/cc/customs127.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc127.mp3"
+  - index: 128
+    slug: "customs128"
+    title: "128. The Nuclear Bombing of Japan"
+    url: "https://www.rong-chang.com/customs/cc/customs128.htm"
+    mp3: "https://www.rong-chang.com/customs/audio/uscc128.mp3"

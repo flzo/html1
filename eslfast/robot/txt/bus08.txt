@@ -1,0 +1,38 @@
+A: How much does it cost for a bus pass?
+B: It'll be $65 for a monthly pass.
+A: Is there anything cheaper than that?
+B: If you're in school, you can get a student pass.
+A: How much will that cost?
+B: The pass is free.
+A: I don't have to pay for anything?
+B: You'll only have to pay for the monthly sticker.
+A: How much is the monthly sticker?
+B: It's $24 for each month.
+A: I'll take the student bus pass.
+B: Okay, I'll get you one.
+
+A: Can you tell me the price for a bus pass?
+B: It costs $65 to buy a monthly pass.
+A: Is there a cheaper bus pass?
+B: There are student passes.
+A: For how much?
+B: It doesn't cost anything for the pass.
+A: It's absolutely free?
+B: The monthly sticker costs you.
+A: How much is that?
+B: Each month it'll cost $24 for a new sticker.
+A: Let me get the student bus pass.
+B: Let me go get it for you.
+
+A: How much for a bus pass?
+B: Well, for a monthly pass, it'll cost you $65.
+A: Is there anything else that doesn't cost as much?
+B: If you're a student, you can get a student bus pass.
+A: How much does a student pass cost?
+B: That actual bus pass is free.
+A: It doesn't cost anything?
+B: The only thing you'll have to pay for is the monthly sticker.
+A: Can you tell me how much that'll cost?
+B: It's only $24 a month.
+A: Sounds good, let me get that.
+B: I'll get it for you right now.

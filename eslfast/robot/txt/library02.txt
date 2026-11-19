@@ -1,0 +1,38 @@
+A: What may I do for you?
+B: I need to get a passport.
+A: You will need to apply for one.
+B: When will I be able to do that?
+A: You can do it right now, if you'd like.
+B: That's fine.
+A: Please fill out this application.
+B: Then what do I do?
+A: I just need to take your picture.
+B: How long will it take for my passport to be ready?
+A: You will get it in a few weeks.
+B: That's perfect.
+
+A: How may I help you?
+B: I want to get a passport.
+A: You need to apply for a passport.
+B: When can I apply for it?
+A: You can apply right now.
+B: I'd like to do that.
+A: Fill this out, please.
+B: What's next?
+A: I will need to take your passport picture.
+B: When will my passport be ready?
+A: It will take about three weeks.
+B: That's great. Thank you.
+
+A: What can I do for you?
+B: I need a passport.
+A: You can apply for one here.
+B: When can I do that?
+A: If you like, you can apply right now.
+B: That would be great.
+A: I'm going to need you to complete this application.
+B: What else do I have to do?
+A: Then I will take your picture for your passport.
+B: How long will it take?
+A: Your passport will be ready in a few weeks.
+B: Thank you. That's perfect timing.

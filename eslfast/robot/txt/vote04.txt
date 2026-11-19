@@ -1,0 +1,38 @@
+A: Are you going to vote on Tuesday?
+B: Of course. How about you?
+A: I've already voted.
+B: How's that?
+A: I sent in an absentee ballot.
+B: Why?
+A: I won't be able to vote on Tuesday.
+B: Why not?
+A: I have to work.
+B: Why don't you go to work late?
+A: I have important business to take care of that morning.
+B: I see.
+
+A: Will you be voting?
+B: Yes. Will you?
+A: I already have.
+B: How did you do that?
+A: I mailed in an absentee ballot.
+B: Why is that?
+A: I can't vote on Tuesday.
+B: What's the reason for that?
+A: I have to go to work.
+B: You can just go to work after you vote.
+A: I need to take care of some business that morning.
+B: I get it now.
+
+A: Do you plan on voting this Tuesday?
+B: Yes. What about you?
+A: I already voted.
+B: What do you mean you already voted?
+A: I had to mail in an absentee ballot.
+B: Why'd you have to do that?
+A: I'm not going to be able to vote this Tuesday.
+B: Why is that?
+A: I have to work this Tuesday.
+B: You can always go to work late.
+A: That same morning I have some business to take care of.
+B: Oh, I understand.

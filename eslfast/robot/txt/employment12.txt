@@ -1,0 +1,32 @@
+A: Is there anything I can help?
+B: Yes, thank you. I am really far behind on this project. Could you help me with the extra typing or xeroxing?
+A: I can do either one.
+B: Good. That would be very helpful. Can you start with those pages over there?
+A: No problem.
+B: Thank you very much! How long have you been working here?
+A: I have been working here for 5 years.
+B: Well, we have some special projects coming up. Would you be interested in working on any of those?
+A: Yes, I would love to work on a special project!
+B: Well then, I'll keep you in the loop. Thank you for your help today.
+
+A: Do you need any help?
+B: I need some help catching up. Are you good at typing or could you help me xerox?
+A: I like xeroxing.
+B: Thank you! There are papers on the table to start with.
+A: That would be OK.
+B: I really appreciate the help. How many years have you been with the company?
+A: I just started working here.
+B: I have a special assignment coming up. Would you be interested in helping me on it?
+A: I'd like to, but I am very busy.
+B: I'll make sure that management keeps you in mind for special projects in the future. Thanks for the help!
+
+A: What can I do to help you?
+B: I have some extra help with my project. What would you prefer to help me with, typing or xeroxing?
+A: I could do some typing for you.
+B: That is very kind of you to offer to do that. Can you start with the pages on the table?
+A: That would be a good place to start.
+B: I like your positive attitude. How many years have you been employed here?
+A: I have worked here long time.
+B: We have a really interesting project coming up. Would you want to join us on it?
+A: I'm not sure. Let me think about it.
+B: OK. I will mention how great you were about helping me today. I appreciate your help.

@@ -1,0 +1,509 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/gradedread5/gr5/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-18T16:36:43+08:00"
+  total: 100
+  failed: 0
+pages:
+  - index: 1
+    slug: "gr5001"
+    title: "The History of Artificial Intelligence | Thinking Machines"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5001.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5001.mp3"
+  - index: 2
+    slug: "gr5002"
+    title: "Machine Learning Explained | How Computers Learn"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5002.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5002.mp3"
+  - index: 3
+    slug: "gr5003"
+    title: "AI Governance | Rules and Ethics for Smart Systems"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5003.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5003.mp3"
+  - index: 4
+    slug: "gr5004"
+    title: "Generative AI | How Machines Create New Content"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5004.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5004.mp3"
+  - index: 5
+    slug: "gr5005"
+    title: "AI-Augmented Development | Building Software with AI"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5005.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5005.mp3"
+  - index: 6
+    slug: "gr5006"
+    title: "How Computers Understand Language | Introduction to NLP"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5006.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5006.mp3"
+  - index: 7
+    slug: "gr5007"
+    title: "Natural Language Processing (NLP) Explained Simply"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5007.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5007.mp3"
+  - index: 8
+    slug: "gr5008"
+    title: "AI in Healthcare | Smarter Diagnosis and Treatment"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5008.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5008.mp3"
+  - index: 9
+    slug: "gr5009"
+    title: "AI in Manufacturing | Smart Factories of the Future"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5009.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5009.mp3"
+  - index: 10
+    slug: "gr5010"
+    title: "The History of Computer Networks | From ARPANET to Internet"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5010.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5010.mp3"
+  - index: 11
+    slug: "gr5011"
+    title: "5G Networks Explained | Faster, Smarter Connections"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5011.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5011.mp3"
+  - index: 12
+    slug: "gr5012"
+    title: "Why 5G Is Faster Than 4G | The Technology Explained"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5012.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5012.mp3"
+  - index: 13
+    slug: "gr5013"
+    title: "The Internet of Things (IoT) | Connecting Smart Devices"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5013.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5013.mp3"
+  - index: 14
+    slug: "gr5014"
+    title: "Cybersecurity Resilience | Surviving and Recovering Attacks"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5014.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5014.mp3"
+  - index: 15
+    slug: "gr5015"
+    title: "6G Networks | The Future of Ultra-Fast Connectivity"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5015.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5015.mp3"
+  - index: 16
+    slug: "gr5016"
+    title: "The Journey of Robots: From Ancient Automata to Modern AI Machines"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5016.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5016.mp3"
+  - index: 17
+    slug: "gr5017"
+    title: "Robots in Our Daily Lives: How Machines Make Life Easier at Home"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5017.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5017.mp3"
+  - index: 18
+    slug: "gr5018"
+    title: "Industrial Robots: Transforming Factories and Modern Industry"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5018.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5018.mp3"
+  - index: 19
+    slug: "gr5019"
+    title: "Robots in Healthcare: How Technology Helps Doctors and Patients"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5019.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5019.mp3"
+  - index: 20
+    slug: "gr5020"
+    title: "Robots in Customer Service: How AI Is Changing the Way We Get Help"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5020.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5020.mp3"
+  - index: 21
+    slug: "gr5021"
+    title: "Robots in Agriculture: How Technology Is Changing Farming"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5021.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5021.mp3"
+  - index: 22
+    slug: "gr5022"
+    title: "Military Robots: How Technology Protects Soldiers and Saves Lives"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5022.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5022.mp3"
+  - index: 23
+    slug: "gr5023"
+    title: "23. Robots in Space Exploration"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5023.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5023.mp3"
+  - index: 24
+    slug: "gr5024"
+    title: "The Story of Semiconductors: The Foundation of Modern Electronics"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5024.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5024.mp3"
+  - index: 25
+    slug: "gr5025"
+    title: "How Semiconductors Power the Modern World"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5025.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5025.mp3"
+  - index: 26
+    slug: "gr5026"
+    title: "The Journey of a Microchip: How Semiconductors Are Made"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5026.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5026.mp3"
+  - index: 27
+    slug: "gr5027"
+    title: "Challenges in Making Microchips: Why Chip Production Is So Complex"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5027.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5027.mp3"
+  - index: 28
+    slug: "gr5028"
+    title: "Nanotechnology Explained: The Science of the Very Small"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5028.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5028.mp3"
+  - index: 29
+    slug: "gr5029"
+    title: "Global Semiconductor Competition: The Race for Technology Leadership"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5029.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5029.mp3"
+  - index: 30
+    slug: "gr5030"
+    title: "TSMC: The Heart of Global Semiconductor Manufacturing"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5030.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5030.mp3"
+  - index: 31
+    slug: "gr5031"
+    title: "NVIDIA: Powering the Future with AI and GPU Technology"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5031.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5032.mp3"
+  - index: 32
+    slug: "gr5032"
+    title: "Understanding Renewable Energy: Clean Power for a Sustainable Future"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5032.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5032.mp3"
+  - index: 33
+    slug: "gr5033"
+    title: "Solar Energy: How the Sun Powers Our Modern World"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5033.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5033.mp3"
+  - index: 34
+    slug: "gr5034"
+    title: "Hydropower: Clean Energy from Flowing Water"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5034.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5034.mp3"
+  - index: 35
+    slug: "gr5035"
+    title: "Wind Power: Harnessing the Wind for Clean Energy"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5035.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5035.mp3"
+  - index: 36
+    slug: "gr5036"
+    title: "Geothermal Energy: Clean Heat from Inside the Earth"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5036.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5036.mp3"
+  - index: 37
+    slug: "gr5037"
+    title: "The Future of Batteries: Smarter and Safer Power"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5037.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5037.mp3"
+  - index: 38
+    slug: "gr5038"
+    title: "Nuclear Energy: Power from the Atom"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5038.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5038.mp3"
+  - index: 39
+    slug: "gr5039"
+    title: "Nuclear Fusion: The Energy of the Stars"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5039.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5039.mp3"
+  - index: 40
+    slug: "gr5040"
+    title: "ITER: Building the World's Largest Fusion Reactor"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5040.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5040.mp3"
+  - index: 41
+    slug: "gr5041"
+    title: "Main Causes of Climate Change Explained"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5041.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5041.mp3"
+  - index: 42
+    slug: "gr5042"
+    title: "How Hurricanes Form: Natureâs Powerful Storms"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5042.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5042.mp3"
+  - index: 43
+    slug: "gr5043"
+    title: "How Tornadoes Form: Natureâs Fierce Twisters"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5043.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5043.mp3"
+  - index: 44
+    slug: "gr5044"
+    title: "Rapid Changes in the Arctic: Melting Ice and Warming"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5044.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5044.mp3"
+  - index: 45
+    slug: "gr5045"
+    title: "Global Warming and Shifting Weather Patterns"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5045.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5045.mp3"
+  - index: 46
+    slug: "gr5046"
+    title: "Life in the Ocean: The World Beneath the Waves"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5046.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5046.mp3"
+  - index: 47
+    slug: "gr5047"
+    title: "The Mariana Trench: Earth's Deepest Ocean Mystery"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5047.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5047.mp3"
+  - index: 48
+    slug: "gr5048"
+    title: "Jiaolong Submersible: Chinaâs Deep-Sea \"Flood Dragon\""
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5048.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5048.mp3"
+  - index: 49
+    slug: "gr5049"
+    title: "Rare Earth Minerals: The Hidden Power of Technology"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5049.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5049.mp3"
+  - index: 50
+    slug: "gr5050"
+    title: "Key Rare Earth Minerals and Their Uses"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5050.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5050.mp3"
+  - index: 51
+    slug: "gr5051"
+    title: "How Rare Earth Minerals Are Extracted and Refined"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5051.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5051.mp3"
+  - index: 52
+    slug: "gr5052"
+    title: "China's Rare Earth Industry and Global Dominance"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5052.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5052.mp3"
+  - index: 53
+    slug: "gr5053"
+    title: "Applications of Biotechnology in Medicine and Industry"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5053.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5053.mp3"
+  - index: 54
+    slug: "gr5054"
+    title: "How Vaccines Are Made: From Research to Protection"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5054.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5054.mp3"
+  - index: 55
+    slug: "gr5055"
+    title: "Genetically Modified Crops: Benefits and Concerns"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5055.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5055.mp3"
+  - index: 56
+    slug: "gr5056"
+    title: "Gene and Cell Therapies: The Future of Medicine"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5056.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5056.mp3"
+  - index: 57
+    slug: "gr5057"
+    title: "Biologic Drugs: Medicines Made from Living Cells"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5057.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5057.mp3"
+  - index: 58
+    slug: "gr5058"
+    title: "Biopesticides: Natural Protection for Crops and the Environment"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5058.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5058.mp3"
+  - index: 59
+    slug: "gr5059"
+    title: "Synthetic Biology: Building Life and Solving Global Problems"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5059.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5059.mp3"
+  - index: 60
+    slug: "gr5060"
+    title: "Stem Cells Explained: The Body's Building Blocks for Healing"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5060.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5060.mp3"
+  - index: 61
+    slug: "gr5061"
+    title: "The Progress of Aging Research: Can Science Slow Aging?"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5061.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5061.mp3"
+  - index: 62
+    slug: "gr5062"
+    title: "Cloning Techniques: How Scientists Create Genetic Copies"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5062.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5062.mp3"
+  - index: 63
+    slug: "gr5063"
+    title: "Biomaterials in Medicine: Healing the Body with Advanced Materials"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5063.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5063.mp3"
+  - index: 64
+    slug: "gr5064"
+    title: "How Biomaterials Are Made: From Design to Medical Use"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5064.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5064.mp3"
+  - index: 65
+    slug: "gr5065"
+    title: "The Benefits and Risks of Biotechnology"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5065.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5065.mp3"
+  - index: 66
+    slug: "gr5066"
+    title: "The History of Cryptocurrency: From Bitcoin to Digital Money"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5066.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5066.mp3"
+  - index: 67
+    slug: "gr5067"
+    title: "Blockchain Technology Explained: How It Keeps Data Secure"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5067.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5067.mp3"
+  - index: 68
+    slug: "gr5068"
+    title: "Popular Cryptocurrencies and How They Differ"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5068.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5068.mp3"
+  - index: 69
+    slug: "gr5069"
+    title: "The Digital Yuan: China's Central Bank Digital Currency Explained"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5069.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5069.mp3"
+  - index: 70
+    slug: "gr5070"
+    title: "Stablecoins Explained: The Link Between Cryptocurrency and Real Money"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5070.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5070.mp3"
+  - index: 71
+    slug: "gr5071"
+    title: "The Future of Cryptocurrency: Opportunities and Challenges Ahead"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5071.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5071.mp3"
+  - index: 72
+    slug: "gr5072"
+    title: "Self-Driving Cars: How Autonomous Vehicles Work"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5072.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5072.mp3"
+  - index: 73
+    slug: "gr5073"
+    title: "Waymo Robotaxi: The Future of Driverless Transportation"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5073.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5073.mp3"
+  - index: 74
+    slug: "gr5074"
+    title: "The Flying Car: The Future of Air and Road Travel"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5074.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5074.mp3"
+  - index: 75
+    slug: "gr5075"
+    title: "China's High-Speed Trains: The Fastest Way to Travel"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5075.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5075.mp3"
+  - index: 76
+    slug: "gr5076"
+    title: "How a High-Speed Train Works: The Technology Behind Fast Travel"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5076.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5076.mp3"
+  - index: 77
+    slug: "gr5077"
+    title: "Future Airplanes: How Fast Will We Fly?"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5077.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5077.mp3"
+  - index: 78
+    slug: "gr5078"
+    title: "The History of Human Space Exploration: From Sputnik to Mars"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5078.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5078.mp3"
+  - index: 79
+    slug: "gr5079"
+    title: "The International Space Station: A Global Laboratory in Orbit"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5079.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5079.mp3"
+  - index: 80
+    slug: "gr5080"
+    title: "China's Space Exploration: From Satellites to Mars Missions"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5080.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5080.mp3"
+  - index: 81
+    slug: "gr5081"
+    title: "Space Travel for Ordinary People: The Rise of Space Tourism"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5081.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5081.mp3"
+  - index: 82
+    slug: "gr5082"
+    title: "SpaceX: Transforming Space Travel with Reusable Rockets"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5082.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5082.mp3"
+  - index: 83
+    slug: "gr5083"
+    title: "The Dream of Traveling to Mars: Humanity's Next Big Step"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5083.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5083.mp3"
+  - index: 84
+    slug: "gr5084"
+    title: "How Drones Are Used Today: From Photography to Rescue Missions"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5084.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5084.mp3"
+  - index: 85
+    slug: "gr5085"
+    title: "DJI: The World's Leading Drone Maker Changing Aerial Technology"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5085.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5085.mp3"
+  - index: 86
+    slug: "gr5086"
+    title: "Drones in the Military: Modern Tools of Surveillance and Defense"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5086.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5086.mp3"
+  - index: 87
+    slug: "gr5087"
+    title: "China's Low-Altitude Economy: The Future of Drones and Air Mobility"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5087.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5087.mp3"
+  - index: 88
+    slug: "gr5088"
+    title: "DJI Mavic 4 Pro Drone: Professional Power in the Sky"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5088.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5088.mp3"
+  - index: 89
+    slug: "gr5089"
+    title: "Quantum Science Explained: Understanding the Tiny World of Particles"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5089.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5089.mp3"
+  - index: 90
+    slug: "gr5090"
+    title: "Quantum Technology: Using Physics to Power the Future"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5090.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5090.mp3"
+  - index: 91
+    slug: "gr5091"
+    title: "Quantum Computing: The Next Generation of Superfast Computers"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5091.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5091.mp3"
+  - index: 92
+    slug: "gr5092"
+    title: "Quantum Communication: The Future of Secure Information Sharing"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5092.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5092.mp3"
+  - index: 93
+    slug: "gr5093"
+    title: "Quantum Sensing: The Next Revolution in Measurement Technology"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5093.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5093.mp3"
+  - index: 94
+    slug: "gr5094"
+    title: "Post-Quantum Cryptography: Protecting Data in the Quantum Era"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5094.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5094.mp3"
+  - index: 95
+    slug: "gr5095"
+    title: "Spatial Computing: Connecting the Digital and Physical Worlds"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5095.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5095.mp3"
+  - index: 96
+    slug: "gr5096"
+    title: "AR vs VR: What's the Difference Between Augmented and Virtual Reality?"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5096.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5096.mp3"
+  - index: 97
+    slug: "gr5097"
+    title: "Augmented Reality (AR): Uses Today and Future Possibilities"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5097.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5097.mp3"
+  - index: 98
+    slug: "gr5098"
+    title: "Virtual Reality (VR): How It's Used Today and What's Next"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5098.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5098.mp3"
+  - index: 99
+    slug: "gr5099"
+    title: "Extended Reality (XR): The Future of AR, VR, and Mixed Reality"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5099.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5099.mp3"
+  - index: 100
+    slug: "gr5100"
+    title: "The Power of 3D Printing: Building the Future Layer by Layer"
+    url: "https://www.eslfast.com/gradedread5/gr5/gr5100.htm"
+    mp3: "https://www.eslfast.com/gradedread5/audio/gr5100.mp3"

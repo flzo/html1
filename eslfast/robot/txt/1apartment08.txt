@@ -1,0 +1,32 @@
+A: Hello, this is Betty.
+B: Hi, Betty. Larry here. How many smoke detectors are in your apartment?
+A: Actually, I have two.
+B: Are the batteries fresh?
+A: Both batteries are good.
+B: Great. I need to come by and check them myself.
+A: No problem, when are you coming by?
+B: Thursday at noon. I'll let myself in if you're not there.
+A: Okay, remember to lock my door when you leave.
+B: I'll be in and out of there in just a few minutes.
+
+A: Hello, this is Betty.
+B: Hello, Betty. This is Larry. How many smoke detectors are on your ceiling?
+A: I have two smoke detectors.
+B: Do you have fresh batteries in both of them?
+A: Both batteries are pretty fresh.
+B: Very good. I have to come by there and check out all the detectors.
+A: Very good, when do you think you'll be coming over?
+B: I'll be by on Thursday at noon. You don't have to be there.
+A: I won't be home. Just remember to lock my door, okay?
+B: You won't even know that I've been there.
+
+A: Hello, Betty speaking.
+B: Hey, Betty. This is Larry. Tell me how many smoke detectors you have, please.
+A: This apartment came with one, and I installed another one.
+B: Are there fresh batteries in each of them?
+A: Each detector beeps when the battery is low. They're not beeping.
+B: Good. I'm calling all the tenants because I have to check all the detectors.
+A: Okay, What day were you thinking about dropping by?
+B: I'll be at your building at noon on Thursday. If you're not there, I'll let myself in.
+A: If you're thirsty, you can grab a beer or soda out of my frig.
+B: Thanks, but it'll only take me about two minutes to test them and leave.

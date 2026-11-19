@@ -1,0 +1,38 @@
+A: I'm new to the neighborhood.
+B: Have you been able to find everything okay?
+A: Actually, could you help me with that?
+B: What can I help you with?
+A: I'm trying to find a nice restaurant to eat at.
+B: What kind of food do you want?
+A: I wouldn't mind some good Chinese food.
+B: There's a great Chinese restaurant right down the street.
+A: Could you tell me how to get there?
+B: It's a few blocks down. You'll find it on the right-hand side.
+A: Would you like to come eat lunch with me?
+B: I would love to. Thanks.
+
+A: I just moved into the neighborhood.
+B: Do you know where everything is around town?
+A: I could use your help with something.
+B: Exactly what can I do for you?
+A: I'm looking for somewhere to eat.
+B: What kind of restaurant do you want to eat at?
+A: I want Chinese food.
+B: I know of a fabulous Chinese restaurant down the street.
+A: How do I get there?
+B: It's just a few blocks away.
+A: Would you like to go to lunch?
+B: That would be great.
+
+A: I'm new to town.
+B: Oh, really? Are you finding everything all right?
+A: I need some help.
+B: What do you need help with?
+A: I would like to find a nice restaurant.
+B: What kind of food would you like to eat?
+A: Chinese food sounds good to me.
+B: You can always go to this Chinese restaurant just a few blocks away.
+A: Where exactly is it?
+B: If you go three blocks to the east, you can't miss it.
+A: Why don't you come to lunch with me?
+B: Sure. Let's go.

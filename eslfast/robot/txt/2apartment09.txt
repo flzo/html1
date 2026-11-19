@@ -1,0 +1,38 @@
+A: How are you doing today?
+B: I'm doing fine. Thanks for asking.
+A: What can I help you with today?
+B: I would like you to help me find an apartment.
+A: I will be able to help you with that.
+B: Thank you. I would appreciate that.
+A: Do you have any idea what kind of apartment you want?
+B: I need a two-bedroom apartment.
+A: Is there anything else in particular that you wanted?
+B: No. As long as it's a two bedroom, nice, and affordable, I'll take it.
+A: I'll see what I can do for you.
+B: Thanks for everything.
+
+A: Hi, how are you?
+B: I'm great, thank you.
+A: How can I help you?
+B: I would really like to find an apartment for rent.
+A: That shouldn't be a problem.
+B: That would be great.
+A: Tell me what kind of apartment that you are looking for.
+B: I really need a two bedroom.
+A: Anything else?
+B: That's all I really need.
+A: I will try to find something for you, and then I'll give you a call in a couple of days.
+B: That would be fabulous.
+
+A: How is everything with you?
+B: Everything's fine with me.
+A: What did you need me for today?
+B: I need to find an apartment.
+A: I'm sure I can help you find an apartment.
+B: I would greatly appreciate your help.
+A: What kind of apartment did you have in mind?
+B: What's most important is that I get a two bedroom.
+A: Would you like anything else special?
+B: That's the most important thing.
+A: Give me a few days, and I'll call you when I've found something.
+B: Thank you so much for all your help.

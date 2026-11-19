@@ -1,0 +1,32 @@
+A: I was wondering if I could order something to drink.
+B: Yes, we have alcoholic beverages as well as coffee, tea, or soda.
+A: How much do drinks cost?
+B: Our alcoholic beverages are five dollars each. All others are complimentary.
+A: When will our meals be served?
+B: We will serve a snack with the beverages. Dinner will be served a few hours into our flight.
+A: What are our dinner choices?
+B: You will have a choice of chicken, fish, or beef. I will be bringing a menu by shortly.
+A: I am a vegetarian and need a vegetarian meal.
+B: Vegetarian meals need to be requested at least two days before your flight. I might be able to find you extra servings of vegetables, however.
+
+A: I am getting thirsty and was wondering if I may order a drink.
+B: Yes, I would be happy to take your drink order. We have coffee, tea, or soda as well as bar drinks.
+A: Do you charge for beverages?
+B: We offer nonalcoholic beverages for free. Our bar drinks are five dollars each.
+A: Are we going to get fed on this flight?
+B: You will get a small snack served with your beverage. We will be serving dinner about halfway through the flight.
+A: Do we have a choice of what we get for dinner?
+B: Tonight we have chicken, fish, or beef to choose from. You will get a chance to look at a menu a little before our mealtime.
+A: Do you have vegetarian meals?
+B: We serve many different meals for people with religious or dietary restrictions. We do need to know about this at the time you book your flight.
+
+A: When you get a chance, could you take my drink order, please?
+B: On this flight you may have your choice of bar drinks or coffee, tea, or soft drinks.
+A: What is the price of drinks?
+B: Our alcoholic beverages are five dollars apiece. All others are two dollars each with free refills.
+A: Do we get to eat on this flight?
+B: We always pass out a small snack with your beverage. You will be served dinner in a few hours.
+A: What are we having for dinner tonight?
+B: We are serving a chicken, fish, or beef plate. You may select whatever you choose.
+A: Can I order a vegetarian plate?
+B: With advance notice, we are able to accommodate a wide variety of special diet needs. Once we are in the air, unfortunately, there isn't much we can do.

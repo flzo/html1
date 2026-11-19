@@ -1,0 +1,32 @@
+A: I am buying a used car and don't know much about financing it.
+B: I can help you. Do you have a down payment?
+A: Yes, I have saved up three thousand dollars for a down payment.
+B: Good, because you will not be able to get a loan without putting some money down on the car.
+A: I don't know where exactly to get a loan.
+B: Other than friends or family, you can go to a bank, credit union, or use the dealer financing if you bought the car off a car lot.
+A: What is the best choice for financing?
+B: It depends. The worst financing deal is usually at the dealer, but they will oftentimes give you a loan when a bank turns you down.
+A: What do I need to have with me when I apply for the loan?
+B: You will need a recent pay stub and a copy of the pink slip for the car. Before the loan is complete, you will need to show proof of insurance. Good luck!
+
+A: Can you help me learn about financing options for a used car?
+B: I would love to help you with what I know. I am assuming that you have a down payment.
+A: Yes, I already borrowed some money from my parents for the down payment.
+B: That will work. A bank or finance company will not loan you money without a down payment.
+A: I am not sure who will loan money to me.
+B: You can apply for a loan at a bank, credit union, or approach the used car dealer who sold you the car. You might also try family and friends.
+A: Who offers the best interest rate?
+B: A credit union will usually give you the best interest rate, but the dealer will almost always give you some type of loan.
+A: Do I need any documents when I apply for a car loan?
+B: Be sure that you take a recent pay stub and a copy of the pink slip. You will have a few days to produce proof of insurance. Enjoy your new car!
+
+A: I need help figuring out how to pay for a used car that I am thinking of buying.
+B: I would be happy to help you. Have you saved up a down payment?
+A: I will be getting money from selling my old car.
+B: You really need that money so that a bank or finance company will loan you the rest of the money that you need.
+A: Who gives loans out to people wanting to buy cars?
+B: Usually people go to a bank, credit union, or, if they bought the car at a car lot, they might use the dealer finance company.
+A: What is the best place to get financing?
+B: The dealer will charge you a higher interest rate, but sometimes they are your only choice if you are just starting out.
+A: Will I need some documentation when I apply for the loan?
+B: Just make sure that you bring them your last pay stub and a copy of the pink slip. You can then work on getting insured. Enjoy your new car!

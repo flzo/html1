@@ -1,0 +1,12 @@
+A: My tap card isn't working!
+B: Why not? Try it again.
+A: It's still not accepting the fare.
+B: Is the magnetic strip broken?
+A: No, I just used it at the station.
+B: Did it run out of credit?
+A: No, I just refilled it yesterday.
+B: Did you tap it upside-down?
+A: I tried flipping it several times.
+B: Look, you're using a metro card.
+A: What's the problem with that?
+B: This is the Montebello bus line!

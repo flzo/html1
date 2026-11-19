@@ -1,0 +1,38 @@
+A: You know how to drive, right?
+B: I'm pretty good.
+A: Do you think you can teach me?
+B: Did you get your learner's permit yet?
+A: I have it already.
+B: Do you have any experience driving a car?
+A: I've only done it once.
+B: Do you know all the controls in the car?
+A: Yes, I am aware of them.
+B: When do you want to start learning how to drive?
+A: Whenever you have time.
+B: We can do it tomorrow; just call me.
+
+A: Do you know how to drive?
+B: I'm a great driver.
+A: Could you teach me how to drive?
+B: Have you gotten your learner's permit?
+A: Yes, I have my learner's permit.
+B: Have you ever been behind the wheel?
+A: I've only driven a car one time.
+B: You do know all the controls in the car, don't you?
+A: I know them.
+B: Tell me when you want me to teach you.
+A: We can do it when you have some time.
+B: I'm not busy tomorrow. Call me then.
+
+A: Are you a good driver?
+B: Yes, I'm rather good at driving.
+A: I need you to teach me how to drive.
+B: Yes, but do you have your learner's permit?
+A: Yes, I have it.
+B: Have you ever driven a car before?
+A: I drove a car before, but only once.
+B: Are you aware of all the controls in the car?
+A: I already know all of them.
+B: When would you like me to start teaching you?
+A: When do you have time?
+B: Call me tomorrow, and we'll get started.

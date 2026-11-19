@@ -1,0 +1,38 @@
+A: Did you need help with something?
+B: I don't know where to get my ballot.
+A: I can help you with that.
+B: How can you help me?
+A: I work here.
+B: That's great.
+A: May I see your ID?
+B: Here it is.
+A: All right, here is your ballot card.
+B: What do I do now?
+A: Go to a voting booth and vote.
+B: All right. Thanks for your help.
+
+A: May I help you?
+B: I'm not sure where to pick up my ballot.
+A: I can assist you.
+B: How are you going to help me?
+A: I actually work here.
+B: Fabulous. Thanks.
+A: Do you have ID?
+B: I have it right here.
+A: Here's your ballot card.
+B: Now what am I supposed to do?
+A: Just take it to a booth and begin voting.
+B: Sounds good. Thanks.
+
+A: Did you need help?
+B: Where do I go to pick up my ballot?
+A: I'll help you with that.
+B: How's that?
+A: I'm working here today.
+B: That's wonderful. Thank you.
+A: Can I see your ID, please?
+B: Here you go.
+A: I have your ballot card right here.
+B: What am I supposed to do now?
+A: All you have to do now is vote.
+B: Okay. Wish me luck.

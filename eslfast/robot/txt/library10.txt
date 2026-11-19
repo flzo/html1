@@ -1,0 +1,38 @@
+A: What can I do for you today?
+B: I need to return a book.
+A: Can I do anything else for you?
+B: I would also like to check out this video.
+A: Is that all?
+B: Yes, just the video.
+A: May I see your library card?
+B: Here you go.
+A: You have to take care of this video.
+B: Oh, I will.
+A: You will be fined if you damage it.
+B: I understand. Thank you very much.
+
+A: May I help you?
+B: I'm returning a book.
+A: Do you need anything else?
+B: I also need to check out this video.
+A: This is all you want to check out?
+B: Just the video.
+A: I'm going to need your library card.
+B: I have it right here.
+A: You'll need to take care of the video.
+B: I will.
+A: We will fine you if you damage it.
+B: I get it. Thank you.
+
+A: How may I help you?
+B: I would like to return this book.
+A: Is that all you need?
+B: I also want to check out this video.
+A: Is that all you would like to check out?
+B: That's all I need.
+A: Do you have your library card?
+B: Here it is.
+A: Make sure to take proper care of this video.
+B: That won't be a problem.
+A: If you damage the video, you will be fined.
+B: I won't damage it.

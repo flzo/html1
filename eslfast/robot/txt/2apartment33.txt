@@ -1,0 +1,32 @@
+A: I need to speak with the manager, please.
+B: Yes, this is the manager. How may I help you this morning?
+A: We are having problems getting into our apartment.
+B: Is this the first time that you have tried this key since I gave it to you?
+A: Yes, this is the first time that we have tried this key.
+B: Does the key go into the lock okay?
+A: It fits in the lock just fine.
+B: Let's try it one more time. Just try to gently slide the key in the deadbolt and turn it to the right.
+A: It still doesn't work.
+B: I will come up to help you right away. I'll bring another key to try.
+
+A: I need to speak with the manager right away.
+B: The manager is not here right now. May I take a message?
+A: Our key doesn't seem to be working in our lock.
+B: How many times have you used this key in the lock?
+A: We have already used this key successfully before.
+B: Does the key fit in the lock?
+A: It is really hard to get it into the lock, but it does go in.
+B: Make sure you are on the top lock. Put the key in and try turning it to the right.
+A: I can't get it to work.
+B: Could you return to the manager's office? I have another key that I would like you to try.
+
+A: Good morning. Could I speak with the manager, please?
+B: I am the assistant manager. Is there something I can help you with?
+A: The key you gave us to our apartment doesn't seem to be working.
+B: Did this key work okay for you before?
+A: We were using my roommate's key before and never really tried this one.
+B: Does the key seem to belong in that lock?
+A: It doesn't really fit at all.
+B: Try putting your key in the top lock one more time and turn it to the right.
+A: It works now, but it didn't work before.
+B: We have been having trouble with that lock. I will call a locksmith right away.

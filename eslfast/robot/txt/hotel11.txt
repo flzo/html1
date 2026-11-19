@@ -1,0 +1,39 @@
+Conversation 1:
+A: I need to copy a document immediately.
+B: We have a copy machine in our computer lab, located on the first floor.
+A: Great! How much is it for a copy?
+B: The price per copy is ten cents.
+A: That sounds reasonable. I'll be down there immediately.
+B: THere shouldn't be any long lines, sir.
+
+Conversation 2:
+A: I need to copy something right now.
+B: Our computer lab on the first floor has a copy machine, sir.
+A: Great! How much per copy?
+B: Sir, one copy is ten cents.
+A: I'll be down there shortly.
+B: You probably won't have to wait for anyone, sir.
+
+Conversation 3:
+A: I need to make a copy of something at once.
+B: There's a copy machine on the first floor in our computer lab, sir.
+A: Fantastic! Is there a charge?
+B: It's ten cents a copy, sir.
+A: I'm only making one copy, so I guess I can afford it.
+B: A dime is still a bargain, sir.
+
+Conversation 4:
+A: I need to make a copy of a document as soon as possible.
+B: No problem, sir. There's a copy machine in our computer lab.
+A: Very good. How much does each copy cost?
+B: Each copy will cost you a dime, sir.
+A: A dime? I remember when copies used to cost a nickel.
+B: There aren't many things you can get for a nickel, sir.
+
+Conversation 5:
+A: Can you tell me where I could make a copy of a document right now?
+B: Sir, you can come downstairs right now to the computer lab.
+A: That's great. I don't suppose the copy machine is free for guests?
+B: Sir, each copy is ten cents or one dime, whichever you prefer.
+A: In the good old days, it was only five cents a copy. I'll be right down.
+B: Those were the good old days, sir, indeed.

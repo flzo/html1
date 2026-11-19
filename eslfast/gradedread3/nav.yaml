@@ -1,0 +1,509 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/gradedread3/gr3/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-18T16:09:16+08:00"
+  total: 100
+  failed: 0
+pages:
+  - index: 1
+    slug: "gr3001"
+    title: "1. Back-to-School Shopping"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3001.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3001.mp3"
+  - index: 2
+    slug: "gr3002"
+    title: "2. Going to an Amusement Park"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3002.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3002.mp3"
+  - index: 3
+    slug: "gr3003"
+    title: "3. An Annoying Little Brother"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3003.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3003.mp3"
+  - index: 4
+    slug: "gr3004"
+    title: "4. Losing His House Key"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3004.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3004.mp3"
+  - index: 5
+    slug: "gr3005"
+    title: "5. \"Dad, I Trust You\""
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3005.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3005.mp3"
+  - index: 6
+    slug: "gr3006"
+    title: "6. Getting a Puppy from Animal Shelter"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3006.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3006.mp3"
+  - index: 7
+    slug: "gr3007"
+    title: "7. He Hated Math"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3007.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3007.mp3"
+  - index: 8
+    slug: "gr3008"
+    title: "8. School Detention for Her Son"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3008.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3008.mp3"
+  - index: 9
+    slug: "gr3009"
+    title: "9. Chores Teach Responsibility and Love"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3009.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3009.mp3"
+  - index: 10
+    slug: "gr3010"
+    title: "10. Teenager Earns Money for Dream Bike"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3010.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3010.mp3"
+  - index: 11
+    slug: "gr3011"
+    title: "11. Caring for Puppies"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3011.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3011.mp3"
+  - index: 12
+    slug: "gr3012"
+    title: "12. Fishing Trip with Grandpa"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3012.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3012.mp3"
+  - index: 13
+    slug: "gr3013"
+    title: "13. A Wise Old Turtle"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3013.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3013.mp3"
+  - index: 14
+    slug: "gr3014"
+    title: "14. Oldest Brother Fixes Bicycle"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3014.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3014.mp3"
+  - index: 15
+    slug: "gr3015"
+    title: "15. School Bus Friendships"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3015.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3015.mp3"
+  - index: 16
+    slug: "gr3016"
+    title: "16. Preparing for a Major Test"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3016.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3016.mp3"
+  - index: 17
+    slug: "gr3017"
+    title: "17. Planting an Orange Tree"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3017.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3017.mp3"
+  - index: 18
+    slug: "gr3018"
+    title: "18. Teen Learns about Manners"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3018.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3018.mp3"
+  - index: 19
+    slug: "gr3019"
+    title: "19. Dedicated Student Studies Everywhere"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3019.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3019.mp3"
+  - index: 20
+    slug: "gr3020"
+    title: "20. A Remarkable Teacher's Impact"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3020.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3020.mp3"
+  - index: 21
+    slug: "gr3021"
+    title: "21. Diligent student's love for learning"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3021.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3021.mp3"
+  - index: 22
+    slug: "gr3022"
+    title: "22. Writing an Essay on Kindness"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3022.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3022.mp3"
+  - index: 23
+    slug: "gr3023"
+    title: "23. Farm Boy's Loving Duties"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3023.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3023.mp3"
+  - index: 24
+    slug: "gr3024"
+    title: "24. After-School Activities"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3024.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3024.mp3"
+  - index: 25
+    slug: "gr3025"
+    title: "25. He loves Her without Her Knowing It"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3025.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3025.mp3"
+  - index: 26
+    slug: "gr3026"
+    title: "26. Young Men Join Army"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3026.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3026.mp3"
+  - index: 27
+    slug: "gr3027"
+    title: "27. Lively School Cafeteria Lunch"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3027.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3027.mp3"
+  - index: 28
+    slug: "gr3028"
+    title: "28. Teen's Facebook Photography Success"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3028.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3028.mp3"
+  - index: 29
+    slug: "gr3029"
+    title: "29. An Exciting Soccer Game"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3029.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3029.mp3"
+  - index: 30
+    slug: "gr3030"
+    title: "30. A Bad Driver"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3030.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3030.mp3"
+  - index: 31
+    slug: "gr3031"
+    title: "31. Playing Poker"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3031.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3031.mp3"
+  - index: 32
+    slug: "gr3032"
+    title: "32. Robert's Love for Coffee"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3032.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3032.mp3"
+  - index: 33
+    slug: "gr3033"
+    title: "33. Gambling Addiction"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3033.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3033.mp3"
+  - index: 34
+    slug: "gr3034"
+    title: "34. Great Wall Adventure"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3034.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3034.mp3"
+  - index: 35
+    slug: "gr3035"
+    title: "35. Neighbor's Small Claim"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3035.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3035.mp3"
+  - index: 36
+    slug: "gr3036"
+    title: "36. A Blind Date"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3036.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3036.mp3"
+  - index: 37
+    slug: "gr3037"
+    title: "37. Ordering Lunch at a Fast-Food Restaurant"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3037.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3037.mp3"
+  - index: 38
+    slug: "gr3038"
+    title: "38. Learning How to Golf"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3038.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3038.mp3"
+  - index: 39
+    slug: "gr3039"
+    title: "39. Uniting his Neighborhood to Fight Crime"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3039.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3039.mp3"
+  - index: 40
+    slug: "gr3040"
+    title: "40. Dream Vacation in Hawaii"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3040.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3040.mp3"
+  - index: 41
+    slug: "gr3041"
+    title: "41. A Hotel with Bad Services"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3041.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3041.mp3"
+  - index: 42
+    slug: "gr3042"
+    title: "42. Job Interview Success Story"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3042.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3042.mp3"
+  - index: 43
+    slug: "gr3043"
+    title: "43. Forest Fire Caused by Humans"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3043.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3043.mp3"
+  - index: 44
+    slug: "gr3044"
+    title: "44. Bad Boss, Innovation Lost"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3044.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3044.mp3"
+  - index: 45
+    slug: "gr3045"
+    title: "45. Cynthia's Weight Loss Journey"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3045.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3045.mp3"
+  - index: 46
+    slug: "gr3046"
+    title: "46. Making a Grocery Shopping List"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3046.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3046.mp3"
+  - index: 47
+    slug: "gr3047"
+    title: "47. Saving Money to Buy a House"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3047.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3047.mp3"
+  - index: 48
+    slug: "gr3048"
+    title: "48. Dream Home Found"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3048.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3048.mp3"
+  - index: 49
+    slug: "gr3049"
+    title: "49. Bear Invasion"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3049.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3049.mp3"
+  - index: 50
+    slug: "gr3050"
+    title: "50. Man Quits Smoking for Family"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3050.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3050.mp3"
+  - index: 51
+    slug: "gr3051"
+    title: "51. Double Charge Resolved"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3051.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3051.mp3"
+  - index: 52
+    slug: "gr3052"
+    title: "52. Doctor Visit in USA"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3052.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3052.mp3"
+  - index: 53
+    slug: "gr3053"
+    title: "53. Tom Loves Eco-Friendly Car"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3053.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3053.mp3"
+  - index: 54
+    slug: "gr3054"
+    title: "54. Phone Upgrade with Expert Assistance"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3054.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3054.mp3"
+  - index: 55
+    slug: "gr3055"
+    title: "55. A Salesperson's Day"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3055.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3055.mp3"
+  - index: 56
+    slug: "gr3056"
+    title: "56. Food Poisoning"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3056.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3056.mp3"
+  - index: 57
+    slug: "gr3057"
+    title: "57. Fighting Insomnia"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3057.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3057.mp3"
+  - index: 58
+    slug: "gr3058"
+    title: "58. Installing High-Speed Internet"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3058.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3058.mp3"
+  - index: 59
+    slug: "gr3059"
+    title: "59. Losing Weight"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3059.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3059.mp3"
+  - index: 60
+    slug: "gr3060"
+    title: "60. Texting While Driving"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3060.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3060.mp3"
+  - index: 61
+    slug: "gr3061"
+    title: "61. The Picky Shopper in Maplewood"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3061.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3061.mp3"
+  - index: 62
+    slug: "gr3062"
+    title: "62. A Rare Disease"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3062.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3062.mp3"
+  - index: 63
+    slug: "gr3063"
+    title: "63. Aspiring Singer's Nightly Practice"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3063.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3063.mp3"
+  - index: 64
+    slug: "gr3064"
+    title: "64. Running for Mayor"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3064.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3064.mp3"
+  - index: 65
+    slug: "gr3065"
+    title: "65. Beauty in Simple Lines and Shapes"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3065.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3065.mp3"
+  - index: 66
+    slug: "gr3066"
+    title: "66. A New Beginning"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3066.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3066.mp3"
+  - index: 67
+    slug: "gr3067"
+    title: "67. A Road to Freedom"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3067.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3067.mp3"
+  - index: 68
+    slug: "gr3068"
+    title: "68. A Heartfelt Funeral"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3068.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3068.mp3"
+  - index: 69
+    slug: "gr3069"
+    title: "69. A Day Off Needed"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3069.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3069.mp3"
+  - index: 70
+    slug: "gr3070"
+    title: "70. The Mattress of Dreams"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3070.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3070.mp3"
+  - index: 71
+    slug: "gr3071"
+    title: "71. Maya's Environmental Protest Success"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3071.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3071.mp3"
+  - index: 72
+    slug: "gr3072"
+    title: "72. Donation to a Community Center"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3072.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3072.mp3"
+  - index: 73
+    slug: "gr3073"
+    title: "73. A Life Well-Lived"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3073.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3073.mp3"
+  - index: 74
+    slug: "gr3074"
+    title: "74. Learning How to Drive in a New Country"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3074.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3074.mp3"
+  - index: 75
+    slug: "gr3075"
+    title: "75. A Slow Laptop"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3075.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3075.mp3"
+  - index: 76
+    slug: "gr3076"
+    title: "76. Cleaning Up Their Apartment"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3076.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3076.mp3"
+  - index: 77
+    slug: "gr3077"
+    title: "77. Misfortunes on Friday the 13th"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3077.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3077.mp3"
+  - index: 78
+    slug: "gr3078"
+    title: "78. Dating Two People"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3078.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3078.mp3"
+  - index: 79
+    slug: "gr3079"
+    title: "79. Driving through the Car Wash Machine"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3079.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3079.mp3"
+  - index: 80
+    slug: "gr3080"
+    title: "80. Store Closing Sale"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3080.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3080.mp3"
+  - index: 81
+    slug: "gr3081"
+    title: "81. Crafting a Dream Resume"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3081.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3081.mp3"
+  - index: 82
+    slug: "gr3082"
+    title: "82. Convenience of Digital Payment"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3082.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3082.mp3"
+  - index: 83
+    slug: "gr3083"
+    title: "83. The Perfect Gift for Her"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3083.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3083.mp3"
+  - index: 84
+    slug: "gr3084"
+    title: "84. Earth Day Park Clean-up"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3084.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3084.mp3"
+  - index: 85
+    slug: "gr3085"
+    title: "85. Life-Changing Long Trip"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3085.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3085.mp3"
+  - index: 86
+    slug: "gr3086"
+    title: "86. A Chef's Day"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3086.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3086.mp3"
+  - index: 87
+    slug: "gr3087"
+    title: "87. Heather Buys Electric Car"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3087.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3087.mp3"
+  - index: 88
+    slug: "gr3088"
+    title: "88. Doctor's Day in Action"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3088.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3088.mp3"
+  - index: 89
+    slug: "gr3089"
+    title: "89. Nurse's Compassionate Day"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3089.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3089.mp3"
+  - index: 90
+    slug: "gr3090"
+    title: "90. Cellphone Brings Unexpected Joy"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3090.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3090.mp3"
+  - index: 91
+    slug: "gr3091"
+    title: "91. Fashion Model's Runway Dreams"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3091.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3091.mp3"
+  - index: 92
+    slug: "gr3092"
+    title: "92. Texting Caused Car Crash"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3092.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3092.mp3"
+  - index: 93
+    slug: "gr3093"
+    title: "93. Running Out of Gas"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3093.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3093.mp3"
+  - index: 94
+    slug: "gr3094"
+    title: "94. Don't Care What People Think"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3094.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3094.mp3"
+  - index: 95
+    slug: "gr3095"
+    title: "95. Washing His Car"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3095.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3095.mp3"
+  - index: 96
+    slug: "gr3096"
+    title: "96. Coffee-Making Tradition Lives On"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3096.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3096.mp3"
+  - index: 97
+    slug: "gr3097"
+    title: "97. Tanning at the Beach"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3097.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3097.mp3"
+  - index: 98
+    slug: "gr3098"
+    title: "98. Tattooing Hope: New Beginnings"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3098.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3098.mp3"
+  - index: 99
+    slug: "gr3099"
+    title: "99. Surprising 18th Birthday Celebration"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3099.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3099.mp3"
+  - index: 100
+    slug: "gr3100"
+    title: "100. Dance Party Success"
+    url: "https://www.eslfast.com/gradedread3/gr3/gr3100.htm"
+    mp3: "https://www.eslfast.com/gradedread3/audio/gr3100.mp3"

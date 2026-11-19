@@ -1,0 +1,38 @@
+A: Hello, how are you doing today?
+B: I'm great.
+A: What can I do for you today?
+B: I wanted to ask about the apartment for rent.
+A: Ask away.
+B: I was wondering if the apartment is located in a nice area.
+A: As a matter of fact, the apartment is in a wonderful location.
+B: What surrounds the apartment?
+A: There are many stores and restaurants surrounding the apartment.
+B: Is that right?
+A: I promise you that you will love the location.
+B: From what you're telling me, it sounds like I will.
+
+A: How are you?
+B: Good, thank you.
+A: What can I help you with?
+B: Can I ask you a few questions about the apartment?
+A: Ask whatever you'd like.
+B: I want to know if the location of the apartment is nice.
+A: I honestly believe that you will love the location.
+B: What kinds of places are around the apartment?
+A: Surrounding the apartment are great places to eat and stores to shop at.
+B: Oh, really?
+A: I'm sure that the location will be to your liking.
+B: I hope that you're right.
+
+A: How is everything with you today?
+B: I'm fine. Thank you for asking.
+A: Can I help you with something?
+B: I actually have a few questions about the apartment.
+A: What questions do you have?
+B: Is this apartment in a nice location?
+A: It is in a great location.
+B: Are there any stores near the apartment?
+A: You will find many stores and restaurants near the apartment.
+B: Really?
+A: I guarantee that the apartment is in a beautiful location.
+B: That sounds wonderful.

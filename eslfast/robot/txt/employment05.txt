@@ -1,0 +1,32 @@
+A: Good morning. Thank you for the interview.
+B: No problem. Now, do you prefer working with others or flying solo?
+A: Actually, I enjoy both.
+B: So, what is most important to you in a job? Do you need job security or professional growth and a chance to advance?
+A: I need job security.
+B: Would you be able to relocate?
+A: I am open to relocating.
+B: What are your annual salary requirements?
+A: I need at least 75,000 per year.
+B: I'll keep that in mind. Thank you for coming in today. We'll be in touch.
+
+A: Thank you so much for interviewing me this evening.
+B: Happy to meet with you. Now, do you prefer group projects?
+A: I like to work alone on some things and then bring those things to the group.
+B: Do you value a steady job more or one that offers a chance to move ahead?
+A: I want to grow in my job and move ahead.
+B: Could you work for us in another state, if need be?
+A: I need to stay in the area because of family.
+B: How much do you need to make per year?
+A: 75,000 per year.
+B: Yikes! Thanks for your interest in this job. We'll be getting back to you.
+
+A: I really appreciate the opportunity to interview for this position.
+B: I was wondering if you like team projects, or projects that you work on alone.
+A: I like to work on group projects that value and need each individual's contributions.
+B: Are you most interested in a good steady job with benefits or one that will allow you to quickly advance?
+A: I have children so a steady job is important but I would like a chance to advance.
+B: How would you feel about relocating to another state?
+A: I could not relocate in the next year, but might be open to it in the future.
+B: Do you know how much this job offers per year?
+A: A minimum of 75,000 per year.
+B: OK, well, that's all I need to know for now. If something comes up, we'll be contacting you.

@@ -1,0 +1,12 @@
+A: Plane tickets are so expensive!
+B: I can't afford to fly to San Francisco.
+A: Well, we can always go by bus.
+B: There's a bus that drives to San Francisco?
+A: There are buses that drive to any nearby state.
+B: That sounds perfect! How much is the fare?
+A: Usually one-fifth of what a plane ticket costs.
+B: How do we buy tickets?
+A: If we buy them online, they're even cheaper.
+B: What bus line do I search?
+A: Greyhound buses are the most popular.
+B: I'm so glad we'll have a trip after all!

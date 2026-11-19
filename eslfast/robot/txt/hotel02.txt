@@ -1,0 +1,71 @@
+Conversation 1:
+A: I have a reservation. My name is John Sandals.
+B: May I see your ID, please, Mr. Sandals?
+A: Certainly. Here it is.
+B: Thank you. Do you have a credit card, Mr. Sandals?
+A: Yes, I do. Do you accept American Express?
+B: Sorry, sir, just VISA or MasterCard.
+A: Here's my VISA card.
+B: Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?
+A: Yes, it sounds like everything I expected.
+B: Here's your key, sir. If you need anything, just dial 0 on your room phone.
+
+Conversation 2:
+A: I have a reservation under the name of Sandals.
+B: Could I see your ID, please, sir?
+A: Of course! Let me take it out of my wallet.
+B: Thank you, sir. Now, do you have a credit card, sir?
+A: Yes, of course. Is American Express okay?
+B: I'm sorry, sir. Only VISA or MasterCard.
+A: In that case, here's my VISA.
+B: Thank you. Your room number is 507, queen bed, nonsmoking. Is that agreeable to you, sir?
+A: Yes, I'm easy to please.
+B: Very good. Here is your room key, sir. If you need anything at all, please dial 0.
+
+Conversation 3:
+A: My name is Sandals, I have a reservation.
+B: May I see your identification, please, sir?
+A: Here you are.
+B: Thanks. Do you have a credit card, sir?
+A: Of course. Will American Express do?
+B: I'm very sorry, sir. We accept only VISA or MasterCard.
+A: No problem. Here's my VISA.
+B: Thanks. Room 507 is a spacious, nonsmoking room, with a queen bed. Does that meet your expectations?
+A: Yes, that sounds like what I want.
+B: That's wonderful, sir. Now, here's your key. Should you need anything, just dial 0.
+
+Conversation 4:
+A: I'm John Sandals, and I have a reservation.
+B: Would you show me your ID, sir, please?
+A: Here you go.
+B: Thank you very much. Now, sir, do you have a credit card?
+A: Certainly! Would you like my American Express card?
+B: Regrettably, Mr. Sandals, we accept only MasterCard or VISA.
+A: I thought American Express was accepted everywhere. Never mind. Here's my VISA.
+B: Thanks. You're in room 507, a big, nonsmoking room, with a queen bed. Is that okay, sir?
+A: Yes, that's just fine.
+B: I'm happy to hear that. Here is your key. Just dial 0 if you need anything.
+
+Conversation 5:
+A: My name is John Sandals, and I've got a reservation.
+B: May I see some identification, sir, please?
+A: Sure. Here you are.
+B: Thank you so much. Have you got a credit card, Mr. Sandals?
+A: I sure do. How about American Express?
+B: Unfortunately, at the present time we take only MasterCard or VISA.
+A: No American Express? Okay, here's my VISA.
+B: Thank you, sir. You'll be in room 507, nonsmoking, with a queen-size bed. Do you approve, sir?
+A: Yes, that'll be fine.
+B: That's great. This is your key, sir. If you need anything at all, anytime, just dial zero.
+
+Conversation 6:
+A: I've got a reservation here. My name is John Sandals.
+B: Mr. Sandals, may I see your ID, please?
+A: One second, please, while I dig it out here.
+B: Now, sir, do you have a credit card?
+A: Yes, I do. Do you accept American Express?
+B: I'm sorry, Mr. Sandals, but we accept only MasterCard or VISA.
+A: That's okay, I've got plenty of cards. Here's my VISA.
+B: Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?
+A: Yes, that's just what I wanted.
+B: Here's your key, sir. If you need anything, just dial 0 on your room phone.

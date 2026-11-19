@@ -1,0 +1,38 @@
+A: May I ask you how much this position pays per year?
+B: This job pays sixty-five thousand dollars per year.
+A: What kind of benefits does this job have?
+B: This job provides full medical, dental, and disability.
+A: What type of vacation time do we get?
+B: You get 3 weeks paid vacation that you may use as you wish.
+A: Do we have a 401K?
+B: We offer a 401K with some matching funds available depending on length of service.
+A: What type of professional development do you offer?
+B: We provide up-to-date training on state of the art equipment.
+A: Where do I sign up for my benefits package?
+B: Down the hall. I'll show you when the interview is over.
+
+A: What is the annual salary for this job?
+B: The annual salary is sixty-five thousand dollars per year.
+A: What does the benefits package include?
+B: This job pays for half of your medical, dental, and disability.
+A: Do we get paid time off?
+B: You have a total of 21 days paid time off which can be used for vacation, personal, or sick leave.
+A: How about retirement?
+B: We still offer a traditional retirement plan that pays out if you stay with the company for 5 years or more.
+A: Can I get company provided specialized training?
+B: We offer full tuition reimbursement for job related classes.
+A: Where is the benefits office?
+B: It's on the second floor in Suite 201.
+
+A: What will I earn per year in this job?
+B: You can expect to earn sixty-five thousand dollars per year.
+A: Are we covered by a good benefits plan?
+B: The job has a menu plan where you are given a fixed amount of money and you choose what you most need in terms of benefits.
+A: Can we take personal days off?
+B: You get 2 weeks paid vacation and an additional 10 days of sick leave.
+A: What do you offer in terms of a retirement plan?
+B: We do not currently offer any retirement plan.
+A: Do you reimburse for education that relates to my job?
+B: We allow several weeks release time each year for our employees to attend job-related seminars and conferences.
+A: Do you have a benefits brochure?
+B: Whoa! Who said you got the job?

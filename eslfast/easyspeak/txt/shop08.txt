@@ -1,0 +1,12 @@
+A: I want to buy this, but $40 is too expensive.
+B: It is a high-quality item, and worth every penny.
+A: It looks a little bit dirty.
+B: It is just dusty from being on the shelf.
+A: If no one has bought it, it can't be so valuable.
+B: It is my last one because I almost sold out.
+A: I'll buy it if you cut the price in half.
+B: That is too cheap! I'll make no money.
+A: This product is cheap quality! I'll lose money.
+B: I'll give it to you for $35.
+A: Make it $30 and you've got a deal.
+B: Alright, $30 sounds fine.

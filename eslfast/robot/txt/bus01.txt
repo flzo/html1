@@ -1,0 +1,38 @@
+A: This bus goes all the way to Santa Anita mall, right?
+B: Yes, it'll take us there.
+A: Are you positive?
+B: I always catch this bus.
+A: How long is this bus ride?
+B: It only takes half an hour.
+A: Where do we get off at?
+B: We can get off the bus right behind Macy's.
+A: There's a stop right next to the mall?
+B: Yeah, it's right in the parking lot.
+A: That's cool.
+B: Yes, I know.
+
+A: Does this bus really go to the mall?
+B: It goes all the way there.
+A: Are you sure?
+B: I know it does. I catch this bus a lot.
+A: How long does it take for the bus to get there?
+B: The bus ride is only thirty minutes or so.
+A: Where do we get off the bus?
+B: Right behind Macy's is a bus stop.
+A: The stop is really at the mall?
+B: It's in the middle of the parking lot.
+A: That's perfect.
+B: I know it is.
+
+A: Are you sure that this bus will take us to Santa Anita mall?
+B: Yes, it will.
+A: You know that for a fact?
+B: Yeah, I catch this bus all the time.
+A: Is it a very long bus ride?
+B: It's about thirty minutes long.
+A: Do you know where we get off at?
+B: There's a bus stop right behind Macy's.
+A: Really, there's a bus stop right by the mall?
+B: There's a bus stop in the mall parking lot.
+A: That's convenient.
+B: Absolutely.

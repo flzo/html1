@@ -1,0 +1,38 @@
+A: I need to get some beef.
+B: Do you know what kind of beef you want?
+A: I want to get some ground beef.
+B: How many pounds do you need?
+A: I would like four pounds of ground beef.
+B: What kind of ground beef do you need?
+A: I would like the extra lean.
+B: Let me go and get that for you.
+A: Thank you very much.
+B: No problem.
+A: I'll wrap it up for you now.
+B: I appreciate that.
+
+A: I would like to buy some beef.
+B: What kind do you want?
+A: I need to get ground beef.
+B: How many pounds would you like me to get you?
+A: I need about four pounds.
+B: Exactly what type of ground beef do you want?
+A: Extra lean.
+B: I'll get that for you right now.
+A: I appreciate that.
+B: Don't mention it.
+A: I'll just wrap this up for you.
+B: Thanks for your help.
+
+A: Could I get some beef?
+B: What kind of beef would you like to get?
+A: Ground beef would be fine.
+B: How many pounds would you like?
+A: Four pounds is enough.
+B: What kind of ground beef do you want?
+A: I'm going to need extra lean ground beef.
+B: I can get that for you.
+A: Thanks so much.
+B: You're welcome.
+A: Let me go wrap the ground beef up for you.
+B: Thanks for everything.

@@ -1,0 +1,38 @@
+A: I don't understand why I'm being arrested.
+B: You have a warrant.
+A: A warrant for what?
+B: Apparently, you have a bench warrant.
+A: What does that mean?
+B: You missed a court appearance.
+A: I wasn't aware that I had to go to court.
+B: I don't know what to tell you.
+A: I don't find this fair.
+B: Life isn't fair.
+A: Don't I have any rights?
+B: You have the right to remain silent.
+
+A: Why are you arresting me?
+B: There is a warrant out for your arrest.
+A: What kind of warrant?
+B: You have a bench warrant.
+A: What is that?
+B: Have you missed a court date?
+A: I never went to court.
+B: I can't help you.
+A: This is unfair.
+B: A lot of things aren't fair. That's life.
+A: I have rights, don't I?
+B: You have the right to an attorney.
+
+A: Why am I being arrested?
+B: You have a warrant out for your arrest.
+A: I don't have a warrant.
+B: My computer shows that you have a bench warrant.
+A: I don't know what a bench warrant is.
+B: You apparently missed a court appearance.
+A: I was never told to go to court.
+B: There's nothing I can do about that.
+A: This isn't fair.
+B: That's life.
+A: What about my rights?
+B: Anything you say can and will be used against you in a court of law.

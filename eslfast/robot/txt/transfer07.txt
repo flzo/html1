@@ -1,0 +1,38 @@
+A: What can I help you with today?
+B: I need to talk to you about transferring.
+A: Where did you want to transfer to?
+B: I have no idea.
+A: You have plenty of time to think about it.
+B: What do I need to do in order to transfer?
+A: You're going to need to finish your General Education.
+B: How many classes is that?
+A: The GE is 60 credits worth of classes.
+B: Is that a lot?
+A: You can finish in about two years.
+B: Oh. That shouldn't be a problem at all.
+
+A: Can I help you?
+B: May I talk to you about transferring schools?
+A: Where would you like to transfer to?
+B: I haven't figured that out yet.
+A: You have more than enough time to figure it out.
+B: What must I do to transfer?
+A: First, you have to complete your General Education.
+B: How many GE classes are there?
+A: You need 60 credits of GE classes.
+B: How long will that take?
+A: If you work fast, you can finish in a matter of two years.
+B: I can do that.
+
+A: What do you need?
+B: I wanted to talk to you about transferring.
+A: What school do you want to transfer to?
+B: I'm not really sure yet.
+A: You still have time to think about it.
+B: What do I need to do in the meantime?
+A: You'll need to finish your GE.
+B: Exactly how many classes would I need to take?
+A: You need to complete 60 credits worth of classes to finish your General Education.
+B: That sounds like a lot of classes.
+A: It will take you at the most 2 years, depending on your pace.
+B: That shouldn't be too hard.

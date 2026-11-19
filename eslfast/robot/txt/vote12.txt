@@ -1,0 +1,38 @@
+A: I am a reporter from Channel 5 News.
+B: What's up?
+A: Could I ask you some questions?
+B: Sure, you can.
+A: Did you vote today?
+B: I sure did!
+A: What candidate did you vote for?
+B: I can't disclose that information.
+A: Why is that?
+B: My vote is my own private business.
+A: I understand.
+B: I voted for our next President.
+
+A: I'm reporting from Channel 5 News.
+B: How are you doing?
+A: I want to ask you a couple questions.
+B: Go for it.
+A: Have you voted yet?
+B: I voted this morning.
+A: Who was your vote for President?
+B: I can't tell you that.
+A: Why can't you tell me?
+B: That is private information.
+A: I see.
+B: All I can tell you is our next President got my vote.
+
+A: I'm from Channel 5 News.
+B: How's it going?
+A: I was wondering if I could ask you a few questions.
+B: Ask away.
+A: First of all, did you vote today?
+B: I already voted.
+A: Who did you vote for?
+B: I'm not going to tell you.
+A: Why not?
+B: My vote is personal.
+A: I apologize for invading your privacy.
+B: What I can tell you is that I voted for our next President of the United States.

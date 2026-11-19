@@ -1,0 +1,32 @@
+A: So where are the laundry rooms located?
+B: There is a laundry room located at the end of each hallway.
+A: Can I use them at any time?
+B: All laundry rooms are locked at eleven at night and re-open at seven in the morning.
+A: Do they use change?
+B: You should bring quarters for the washer and dryer.
+A: Can you buy detergent in the laundry room?
+B: Yes, there are detergent dispensers in the laundry room.
+A: Are there rules in the laundry room?
+B: Yes, if you leave your laundry in the machine unattended, people can just take it out and put it on a table so they may use the machine.
+
+A: Does every floor have a laundry room?
+B: Each hallway has a laundry room located near the stairway.
+A: Are they open for use around the clock?
+B: The laundry room near the recreation center is open twenty-four hours a day. The rest have posted hours.
+A: Do I need to bring coins with me?
+B: The washers and dryers require correct change, but there is a change machine in the laundry room.
+A: Are there any detergent dispensers in the laundry room?
+B: Yes, but they are expensive.
+A: Are there any specific rules about doing laundry?
+B: Yes, you are only supposed to tie up three machines at a time for your own use, so that the other machines are available for other tenants.
+
+A: Do you have a lot of laundry rooms?
+B: We have many laundry rooms. Your closest one is next to the pool.
+A: Are there any certain hours we can use them.
+B: All of the laundry rooms can be used whenever you need to use them.
+A: What type of payment do they require?
+B: If you bring dollar bills, you will be in great shape.
+A: Is there any place to buy laundry detergent in the laundry room.
+B: There are detergent dispensers in the laundry room but it is cheaper to buy it across the street at the market.
+A: Is there anything I should know about the rules of the laundry room?
+B: Yes, we ask that you please clean up after yourself as in wiping up spilled detergent or cleaning out lint screens.

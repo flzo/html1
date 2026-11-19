@@ -1,0 +1,12 @@
+A: I have five classes and 40 hours of work weekly.
+B: Your life is so stressful.
+A: Sadly, it is.
+B: I am only taking two classes.
+A: Do you have work?
+B: I am too lazy to work.
+A: Don't you want money though?
+B: My parents are rich.
+A: My parents are poor.
+B: I'm sorry to hear that.
+A: They're poor but honest, good people.
+B: Good for you.

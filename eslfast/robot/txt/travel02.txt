@@ -1,0 +1,32 @@
+A: Could you help me make a plane reservation?
+B: I would be happy to help you. Where do you plan on going?
+A: I am going to go to Hawaii.
+B: For that destination, you may leave from Los Angeles or Burbank Airport. Which would you prefer?
+A: I think that I would rather leave from Los Angeles Airport.
+B: Would you prefer a morning or afternoon departure?
+A: I need to leave in the morning.
+B: Fine. On your return flight, do you have a preference as to morning or afternoon?
+A: I would prefer to return in the afternoon.
+B: I have booked you on your flight at a great rate. Here are your tickets.
+
+A: I need to make a plane reservation.
+B: That is what I am here for. What is your destination?
+A: I will be traveling to Aspen, Colorado.
+B: Would you prefer to leave from Los Angeles or Burbank Airport?
+A: Burbank Airport would be best for me.
+B: You can leave in the morning of afternoon from that airport. Do you have a preference?
+A: I can only take a flight that leaves in the afternoon.
+B: I can book that for you right now. When you return, would you prefer morning or afternoon?
+A: I think that I would like a morning return flight better.
+B: I was able to book your flight, and I will print your tickets right now. Have a great trip!
+
+A: I am planning a trip and need help making my airline reservation.
+B: Sure. Where are you traveling to on your trip?
+A: I will be vacationing in Oregon.
+B: You have an option of departing from Los Angeles or Burbank Airport. What is your preference?
+A: I live closer to Los Angeles Airport, so that would be the best choice.
+B: Does it matter to you if you leave in the morning or afternoon?
+A: I can leave at either time.
+B: I'll put you on a morning flight. Is a morning or afternoon return flight preferable for you?
+A: Either morning or afternoon would work for me.
+B: I'll give you an afternoon flight. Here are your tickets.

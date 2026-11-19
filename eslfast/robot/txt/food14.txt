@@ -1,0 +1,38 @@
+A: What can I get for you today?
+B: Could I get a hamburger, please?
+A: Would you like cheese on that?
+B: No, thank you.
+A: Would you like a drink?
+B: Let me have a soda.
+A: What kind of soda would you like?
+B: May I have a Sprite, please?
+A: Sure, no problem.
+B: I would also like a bag of chips.
+A: Will that be all?
+B: That's everything.
+
+A: What would you like today?
+B: Let me get a hamburger.
+A: Do you want cheese on it?
+B: No cheese.
+A: Can I get you something to drink?
+B: Can I get a soda, please?
+A: What kind do you want?
+B: I'd like a Sprite.
+A: Would you like anything else?
+B: I'd like a bag of Doritos with that.
+A: Is that all?
+B: That'll be all.
+
+A: What would you like to order?
+B: I would like to have a hamburger.
+A: Did you want it with cheese?
+B: I don't want cheese on it.
+A: Did you want anything to drink today?
+B: I think I'm going to get a soda today.
+A: What kind of soda can I get you?
+B: A Sprite sounds good.
+A: What else would you like?
+B: Let me get a bag of chips too.
+A: Anything else?
+B: That's all. Thank you.

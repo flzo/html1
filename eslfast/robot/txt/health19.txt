@@ -1,0 +1,32 @@
+A: Good morning, how are you doing today?
+B: I have been feeling pretty good, Dr. Smith.
+A: So, I can see by your chart that you are here for your annual physical.
+B: Yes, I am playing on the tennis team this year, and they are requiring me to get a physical exam.
+A: We are basically going to check your heart, lungs, blood sugar levels, and eyes, ears, and nose.
+B: I've kind of been having problems being out of breath. Can you look at that?
+A: Yes, I will check you for asthma, and maybe we can check you for allergies later.
+B: Thank you. What will the blood test tell you?
+A: We will be checking for blood sugar, cholesterol, and white blood cell count.
+B: I have been working hard to stay healthy. I hope the tests turn out well.
+
+A: So how are we feeling today?
+B: Things are going well for me, Dr. Smith.
+A: Am I correct in thinking that you are here for your annual physical?
+B: Yes, I am applying for new health insurance, and I need a physical examination to qualify.
+A: Your basic physical exam will include lungs, heart, blood levels, and eyes, ears, and nose.
+B: I've been having a little trouble breathing. Would you look into that, please?
+A: We can do an allergy test, and later I can send you for an asthma test.
+B: I would appreciate it. When you give me a blood test, what are you looking for?
+A: I am going to check your cholesterol, blood sugar, and white blood cell count.
+B: I am expecting the tests to go well. I have been taking good care of myself.
+
+A: Nice to see you; how have you been feeling lately?
+B: I have been feeling great, Dr. Smith.
+A: I am happy that you have decided to come in for your annual physical.
+B: Yes, I am going on a cross-country bike ride on vacation and want to make sure that I don't have any problems.
+A: We are going to look at your heart and lungs, do a few blood tests, and see that your eyes, ears, and nose are all working as they should be.
+B: I've been having trouble with congestion in my chest. Can you give me some tests for that?
+A: I can do a chest X-ray to check for congestion.
+B: That would be great. What is the blood test for?
+A: The blood test is for cholesterol, white blood cell count, and blood sugar.
+B: I have been feeling great. I don't imagine that any of my tests will turn out badly.

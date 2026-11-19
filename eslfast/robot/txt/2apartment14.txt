@@ -1,0 +1,38 @@
+A: I would love to rent out your apartment.
+B: That's great.
+A: How much is the rent?
+B: The rent each month is $1050.
+A: That's a lot of money.
+B: Did you have a better price in mind?
+A: What about $800?
+B: That's way too low.
+A: I can't pay much more than that.
+B: How about $900 a month?
+A: That would be fine.
+B: Great. It was a pleasure doing business with you.
+
+A: I think I may rent this apartment from you.
+B: That would be wonderful.
+A: Can you tell me how much I would have to pay for rent?
+B: The rent is $1050 every month.
+A: That's way too much.
+B: What is good for you?
+A: I can afford about $800 a month for rent.
+B: That's not high enough.
+A: How much more are you thinking?
+B: I can let it go at $900 a month.
+A: That's almost perfect.
+B: I can live with that too.
+
+A: I want to rent this apartment.
+B: I'm glad to hear that.
+A: How much are you asking?
+B: You will have to pay $1050 every month.
+A: I can't afford that.
+B: What can you afford?
+A: I was thinking $800 a month.
+B: I'll need you to pay more than that.
+A: How much more?
+B: How does $900 every month sound to you?
+A: I can live with that.
+B: We have a deal then.

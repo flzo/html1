@@ -1,0 +1,38 @@
+A: Do you want some dessert?
+B: No thanks. We just need our check. Have you seen the waitress?
+A: Where is our waitress anyway?
+B: Yes, the service hasn't been the best. Is that our waitress over there?
+A: I'll walk over and get the bill, since I don't think the waitress is coming over here any time soon.
+B: Good idea. Just bring it back and we'll figure it out together.
+A: So the bill is $36.00.
+B: How much do you think we should leave for a tip?
+A: My first inclination is to leave nothing for a tip.
+B: I agree, but we don't really know the whole story. There may have been problems in the kitchen beyond her control.
+A: Let's leave 10%, so that we at least leave something for the service.
+B: I agree. We will leave $3.60 for the tip.
+
+A: Would you like some more coffee?
+B: No thanks. I'm full. We need to find our waitress and get our bill.
+A: Good luck finding the waitress!
+B: The service this evening has kind of sucked. Is that our server over there?
+A: I'll go get the check, since our server doesn't seem to be headed this way.
+B: Good. I'll just stay here until you get back.
+A: So the total is $36.00 for our dinner.
+B: How much of a tip do you think our waitress deserves?
+A: I wonder if no tip would be appropriate in light of the service.
+B: I kind of feel the same way, but they may have just been really short-staffed tonight.
+A: I think that we should leave 10%.
+B: $3.60 will be the right amount for the tip.
+
+A: Would you like to order anything else?
+B: No, I'm good. All we need now is our check.
+A: Our waitress has been kind of scarce tonight, hasn't she?
+B: I think that is our waitress over by the bar. Boy, the service has not been good this evening.
+A: She doesn't appear to be headed this way, so I will go get the check.
+B: Good. Just bring it back and we'll total it together.
+A: Our total for dinner is $36.00.
+B: What do you think would be the right amount to tip?
+A: I kind of don't want to leave any tip for the lousy service we received.
+B: I agree that it was bad service, but I heard one of the other waiters mentioning that it was our server's first night on the job.
+A: I believe that 10% is just about right.
+B: I think that a tip of $3.60 will be the right amount to leave.

@@ -1,0 +1,38 @@
+A: Are you new to this school?
+B: Yes, I'm new.
+A: Is this your first year in college?
+B: I transferred from another school.
+A: Where did you transfer from?
+B: I was at PCC before.
+A: Why did you transfer?
+B: I was going to go here first, but my grades weren't good enough.
+A: Did you like it at PCC?
+B: PCC is an incredible school.
+A: Well, I wish you luck here.
+B: I'm sure I'll like it here.
+
+A: Are you new here?
+B: This is my first day here.
+A: Are you a freshman in college?
+B: I started school somewhere else.
+A: What school did you transfer from?
+B: I started at PCC.
+A: What made you transfer?
+B: My grades weren't good enough to go here.
+A: Did you like PCC?
+B: I loved PCC.
+A: Good luck here.
+B: I'm excited to be here.
+
+A: You're new here, right?
+B: Yes, I am.
+A: Will this be your first year?
+B: No, I transferred here.
+A: What school did you come from?
+B: I transferred from PCC.
+A: Why'd you transfer here?
+B: I wanted to attend this school originally, but my grades out of high school weren't good enough.
+A: Is PCC a good school?
+B: PCC is great!
+A: I hope you enjoy it here.
+B: Thank you very much.

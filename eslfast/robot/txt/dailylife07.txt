@@ -1,0 +1,38 @@
+A: I am calling about my cable service.
+B: What's the problem?
+A: For the past week my cable hasn't been working.
+B: I apologize, but the cable has been down lately.
+A: Do you know when it is going to start working again?
+B: Give it a couple days, and it should be back on.
+A: Will I still have to pay for the cable while it's not working?
+B: Since it's not working, I'm going to give you a credit.
+A: So I don't have to pay anything?
+B: You won't pay anything until your cable starts working again.
+A: Okay, thank you very much for your help.
+B: No problem. Thank you for being so understanding.
+
+A: I have a question about my cable.
+B: What do you need?
+A: I haven't been able to watch my cable for the past week.
+B: Right now the cable isn't working.
+A: Could you tell me when it will be back on?
+B: The cable should be running again in a couple of days.
+A: In the meantime, do I still have to pay for the cable?
+B: We'll just give you a credit for the inconvenience.
+A: Does that mean I won't have to pay for it?
+B: It'll be free until it comes back on.
+A: Thanks, I appreciate your help.
+B: Thank you for all your patience.
+
+A: I have a problem with my cable.
+B: What about it?
+A: My cable has been out for the past week or so.
+B: The cable is down right now. I am very sorry.
+A: When will it be working again?
+B: It should be back on in the next couple of days.
+A: Do I still have to pay for the cable?
+B: We're going to give you a credit while the cable is down.
+A: So, I don't have to pay for it?
+B: No, not until your cable comes back on.
+A: Thanks for everything.
+B: You're welcome, and I apologize for the inconvenience.

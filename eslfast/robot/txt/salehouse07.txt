@@ -1,0 +1,32 @@
+A: Can you help me figure out some inexpensive ways to fix up the exterior of my home?
+B: Like the interior, the number one thing you can do is to repaint the outside of your home if it needs it.
+A: What do you think of the landscaping?
+B: Your lawn looks really good. Perhaps you could get some timers installed for your sprinklers.
+A: How about adding some flowers or something?
+B: Colorful flowers are always a nice addition to a yard to add curb appeal.
+A: What about fixing up the backyard?
+B: Make sure the lawn is well trimmed and the bushes are cut back.
+A: Can you think of any more overall suggestions for the exterior?
+B: Wash all of the windows inside and out.
+
+A: What can I do to fix up the exterior of my home?
+B: I would say the number one thing that you can do is paint your home, but your home has been painted recently and looks great!
+A: What can I do about the landscaping?
+B: Your lawn looks a little dried out. I think all it needs is a little fertilizer and water.
+A: My front yard looks a little boring. How can I brighten it up?
+B: I would definitely put in some new plantings to liven your yard up a bit.
+A: Should I be worried about what my backyard looks like?
+B: You need to repair that section where your fence is falling down.
+A: What else can I do to make the exterior of the house look extra good to buyers?
+B: Make sure to keep the sidewalks and driveways swept clean at all times.
+
+A: I keep hearing about curb appeal and want to know how to achieve it.
+B: The paint job on your home looks pretty good, but I would touch up the wooden trim a little where you have some peeling spots.
+A: I am not so sure that everyone will like the landscaping.
+B: Your lawn is a disaster! To get top dollar for your home, you should replace it.
+A: Is there anything I can do to add some interest to my front yard?
+B: You have beautiful plants in your yard, although some of them aren't in bloom right now. Just add a few colorful flowers in pots.
+A: Is the appearance of the backyard important?
+B: If you can borrow some really nice patio furniture to show off your lovely patio, that would be nice.
+A: Any final suggestions on how I can make the exterior of my house even more appealing?
+B: Having your trees and bushes trimmed could be a good investment.

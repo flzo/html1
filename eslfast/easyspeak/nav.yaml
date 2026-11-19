@@ -1,0 +1,1784 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.rong-chang.com"
+  section: "/easyspeak/"
+  selector: "div.content-body > div > p.timed"
+  generated_at: "2026-11-18T13:23:49+08:00"
+  total: 355
+  failed: 0
+pages:
+  - index: 1
+    slug: "school01"
+    title: "Easy Conversation: 1. Buying Textbooks"
+    url: "https://www.rong-chang.com/easyspeak/es/school01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school01n.mp3"
+  - index: 2
+    slug: "school02"
+    title: "Easy Conversation: 2. Class Registration"
+    url: "https://www.rong-chang.com/easyspeak/es/school02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school02.mp3"
+  - index: 3
+    slug: "school03"
+    title: "Easy Conversation: 3. Too Many Full Classes"
+    url: "https://www.rong-chang.com/easyspeak/es/school03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school03l.mp3"
+  - index: 4
+    slug: "school04"
+    title: "Easy Conversation: 4. First Day of School"
+    url: "https://www.rong-chang.com/easyspeak/es/school04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school04.mp3"
+  - index: 5
+    slug: "school05"
+    title: "Easy Conversation: 5. A New Student"
+    url: "https://www.rong-chang.com/easyspeak/es/school05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school05o.mp3"
+  - index: 6
+    slug: "school06"
+    title: "Easy Conversation: 6. Last Minute"
+    url: "https://www.rong-chang.com/easyspeak/es/school06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school06.mp3"
+  - index: 7
+    slug: "school07"
+    title: "Easy Conversation: 7. Forgetting It at Home"
+    url: "https://www.rong-chang.com/easyspeak/es/school07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school07a.mp3"
+  - index: 8
+    slug: "school08"
+    title: "Easy Conversation: 8. Doing the Right Thing"
+    url: "https://www.rong-chang.com/easyspeak/es/school08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school08.mp3"
+  - index: 9
+    slug: "school09"
+    title: "Easy Conversation: 9. To Borrow It from the Library"
+    url: "https://www.rong-chang.com/easyspeak/es/school09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school09d.mp3"
+  - index: 10
+    slug: "school10"
+    title: "Easy Conversation: 10. Suspension"
+    url: "https://www.rong-chang.com/easyspeak/es/school10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school10.mp3"
+  - index: 11
+    slug: "school11"
+    title: "Easy Conversation: 11. School and Work"
+    url: "https://www.rong-chang.com/easyspeak/es/school11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school11c.mp3"
+  - index: 12
+    slug: "school12"
+    title: "Easy Conversation: 12. Eating in Class"
+    url: "https://www.rong-chang.com/easyspeak/es/school12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school12.mp3"
+  - index: 13
+    slug: "school13"
+    title: "Easy Conversation: 13. Livng in the Dorms"
+    url: "https://www.rong-chang.com/easyspeak/es/school13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school13o.mp3"
+  - index: 14
+    slug: "school14"
+    title: "Easy Conversation: 14. Popularity"
+    url: "https://www.rong-chang.com/easyspeak/es/school14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school14.mp3"
+  - index: 15
+    slug: "school15"
+    title: "Easy Conversation: 15. The Vending Machine"
+    url: "https://www.rong-chang.com/easyspeak/es/school15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school15p.mp3"
+  - index: 16
+    slug: "school16"
+    title: "Easy Conversation: 16. Class Presentation"
+    url: "https://www.rong-chang.com/easyspeak/es/school16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school16.mp3"
+  - index: 17
+    slug: "school17"
+    title: "Easy Conversation: 17. Show and Tell"
+    url: "https://www.rong-chang.com/easyspeak/es/school17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school17y.mp3"
+  - index: 18
+    slug: "school18"
+    title: "Easy Conversation: 18. Choosing Partners"
+    url: "https://www.rong-chang.com/easyspeak/es/school18.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school18.mp3"
+  - index: 19
+    slug: "school19"
+    title: "Easy Conversation: 19. A Laptop for School"
+    url: "https://www.rong-chang.com/easyspeak/es/school19.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school19r.mp3"
+  - index: 20
+    slug: "school20"
+    title: "Easy Conversation: 20. Help from a Classmate"
+    url: "https://www.rong-chang.com/easyspeak/es/school20.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school20.mp3"
+  - index: 21
+    slug: "school21"
+    title: "Easy Conversation: 21. English Dictionary"
+    url: "https://www.rong-chang.com/easyspeak/es/school21.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school21i.mp3"
+  - index: 22
+    slug: "school22"
+    title: "Easy Conversation: 22. The Bully"
+    url: "https://www.rong-chang.com/easyspeak/es/school22.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/school22.mp3"
+  - index: 23
+    slug: "jobs01"
+    title: "Easy Conversation: 1. Choosing a Job"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs01.mp3"
+  - index: 24
+    slug: "jobs02"
+    title: "Easy Conversation: 2. Money and Happiness"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs02n.mp3"
+  - index: 25
+    slug: "jobs03"
+    title: "Easy Conversation: 3. A Job at 16"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs03.mp3"
+  - index: 26
+    slug: "jobs04"
+    title: "Easy Conversation: 4. Starting a Business"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs04l.mp3"
+  - index: 27
+    slug: "jobs05"
+    title: "Easy Conversation: 5. You Have to Get a Job"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs05.mp3"
+  - index: 28
+    slug: "jobs06"
+    title: "Easy Conversation: 6. Finding a Job"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs06o.mp3"
+  - index: 29
+    slug: "jobs07"
+    title: "Easy Conversation: 7. The Job Interview"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs07.mp3"
+  - index: 30
+    slug: "jobs08"
+    title: "Easy Conversation: 8. Being a Teacher"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs08a.mp3"
+  - index: 31
+    slug: "jobs09"
+    title: "Easy Conversation: 9. The First Job"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs09.mp3"
+  - index: 32
+    slug: "jobs10"
+    title: "Easy Conversation: 10. A Bad First Day of Work"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs10d.mp3"
+  - index: 33
+    slug: "jobs11"
+    title: "Easy Conversation: 11. Lunch Break"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs11.mp3"
+  - index: 34
+    slug: "jobs12"
+    title: "Easy Conversation: 12. Night Shift"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs12c.mp3"
+  - index: 35
+    slug: "jobs13"
+    title: "Easy Conversation: 13. The Customer Is Always Right"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs13.mp3"
+  - index: 36
+    slug: "jobs14"
+    title: "Easy Conversation: 14. A Bad Customer"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs14o.mp3"
+  - index: 37
+    slug: "jobs15"
+    title: "Easy Conversation: 15. Framed"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs15.mp3"
+  - index: 38
+    slug: "jobs16"
+    title: "Easy Conversation: 16. Should I Move?"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs16p.mp3"
+  - index: 39
+    slug: "jobs17"
+    title: "Easy Conversation: 17. A Doctor or a Nurse?"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs17.mp3"
+  - index: 40
+    slug: "jobs18"
+    title: "Easy Conversation: 18. Overtime"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs18.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs18y.mp3"
+  - index: 41
+    slug: "jobs19"
+    title: "Easy Conversation: 19. Asking for a Raise"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs19.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs19.mp3"
+  - index: 42
+    slug: "jobs20"
+    title: "Easy Conversation: 20. Night Owl"
+    url: "https://www.rong-chang.com/easyspeak/es/jobs20.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/jobs20r.mp3"
+  - index: 43
+    slug: "housing01"
+    title: "Easy Conversation: 1. Key Confusion"
+    url: "https://www.rong-chang.com/easyspeak/es/housing01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing01.mp3"
+  - index: 44
+    slug: "housing02"
+    title: "Easy Conversation: 2. A Nice Blue Color"
+    url: "https://www.rong-chang.com/easyspeak/es/housing02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing02o.mp3"
+  - index: 45
+    slug: "housing03"
+    title: "Easy Conversation: 3. Broken Window"
+    url: "https://www.rong-chang.com/easyspeak/es/housing03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing03.mp3"
+  - index: 46
+    slug: "housing04"
+    title: "Easy Conversation: 4. Air Conditioning"
+    url: "https://www.rong-chang.com/easyspeak/es/housing04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing04t.mp3"
+  - index: 47
+    slug: "housing05"
+    title: "Easy Conversation: 5. Nails in the Wall"
+    url: "https://www.rong-chang.com/easyspeak/es/housing05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing05.mp3"
+  - index: 48
+    slug: "housing06"
+    title: "Easy Conversation: 6. Christmas Decorations"
+    url: "https://www.rong-chang.com/easyspeak/es/housing06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing06e.mp3"
+  - index: 49
+    slug: "housing07"
+    title: "Easy Conversation: 7. Outdoor Barbeque"
+    url: "https://www.rong-chang.com/easyspeak/es/housing07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing07.mp3"
+  - index: 50
+    slug: "housing08"
+    title: "Easy Conversation: 8. Roommates"
+    url: "https://www.rong-chang.com/easyspeak/es/housing08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing08c.mp3"
+  - index: 51
+    slug: "housing09"
+    title: "Easy Conversation: 9. Pets in the House"
+    url: "https://www.rong-chang.com/easyspeak/es/housing09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing09.mp3"
+  - index: 52
+    slug: "housing10"
+    title: "Easy Conversation: 10. Late Mortgage Payment"
+    url: "https://www.rong-chang.com/easyspeak/es/housing10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing10t.mp3"
+  - index: 53
+    slug: "housing11"
+    title: "Easy Conversation: 11. Closet Space"
+    url: "https://www.rong-chang.com/easyspeak/es/housing11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing11.mp3"
+  - index: 54
+    slug: "housing12"
+    title: "Easy Conversation: 12. The Big Announcement"
+    url: "https://www.rong-chang.com/easyspeak/es/housing12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing12e.mp3"
+  - index: 55
+    slug: "housing13"
+    title: "Easy Conversation: 13. Termites"
+    url: "https://www.rong-chang.com/easyspeak/es/housing13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing13.mp3"
+  - index: 56
+    slug: "housing14"
+    title: "Easy Conversation: 14. Attic"
+    url: "https://www.rong-chang.com/easyspeak/es/housing14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing14d.mp3"
+  - index: 57
+    slug: "housing15"
+    title: "Easy Conversation: 15. House Warming Party"
+    url: "https://www.rong-chang.com/easyspeak/es/housing15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing15.mp3"
+  - index: 58
+    slug: "housing16"
+    title: "Easy Conversation: 16. House Hunting"
+    url: "https://www.rong-chang.com/easyspeak/es/housing16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing16n.mp3"
+  - index: 59
+    slug: "housing17"
+    title: "Easy Conversation: 17. Lawn Management"
+    url: "https://www.rong-chang.com/easyspeak/es/housing17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing17.mp3"
+  - index: 60
+    slug: "housing18"
+    title: "Easy Conversation: 18. A filthy Pool"
+    url: "https://www.rong-chang.com/easyspeak/es/housing18.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing18o.mp3"
+  - index: 61
+    slug: "housing19"
+    title: "Easy Conversation: 19. Shingles"
+    url: "https://www.rong-chang.com/easyspeak/es/housing19.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing19.mp3"
+  - index: 62
+    slug: "housing20"
+    title: "Easy Conversation: 20. Raccoons"
+    url: "https://www.rong-chang.com/easyspeak/es/housing20.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing20d.mp3"
+  - index: 63
+    slug: "housing21"
+    title: "Easy Conversation: 21. Noisy Neighbor"
+    url: "https://www.rong-chang.com/easyspeak/es/housing21.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing21.mp3"
+  - index: 64
+    slug: "housing22"
+    title: "Easy Conversation: 22. A Perfect Place"
+    url: "https://www.rong-chang.com/easyspeak/es/housing22.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing22o.mp3"
+  - index: 65
+    slug: "housing23"
+    title: "Easy Conversation: 23. Furniture"
+    url: "https://www.rong-chang.com/easyspeak/es/housing23.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing23.mp3"
+  - index: 66
+    slug: "housing24"
+    title: "Easy Conversation: 24. Roommates"
+    url: "https://www.rong-chang.com/easyspeak/es/housing24.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/housing24w.mp3"
+  - index: 67
+    slug: "bus01"
+    title: "Easy Conversation: 1. Bus Lines"
+    url: "https://www.rong-chang.com/easyspeak/es/bus01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus01n.mp3"
+  - index: 68
+    slug: "bus02"
+    title: "Easy Conversation: 2. Bus Schedule"
+    url: "https://www.rong-chang.com/easyspeak/es/bus02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus02.mp3"
+  - index: 69
+    slug: "bus03"
+    title: "Easy Conversation: 3. Alternate Bus Route"
+    url: "https://www.rong-chang.com/easyspeak/es/bus03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus03o.mp3"
+  - index: 70
+    slug: "bus04"
+    title: "Easy Conversation: 4. Bus Tickets"
+    url: "https://www.rong-chang.com/easyspeak/es/bus04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus04.mp3"
+  - index: 71
+    slug: "bus05"
+    title: "Easy Conversation: 5. Ceiling Fans"
+    url: "https://www.rong-chang.com/easyspeak/es/bus05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus05d.mp3"
+  - index: 72
+    slug: "bus06"
+    title: "Easy Conversation: 6. Discounts"
+    url: "https://www.rong-chang.com/easyspeak/es/bus06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus06.mp3"
+  - index: 73
+    slug: "bus07"
+    title: "Easy Conversation: 7. So Many Bus lines"
+    url: "https://www.rong-chang.com/easyspeak/es/bus07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus07o.mp3"
+  - index: 74
+    slug: "bus08"
+    title: "Easy Conversation: 8. Muni Bus"
+    url: "https://www.rong-chang.com/easyspeak/es/bus08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus08.mp3"
+  - index: 75
+    slug: "bus09"
+    title: "Easy Conversation: 9. Bus Route"
+    url: "https://www.rong-chang.com/easyspeak/es/bus09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus09w.mp3"
+  - index: 76
+    slug: "bus10"
+    title: "Easy Conversation: 10. Metro"
+    url: "https://www.rong-chang.com/easyspeak/es/bus10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus10.mp3"
+  - index: 77
+    slug: "bus11"
+    title: "Easy Conversation: 11. Big Luggage"
+    url: "https://www.rong-chang.com/easyspeak/es/bus11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus11n.mp3"
+  - index: 78
+    slug: "bus12"
+    title: "Easy Conversation: 12. Buying Tickets on the Bus"
+    url: "https://www.rong-chang.com/easyspeak/es/bus12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus12.mp3"
+  - index: 79
+    slug: "bus13"
+    title: "Easy Conversation: 13. Window Seat"
+    url: "https://www.rong-chang.com/easyspeak/es/bus13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus13l.mp3"
+  - index: 80
+    slug: "bus14"
+    title: "Easy Conversation: 14. Seating"
+    url: "https://www.rong-chang.com/easyspeak/es/bus14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus14.mp3"
+  - index: 81
+    slug: "bus15"
+    title: "Easy Conversation: 15. Outlets and Wifi"
+    url: "https://www.rong-chang.com/easyspeak/es/bus15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus15o.mp3"
+  - index: 82
+    slug: "bus16"
+    title: "Easy Conversation: 16. Wheelchair"
+    url: "https://www.rong-chang.com/easyspeak/es/bus16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus16.mp3"
+  - index: 83
+    slug: "bus17"
+    title: "Easy Conversation: 17. Sleeping Neighbor"
+    url: "https://www.rong-chang.com/easyspeak/es/bus17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus17a.mp3"
+  - index: 84
+    slug: "bus18"
+    title: "Easy Conversation: 18. Falling Asleep on the Bus"
+    url: "https://www.rong-chang.com/easyspeak/es/bus18.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus18d.mp3"
+  - index: 85
+    slug: "bus19"
+    title: "Easy Conversation: 19. Eating on the Bus"
+    url: "https://www.rong-chang.com/easyspeak/es/bus19.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus19.mp3"
+  - index: 86
+    slug: "bus20"
+    title: "Easy Conversation: 20. Baby On the Bus"
+    url: "https://www.rong-chang.com/easyspeak/es/bus20.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus20c.mp3"
+  - index: 87
+    slug: "bus21"
+    title: "Easy Conversation: 21. Chatty Neighbor"
+    url: "https://www.rong-chang.com/easyspeak/es/bus21.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus21.mp3"
+  - index: 88
+    slug: "bus22"
+    title: "Easy Conversation: 22. Lost a Ticket"
+    url: "https://www.rong-chang.com/easyspeak/es/bus22.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus22o.mp3"
+  - index: 89
+    slug: "bus23"
+    title: "Easy Conversation: 23. Tap Card Trouble"
+    url: "https://www.rong-chang.com/easyspeak/es/bus23.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus23.mp3"
+  - index: 90
+    slug: "bus24"
+    title: "Easy Conversation: 24. Overnight Buses"
+    url: "https://www.rong-chang.com/easyspeak/es/bus24.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus24p.mp3"
+  - index: 91
+    slug: "bus25"
+    title: "Easy Conversation: 25. Standing in Line"
+    url: "https://www.rong-chang.com/easyspeak/es/bus25.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus25.mp3"
+  - index: 92
+    slug: "bus26"
+    title: "Easy Conversation: 26. Sleeping on the Greyhound"
+    url: "https://www.rong-chang.com/easyspeak/es/bus26.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/bus26y.mp3"
+  - index: 93
+    slug: "network01"
+    title: "Easy Conversation: 1. Online Accounts"
+    url: "https://www.rong-chang.com/easyspeak/es/network01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network01.mp3"
+  - index: 94
+    slug: "network02"
+    title: "Easy Conversation: 2. Joining Facebook"
+    url: "https://www.rong-chang.com/easyspeak/es/network02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network02.mp3"
+  - index: 95
+    slug: "network03"
+    title: "Easy Conversation: 3. Profile Picture"
+    url: "https://www.rong-chang.com/easyspeak/es/network03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network03.mp3"
+  - index: 96
+    slug: "network04"
+    title: "Easy Conversation: 4. Birthdate"
+    url: "https://www.rong-chang.com/easyspeak/es/network04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network04.mp3"
+  - index: 97
+    slug: "network05"
+    title: "Easy Conversation: 5. Private Messaging"
+    url: "https://www.rong-chang.com/easyspeak/es/network05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network05.mp3"
+  - index: 98
+    slug: "network06"
+    title: "Easy Conversation: 6. Pictures on Facebook"
+    url: "https://www.rong-chang.com/easyspeak/es/network06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network06.mp3"
+  - index: 99
+    slug: "network07"
+    title: "Easy Conversation: 7. Foreign Friends"
+    url: "https://www.rong-chang.com/easyspeak/es/network07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network07.mp3"
+  - index: 100
+    slug: "network08"
+    title: "Easy Conversation: 8. Facebook Games"
+    url: "https://www.rong-chang.com/easyspeak/es/network08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network08.mp3"
+  - index: 101
+    slug: "network09"
+    title: "Easy Conversation: 9. Detention"
+    url: "https://www.rong-chang.com/easyspeak/es/network09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network09.mp3"
+  - index: 102
+    slug: "network10"
+    title: "Easy Conversation: 10. Pictures on Facebook"
+    url: "https://www.rong-chang.com/easyspeak/es/network10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network10.mp3"
+  - index: 103
+    slug: "network11"
+    title: "Easy Conversation: 11. Too Irresponsible"
+    url: "https://www.rong-chang.com/easyspeak/es/network11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network11.mp3"
+  - index: 104
+    slug: "network12"
+    title: "Easy Conversation: 12. Deleting My Profile"
+    url: "https://www.rong-chang.com/easyspeak/es/network12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network12.mp3"
+  - index: 105
+    slug: "network13"
+    title: "Easy Conversation: 13. Blogging"
+    url: "https://www.rong-chang.com/easyspeak/es/network13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network13.mp3"
+  - index: 106
+    slug: "network14"
+    title: "Easy Conversation: 14. Tumblr Famous"
+    url: "https://www.rong-chang.com/easyspeak/es/network14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network14.mp3"
+  - index: 107
+    slug: "network15"
+    title: "Easy Conversation: 15. Application Obsession"
+    url: "https://www.rong-chang.com/easyspeak/es/network15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/network15.mp3"
+  - index: 108
+    slug: "bank01"
+    title: "Easy Conversation: 1. Different Bank Accounts"
+    url: "https://www.rong-chang.com/easyspeak/es/bank01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/banking01c.mp3"
+  - index: 109
+    slug: "bank02"
+    title: "Easy Conversation: 2. Opening a Bank Account"
+    url: "https://www.rong-chang.com/easyspeak/es/bank02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/banking02.mp3"
+  - index: 110
+    slug: "bank03"
+    title: "Easy Conversation: 3. Asking about Checks"
+    url: "https://www.rong-chang.com/easyspeak/es/bank03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/banking03o.mp3"
+  - index: 111
+    slug: "bank04"
+    title: "Easy Conversation: 4. Making a Deposit"
+    url: "https://www.rong-chang.com/easyspeak/es/bank04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/banking04.mp3"
+  - index: 112
+    slug: "bank05"
+    title: "Easy Conversation: 5. Making a Withdrawal"
+    url: "https://www.rong-chang.com/easyspeak/es/bank05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/banking05p.mp3"
+  - index: 113
+    slug: "bank06"
+    title: "Easy Conversation: 6. A Bounced Check"
+    url: "https://www.rong-chang.com/easyspeak/es/bank06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/banking06.mp3"
+  - index: 114
+    slug: "bank07"
+    title: "Easy Conversation: 7. Transferring Money"
+    url: "https://www.rong-chang.com/easyspeak/es/bank07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/banking07y.mp3"
+  - index: 115
+    slug: "bank08"
+    title: "Easy Conversation: 8. Cashing a Check"
+    url: "https://www.rong-chang.com/easyspeak/es/bank08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/banking08.mp3"
+  - index: 116
+    slug: "bank09"
+    title: "Easy Conversation: 9. Canceling a Check"
+    url: "https://www.rong-chang.com/easyspeak/es/bank09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/banking09r.mp3"
+  - index: 117
+    slug: "bank10"
+    title: "Easy Conversation: 10. Over Withdrawal"
+    url: "https://www.rong-chang.com/easyspeak/es/bank10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/banking10.mp3"
+  - index: 118
+    slug: "dating01"
+    title: "Easy Conversation: 1. Should I?"
+    url: "https://www.rong-chang.com/easyspeak/es/dating01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating01.mp3"
+  - index: 119
+    slug: "dating02"
+    title: "Easy Conversation: 2. Dating Two People"
+    url: "https://www.rong-chang.com/easyspeak/es/dating02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating02r.mp3"
+  - index: 120
+    slug: "dating03"
+    title: "Easy Conversation: 3. Personality"
+    url: "https://www.rong-chang.com/easyspeak/es/dating03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating03.mp3"
+  - index: 121
+    slug: "dating04"
+    title: "Easy Conversation: 4. A Forgotten Anniversary"
+    url: "https://www.rong-chang.com/easyspeak/es/dating04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating04o.mp3"
+  - index: 122
+    slug: "dating05"
+    title: "Easy Conversation: 5. Paying the Restaurant Bill"
+    url: "https://www.rong-chang.com/easyspeak/es/dating05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating05.mp3"
+  - index: 123
+    slug: "dating06"
+    title: "Easy Conversation: 6. Stood Up"
+    url: "https://www.rong-chang.com/easyspeak/es/dating06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating06t.mp3"
+  - index: 124
+    slug: "dating07"
+    title: "Easy Conversation: 7. Money Lover"
+    url: "https://www.rong-chang.com/easyspeak/es/dating07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating07.mp3"
+  - index: 125
+    slug: "dating08"
+    title: "Easy Conversation: 8. Date Locations"
+    url: "https://www.rong-chang.com/easyspeak/es/dating08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating08e.mp3"
+  - index: 126
+    slug: "dating09"
+    title: "Easy Conversation: 9. Breaking Up"
+    url: "https://www.rong-chang.com/easyspeak/es/dating09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating09.mp3"
+  - index: 127
+    slug: "dating10"
+    title: "Easy Conversation: 10. Dating After College"
+    url: "https://www.rong-chang.com/easyspeak/es/dating10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating10c.mp3"
+  - index: 128
+    slug: "dating11"
+    title: "Easy Conversation: 11. A Bad Boyfriend"
+    url: "https://www.rong-chang.com/easyspeak/es/dating11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating11.mp3"
+  - index: 129
+    slug: "dating12"
+    title: "Easy Conversation: 12. The Worst Date"
+    url: "https://www.rong-chang.com/easyspeak/es/dating12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating12t.mp3"
+  - index: 130
+    slug: "dating13"
+    title: "Easy Conversation: 13. Maybe Marriage"
+    url: "https://www.rong-chang.com/easyspeak/es/dating13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating13.mp3"
+  - index: 131
+    slug: "dating14"
+    title: "Easy Conversation: 14. Meeting the Parents"
+    url: "https://www.rong-chang.com/easyspeak/es/dating14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating14ed.mp3"
+  - index: 132
+    slug: "dating15"
+    title: "Easy Conversation: 15. Sending a Drink"
+    url: "https://www.rong-chang.com/easyspeak/es/dating15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating15.mp3"
+  - index: 133
+    slug: "dating16"
+    title: "Easy Conversation: 16. The First Kiss"
+    url: "https://www.rong-chang.com/easyspeak/es/dating16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating16co.mp3"
+  - index: 134
+    slug: "dating17"
+    title: "Easy Conversation: 17. The Perfect Date"
+    url: "https://www.rong-chang.com/easyspeak/es/dating17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating17.mp3"
+  - index: 135
+    slug: "dating18"
+    title: "Easy Conversation: 18. Double Date"
+    url: "https://www.rong-chang.com/easyspeak/es/dating18.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating18py.mp3"
+  - index: 136
+    slug: "dating19"
+    title: "Easy Conversation: 19. A Fairy Tale"
+    url: "https://www.rong-chang.com/easyspeak/es/dating19.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating19.mp3"
+  - index: 137
+    slug: "dating20"
+    title: "Easy Conversation: 20. A Shorter Man"
+    url: "https://www.rong-chang.com/easyspeak/es/dating20.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating20ri.mp3"
+  - index: 138
+    slug: "dating21"
+    title: "Easy Conversation: 21. Who's Prettier?"
+    url: "https://www.rong-chang.com/easyspeak/es/dating21.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dating21.mp3"
+  - index: 139
+    slug: "driving01"
+    title: "Easy Conversation: 1. Going Slow"
+    url: "https://www.rong-chang.com/easyspeak/es/driving01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving01co.mp3"
+  - index: 140
+    slug: "driving02"
+    title: "Easy Conversation: 2. Driving Fast to Work"
+    url: "https://www.rong-chang.com/easyspeak/es/driving02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving02.mp3"
+  - index: 141
+    slug: "driving03"
+    title: "Easy Conversation: 3. Feeling Unsafe"
+    url: "https://www.rong-chang.com/easyspeak/es/driving03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving03pey.mp3"
+  - index: 142
+    slug: "driving04"
+    title: "Easy Conversation: 4. Carpooling to School"
+    url: "https://www.rong-chang.com/easyspeak/es/driving04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving04.mp3"
+  - index: 143
+    slug: "driving05"
+    title: "Easy Conversation: 5. Decorating the Car"
+    url: "https://www.rong-chang.com/easyspeak/es/driving05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving05r959.mp3"
+  - index: 144
+    slug: "driving06"
+    title: "Easy Conversation: 6. Scratching the Car"
+    url: "https://www.rong-chang.com/easyspeak/es/driving06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving06.mp3"
+  - index: 145
+    slug: "driving07"
+    title: "Easy Conversation: 7. Scared for Life"
+    url: "https://www.rong-chang.com/easyspeak/es/driving07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving07p.mp3"
+  - index: 146
+    slug: "driving08"
+    title: "Easy Conversation: 8. Santa Anita Mall"
+    url: "https://www.rong-chang.com/easyspeak/es/driving08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving08.mp3"
+  - index: 147
+    slug: "driving09"
+    title: "Easy Conversation: 9. Asking Dad for a Car"
+    url: "https://www.rong-chang.com/easyspeak/es/driving09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving09r.mp3"
+  - index: 148
+    slug: "driving10"
+    title: "Easy Conversation: 10. Customized License Plate"
+    url: "https://www.rong-chang.com/easyspeak/es/driving10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving10.mp3"
+  - index: 149
+    slug: "driving11"
+    title: "Easy Conversation: 11. A Long Trip"
+    url: "https://www.rong-chang.com/easyspeak/es/driving11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving11o.mp3"
+  - index: 150
+    slug: "driving12"
+    title: "Easy Conversation: 12. My Car Was Stolen"
+    url: "https://www.rong-chang.com/easyspeak/es/driving12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving12.mp3"
+  - index: 151
+    slug: "driving13"
+    title: "Easy Conversation: 13. Buying a New Car"
+    url: "https://www.rong-chang.com/easyspeak/es/driving13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving13t.mp3"
+  - index: 152
+    slug: "driving14"
+    title: "Easy Conversation: 14. Put Your Seatbelt On"
+    url: "https://www.rong-chang.com/easyspeak/es/driving14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving14.mp3"
+  - index: 153
+    slug: "driving15"
+    title: "Easy Conversation: 15. California Driving Test"
+    url: "https://www.rong-chang.com/easyspeak/es/driving15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving15ed.mp3"
+  - index: 154
+    slug: "driving16"
+    title: "Easy Conversation: 16. Switching Lanes"
+    url: "https://www.rong-chang.com/easyspeak/es/driving16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving16.mp3"
+  - index: 155
+    slug: "driving17"
+    title: "Easy Conversation: 17. Watch the Walker"
+    url: "https://www.rong-chang.com/easyspeak/es/driving17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving17c.mp3"
+  - index: 156
+    slug: "driving18"
+    title: "Easy Conversation: 18. The Fancy Car"
+    url: "https://www.rong-chang.com/easyspeak/es/driving18.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving18.mp3"
+  - index: 157
+    slug: "driving19"
+    title: "Easy Conversation: 19. To Get a Ride"
+    url: "https://www.rong-chang.com/easyspeak/es/driving19.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving19o.mp3"
+  - index: 158
+    slug: "driving20"
+    title: "Easy Conversation: 20. Bird Poop"
+    url: "https://www.rong-chang.com/easyspeak/es/driving20.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving20.mp3"
+  - index: 159
+    slug: "driving21"
+    title: "Easy Conversation: 21. Running Out of Gas"
+    url: "https://www.rong-chang.com/easyspeak/es/driving21.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving21p.mp3"
+  - index: 160
+    slug: "driving22"
+    title: "Easy Conversation: 22. Crazy Traffic"
+    url: "https://www.rong-chang.com/easyspeak/es/driving22.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving22.mp3"
+  - index: 161
+    slug: "driving23"
+    title: "Easy Conversation: 23. Oil Change"
+    url: "https://www.rong-chang.com/easyspeak/es/driving23.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/driving23y.mp3"
+  - index: 162
+    slug: "shop01"
+    title: "Easy Conversation: 1. Nice Shoes"
+    url: "https://www.rong-chang.com/easyspeak/es/shop01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/shopping01g.mp3"
+  - index: 163
+    slug: "shop02"
+    title: "Easy Conversation: 2. A Salesperson"
+    url: "https://www.rong-chang.com/easyspeak/es/shop02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/shopping02.mp3"
+  - index: 164
+    slug: "shop03"
+    title: "Easy Conversation: 3. A Woman's Eye"
+    url: "https://www.rong-chang.com/easyspeak/es/shop03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/shopping03ht.mp3"
+  - index: 165
+    slug: "shop04"
+    title: "Easy Conversation: 4. Choosing Flowers"
+    url: "https://www.rong-chang.com/easyspeak/es/shop04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/shopping04.mp3"
+  - index: 166
+    slug: "shop05"
+    title: "Easy Conversation: 5. Picky Shopper"
+    url: "https://www.rong-chang.com/easyspeak/es/shop05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/shopping05pro.mp3"
+  - index: 167
+    slug: "shop06"
+    title: "Easy Conversation: 6. Buying a Bicycle"
+    url: "https://www.rong-chang.com/easyspeak/es/shop06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/shopping06.mp3"
+  - index: 168
+    slug: "shop07"
+    title: "Easy Conversation: 7. Online Shopping"
+    url: "https://www.rong-chang.com/easyspeak/es/shop07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/shopping07tect.mp3"
+  - index: 169
+    slug: "shop08"
+    title: "Easy Conversation: 8. Bargaining"
+    url: "https://www.rong-chang.com/easyspeak/es/shop08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/shopping08.mp3"
+  - index: 170
+    slug: "shop09"
+    title: "Easy Conversation: 9. A Bad Employee"
+    url: "https://www.rong-chang.com/easyspeak/es/shop09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/shopping09ed.mp3"
+  - index: 171
+    slug: "shop10"
+    title: "Easy Conversation: 10. A Hat"
+    url: "https://www.rong-chang.com/easyspeak/es/shop10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/shopping10.mp3"
+  - index: 172
+    slug: "shop11"
+    title: "Easy Conversation: 11. Skateboard"
+    url: "https://www.rong-chang.com/easyspeak/es/shop11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/shopping11c.mp3"
+  - index: 173
+    slug: "sports01"
+    title: "Easy Conversation: 1. Joining a Club"
+    url: "https://www.rong-chang.com/easyspeak/es/sports01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports01.mp3"
+  - index: 174
+    slug: "sports02"
+    title: "Easy Conversation: 2. Swimming (1)"
+    url: "https://www.rong-chang.com/easyspeak/es/sports02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports02o.mp3"
+  - index: 175
+    slug: "sports03"
+    title: "Easy Conversation: 3. Swimming (2)"
+    url: "https://www.rong-chang.com/easyspeak/es/sports03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports03.mp3"
+  - index: 176
+    slug: "sports04"
+    title: "Easy Conversation: 4. Soccer Ball"
+    url: "https://www.rong-chang.com/easyspeak/es/sports04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports04p.mp3"
+  - index: 177
+    slug: "sports05"
+    title: "Easy Conversation: 5. Running"
+    url: "https://www.rong-chang.com/easyspeak/es/sports05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports05.mp3"
+  - index: 178
+    slug: "sports06"
+    title: "Easy Conversation: 6. Basketball"
+    url: "https://www.rong-chang.com/easyspeak/es/sports06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports06y19.mp3"
+  - index: 179
+    slug: "sports07"
+    title: "Easy Conversation: 7. Badminton"
+    url: "https://www.rong-chang.com/easyspeak/es/sports07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports07.mp3"
+  - index: 180
+    slug: "sports08"
+    title: "Easy Conversation: 8. Baseball"
+    url: "https://www.rong-chang.com/easyspeak/es/sports08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports08r.mp3"
+  - index: 181
+    slug: "sports09"
+    title: "Easy Conversation: 9. Boxing"
+    url: "https://www.rong-chang.com/easyspeak/es/sports09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports09.mp3"
+  - index: 182
+    slug: "sports10"
+    title: "Easy Conversation: 10. Track Racing"
+    url: "https://www.rong-chang.com/easyspeak/es/sports10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports10igh.mp3"
+  - index: 183
+    slug: "sports11"
+    title: "Easy Conversation: 11. Cycling"
+    url: "https://www.rong-chang.com/easyspeak/es/sports11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports11.mp3"
+  - index: 184
+    slug: "sports12"
+    title: "Easy Conversation: 12. Snowboard"
+    url: "https://www.rong-chang.com/easyspeak/es/sports12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports12t.mp3"
+  - index: 185
+    slug: "sports13"
+    title: "Easy Conversation: 13. Hockey"
+    url: "https://www.rong-chang.com/easyspeak/es/sports13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports13.mp3"
+  - index: 186
+    slug: "sports14"
+    title: "Easy Conversation: 14. Roller Rinks"
+    url: "https://www.rong-chang.com/easyspeak/es/sports14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports14p.mp3"
+  - index: 187
+    slug: "sports15"
+    title: "Easy Conversation: 15. Not Like a Real Sport"
+    url: "https://www.rong-chang.com/easyspeak/es/sports15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports15.mp3"
+  - index: 188
+    slug: "sports16"
+    title: "Easy Conversation: 16. Watching Soccer Games"
+    url: "https://www.rong-chang.com/easyspeak/es/sports16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports16r.mp3"
+  - index: 189
+    slug: "sports17"
+    title: "Easy Conversation: 17. Sports Shop"
+    url: "https://www.rong-chang.com/easyspeak/es/sports17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports17.mp3"
+  - index: 190
+    slug: "sports18"
+    title: "Easy Conversation: 18. Dodgers Fan"
+    url: "https://www.rong-chang.com/easyspeak/es/sports18.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports18o.mp3"
+  - index: 191
+    slug: "sports19"
+    title: "Easy Conversation: 19. Playing Hockey"
+    url: "https://www.rong-chang.com/easyspeak/es/sports19.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports19.mp3"
+  - index: 192
+    slug: "sports20"
+    title: "Easy Conversation: 20. Soccer Mom"
+    url: "https://www.rong-chang.com/easyspeak/es/sports20.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sports20ted.mp3"
+  - index: 193
+    slug: "social01"
+    title: "Easy Conversation: 1. Getting a Ride"
+    url: "https://www.rong-chang.com/easyspeak/es/social01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen01.mp3"
+  - index: 194
+    slug: "social02"
+    title: "Easy Conversation: 2. Going to the Movies"
+    url: "https://www.rong-chang.com/easyspeak/es/social02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen02r.mp3"
+  - index: 195
+    slug: "social03"
+    title: "Easy Conversation: 3. You Need Coffee"
+    url: "https://www.rong-chang.com/easyspeak/es/social03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen03.mp3"
+  - index: 196
+    slug: "social04"
+    title: "Easy Conversation: 4. Banquet Attire"
+    url: "https://www.rong-chang.com/easyspeak/es/social04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen04i.mp3"
+  - index: 197
+    slug: "social05"
+    title: "Easy Conversation: 5. A Slow Party"
+    url: "https://www.rong-chang.com/easyspeak/es/social05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen05.mp3"
+  - index: 198
+    slug: "social06"
+    title: "Easy Conversation: 6. Where is the Bathroom"
+    url: "https://www.rong-chang.com/easyspeak/es/social06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen06g.mp3"
+  - index: 199
+    slug: "social07"
+    title: "Easy Conversation: 7. Anime Expo"
+    url: "https://www.rong-chang.com/easyspeak/es/social07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen07.mp3"
+  - index: 200
+    slug: "social08"
+    title: "Easy Conversation: 8. Dancing"
+    url: "https://www.rong-chang.com/easyspeak/es/social08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen08h.mp3"
+  - index: 201
+    slug: "social09"
+    title: "Easy Conversation: 9. Hanging Out"
+    url: "https://www.rong-chang.com/easyspeak/es/social09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen09.mp3"
+  - index: 202
+    slug: "social10"
+    title: "Easy Conversation: 10. Sending Invitations"
+    url: "https://www.rong-chang.com/easyspeak/es/social10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen10t.mp3"
+  - index: 203
+    slug: "social11"
+    title: "Easy Conversation: 11. At a Dinner Party"
+    url: "https://www.rong-chang.com/easyspeak/es/social11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen11.mp3"
+  - index: 204
+    slug: "social12"
+    title: "Easy Conversation: 12. Amusement Parks"
+    url: "https://www.rong-chang.com/easyspeak/es/social12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen12ed.mp3"
+  - index: 205
+    slug: "social13"
+    title: "Easy Conversation: 13. At a Supermarket"
+    url: "https://www.rong-chang.com/easyspeak/es/social13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen13.mp3"
+  - index: 206
+    slug: "social14"
+    title: "Easy Conversation: 14. Hopeless Husband Gift Exchange"
+    url: "https://www.rong-chang.com/easyspeak/es/social14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen14.mp3"
+  - index: 207
+    slug: "social15"
+    title: "Easy Conversation: 15. Silent Rave"
+    url: "https://www.rong-chang.com/easyspeak/es/social15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen15.mp3"
+  - index: 208
+    slug: "social16"
+    title: "Easy Conversation: 16. Making New Friends"
+    url: "https://www.rong-chang.com/easyspeak/es/social16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/sochappen16.mp3"
+  - index: 209
+    slug: "daily01"
+    title: "Easy Conversation: 1. Guitar Lessons"
+    url: "https://www.rong-chang.com/easyspeak/es/daily01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife01is.mp3"
+  - index: 210
+    slug: "daily02"
+    title: "Easy Conversation: 2. Spyware"
+    url: "https://www.rong-chang.com/easyspeak/es/daily02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife02.mp3"
+  - index: 211
+    slug: "daily03"
+    title: "Easy Conversation: 3. A Public Pool"
+    url: "https://www.rong-chang.com/easyspeak/es/daily03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife03p7439.mp3"
+  - index: 212
+    slug: "daily04"
+    title: "Easy Conversation: 4. A Get-Well Card"
+    url: "https://www.rong-chang.com/easyspeak/es/daily04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife04.mp3"
+  - index: 213
+    slug: "daily05"
+    title: "Easy Conversation: 5. Ceiling Fans"
+    url: "https://www.rong-chang.com/easyspeak/es/daily05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife05r.mp3"
+  - index: 214
+    slug: "daily06"
+    title: "Easy Conversation: 6. An Earthquake"
+    url: "https://www.rong-chang.com/easyspeak/es/daily06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife06.mp3"
+  - index: 215
+    slug: "daily07"
+    title: "Easy Conversation: 7. Shiny Shoes"
+    url: "https://www.rong-chang.com/easyspeak/es/daily07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife07e.mp3"
+  - index: 216
+    slug: "daily08"
+    title: "Easy Conversation: 8. A Community Tree"
+    url: "https://www.rong-chang.com/easyspeak/es/daily08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife08v.mp3"
+  - index: 217
+    slug: "daily09"
+    title: "Easy Conversation: 9. The Phone Bill"
+    url: "https://www.rong-chang.com/easyspeak/es/daily09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife09.mp3"
+  - index: 218
+    slug: "daily10"
+    title: "Easy Conversation: 10. Like James Bond"
+    url: "https://www.rong-chang.com/easyspeak/es/daily10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife10e.mp3"
+  - index: 219
+    slug: "daily11"
+    title: "Easy Conversation: 11. Rain Gods"
+    url: "https://www.rong-chang.com/easyspeak/es/daily11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife11.mp3"
+  - index: 220
+    slug: "daily12"
+    title: "Easy Conversation: 12. A New Phone"
+    url: "https://www.rong-chang.com/easyspeak/es/daily12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife12n.mp3"
+  - index: 221
+    slug: "daily13"
+    title: "Easy Conversation: 13. Pets"
+    url: "https://www.rong-chang.com/easyspeak/es/daily13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife13.mp3"
+  - index: 222
+    slug: "daily14"
+    title: "Easy Conversation: 14. Vacation Time"
+    url: "https://www.rong-chang.com/easyspeak/es/daily14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife14t.mp3"
+  - index: 223
+    slug: "daily15"
+    title: "Easy Conversation: 15. Flying on an Airplane"
+    url: "https://www.rong-chang.com/easyspeak/es/daily15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/dailylife15.mp3"
+  - index: 224
+    slug: "family01"
+    title: "Easy Conversation: 1. My Shark Sister"
+    url: "https://www.rong-chang.com/easyspeak/es/family01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family01e.mp3"
+  - index: 225
+    slug: "family02"
+    title: "Easy Conversation: 2. Family Reunions"
+    url: "https://www.rong-chang.com/easyspeak/es/family02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family02.mp3"
+  - index: 226
+    slug: "family03"
+    title: "Easy Conversation: 3. Playing Outside"
+    url: "https://www.rong-chang.com/easyspeak/es/family03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family03d.mp3"
+  - index: 227
+    slug: "family04"
+    title: "Easy Conversation: 4. Mother's Day"
+    url: "https://www.rong-chang.com/easyspeak/es/family04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family04.mp3"
+  - index: 228
+    slug: "family05"
+    title: "Easy Conversation: 5. Father's Day"
+    url: "https://www.rong-chang.com/easyspeak/es/family05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family05co.mp3"
+  - index: 229
+    slug: "family06"
+    title: "Easy Conversation: 6. New Webcams"
+    url: "https://www.rong-chang.com/easyspeak/es/family06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family06.mp3"
+  - index: 230
+    slug: "family07"
+    title: "Easy Conversation: 7. Mother and Son"
+    url: "https://www.rong-chang.com/easyspeak/es/family07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family07p.mp3"
+  - index: 231
+    slug: "family08"
+    title: "Easy Conversation: 8. An Afternoon Fishing"
+    url: "https://www.rong-chang.com/easyspeak/es/family08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family08.mp3"
+  - index: 232
+    slug: "family09"
+    title: "Easy Conversation: 9. Be Yourself"
+    url: "https://www.rong-chang.com/easyspeak/es/family09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family09y.mp3"
+  - index: 233
+    slug: "family10"
+    title: "Easy Conversation: 10. Watch Your Brother"
+    url: "https://www.rong-chang.com/easyspeak/es/family10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family10.mp3"
+  - index: 234
+    slug: "family11"
+    title: "Easy Conversation: 11. A Day at the Beach"
+    url: "https://www.rong-chang.com/easyspeak/es/family11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/es/src="
+  - index: 235
+    slug: "family12"
+    title: "Easy Conversation: 12. Snow Fight"
+    url: "https://www.rong-chang.com/easyspeak/es/family12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family12.mp3"
+  - index: 236
+    slug: "family13"
+    title: "Easy Conversation: 13. Family Photo"
+    url: "https://www.rong-chang.com/easyspeak/es/family13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family13i.mp3"
+  - index: 237
+    slug: "family14"
+    title: "Easy Conversation: 14. Weekend at Grandma's"
+    url: "https://www.rong-chang.com/easyspeak/es/family14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family14.mp3"
+  - index: 238
+    slug: "family15"
+    title: "Easy Conversation: 15. Having a Brother"
+    url: "https://www.rong-chang.com/easyspeak/es/family15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family15g.mp3"
+  - index: 239
+    slug: "family16"
+    title: "Easy Conversation: 16. Sisterly Advice"
+    url: "https://www.rong-chang.com/easyspeak/es/family16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family16.mp3"
+  - index: 240
+    slug: "family17"
+    title: "Easy Conversation: 17. Brotherly Love"
+    url: "https://www.rong-chang.com/easyspeak/es/family17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/family17h.mp3"
+  - index: 241
+    slug: "food01"
+    title: "Easy Conversation: 1. Fruit or Vegetable"
+    url: "https://www.rong-chang.com/easyspeak/es/food01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods01.mp3"
+  - index: 242
+    slug: "food02"
+    title: "Easy Conversation: 2. Frozen Or Take-Out"
+    url: "https://www.rong-chang.com/easyspeak/es/food02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods02t.mp3"
+  - index: 243
+    slug: "food03"
+    title: "Easy Conversation: 3. Cake"
+    url: "https://www.rong-chang.com/easyspeak/es/food03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods03.mp3"
+  - index: 244
+    slug: "food04"
+    title: "Easy Conversation: 4. Snacks"
+    url: "https://www.rong-chang.com/easyspeak/es/food04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods04e.mp3"
+  - index: 245
+    slug: "food05"
+    title: "Easy Conversation: 5. Apples"
+    url: "https://www.rong-chang.com/easyspeak/es/food05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods05.mp3"
+  - index: 246
+    slug: "food06"
+    title: "Easy Conversation: 6. Paper Gum"
+    url: "https://www.rong-chang.com/easyspeak/es/food06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods06d.mp3"
+  - index: 247
+    slug: "food07"
+    title: "Easy Conversation: 7. Bubble Tea"
+    url: "https://www.rong-chang.com/easyspeak/es/food07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods07.mp3"
+  - index: 248
+    slug: "food08"
+    title: "Easy Conversation: 8. Chopsticks"
+    url: "https://www.rong-chang.com/easyspeak/es/food08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods08c.mp3"
+  - index: 249
+    slug: "food09"
+    title: "Easy Conversation: 9. Bowl Noodles"
+    url: "https://www.rong-chang.com/easyspeak/es/food09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods09.mp3"
+  - index: 250
+    slug: "food10"
+    title: "Easy Conversation: 10. Mystery Meat"
+    url: "https://www.rong-chang.com/easyspeak/es/food10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods10o.mp3"
+  - index: 251
+    slug: "food11"
+    title: "Easy Conversation: 11. Going Dutch"
+    url: "https://www.rong-chang.com/easyspeak/es/food11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods11.mp3"
+  - index: 252
+    slug: "food12"
+    title: "Easy Conversation: 12. Frozen Yogurt"
+    url: "https://www.rong-chang.com/easyspeak/es/food12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods12p.mp3"
+  - index: 253
+    slug: "food13"
+    title: "Easy Conversation: 13. Imported Chocolates"
+    url: "https://www.rong-chang.com/easyspeak/es/food13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods13.mp3"
+  - index: 254
+    slug: "food14"
+    title: "Easy Conversation: 14. Strawberry Banana"
+    url: "https://www.rong-chang.com/easyspeak/es/food14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods14y.mp3"
+  - index: 255
+    slug: "food15"
+    title: "Easy Conversation: 15. Fish and Chips"
+    url: "https://www.rong-chang.com/easyspeak/es/food15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods15.mp3"
+  - index: 256
+    slug: "food16"
+    title: "Easy Conversation: 16. Sour Cream"
+    url: "https://www.rong-chang.com/easyspeak/es/food16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods16r.mp3"
+  - index: 257
+    slug: "food17"
+    title: "Easy Conversation: 17. Don't Spoil Your Dinner"
+    url: "https://www.rong-chang.com/easyspeak/es/food17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods17.mp3"
+  - index: 258
+    slug: "food18"
+    title: "Easy Conversation: 18. Cotton Candy"
+    url: "https://www.rong-chang.com/easyspeak/es/food18.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods18i.mp3"
+  - index: 259
+    slug: "food19"
+    title: "Easy Conversation: 19. Bacon"
+    url: "https://www.rong-chang.com/easyspeak/es/food19.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods19.mp3"
+  - index: 260
+    slug: "food20"
+    title: "Easy Conversation: 20. Berry Confusing"
+    url: "https://www.rong-chang.com/easyspeak/es/food20.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods20g.mp3"
+  - index: 261
+    slug: "food21"
+    title: "Easy Conversation: 21. Garlic"
+    url: "https://www.rong-chang.com/easyspeak/es/food21.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/foods21t.mp3"
+  - index: 262
+    slug: "eatout01"
+    title: "Easy Conversation: 1. Where to Eat"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout01c798.mp3"
+  - index: 263
+    slug: "eatout02"
+    title: "Easy Conversation: 2. Spicy Is the Best"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/es/src="
+  - index: 264
+    slug: "eatout03"
+    title: "Easy Conversation: 3. Popular Hot Dogs"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout03o.mp3"
+  - index: 265
+    slug: "eatout04"
+    title: "Easy Conversation: 4. A New Item"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout04.mp3"
+  - index: 266
+    slug: "eatout05"
+    title: "Easy Conversation: 5. The Long Line Outside"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout05p.mp3"
+  - index: 267
+    slug: "eatout06"
+    title: "Easy Conversation: 6. Getting a Sandwich"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout06.mp3"
+  - index: 268
+    slug: "eatout07"
+    title: "Easy Conversation: 7. The Picky Eater"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout07y.mp3"
+  - index: 269
+    slug: "eatout08"
+    title: "Easy Conversation: 8. Out of Iced Tea"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout08.mp3"
+  - index: 270
+    slug: "eatout09"
+    title: "Easy Conversation: 9. Allergic"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout09i45.mp3"
+  - index: 271
+    slug: "eatout10"
+    title: "Easy Conversation: 10. This Chicken Is So Plain"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout10.mp3"
+  - index: 272
+    slug: "eatout11"
+    title: "Easy Conversation: 11. Food Poisoning"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout11s.mp3"
+  - index: 273
+    slug: "eatout12"
+    title: "Easy Conversation: 12. Breakfast for Dinner"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout12.mp3"
+  - index: 274
+    slug: "eatout13"
+    title: "Easy Conversation: 13. A Far Trip for Food"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout13p.mp3"
+  - index: 275
+    slug: "eatout14"
+    title: "Easy Conversation: 14. An Expensive Bill"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout14.mp3"
+  - index: 276
+    slug: "eatout15"
+    title: "Easy Conversation: 15. Chopsticks"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout15r.mp3"
+  - index: 277
+    slug: "eatout16"
+    title: "Easy Conversation: 16. The Beauty of Buffets"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout16e.mp3"
+  - index: 278
+    slug: "eatout17"
+    title: "Easy Conversation: 17. To Tip or Not to Tip"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout17.mp3"
+  - index: 279
+    slug: "eatout18"
+    title: "Easy Conversation: 18. Give Him a Good Tip"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout18.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout18v.mp3"
+  - index: 280
+    slug: "eatout19"
+    title: "Easy Conversation: 19. Weird Water"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout19.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout19.mp3"
+  - index: 281
+    slug: "eatout20"
+    title: "Easy Conversation: 20. The Faithful Customer"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout20.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout20e.mp3"
+  - index: 282
+    slug: "eatout21"
+    title: "Easy Conversation: 21. Food at 1 A.M."
+    url: "https://www.rong-chang.com/easyspeak/es/eatout21.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout21.mp3"
+  - index: 283
+    slug: "eatout22"
+    title: "Easy Conversation: 22. Free Water"
+    url: "https://www.rong-chang.com/easyspeak/es/eatout22.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/eatingout22n.mp3"
+  - index: 284
+    slug: "health01"
+    title: "Easy Conversation: 1. Caught a Cold"
+    url: "https://www.rong-chang.com/easyspeak/es/health01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health01.mp3"
+  - index: 285
+    slug: "health02"
+    title: "Easy Conversation: 2. Emergency Kit"
+    url: "https://www.rong-chang.com/easyspeak/es/health02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health02r.mp3"
+  - index: 286
+    slug: "health03"
+    title: "Easy Conversation: 3. Runnig a Fever"
+    url: "https://www.rong-chang.com/easyspeak/es/health03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health03.mp3"
+  - index: 287
+    slug: "health04"
+    title: "Easy Conversation: 4. A Disease"
+    url: "https://www.rong-chang.com/easyspeak/es/health04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health04i.mp3"
+  - index: 288
+    slug: "health05"
+    title: "Easy Conversation: 5. Face Mask"
+    url: "https://www.rong-chang.com/easyspeak/es/health05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health05.mp3"
+  - index: 289
+    slug: "health06"
+    title: "Easy Conversation: 6. Emergency: Swallowed Coin"
+    url: "https://www.rong-chang.com/easyspeak/es/health06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health06g.mp3"
+  - index: 290
+    slug: "health07"
+    title: "Easy Conversation: 7. Emergency: Concussion"
+    url: "https://www.rong-chang.com/easyspeak/es/health07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health07.mp3"
+  - index: 291
+    slug: "health08"
+    title: "Easy Conversation: 8. Eating Doughnuts"
+    url: "https://www.rong-chang.com/easyspeak/es/health08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health08h.mp3"
+  - index: 292
+    slug: "health09"
+    title: "Easy Conversation: 9. Too Much Coffee"
+    url: "https://www.rong-chang.com/easyspeak/es/health09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health09.mp3"
+  - index: 293
+    slug: "health10"
+    title: "Easy Conversation: 10. Health Club Membership"
+    url: "https://www.rong-chang.com/easyspeak/es/health10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health10t.mp3"
+  - index: 294
+    slug: "health11"
+    title: "Easy Conversation: 11. Cramp While Swimming"
+    url: "https://www.rong-chang.com/easyspeak/es/health11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health11.mp3"
+  - index: 295
+    slug: "health12"
+    title: "Easy Conversation: 12. Wait 30 Minutes!"
+    url: "https://www.rong-chang.com/easyspeak/es/health12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health12p.mp3"
+  - index: 296
+    slug: "health13"
+    title: "Easy Conversation: 13. Yoga"
+    url: "https://www.rong-chang.com/easyspeak/es/health13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health13.mp3"
+  - index: 297
+    slug: "health14"
+    title: "Easy Conversation: 14. Marathon"
+    url: "https://www.rong-chang.com/easyspeak/es/health14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health14r.mp3"
+  - index: 298
+    slug: "health15"
+    title: "Easy Conversation: 15. Deer Ticks"
+    url: "https://www.rong-chang.com/easyspeak/es/health15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health15p.mp3"
+  - index: 299
+    slug: "health16"
+    title: "Easy Conversation: 16. Insomnia"
+    url: "https://www.rong-chang.com/easyspeak/es/health16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health16.mp3"
+  - index: 300
+    slug: "health17"
+    title: "Easy Conversation: 17. Hair Brush"
+    url: "https://www.rong-chang.com/easyspeak/es/health17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health17r.mp3"
+  - index: 301
+    slug: "health18"
+    title: "Easy Conversation: 18. A Hair Treatment"
+    url: "https://www.rong-chang.com/easyspeak/es/health18.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health18.mp3"
+  - index: 302
+    slug: "health19"
+    title: "Easy Conversation: 19. Sprained Ankle"
+    url: "https://www.rong-chang.com/easyspeak/es/health19.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health19e.mp3"
+  - index: 303
+    slug: "health20"
+    title: "Easy Conversation: 20. Blurry Vision"
+    url: "https://www.rong-chang.com/easyspeak/es/health20.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health20.mp3"
+  - index: 304
+    slug: "health21"
+    title: "Easy Conversation: 21. Healthy Snacks"
+    url: "https://www.rong-chang.com/easyspeak/es/health21.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health21v.mp3"
+  - index: 305
+    slug: "health22"
+    title: "Easy Conversation: 22. A Good Chiropractor"
+    url: "https://www.rong-chang.com/easyspeak/es/health22.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health22.mp3"
+  - index: 306
+    slug: "health23"
+    title: "Easy Conversation: 23. Broken Legs"
+    url: "https://www.rong-chang.com/easyspeak/es/health23.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health23e.mp3"
+  - index: 307
+    slug: "health24"
+    title: "Easy Conversation: 24. Losing Weight"
+    url: "https://www.rong-chang.com/easyspeak/es/health24.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health24.mp3"
+  - index: 308
+    slug: "health25"
+    title: "Easy Conversation: 25. Washing Hands"
+    url: "https://www.rong-chang.com/easyspeak/es/health25.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/health25n.mp3"
+  - index: 309
+    slug: "nature01"
+    title: "Easy Conversation: 1. Four Seasons"
+    url: "https://www.rong-chang.com/easyspeak/es/nature01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature01.mp3"
+  - index: 310
+    slug: "nature02"
+    title: "Easy Conversation: 2. Going Camping"
+    url: "https://www.rong-chang.com/easyspeak/es/nature02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature02i.mp3"
+  - index: 311
+    slug: "nature03"
+    title: "Easy Conversation: 3. Trees"
+    url: "https://www.rong-chang.com/easyspeak/es/nature03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature03.mp3"
+  - index: 312
+    slug: "nature04"
+    title: "Easy Conversation: 4. Flowers"
+    url: "https://www.rong-chang.com/easyspeak/es/nature04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature04g.mp3"
+  - index: 313
+    slug: "nature05"
+    title: "Easy Conversation: 5. Bees"
+    url: "https://www.rong-chang.com/easyspeak/es/nature05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature05.mp3"
+  - index: 314
+    slug: "nature06"
+    title: "Easy Conversation: 6. Poison Ivy"
+    url: "https://www.rong-chang.com/easyspeak/es/nature06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature06h.mp3"
+  - index: 315
+    slug: "nature07"
+    title: "Easy Conversation: 7. Sunburn"
+    url: "https://www.rong-chang.com/easyspeak/es/nature07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature07.mp3"
+  - index: 316
+    slug: "nature08"
+    title: "Easy Conversation: 8. Waterfalls"
+    url: "https://www.rong-chang.com/easyspeak/es/nature08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature08t.mp3"
+  - index: 317
+    slug: "nature09"
+    title: "Easy Conversation: 9. Rain"
+    url: "https://www.rong-chang.com/easyspeak/es/nature09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature09.mp3"
+  - index: 318
+    slug: "nature10"
+    title: "Easy Conversation: 10. Snow"
+    url: "https://www.rong-chang.com/easyspeak/es/nature10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature10p.mp3"
+  - index: 319
+    slug: "nature11"
+    title: "Easy Conversation: 11. Cloud Watching"
+    url: "https://www.rong-chang.com/easyspeak/es/nature11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature11.mp3"
+  - index: 320
+    slug: "nature12"
+    title: "Easy Conversation: 12. Lightning and Thunder"
+    url: "https://www.rong-chang.com/easyspeak/es/nature12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature12r.mp3"
+  - index: 321
+    slug: "nature13"
+    title: "Easy Conversation: 13. Rocks"
+    url: "https://www.rong-chang.com/easyspeak/es/nature13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature13.mp3"
+  - index: 322
+    slug: "nature14"
+    title: "Easy Conversation: 14. Grass Whistle"
+    url: "https://www.rong-chang.com/easyspeak/es/nature14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature14o.mp3"
+  - index: 323
+    slug: "nature15"
+    title: "Easy Conversation: 15. Snails"
+    url: "https://www.rong-chang.com/easyspeak/es/nature15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature15.mp3"
+  - index: 324
+    slug: "nature16"
+    title: "Easy Conversation: 16. Birds or Cats"
+    url: "https://www.rong-chang.com/easyspeak/es/nature16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature16t.mp3"
+  - index: 325
+    slug: "nature17"
+    title: "Easy Conversation: 17. Wolves"
+    url: "https://www.rong-chang.com/easyspeak/es/nature17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/nature17.mp3"
+  - index: 326
+    slug: "safety01"
+    title: "Easy Conversation: 1. Helmets"
+    url: "https://www.rong-chang.com/easyspeak/es/safety01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety01e.mp3"
+  - index: 327
+    slug: "safety02"
+    title: "Easy Conversation: 2. Seatbelt"
+    url: "https://www.rong-chang.com/easyspeak/es/safety02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety02.mp3"
+  - index: 328
+    slug: "safety03"
+    title: "Easy Conversation: 3. Night Time"
+    url: "https://www.rong-chang.com/easyspeak/es/safety03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety03c.mp3"
+  - index: 329
+    slug: "safety04"
+    title: "Easy Conversation: 4. Pepper Spray"
+    url: "https://www.rong-chang.com/easyspeak/es/safety04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety04.mp3"
+  - index: 330
+    slug: "safety05"
+    title: "Easy Conversation: 5. Self Defense"
+    url: "https://www.rong-chang.com/easyspeak/es/safety05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety05t.mp3"
+  - index: 331
+    slug: "safety06"
+    title: "Easy Conversation: 6. Peeling Potatoes"
+    url: "https://www.rong-chang.com/easyspeak/es/safety06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety06.mp3"
+  - index: 332
+    slug: "safety07"
+    title: "Easy Conversation: 7. Sleeping with Cell Phones"
+    url: "https://www.rong-chang.com/easyspeak/es/safety07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety07e.mp3"
+  - index: 333
+    slug: "safety08"
+    title: "Easy Conversation: 8. ATM"
+    url: "https://www.rong-chang.com/easyspeak/es/safety08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety08.mp3"
+  - index: 334
+    slug: "safety09"
+    title: "Easy Conversation: 9. Texting While Driving"
+    url: "https://www.rong-chang.com/easyspeak/es/safety09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety09d.mp3"
+  - index: 335
+    slug: "safety10"
+    title: "Easy Conversation: 10. Police Officers"
+    url: "https://www.rong-chang.com/easyspeak/es/safety10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety10.mp3"
+  - index: 336
+    slug: "safety11"
+    title: "Easy Conversation: 11. Webcam"
+    url: "https://www.rong-chang.com/easyspeak/es/safety11.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety11n.mp3"
+  - index: 337
+    slug: "safety12"
+    title: "Easy Conversation: 12. House Key"
+    url: "https://www.rong-chang.com/easyspeak/es/safety12.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety12.mp3"
+  - index: 338
+    slug: "safety13"
+    title: "Easy Conversation: 13. Public Transport"
+    url: "https://www.rong-chang.com/easyspeak/es/safety13.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety13o.mp3"
+  - index: 339
+    slug: "safety14"
+    title: "Easy Conversation: 14. Online Accounts"
+    url: "https://www.rong-chang.com/easyspeak/es/safety14.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety14.mp3"
+  - index: 340
+    slug: "safety15"
+    title: "Easy Conversation: 15. Pit-bull Ban"
+    url: "https://www.rong-chang.com/easyspeak/es/safety15.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety15d.mp3"
+  - index: 341
+    slug: "safety16"
+    title: "Easy Conversation: 16. Pool Toys"
+    url: "https://www.rong-chang.com/easyspeak/es/safety16.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety16.mp3"
+  - index: 342
+    slug: "safety17"
+    title: "Easy Conversation: 17. Just In Case"
+    url: "https://www.rong-chang.com/easyspeak/es/safety17.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety17o.mp3"
+  - index: 343
+    slug: "safety18"
+    title: "Easy Conversation: 18. Taser"
+    url: "https://www.rong-chang.com/easyspeak/es/safety18.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety18.mp3"
+  - index: 344
+    slug: "safety19"
+    title: "Easy Conversation: 19. Diseases"
+    url: "https://www.rong-chang.com/easyspeak/es/safety19.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety19w.mp3"
+  - index: 345
+    slug: "safety20"
+    title: "Easy Conversation: 20. Supervision"
+    url: "https://www.rong-chang.com/easyspeak/es/safety20.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/safety20.mp3"
+  - index: 346
+    slug: "voting01"
+    title: "Easy Conversation: 1. Civic Duty"
+    url: "https://www.rong-chang.com/easyspeak/es/voting01.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/vote01g.mp3"
+  - index: 347
+    slug: "voting02"
+    title: "Easy Conversation: 2. The Great Divide"
+    url: "https://www.rong-chang.com/easyspeak/es/voting02.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/vote02.mp3"
+  - index: 348
+    slug: "voting03"
+    title: "Easy Conversation: 3. School Election"
+    url: "https://www.rong-chang.com/easyspeak/es/voting03.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/vote03h.mp3"
+  - index: 349
+    slug: "voting04"
+    title: "Easy Conversation: 4. Losing Stereotypes"
+    url: "https://www.rong-chang.com/easyspeak/es/voting04.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/vote04.mp3"
+  - index: 350
+    slug: "voting05"
+    title: "Easy Conversation: 5. Freedom of Choice"
+    url: "https://www.rong-chang.com/easyspeak/es/voting05.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/vote05t.mp3"
+  - index: 351
+    slug: "voting06"
+    title: "Easy Conversation: 6. Obamacare"
+    url: "https://www.rong-chang.com/easyspeak/es/voting06.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/vote06.mp3"
+  - index: 352
+    slug: "voting07"
+    title: "Easy Conversation: 7. Rock the Vote"
+    url: "https://www.rong-chang.com/easyspeak/es/voting07.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/vote07p.mp3"
+  - index: 353
+    slug: "voting08"
+    title: "Easy Conversation: 8. Voter ID"
+    url: "https://www.rong-chang.com/easyspeak/es/voting08.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/vote08.mp3"
+  - index: 354
+    slug: "voting09"
+    title: "Easy Conversation: 9. Voting Age"
+    url: "https://www.rong-chang.com/easyspeak/es/voting09.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/vote09r.mp3"
+  - index: 355
+    slug: "voting10"
+    title: "Easy Conversation: 10. Proxy Voting"
+    url: "https://www.rong-chang.com/easyspeak/es/voting10.htm"
+    mp3: "https://www.rong-chang.com/easyspeak/audio/vote10.mp3"

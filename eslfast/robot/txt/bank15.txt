@@ -1,0 +1,38 @@
+A: How may I help you?
+B: I'm having a problem.
+A: What is it?
+B: I apparently owe some fees, but I never got the bank statement.
+A: I do apologize for that.
+B: My fees went up, but I didn't even know I had fees to pay.
+A: I see your problem.
+B: What are you going to do about it?
+A: I will cancel the fees you owe.
+B: I don't have to pay any fees?
+A: You'll only have to pay the initial fee.
+B: That's fine. I appreciate your help.
+
+A: What can I do for you?
+B: I have a serious problem.
+A: Explain it to me.
+B: I never got a bank statement for fees that I owe.
+A: I'm sorry, but I guess we didn't send a statement out.
+B: My fees increased, because I didn't know about my fees.
+A: I see where that is a problem.
+B: Can you fix it?
+A: I will cancel the fees that you owe.
+B: You're canceling all the fees?
+A: You still need to pay the initial fee.
+B: That'll be fine.
+
+A: May I help you?
+B: I have a problem.
+A: What's your problem?
+B: I owe fees, but a bank statement never came in the mail about it.
+A: I apologize for the inconvenience.
+B: I have no idea about the fee, so my fees went up.
+A: I understand your problem.
+B: Will you be able to solve my problem?
+A: I'm going to cancel the fees you owe.
+B: So, I don't have to pay any of it?
+A: The initial fee still must be paid.
+B: That's fabulous. Thank you very much.

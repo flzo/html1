@@ -1,0 +1,38 @@
+A: What bus can I catch to get to the Gold Line?
+B: Tell me where you live.
+A: I live in Altadena.
+B: You can catch the 264.
+A: It goes to the Gold Line?
+B: Yes, it does.
+A: What street do I go to to catch it?
+B: You can catch it on Altadena Drive.
+A: I had no idea that bus went to the station.
+B: Yes, it does.
+A: I'm glad you told me.
+B: You're welcome.
+
+A: Do you know a bus that goes to the Gold Line station?
+B: Do you live in Pasadena?
+A: My house is up in Altadena.
+B: You could always take the 264.
+A: It'll really take me to the station?
+B: It goes all the way there.
+A: Do you know what street it goes on?
+B: Catch it on Altadena Drive.
+A: I would've never known.
+B: Now you know.
+A: I appreciate you telling me.
+B: No problem.
+
+A: I need to find a bus that'll take me to the Gold Line.
+B: Where do you live?
+A: I live up in Altadena.
+B: The 264 will take you there.
+A: It goes all the way there?
+B: I know for a fact that it goes to the station.
+A: What street would I catch it on?
+B: If you go to Altadena Drive, you can catch it there.
+A: I didn't know that bus went to the Gold Line station.
+B: Yup, it does.
+A: Thanks for letting me know.
+B: It was my pleasure.

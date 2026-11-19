@@ -1,0 +1,32 @@
+A: I was wondering how you are going to calculate our final grades.
+B: Grades are based on many things: homework, attendance, quizzes, mid-term, and final.
+A: What counts the most?
+B: Actually I look at all of it and let's not forget class participation.
+A: Do you grade on a curve or use percentages?
+B: Homework, attendance, and quizzes are sixty percent; the mid-term and final are worth twenty percent each.
+A: What if we miss something?
+B: I will allow one unexcused absence; after that you need to contact me ahead of time.
+A: Will you tell us if we are failing during the year?
+B: You will be able to track your progress during the year.
+
+A: What do you base our grades on?
+B: All of your coursework is important, including everything from attendance and homework to all of your test results for the semester.
+A: Does the final count the most?
+B: All of it is important; please just do your best at all times.
+A: How do you total our scores?
+B: The final and mid-term are twenty percent each; homework, attendance, and quizzes are the rest.
+A: What if we are out sick?
+B: Make sure you contact me as I only allow one unexcused absence.
+A: How can we know if we are doing OK during the year?
+B: Your grade will not be a surprise; you will know what you need to work on.
+
+A: How do you decide what grade we get?
+B: I look at many things: attendance, quizzes, and tests.
+A: What is the most important factor?
+B: Obviously I look for improvement as we go along, but I would like you to do your best from the beginning.
+A: How can we keep track of our grades?
+B: The final and midterm are 40 percent of your grade; homework, attendance, and quizzes total 60 percent.
+A: What if we can't get to school?
+B: You can only miss one class without penalty.
+A: If we have a major problem, will you let us know?
+B: I will be letting you know during the year if you have a major problem.

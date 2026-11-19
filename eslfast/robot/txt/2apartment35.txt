@@ -1,0 +1,32 @@
+A: May I speak with the property manager, please?
+B: Hello, this is the property manager. How may I help you?
+A: During that horrible rainstorm last night, my roof began to leak.
+B: What room was the leak in?
+A: It was in our bedroom.
+B: Are you on the top floor, or is there another apartment above you?
+A: We are on the top floor.
+B: I will be sending someone out as soon as I can get hold of the roofer. Will you be home this morning?
+A: Yes, we will be in all morning.
+B: Fine. If you do end up going somewhere, we can just use our pass key.
+
+A: Good morning. I need to speak with the property manager, please.
+B: Good morning. You are speaking to the property manager.
+A: While it was raining last night, water started leaking in from the ceiling.
+B: Was it leaking in the bedroom?
+A: It was in the living room.
+B: Can you tell me which floor you are on?
+A: We are on the bottom floor.
+B: I would like to look at the leak. Will you be home this morning?
+A: Yes, someone will be here to let you in.
+B: Just in case you have to leave, we will just use the master key.
+
+A: I need to talk with the property manager right away!
+B: This is the property manager. What seems to be the problem?
+A: This morning, when we woke up, there was water pouring in from the ceiling!
+B: Could you tell me what room had the leak?
+A: There were several rooms, but the worst leak was in the bathroom.
+B: Could you please remind me which floor you are on?
+A: We are on the second floor, one of the middle floors.
+B: I will be sending the assistant manager to check it out. May we look at it this morning?
+A: Actually, I have to go to school right now.
+B: If you aren't there, we will use our master key to get in and check things out.

@@ -1,0 +1,38 @@
+A: Can you help me with my timesheet?
+B: Sure! I can help you. Do you know where the timesheets are kept?
+A: No, I don't know where to find one.
+B: Well, once you get one off the shelf over there, you first put your name on it. OK?
+A: Yes, I can do that.
+B: Now you have to fill in the hours in the blanks and total the hours for the week. Do you know how to use military time?
+A: No, I don't know what that is.
+B: OK, so we just start counting hours at midnight and record it. Show all minutes as a dot and then write how many minutes. OK?
+A: Yes, I understand how to do this.
+B: After you total your hours, make sure you sign it and turn it in to your supervisor.
+A: That was easy!
+B: Good luck and let me know if you need any help later on.
+
+A: How do we do timesheets here?
+B: They are actually fairly straightforward. Do you know where the blanks are kept?
+A: Yes, I already have one.
+B: OK, well after you take one out of that second drawer, you put your name on the top. Do you see?
+A: I am kind of confused.
+B: Next you fill in all of your hours for each day and total them. Do you know how to show time on a 24-hour clock?
+A: I'm not quite sure.
+B: Midnight is zero and when you put the minutes in, make sure that you show them with a dot followed by the minutes. Do you understand?
+A: No, I have no idea what you are talking about.
+B: It's easy, just write in the hours, total it, sign it, and put it in the box.
+A: Thanks for your help.
+B: Try it and if you can't do it, one of us can always help you later.
+
+A: I need help with my timesheet.
+B: OK, no problem. Have you found the blank ones?
+A: Yes, I have seen them.
+B: Yes, well put your name on it after you have downloaded it off the company website. OK?
+A: Yes, I understand what to do.
+B: You fill in the hours and total them for the week. Have you ever used a 24 hour clock?
+A: What? Huh?
+B: So after you noted the hours, starting at zero which is midnight, you just write down the minutes as a dot followed by minutes. Get it?
+A: Huh? What?
+B: Just make sure you show your total, sign it, and turn it in.
+A: I thought you said this was easy.
+B: You are a quick learner. I don't think you'll have any trouble with this.

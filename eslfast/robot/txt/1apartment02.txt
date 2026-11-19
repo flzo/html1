@@ -1,0 +1,62 @@
+A: This is Janet Smith in apartment 23. Can I speak to the apartment manager?
+B: Hi. How can I help you today?
+A: Well, my window facing the empty lot is broken.
+B: Oh, that's not good. What happened?
+A: I dont know. I wasn't home when it happened.
+B: Do you have any clue who might have done this?
+A: I have a feeling that it might have been the neighborhood kids.
+B: Why, what leads you to that suspicion?
+A: Well, next to the broken glass was a baseball.
+B: Well, a baseball is certainly solid evidence.
+A: I saw them playing just before I left my apartment.
+B: Well, did you recognize any of them?
+A: No, I just took a quick look.
+B: Well, it'll take a couple of days to repair it.
+A: A friend of mine is in the business. How about if I call him?
+B: That's okay by me. First, let me come see the damage.
+A: Come on over. So does my friend charge you or me?
+B: Since you didn't break it, you don't have to pay for it.
+A: That's a relief. I thought I was going to get stuck with the bill.
+B: If I knew which kid did it, I would bill his parents.
+
+A: I'm Janet Smith in apartment 23. Is this the apartment manager?
+B: Hello. What can I do for you today?
+A: My living room window is broken.
+B: Are you serious? Do you know what happened?
+A: I am not really sure, because I was out when it occurred.
+B: Do you have any idea who might have been behind this?
+A: Something tells me it might be some of the kids in the complex.
+B: What led you to think it might be the kids in this building?
+A: I found a baseball near the broken glass.
+B: Well, you can't ignore a baseball in your living room, can you?
+A: I saw them in the lot just before I went out.
+B: Do you know any of them?
+A: No, I didn't pay any attention to who they were.
+B: I'll call the window repairman, but it'll probably take a couple of days.
+A: I could get fast service if I call a friend of mine.
+B: I don't have a problem with that. Let me look at the damage first.
+A: Okay, I'm waiting for you. But who does my friend give the bill to?
+B: Since the kids broke it, your friend can bill me.
+A: Whew! I was worried that I would have to pay for it.
+B: Believe me, if I find out which kid broke the window, I'll bill his parents.
+
+A: This is Janet Smith in apartment 23. May I speak to the apartment manager?
+B: Speaking. What can I do for you?
+A: Something happened to my window. It's broken.
+B: That doesn't sound good. Do you know how it happened?
+A: I don't know the exact details.
+B: Do you have an idea who might be responsible for the window?
+A: I'm almost sure it is the local kids in the apartments.
+B: How did you come to that conclusion?
+A: There was a baseball in my living room along with the broken glass.
+B: Well, at least there's no mystery about how it happened.
+A: I saw a group of them playing in the lot just before I went out to my car.
+B: Can you tell me which ones you recognized?
+A: I just looked at them for a second.
+B: I'll call a repairman, but it might take two days.
+A: How about if I call a friend of mine who is a repairman?
+B: That's no problem. I'll come by right now to look at the damage.
+A: Okay. Come on over. But tell me, who pays for this?
+B: You can pay for it, and I can reimburse you. Or he can bill me directly.
+A: I'm glad to hear that. I didn't want to get stuck with the bill.
+B: I will bill the kid's parents if I ever find out which kid did it.

@@ -1,0 +1,38 @@
+A: How may I help you?
+B: I need to check these books out.
+A: Do you have your library card?
+B: Here it is.
+A: It appears that you have late fees.
+B: Really?
+A: Yes, really.
+B: How much do I owe?
+A: You owe $24.50 in late fees.
+B: I don't have that much today.
+A: I'm sorry, but until you pay it, you won't be able to check out any more books.
+B: I'll pay it as soon as possible.
+
+A: What can I do for you?
+B: I want to check out these books.
+A: I need your library card.
+B: I have it right here.
+A: It seems you have late fees.
+B: Are you sure?
+A: Yes, I'm sure.
+B: How much?
+A: Your late fees come to $24.50.
+B: I don't have that right now.
+A: You have to pay it off before you can check out more books.
+B: I'll do that soon.
+
+A: May I help you?
+B: I would like to check out these books.
+A: May I see your library card, please?
+B: Yes. Here you go.
+A: Apparently, you have unpaid late fees.
+B: I do?
+A: You owe some money.
+B: Exactly how much do I owe?
+A: You owe $24.50.
+B: I won't be able to pay that right now.
+A: Until you pay it, you can't check out books.
+B: I will pay it. Don't worry.

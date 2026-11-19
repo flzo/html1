@@ -1,0 +1,8 @@
+A: Hello Mary. How was school today?
+B: It was great, mom. Thanks.
+A: Do you have any homework?
+B: Yes. I do, in math and English.
+A: Have something to eat first.
+B: Okay, mom.
+A: You can do homework after dinner.
+B: Sounds good, mom. Thank you.

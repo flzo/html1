@@ -1,0 +1,32 @@
+A: I need help figuring out how to use this phone.
+B: Sure. First you pick up the receiver and hit one of the first 3 buttons. Do you hear a tone?
+A: Yes, I hear the tone.
+B: OK. Now you dial 9 on the keypad. Do you hear the tone change?
+A: Yes, it changed.
+B: Well, when you hear it change, that means you have an outside line. Where are you trying to call?
+A: I am trying to call home.
+B: OK. Well, to dial to the outside you just now dial the number. For a call inside the company just hit the extension number. Do you know the extensions?
+A: Yes, I have a list of extensions.
+B: Well, if you ever need help with an extension, you can dial O.
+
+A: Can you show me how to use this phone?
+B: Yes, I can help you with that. Pick up the receiver and hit one of the buttons. Do you hear a tone?
+A: No, I don't hear anything.
+B: Next you dial 9 on the keypad. You should hear the tone change. Did you hear it change?
+A: I'm not sure.
+B: OK. Well, after you get the line to change you have an outside line. Who are you trying to call?
+A: I am trying to call a client.
+B: To call a number on the outside you now just dial the number. For inside calls, punch in the extension number. Has someone given you an extension list?
+A: No, I don't know anyone's extension.
+B: All of the extensions are listed on the wall chart over there if you ever need help.
+
+A: I want to make a phone call. Can you show me how?
+B: Of course, pick up the receiver, hit a button and listen for a tone. Are you hearing it?
+A: Yes, now what do I do?
+B: Well, after you dial 9 on the keypad, you should hear the tone change.
+A: No, nothing changed.
+B: When you dial 9 and hear the tone change it means you have an outside line. Who are you trying to call?
+A: I am trying to call my boss.
+B: For an outside call you now just dial the number. For a company number you need to know the extension. Do you have a list of extensions?
+A: I know a few extensions but I don't know all of them.
+B: You can always look an extension up on the company website.

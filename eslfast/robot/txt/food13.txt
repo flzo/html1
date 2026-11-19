@@ -1,0 +1,38 @@
+A: I want to get a snack at the cafeteria.
+B: What are you going to buy?
+A: I may just get some chips.
+B: I'm probably going to buy something too.
+A: What do you want to get?
+B: I want some sort of candy.
+A: What kind do you want?
+B: I want some chocolate.
+A: What kind of chocolate?
+B: I'm going to get a Snickers or a Kit Kat.
+A: I don't think they sell Kit Kats.
+B: I'll just get a Snickers then.
+
+A: Let's go and get something from the cafeteria.
+B: What are you going to get?
+A: I think I just want some chips.
+B: I want to get a snack too.
+A: What are you getting?
+B: I have a taste for candy.
+A: What kind are you going to get?
+B: Chocolate sounds good.
+A: What kind are you going to get?
+B: I'm thinking of getting either a Snickers or a Kit Kat.
+A: They don't sell Kit Kats at the cafeteria.
+B: I'm just going to buy a Snickers then.
+
+A: I need a snack from the cafeteria.
+B: What are you thinking of getting?
+A: I only want some chips.
+B: I think I may get something too.
+A: What do you plan on buying?
+B: I have a sweet tooth. I want candy.
+A: What kind of candy do you want?
+B: I really want some chocolate.
+A: What kind of chocolate do you want?
+B: I either want a Snickers or a Kit Kat.
+A: The cafeteria doesn't sell Kit Kats.
+B: Then I guess I'll just get a Snickers.

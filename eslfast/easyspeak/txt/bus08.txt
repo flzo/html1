@@ -1,0 +1,12 @@
+A: Excuse me!
+B: Yes, how can I help you?
+A: I can't find the Muni bus I'm looking for.
+B: Well, the letters flash on the sign as they arrive.
+A: That's the problem- I don't see the 8x muni.
+B: Oh! There's been a misunderstanding.
+A: What do you mean?
+B: The line you're looking for is actually a bus line.
+A: Oh! Where can I take it?
+B: Just go out to the stop on the street.
+A: It's a little confusing to have a Muni bus and Muni train!
+B: Just remember, if it has a number, it's a Muni bus!

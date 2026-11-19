@@ -1,0 +1,38 @@
+A: How are you doing today?
+B: Very well. Thank you.
+A: What can I help you with?
+B: Do I have any fees to pay?
+A: As a matter of fact, you do.
+B: How much?
+A: You owe $235.13.
+B: That's unbelievable.
+A: Will you be paying some of that off today?
+B: I want to pay all of it off today.
+A: How will you be paying?
+B: I'll be paying with cash.
+
+A: How are you?
+B: I'm great. Thank you for asking.
+A: What can I do for you?
+B: Do I owe any fees?
+A: You sure do.
+B: Could you tell me how much I owe?
+A: You owe $235.13 in fees.
+B: I can't believe that.
+A: When will you be paying these fees off?
+B: I'll pay them off right now.
+A: Cash or check?
+B: I will pay with cash.
+
+A: How's it going?
+B: I'm great. Thanks.
+A: What do you need?
+B: I need to know if I have any fees to pay.
+A: Actually, you do owe some fees.
+B: How much do I owe?
+A: Your fees total $235.13.
+B: That's crazy!
+A: You need to pay these fees soon.
+B: Can I do that right now?
+A: Will you be paying with cash or check?
+B: I think I'll be paying with cash.

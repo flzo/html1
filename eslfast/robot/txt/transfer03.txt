@@ -1,0 +1,38 @@
+A: What classes have you taken so far?
+B: I've been working on my GE classes.
+A: Is that all?
+B: That's it for right now.
+A: What about your other classes?
+B: I'm working towards transferring schools.
+A: Which classes have you finished already?
+B: I've finished all my English and math classes.
+A: How many classes do you have left for your GE?
+B: Only three.
+A: That's amazing.
+B: I'm almost ready to transfer.
+
+A: Which classes have you completed?
+B: I have been taking classes for my General Education.
+A: Those are the only classes?
+B: That's all I need to take right now.
+A: Why don't you take any other classes?
+B: I'm just working on transferring right now.
+A: What classes are you done with?
+B: I'm done with all my math and English classes.
+A: How many more classes do you need to finish for your GE?
+B: I have three more.
+A: That's great!
+B: I just need three more classes, and I can transfer.
+
+A: What classes have you been taking?
+B: I've been taking my GE classes.
+A: That's it?
+B: That's all that I need right now.
+A: Why haven't you been taking any other classes?
+B: I'm taking classes so that I can transfer soon.
+A: What classes have you taken so far?
+B: I don't need to take any more English or math classes.
+A: How many GE classes do you have left?
+B: I have about three left.
+A: Good job!
+B: Yeah. I'm just about ready to transfer.

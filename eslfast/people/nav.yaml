@@ -1,0 +1,509 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/people/p/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-19T10:49:04+08:00"
+  total: 100
+  failed: 0
+pages:
+  - index: 1
+    slug: "people001"
+    title: "1. George Washington: The Father of the Country"
+    url: "https://www.eslfast.com/people/p/people001.htm"
+    mp3: "https://www.eslfast.com/people/audio/people001c.mp3"
+  - index: 2
+    slug: "people002"
+    title: "2. Henry Ford: The Founder of Ford Motor Company"
+    url: "https://www.eslfast.com/people/p/people002.htm"
+    mp3: "https://www.eslfast.com/people/audio/people002.mp3"
+  - index: 3
+    slug: "people003"
+    title: "3. Martin Luther King Jr.: Civil Rights Leader"
+    url: "https://www.eslfast.com/people/p/people003.htm"
+    mp3: "https://www.eslfast.com/people/audio/people003op.mp3"
+  - index: 4
+    slug: "people004"
+    title: "4. Bill Gates: The Man behind Microsoft"
+    url: "https://www.eslfast.com/people/p/people004.htm"
+    mp3: "https://www.eslfast.com/people/audio/people004.mp3"
+  - index: 5
+    slug: "people005"
+    title: "5. Michael Jordan: A Famous Basketball Star"
+    url: "https://www.eslfast.com/people/p/people005.htm"
+    mp3: "https://www.eslfast.com/people/audio/people005y.mp3"
+  - index: 6
+    slug: "people006"
+    title: "6. Babe Ruth: The Greatest Baseball Player"
+    url: "https://www.eslfast.com/people/p/people006.htm"
+    mp3: "https://www.eslfast.com/people/audio/people006ri.mp3"
+  - index: 7
+    slug: "people007"
+    title: "7. Kobe Bryant: The Incredible Basketball Star"
+    url: "https://www.eslfast.com/people/p/people007.htm"
+    mp3: "https://www.eslfast.com/people/audio/people007g.mp3"
+  - index: 8
+    slug: "people008"
+    title: "8. Tiger Woods: A Great American Golf Champion"
+    url: "https://www.eslfast.com/people/p/people008.htm"
+    mp3: "https://www.eslfast.com/people/audio/people008.mp3"
+  - index: 9
+    slug: "people009"
+    title: "9. Jesse Owens: The Man Who Defied Hitler"
+    url: "https://www.eslfast.com/people/p/people009.htm"
+    mp3: "https://www.eslfast.com/people/audio/people009h.mp3"
+  - index: 10
+    slug: "people010"
+    title: "10. Steven Spielberg: Hollywood's Best Director"
+    url: "https://www.eslfast.com/people/p/people010.htm"
+    mp3: "https://www.eslfast.com/people/audio/people010t.mp3"
+  - index: 11
+    slug: "people011"
+    title: "11. Michael Jackson: A Controversial Pop Star"
+    url: "https://www.eslfast.com/people/p/people011.htm"
+    mp3: "https://www.eslfast.com/people/audio/people011hi.mp3"
+  - index: 12
+    slug: "people012"
+    title: "12. Mickey Mouse: The World Famous Cartoon Character"
+    url: "https://www.eslfast.com/people/p/people012.htm"
+    mp3: "https://www.eslfast.com/people/audio/people012.mp3"
+  - index: 13
+    slug: "people013"
+    title: "13. Jackie Robinson: Breaking the Color Line"
+    url: "https://www.eslfast.com/people/p/people013.htm"
+    mp3: "https://www.eslfast.com/people/audio/people013q.mp3"
+  - index: 14
+    slug: "people014"
+    title: "14. Van Halen: From Garage Band to Superstardom"
+    url: "https://www.eslfast.com/people/p/people014.htm"
+    mp3: "https://www.eslfast.com/people/audio/people014ua.mp3"
+  - index: 15
+    slug: "people015"
+    title: "15. Jane Fonda: American Patriot or Traitor?"
+    url: "https://www.eslfast.com/people/p/people015.htm"
+    mp3: "https://www.eslfast.com/people/audio/people015.mp3"
+  - index: 16
+    slug: "people016"
+    title: "16. Barry Bonds: Cheater or Legend?"
+    url: "https://www.eslfast.com/people/p/people016.htm"
+    mp3: "https://www.eslfast.com/people/audio/people016l.mp3"
+  - index: 17
+    slug: "people017"
+    title: "17. Mike Tyson: The Youngest Boxing Champ"
+    url: "https://www.eslfast.com/people/p/people017.htm"
+    mp3: "https://www.eslfast.com/people/audio/people017.mp3"
+  - index: 18
+    slug: "people018"
+    title: "18. Barack Obama: America's First Black President"
+    url: "https://www.eslfast.com/people/p/people018.htm"
+    mp3: "https://www.eslfast.com/people/audio/people018i.mp3"
+  - index: 19
+    slug: "people019"
+    title: "19. Yao Ming: Bigger than Life"
+    url: "https://www.eslfast.com/people/p/people019.htm"
+    mp3: "https://www.eslfast.com/people/audio/people019.mp3"
+  - index: 20
+    slug: "people020"
+    title: "20. Oprah Winfrey: Her Incredible Life"
+    url: "https://www.eslfast.com/people/p/people020.htm"
+    mp3: "https://www.eslfast.com/people/audio/people020t1.mp3"
+  - index: 21
+    slug: "people021"
+    title: "21. Abraham Lincoln: America's Greatest President"
+    url: "https://www.eslfast.com/people/p/people021.htm"
+    mp3: "https://www.eslfast.com/people/audio/people021.mp3"
+  - index: 22
+    slug: "people022"
+    title: "22. Muhammad Ali: The Greatest Boxer"
+    url: "https://www.eslfast.com/people/p/people022.htm"
+    mp3: "https://www.eslfast.com/people/audio/people022y3.mp3"
+  - index: 23
+    slug: "people023"
+    title: "23. Carl Sagan: Visionary Astronomer"
+    url: "https://www.eslfast.com/people/p/people023.htm"
+    mp3: "https://www.eslfast.com/people/audio/people023.mp3"
+  - index: 24
+    slug: "people024"
+    title: "24. Beyonce Knowles: Beauty and Talent Personified"
+    url: "https://www.eslfast.com/people/p/people024.htm"
+    mp3: "https://www.eslfast.com/people/audio/people024a6.mp3"
+  - index: 25
+    slug: "people025"
+    title: "25. Jack Kevorkian: Hero or Murderer?"
+    url: "https://www.eslfast.com/people/p/people025.htm"
+    mp3: "https://www.eslfast.com/people/audio/people025.mp3"
+  - index: 26
+    slug: "people026"
+    title: "26. Amelia Earhart: America's Lost Heroine"
+    url: "https://www.eslfast.com/people/p/people026.htm"
+    mp3: "https://www.eslfast.com/people/audio/people026u8.mp3"
+  - index: 27
+    slug: "people027"
+    title: "27. Charles Lindbergh: A Superstar Pilot"
+    url: "https://www.eslfast.com/people/p/people027.htm"
+    mp3: "https://www.eslfast.com/people/audio/people027d.mp3"
+  - index: 28
+    slug: "people028"
+    title: "28. Susan B. Anthony: The First Women's Rights Activist"
+    url: "https://www.eslfast.com/people/p/people028.htm"
+    mp3: "https://www.eslfast.com/people/audio/people028.mp3"
+  - index: 29
+    slug: "people029"
+    title: "29. Bill Clinton: Popular Modern American President"
+    url: "https://www.eslfast.com/people/p/people029.htm"
+    mp3: "https://www.eslfast.com/people/audio/people029i4.mp3"
+  - index: 30
+    slug: "people030"
+    title: "30. Forrest Gump: An American Film Legend"
+    url: "https://www.eslfast.com/people/p/people030.htm"
+    mp3: "https://www.eslfast.com/people/audio/people030o.mp3"
+  - index: 31
+    slug: "people031"
+    title: "31. Lance Armstrong: American Hero or Villain?"
+    url: "https://www.eslfast.com/people/p/people031.htm"
+    mp3: "https://www.eslfast.com/people/audio/people031c7.mp3"
+  - index: 32
+    slug: "people032"
+    title: "32. Thomas Jefferson: An American Patriot"
+    url: "https://www.eslfast.com/people/p/people032.htm"
+    mp3: "https://www.eslfast.com/people/audio/people032.mp3"
+  - index: 33
+    slug: "people033"
+    title: "33. Russell Crowe: A Great Hollywood Leading Man"
+    url: "https://www.eslfast.com/people/p/people033.htm"
+    mp3: "https://www.eslfast.com/people/audio/people033op.mp3"
+  - index: 34
+    slug: "people034"
+    title: "34. Arnold Schwarzenegger: From Terminator to Governor"
+    url: "https://www.eslfast.com/people/p/people034.htm"
+    mp3: "https://www.eslfast.com/people/audio/people034.mp3"
+  - index: 35
+    slug: "people035"
+    title: "35. Johnny Depp: An Unusual Talent"
+    url: "https://www.eslfast.com/people/p/people035.htm"
+    mp3: "https://www.eslfast.com/people/audio/people035y1.mp3"
+  - index: 36
+    slug: "people036"
+    title: "36. Donald Sterling: The Controversial Billionaire"
+    url: "https://www.eslfast.com/people/p/people036.htm"
+    mp3: "https://www.eslfast.com/people/audio/people036.mp3"
+  - index: 37
+    slug: "people037"
+    title: "37. Magic Johnson: From Superstar to Businessman"
+    url: "https://www.eslfast.com/people/p/people037.htm"
+    mp3: "https://www.eslfast.com/people/audio/people037r9.mp3"
+  - index: 38
+    slug: "people038"
+    title: "38. Phil Jackson: Winning at All Levels"
+    url: "https://www.eslfast.com/people/p/people038.htm"
+    mp3: "https://www.eslfast.com/people/audio/people038i7.mp3"
+  - index: 39
+    slug: "people039"
+    title: "39. Jerry Springer: The Man Behind the Show"
+    url: "https://www.eslfast.com/people/p/people039.htm"
+    mp3: "https://www.eslfast.com/people/audio/people039.mp3"
+  - index: 40
+    slug: "people040"
+    title: "40. The Wright Brothers: The Fathers of Aviation"
+    url: "https://www.eslfast.com/people/p/people040.htm"
+    mp3: "https://www.eslfast.com/people/audio/people040g5.mp3"
+  - index: 41
+    slug: "people041"
+    title: "41. John Lennon: A Founding Member of the Beatles"
+    url: "https://www.eslfast.com/people/p/people041.htm"
+    mp3: "https://www.eslfast.com/people/audio/people041h.mp3"
+  - index: 42
+    slug: "people042"
+    title: "42. D.B. Cooper: The Infamous Skyjacker"
+    url: "https://www.eslfast.com/people/p/people042.htm"
+    mp3: "https://www.eslfast.com/people/audio/people042.mp3"
+  - index: 43
+    slug: "people043"
+    title: "43. O.J. Simpson: American Hero and Villain"
+    url: "https://www.eslfast.com/people/p/people043.htm"
+    mp3: "https://www.eslfast.com/people/audio/people043t3.mp3"
+  - index: 44
+    slug: "people044"
+    title: "44. Billie Jean King: An Advocate of Equal Rights for Women"
+    url: "https://www.eslfast.com/people/p/people044.htm"
+    mp3: "https://www.eslfast.com/people/audio/people044.mp3"
+  - index: 45
+    slug: "people045"
+    title: "45. Madonna: A Musical Legend"
+    url: "https://www.eslfast.com/people/p/people045.htm"
+    mp3: "https://www.eslfast.com/people/audio/people045p2.mp3"
+  - index: 46
+    slug: "people046"
+    title: "46. Neil Armstrong: The Man who Walked on the Moon"
+    url: "https://www.eslfast.com/people/p/people046.htm"
+    mp3: "https://www.eslfast.com/people/audio/people046.mp3"
+  - index: 47
+    slug: "people047"
+    title: "47. Mark Twain: A Great American Author"
+    url: "https://www.eslfast.com/people/p/people047.htm"
+    mp3: "https://www.eslfast.com/people/audio/people047r4.mp3"
+  - index: 48
+    slug: "people048"
+    title: "48. Christopher Reeve: A Real-Life Superman"
+    url: "https://www.eslfast.com/people/p/people048.htm"
+    mp3: "https://www.eslfast.com/people/audio/people048.mp3"
+  - index: 49
+    slug: "people049"
+    title: "49. Richard M. Nixon: A Presidency Lost"
+    url: "https://www.eslfast.com/people/p/people049.htm"
+    mp3: "https://www.eslfast.com/people/audio/people049o6.mp3"
+  - index: 50
+    slug: "people050"
+    title: "50. Clint Eastwood: A Filmmaker Like No Other"
+    url: "https://www.eslfast.com/people/p/people050.htm"
+    mp3: "https://www.eslfast.com/people/audio/people050t8.mp3"
+  - index: 51
+    slug: "people051"
+    title: "51. Michael Moore: Exposing the Truth"
+    url: "https://www.eslfast.com/people/p/people051.htm"
+    mp3: "https://www.eslfast.com/people/audio/people051.mp3"
+  - index: 52
+    slug: "people052"
+    title: "52. Bill Maher: Mr. Liberal"
+    url: "https://www.eslfast.com/people/p/people052.htm"
+    mp3: "https://www.eslfast.com/people/audio/people052e2.mp3"
+  - index: 53
+    slug: "people053"
+    title: "53. Cesar Chavez: The Voice of Equality"
+    url: "https://www.eslfast.com/people/p/people053.htm"
+    mp3: "https://www.eslfast.com/people/audio/people053.mp3"
+  - index: 54
+    slug: "people054"
+    title: "54. Hugh Hefner: The Greatest Playboy"
+    url: "https://www.eslfast.com/people/p/people054.htm"
+    mp3: "https://www.eslfast.com/people/audio/people054c4.mp3"
+  - index: 55
+    slug: "people055"
+    title: "55. Tom Hanks: A Great American Actor"
+    url: "https://www.eslfast.com/people/p/people055.htm"
+    mp3: "https://www.eslfast.com/people/audio/people055.mp3"
+  - index: 56
+    slug: "people056"
+    title: "56. Johnny Carson: The Late Night King of TV"
+    url: "https://www.eslfast.com/people/p/people056.htm"
+    mp3: "https://www.eslfast.com/people/audio/people056t6.mp3"
+  - index: 57
+    slug: "people057"
+    title: "57. Helen Keller: Overcoming Disability"
+    url: "https://www.eslfast.com/people/p/people057.htm"
+    mp3: "https://www.eslfast.com/people/audio/people057.mp3"
+  - index: 58
+    slug: "people058"
+    title: "58. Elvis Presley: The King of Rock 'n' Roll"
+    url: "https://www.eslfast.com/people/p/people058.htm"
+    mp3: "https://www.eslfast.com/people/audio/people058ed.mp3"
+  - index: 59
+    slug: "people059"
+    title: "59. Frederick Douglass: From Slave to Emancipator"
+    url: "https://www.eslfast.com/people/p/people059.htm"
+    mp3: "https://www.eslfast.com/people/audio/people059.mp3"
+  - index: 60
+    slug: "people060"
+    title: "60. Audie Murphy: An American War Hero"
+    url: "https://www.eslfast.com/people/p/people060.htm"
+    mp3: "https://www.eslfast.com/people/audio/people060hi.mp3"
+  - index: 61
+    slug: "people061"
+    title: "61. Jonas Salk: The Man who Cured the World"
+    url: "https://www.eslfast.com/people/p/people061.htm"
+    mp3: "https://www.eslfast.com/people/audio/people061.mp3"
+  - index: 62
+    slug: "people062"
+    title: "62. Chuck Yeager: Faster than the Speed of Sound"
+    url: "https://www.eslfast.com/people/p/people062.htm"
+    mp3: "https://www.eslfast.com/people/audio/people062gh.mp3"
+  - index: 63
+    slug: "people063"
+    title: "63. Steve Jobs: The Man and His Apple Computers"
+    url: "https://www.eslfast.com/people/p/people063.htm"
+    mp3: "https://www.eslfast.com/people/audio/people063.mp3"
+  - index: 64
+    slug: "people064"
+    title: "64. Meg Whitman: CEO and Political Hopeful"
+    url: "https://www.eslfast.com/people/p/people064.htm"
+    mp3: "https://www.eslfast.com/people/audio/people064q3.mp3"
+  - index: 65
+    slug: "people065"
+    title: "65. Mark Zuckerberg: The Social Revolutionist"
+    url: "https://www.eslfast.com/people/p/people065.htm"
+    mp3: "https://www.eslfast.com/people/audio/people065.mp3"
+  - index: 66
+    slug: "people066"
+    title: "66. Jeff Bezos: Amazon.com Creator"
+    url: "https://www.eslfast.com/people/p/people066.htm"
+    mp3: "https://www.eslfast.com/people/audio/people066u5.mp3"
+  - index: 67
+    slug: "people067"
+    title: "67. Larry Page: The Man who gave the World Google"
+    url: "https://www.eslfast.com/people/p/people067.htm"
+    mp3: "https://www.eslfast.com/people/audio/people067.mp3"
+  - index: 68
+    slug: "people068"
+    title: "68. Vin Scully: The Voice of the L.A. Dodgers"
+    url: "https://www.eslfast.com/people/p/people068.htm"
+    mp3: "https://www.eslfast.com/people/audio/people068a7.mp3"
+  - index: 69
+    slug: "people069"
+    title: "69. Robin Williams: Behind the Laughter"
+    url: "https://www.eslfast.com/people/p/people069.htm"
+    mp3: "https://www.eslfast.com/people/audio/people069.mp3"
+  - index: 70
+    slug: "people070"
+    title: "70. Benjamin Franklin: Invention Personified"
+    url: "https://www.eslfast.com/people/p/people070.htm"
+    mp3: "https://www.eslfast.com/people/audio/people070li.mp3"
+  - index: 71
+    slug: "people071"
+    title: "71. Walt Disney: The Man Behind Mickey Mouse"
+    url: "https://www.eslfast.com/people/p/people071.htm"
+    mp3: "https://www.eslfast.com/people/audio/people071.mp3"
+  - index: 72
+    slug: "people072"
+    title: "72. Bob Hope: Hollywood Legend"
+    url: "https://www.eslfast.com/people/p/people072.htm"
+    mp3: "https://www.eslfast.com/people/audio/people072t9.mp3"
+  - index: 73
+    slug: "people073"
+    title: "73. Andrew Carnegie: From Rags to Riches"
+    url: "https://www.eslfast.com/people/p/people073.htm"
+    mp3: "https://www.eslfast.com/people/audio/people073y7.mp3"
+  - index: 74
+    slug: "people074"
+    title: "74. Ursula Burns: From Poverty to the Fortune 500"
+    url: "https://www.eslfast.com/people/p/people074.htm"
+    mp3: "https://www.eslfast.com/people/audio/people074.mp3"
+  - index: 75
+    slug: "people075"
+    title: "75. Jim Carrey: From Homeless to Superstardom"
+    url: "https://www.eslfast.com/people/p/people075.htm"
+    mp3: "https://www.eslfast.com/people/audio/people075c.mp3"
+  - index: 76
+    slug: "people076"
+    title: "76. Ray Charles: The Man and His Music"
+    url: "https://www.eslfast.com/people/p/people076.htm"
+    mp3: "https://www.eslfast.com/people/audio/people076.mp3"
+  - index: 77
+    slug: "people077"
+    title: "77. Lucille Ball: America's Sweetheart"
+    url: "https://www.eslfast.com/people/p/people077.htm"
+    mp3: "https://www.eslfast.com/people/audio/people077o.mp3"
+  - index: 78
+    slug: "people078"
+    title: "78. Usher: The Man and his Music"
+    url: "https://www.eslfast.com/people/p/people078.htm"
+    mp3: "https://www.eslfast.com/people/audio/people078.mp3"
+  - index: 79
+    slug: "people079"
+    title: "79. Rudy Giuliani: The Man Who Saved New York"
+    url: "https://www.eslfast.com/people/p/people079.htm"
+    mp3: "https://www.eslfast.com/people/audio/people079p.mp3"
+  - index: 80
+    slug: "people080"
+    title: "80. Pat Tillman: The Greatest Sacrifice"
+    url: "https://www.eslfast.com/people/p/people080.htm"
+    mp3: "https://www.eslfast.com/people/audio/people080.mp3"
+  - index: 81
+    slug: "people081"
+    title: "81. Lyndon B. Johnson: 36th President of the U.S."
+    url: "https://www.eslfast.com/people/p/people081.htm"
+    mp3: "https://www.eslfast.com/people/audio/people081y.mp3"
+  - index: 82
+    slug: "people082"
+    title: "82. George S. Patton: World War II Hero"
+    url: "https://www.eslfast.com/people/p/people082.htm"
+    mp3: "https://www.eslfast.com/people/audio/people082.mp3"
+  - index: 83
+    slug: "people083"
+    title: "83. Ronald Reagan: From Actor to President"
+    url: "https://www.eslfast.com/people/p/people083.htm"
+    mp3: "https://www.eslfast.com/people/audio/people083r.mp3"
+  - index: 84
+    slug: "people084"
+    title: "84. George Lucas: The Man Behind Star Wars"
+    url: "https://www.eslfast.com/people/p/people084.htm"
+    mp3: "https://www.eslfast.com/people/audio/people084.mp3"
+  - index: 85
+    slug: "people085"
+    title: "85. Franklin D. Roosevelt: A President at War"
+    url: "https://www.eslfast.com/people/p/people085.htm"
+    mp3: "https://www.eslfast.com/people/audio/people085i.mp3"
+  - index: 86
+    slug: "people086"
+    title: "86. Albert Einstein: Intelligence Personified"
+    url: "https://www.eslfast.com/people/p/people086.htm"
+    mp3: "https://www.eslfast.com/people/audio/people086.mp3"
+  - index: 87
+    slug: "people087"
+    title: "87. Alexander Graham Bell: Inventor of the Telephone"
+    url: "https://www.eslfast.com/people/p/people087.htm"
+    mp3: "https://www.eslfast.com/people/audio/people087g.mp3"
+  - index: 88
+    slug: "people088"
+    title: "88. George Washington Carver: From Slave to Inventor"
+    url: "https://www.eslfast.com/people/p/people088.htm"
+    mp3: "https://www.eslfast.com/people/audio/people088.mp3"
+  - index: 89
+    slug: "people089"
+    title: "89. Dwight D. Eisenhower: From General to President"
+    url: "https://www.eslfast.com/people/p/people089.htm"
+    mp3: "https://www.eslfast.com/people/audio/people089.mp3"
+  - index: 90
+    slug: "people090"
+    title: "90. Maya Angelou: American Author"
+    url: "https://www.eslfast.com/people/p/people090.htm"
+    mp3: "https://www.eslfast.com/people/audio/people090h.mp3"
+  - index: 91
+    slug: "people091"
+    title: "91. Billy Graham: Evangelist and Civil Rights Advocate"
+    url: "https://www.eslfast.com/people/p/people091.htm"
+    mp3: "https://www.eslfast.com/people/audio/people091.mp3"
+  - index: 92
+    slug: "people092"
+    title: "92. George H.W. Bush: From Pilot to President"
+    url: "https://www.eslfast.com/people/p/people092.htm"
+    mp3: "https://www.eslfast.com/people/audio/people092t.mp3"
+  - index: 93
+    slug: "people093"
+    title: "93. George W. Bush: A Controversial President"
+    url: "https://www.eslfast.com/people/p/people093.htm"
+    mp3: "https://www.eslfast.com/people/audio/people093.mp3"
+  - index: 94
+    slug: "people094"
+    title: "94. Rush Limbaugh: The Right-Wing Personified"
+    url: "https://www.eslfast.com/people/p/people094.htm"
+    mp3: "https://www.eslfast.com/people/audio/people094p.mp3"
+  - index: 95
+    slug: "people095"
+    title: "95. Marilyn Monroe: Glamour and Beauty"
+    url: "https://www.eslfast.com/people/p/people095.htm"
+    mp3: "https://www.eslfast.com/people/audio/people095.mp3"
+  - index: 96
+    slug: "people096"
+    title: "96. Frank Sinatra: Ol' Blue Eyes"
+    url: "https://www.eslfast.com/people/p/people096.htm"
+    mp3: "https://www.eslfast.com/people/audio/people096r.mp3"
+  - index: 97
+    slug: "people097"
+    title: "97. Shirley Temple: From Child Star to Diplomat"
+    url: "https://www.eslfast.com/people/p/people097.htm"
+    mp3: "https://www.eslfast.com/people/audio/people097.mp3"
+  - index: 98
+    slug: "people098"
+    title: "98. Harrison Ford: The Great American Actor"
+    url: "https://www.eslfast.com/people/p/people098.htm"
+    mp3: "https://www.eslfast.com/people/audio/people098t.mp3"
+  - index: 99
+    slug: "people099"
+    title: "99. James Bond: Filmdom's Greatest Spy"
+    url: "https://www.eslfast.com/people/p/people099.htm"
+    mp3: "https://www.eslfast.com/people/audio/people099.mp3"
+  - index: 100
+    slug: "people100"
+    title: "100. David Letterman: Late Night Comedy"
+    url: "https://www.eslfast.com/people/p/people100.htm"
+    mp3: "https://www.eslfast.com/people/audio/people100e.mp3"

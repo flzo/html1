@@ -1,0 +1,38 @@
+A: There's a problem with my credit card.
+B: Tell me what the problem is.
+A: A charge came up on my bill that I didn't make.
+B: What was the charge for?
+A: The charge was for a $350 purse, but I did not buy it.
+B: Are you sure that you didn't make that purchase?
+A: I would know if I bought something that expensive.
+B: I apologize. What day was this purchase made?
+A: It was bought on November 12th at 3:15 pm, while I was at work.
+B: All right, we'll do an investigation.
+A: Until this investigation is finished, will I have to pay for the charge?
+B: No, you don't. We'll take care of it.
+
+A: I have a problem with my credit card.
+B: What's wrong with it?
+A: There is a charge on my card that I didn't make.
+B: Can you tell me what the charge was?
+A: It's for a purse that cost $350.
+B: Are you positive that you didn't buy the purse?
+A: I can't even afford a purse that expensive.
+B: I'm very sorry. When was this purchase made?
+A: I was at work, but the purchase was made at 3:15 on November 12th.
+B: We're going to investigate this claim.
+A: Do I have to pay for this charge?
+B: You won't have to pay for anything.
+
+A: There is something wrong with my credit card.
+B: What's the problem?
+A: There is a charge on here that I never made.
+B: What charge was made?
+A: It was a charge for a $350 purse that I never bought.
+B: You didn't make this purchase?
+A: I think I would remember if I made a purchase that large.
+B: Sorry. When was this purse purchased?
+A: It was purchased on the 12th of November at 3:15 pm, but I was at work.
+B: We'll do an investigation and get to the bottom of this.
+A: In the meantime, do I have to pay for this charge?
+B: No. We'll take care of everything.

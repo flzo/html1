@@ -1,0 +1,12 @@
+A: 911! What is your emergency?
+B: Hello, this is John. My child swallowed something.
+A: Is your child breathing alright?
+B: Yes, but he is complaining of chest pains.
+A: Do you know what it is he swallowed?
+B: It was a coin. I think it was a nickel.
+A: How old is your son?
+B: He's five years old.
+A: Please give me your address, and we will send paramedics.
+B: Should I hang up after that?
+A: No, please stay on the line in case something changes.
+B: Alright, thank you.

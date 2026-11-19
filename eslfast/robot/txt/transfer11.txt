@@ -1,0 +1,38 @@
+A: You got a letter in the mail.
+B: Give it to me.
+A: What is it?
+B: It's my acceptance letter from UCLA.
+A: What does it say?
+B: I've been accepted!
+A: Are you serious?
+B: I'm serious.
+A: Good for you!
+B: NYU was my first choice, but UCLA is just fine.
+A: I'm so proud of you.
+B: Thanks. I'm proud of myself, too.
+
+A: Here's a letter for you.
+B: Let me see it.
+A: Who's the letter from?
+B: It's a letter from UCLA about my acceptance.
+A: Read it!
+B: UCLA accepted me!
+A: Really?
+B: I'm not joking. I got accepted!
+A: I'm so happy for you!
+B: UCLA was my second choice, but I'm happy knowing I've been accepted.
+A: I am really proud of you.
+B: You have no idea how proud I am of myself.
+
+A: A letter came for you in the mail.
+B: Give it here.
+A: What's the letter about?
+B: I think it's my acceptance letter from UCLA.
+A: Did you get in?
+B: I got in!
+A: You're not kidding?
+B: They really let me in.
+A: Congratulations!
+B: I really wanted to get into NYU, but UCLA is just as good.
+A: You have no idea how proud I am of you.
+B: I'm so excited.

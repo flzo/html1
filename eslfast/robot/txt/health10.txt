@@ -1,0 +1,32 @@
+A: Is this Professor Clark's office?
+B: This is Professor Clark speaking.
+A: This is Kalia from your morning literature class.
+B: Yes, what can I do for you?
+A: I had a skydiving accident over the weekend and won't be able to come to school today.
+B: My goodness! Are you OK?
+A: I broke my leg, but it is healing.
+B: How long will you be out of class?
+A: I should be able to return by next Monday.
+B: Fine. Well, thanks for calling and letting me know you will be absent. I hope you feel better soon.
+
+A: Good morning, may I speak with Professor Clark, please?
+B: You are speaking with Professor Clark.
+A: Professor, I am Kalia from your morning literature class.
+B: Yes, how can I help you?
+A: I ran my car into a tree yesterday and need to miss a few days of school.
+B: Oh, my God! I hope you are all right.
+A: I have a concussion, but I will be OK.
+B: How much school will you miss?
+A: I only need to take this week off.
+B: I appreciate you calling and telling me that you won't be in class. See you next week!
+
+A: Is this Professor Clark?
+B: Yes, I am Professor Clark.
+A: Professor, this is Kalia, and I am in your literature class on Monday mornings.
+B: Yes, how are you doing?
+A: I was partying hard over the weekend, fell down the stairs, and need time to recuperate.
+B: That sounds painful. Are you going to be OK?
+A: I sprained my wrist, but the doctor says it will be fine.
+B: How many days will you be out of school?
+A: The doctor said I should be good enough to return next week.
+B: I am glad you let me know that you will be missing class. Get well!

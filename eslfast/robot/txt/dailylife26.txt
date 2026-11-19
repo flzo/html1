@@ -1,0 +1,38 @@
+A: Wake up, it's time for school.
+B: I'm so tired. Let me sleep for five more minutes.
+A: You have to get up and get ready for school.
+B: I know, but just five more minutes.
+A: I can't let you go back to sleep, because you won't wake back up.
+B: I promise I'll wake up, in five minutes.
+A: You still need to eat breakfast, take a shower, and get dressed.
+B: I realize that, and I can do all that when I wake up in five minutes.
+A: I don't want you to be late for school today.
+B: I'm not going to be late today.
+A: Fine, five more minutes.
+B: Thank you.
+
+A: Get up, it's time for you to get ready.
+B: Let me just get five more minutes of sleep.
+A: I would, but you need to start getting ready for school.
+B: I understand, but all I want is five more minutes of sleep.
+A: If I let you go back to sleep, I know that you won't get up in five minutes.
+B: Trust me. I'm going to wake up.
+A: You have a lot to get done this morning.
+B: I already know, and I'll take care of all that when I wake up.
+A: I want you to be on time for school today.
+B: I'll make it to school on time. Don't worry.
+A: I'll let you sleep for a little while longer.
+B: I really appreciate that.
+
+A: It's time for you to wake up.
+B: Give me five more minutes. I'm really tired this morning.
+A: I'm sorry, but it's time for you to get ready for school.
+B: I get that, but let me just sleep for a little bit longer.
+A: You're not going to get up in five minutes if I let you fall back asleep.
+B: Believe me. I will get up and get ready in five minutes.
+A: There's a lot that you need to do this morning.
+B: I understand, and it will get done after I wake up in five minutes.
+A: I would like for you to not be late for school.
+B: I'm going to be on time today.
+A: Go back to sleep then, but only five more minutes.
+B: Thanks a lot.

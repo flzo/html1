@@ -1,0 +1,12 @@
+A: What is this returned check fee on my statement?
+B: It means you bounced a check.
+A: What does that mean?
+B: It means you wrote a check but you didn't have enough money in your account to cover it.
+A: So my landlord never got paid?
+B: No, and the bank charged you a fee.
+A: So what do I do now?
+B: Do you have enough money to pay your rent?
+A: I do, but I think I'm going to pay in cash.
+B: Your landlord may also charge you a fee for bouncing the check.
+A: I need to be more careful about my spending.
+B: Bouncing a check ends up costing you more money.

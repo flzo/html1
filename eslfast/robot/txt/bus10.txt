@@ -1,0 +1,38 @@
+A: Can you tell me what bus to catch from Altadena to downtown LA?
+B: You can catch the 486.
+A: That bus goes all the way to LA?
+B: I believe so.
+A: Is the bus ride long?
+B: It only takes 45 minutes to an hour.
+A: That's all?
+B: It's a pretty short trip.
+A: Is there always a lot of people on that bus?
+B: It only gets crowded once it gets to LA.
+A: Oh okay, thank you.
+B: No problem.
+
+A: Do you know a bus I can take from Altadena to downtown LA?
+B: I believe you can take the 486.
+A: Will that bus really take me to LA?
+B: It sure will.
+A: Is it a very long ride?
+B: It's a forty-five minute to an hour ride.
+A: Really?
+B: It doesn't take long at all
+A: Do a lot of people ride that bus?
+B: More people start getting on around LA.
+A: Wow, thanks a lot.
+B: Don't mention it.
+
+A: Is there a bus in Altadena that'll take me to downtown LA?
+B: The 486.
+A: The 486 really goes downtown?
+B: Yes, it does.
+A: How long is the bus ride?
+B: It's about forty-five minutes to an hour.
+A: Is that right?
+B: Yeah, it's not that long of a trip.
+A: Is that a crowded bus?
+B: It starts getting more crowded the closer you get to LA.
+A: Thank you very much.
+B: You're very welcome.

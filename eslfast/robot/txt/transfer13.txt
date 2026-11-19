@@ -1,0 +1,38 @@
+A: Are you new here?
+B: Yes, I am.
+A: Is this your first year in college?
+B: I actually transferred here from another school.
+A: Which school?
+B: I transferred from PCC.
+A: How do you like it here compared to PCC?
+B: I love it here.
+A: Do you like it better here or at PCC?
+B: Don't get me wrong. I like it here, but PCC is better.
+A: So, why did you leave PCC?
+B: Because I got my AA, and I'm now working towards my Bachelor's Degree.
+
+A: You're new here, right?
+B: Yes, I am new.
+A: Is this your first semester?
+B: I just transferred from another school.
+A: What school did you transfer from?
+B: I came here from PCC.
+A: Do you like it here so far?
+B: I am really enjoying it here so far.
+A: Which is better, here or PCC?
+B: I think PCC is a lot better than here.
+A: Why didn't you just stay at PCC?
+B: I graduated, and now want to get a BA.
+
+A: You must be new.
+B: As a matter of fact, I am.
+A: Have you just started college?
+B: No. I transferred here from a different school.
+A: What school?
+B: I transferred here from PCC.
+A: Do you like it here?
+B: I really like it here so far.
+A: Do you like it better here or at PCC?
+B: I like PCC better.
+A: If that's the case, then why did you leave?
+B: I graduated, and am working towards my next degree.

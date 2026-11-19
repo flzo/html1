@@ -1,0 +1,38 @@
+A: How are you doing today?
+B: Good. Thanks for asking.
+A: What may I do for you?
+B: I need help with something.
+A: What do you need help with?
+B: I am looking for a newspaper article.
+A: Have you looked in the periodicals?
+B: I didn't even think about that.
+A: I can show you where they are.
+B: That would be a lot of help.
+A: Follow me, please.
+B: Thank you so much.
+
+A: How are you?
+B: I'm great. Thanks.
+A: Did you need something?
+B: I need your help.
+A: How may I help you?
+B: I need to find this newspaper article.
+A: Have you checked the periodicals section yet?
+B: I forgot about that section.
+A: If you'd like, I can show you where to find it.
+B: Could you do that?
+A: Follow me.
+B: Thank you for all your help.
+
+A: How's it going?
+B: I'm fine. Thank you.
+A: Do you need anything?
+B: I need you to help me.
+A: What can I do for you?
+B: I am looking for an article in a newspaper.
+A: Did you check the periodicals?
+B: I didn't even bother to think of that.
+A: I'll show you where to find your article.
+B: I get lost in this library.
+A: It's right this way.
+B: Thanks a lot for your help.

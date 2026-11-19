@@ -1,0 +1,1009 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/supereasy/se/"
+  selector: "body > div:nth-child(1) > div > div.contain > div"
+  generated_at: "2026-11-18T14:01:12+08:00"
+  total: 200
+  failed: 0
+pages:
+  - index: 1
+    slug: "supereasy001"
+    title: "1. A Good Boy"
+    url: "https://www.eslfast.com/supereasy/se/supereasy001.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se001.mp3"
+  - index: 2
+    slug: "supereasy002"
+    title: "2. A Long Life"
+    url: "https://www.eslfast.com/supereasy/se/supereasy002.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se002.mp3"
+  - index: 3
+    slug: "supereasy003"
+    title: "3. A Barking Dog"
+    url: "https://www.eslfast.com/supereasy/se/supereasy003.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se003.mp3"
+  - index: 4
+    slug: "supereasy004"
+    title: "4. A Lost Pencil"
+    url: "https://www.eslfast.com/supereasy/se/supereasy004.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se004.mp3"
+  - index: 5
+    slug: "supereasy005"
+    title: "5. A Horse Rider"
+    url: "https://www.eslfast.com/supereasy/se/supereasy005.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se005.mp3"
+  - index: 6
+    slug: "supereasy006"
+    title: "6. Yellow Corn"
+    url: "https://www.eslfast.com/supereasy/se/supereasy006.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se006.mp3"
+  - index: 7
+    slug: "supereasy007"
+    title: "7. Row Your Boat"
+    url: "https://www.eslfast.com/supereasy/se/supereasy007.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se007.mp3"
+  - index: 8
+    slug: "supereasy008"
+    title: "8. The Jumper"
+    url: "https://www.eslfast.com/supereasy/se/supereasy008.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se008.mp3"
+  - index: 9
+    slug: "supereasy009"
+    title: "9. A Red Berry"
+    url: "https://www.eslfast.com/supereasy/se/supereasy009.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se009.mp3"
+  - index: 10
+    slug: "supereasy010"
+    title: "10. Chocolate Milk"
+    url: "https://www.eslfast.com/supereasy/se/supereasy010.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se010.mp3"
+  - index: 11
+    slug: "supereasy011"
+    title: "11. Go to Work"
+    url: "https://www.eslfast.com/supereasy/se/supereasy011.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se011.mp3"
+  - index: 12
+    slug: "supereasy012"
+    title: "12. Fresh Fish"
+    url: "https://www.eslfast.com/supereasy/se/supereasy012.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se012.mp3"
+  - index: 13
+    slug: "supereasy013"
+    title: "13. Buy a New Car"
+    url: "https://www.eslfast.com/supereasy/se/supereasy013.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se013.mp3"
+  - index: 14
+    slug: "supereasy014"
+    title: "14. A Thin Man"
+    url: "https://www.eslfast.com/supereasy/se/supereasy014.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se014.mp3"
+  - index: 15
+    slug: "supereasy015"
+    title: "15. A Funny Story"
+    url: "https://www.eslfast.com/supereasy/se/supereasy015.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se015.mp3"
+  - index: 16
+    slug: "supereasy016"
+    title: "16. Bug in a Bottle"
+    url: "https://www.eslfast.com/supereasy/se/supereasy016.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se016.mp3"
+  - index: 17
+    slug: "supereasy017"
+    title: "17. Clean Hands"
+    url: "https://www.eslfast.com/supereasy/se/supereasy017.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se017.mp3"
+  - index: 18
+    slug: "supereasy018"
+    title: "18. Who Is It?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy018.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se018.mp3"
+  - index: 19
+    slug: "supereasy019"
+    title: "19. Trash Day"
+    url: "https://www.eslfast.com/supereasy/se/supereasy019.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se019.mp3"
+  - index: 20
+    slug: "supereasy020"
+    title: "20. Cold Weather"
+    url: "https://www.eslfast.com/supereasy/se/supereasy020.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se020.mp3"
+  - index: 21
+    slug: "supereasy021"
+    title: "21. Add Numbers"
+    url: "https://www.eslfast.com/supereasy/se/supereasy021.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se021.mp3"
+  - index: 22
+    slug: "supereasy022"
+    title: "22. Write a Letter"
+    url: "https://www.eslfast.com/supereasy/se/supereasy022.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se022.mp3"
+  - index: 23
+    slug: "supereasy023"
+    title: "23. A Shorter Girl"
+    url: "https://www.eslfast.com/supereasy/se/supereasy023.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se023.mp3"
+  - index: 24
+    slug: "supereasy024"
+    title: "24. The Farm"
+    url: "https://www.eslfast.com/supereasy/se/supereasy024.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se024.mp3"
+  - index: 25
+    slug: "supereasy025"
+    title: "25. Tenth Birthday"
+    url: "https://www.eslfast.com/supereasy/se/supereasy025.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se025.mp3"
+  - index: 26
+    slug: "supereasy026"
+    title: "26. His Red Bike"
+    url: "https://www.eslfast.com/supereasy/se/supereasy026.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se026.mp3"
+  - index: 27
+    slug: "supereasy027"
+    title: "27. New Shoes"
+    url: "https://www.eslfast.com/supereasy/se/supereasy027.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se027.mp3"
+  - index: 28
+    slug: "supereasy028"
+    title: "28. A New Car"
+    url: "https://www.eslfast.com/supereasy/se/supereasy028.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se028.mp3"
+  - index: 29
+    slug: "supereasy029"
+    title: "29. The Swimmer"
+    url: "https://www.eslfast.com/supereasy/se/supereasy029.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se029.mp3"
+  - index: 30
+    slug: "supereasy030"
+    title: "30. Piano Player"
+    url: "https://www.eslfast.com/supereasy/se/supereasy030.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se030.mp3"
+  - index: 31
+    slug: "supereasy031"
+    title: "31. The Runner"
+    url: "https://www.eslfast.com/supereasy/se/supereasy031.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se031.mp3"
+  - index: 32
+    slug: "supereasy032"
+    title: "32. A Simple Salad"
+    url: "https://www.eslfast.com/supereasy/se/supereasy032.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se032.mp3"
+  - index: 33
+    slug: "supereasy033"
+    title: "33. How Rude"
+    url: "https://www.eslfast.com/supereasy/se/supereasy033.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se033.mp3"
+  - index: 34
+    slug: "supereasy034"
+    title: "34. Clean the Apartment"
+    url: "https://www.eslfast.com/supereasy/se/supereasy034.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se034.mp3"
+  - index: 35
+    slug: "supereasy035"
+    title: "35. Write a Check"
+    url: "https://www.eslfast.com/supereasy/se/supereasy035.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se035.mp3"
+  - index: 36
+    slug: "supereasy036"
+    title: "36. Melted Cheese"
+    url: "https://www.eslfast.com/supereasy/se/supereasy036.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se036.mp3"
+  - index: 37
+    slug: "supereasy037"
+    title: "37. In Love"
+    url: "https://www.eslfast.com/supereasy/se/supereasy037.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se037.mp3"
+  - index: 38
+    slug: "supereasy038"
+    title: "38. Work, Work"
+    url: "https://www.eslfast.com/supereasy/se/supereasy038.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se038.mp3"
+  - index: 39
+    slug: "supereasy039"
+    title: "39. No Energy"
+    url: "https://www.eslfast.com/supereasy/se/supereasy039.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se039.mp3"
+  - index: 40
+    slug: "supereasy040"
+    title: "40. A Fast Driver"
+    url: "https://www.eslfast.com/supereasy/se/supereasy040.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se040.mp3"
+  - index: 41
+    slug: "supereasy041"
+    title: "41. A New Baby"
+    url: "https://www.eslfast.com/supereasy/se/supereasy041.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se041.mp3"
+  - index: 42
+    slug: "supereasy042"
+    title: "42. Questions"
+    url: "https://www.eslfast.com/supereasy/se/supereasy042.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se042.mp3"
+  - index: 43
+    slug: "supereasy043"
+    title: "43. Swimming Pool"
+    url: "https://www.eslfast.com/supereasy/se/supereasy043.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se043.mp3"
+  - index: 44
+    slug: "supereasy044"
+    title: "44. Bug Lover"
+    url: "https://www.eslfast.com/supereasy/se/supereasy044.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se044.mp3"
+  - index: 45
+    slug: "supereasy045"
+    title: "45. Earthquake"
+    url: "https://www.eslfast.com/supereasy/se/supereasy045.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se045.mp3"
+  - index: 46
+    slug: "supereasy046"
+    title: "46. Losing Weight"
+    url: "https://www.eslfast.com/supereasy/se/supereasy046.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se046.mp3"
+  - index: 47
+    slug: "supereasy047"
+    title: "47. No Job"
+    url: "https://www.eslfast.com/supereasy/se/supereasy047.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se047.mp3"
+  - index: 48
+    slug: "supereasy048"
+    title: "48. A Poor Dog"
+    url: "https://www.eslfast.com/supereasy/se/supereasy048.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se048.mp3"
+  - index: 49
+    slug: "supereasy049"
+    title: "49. A Storm"
+    url: "https://www.eslfast.com/supereasy/se/supereasy049.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se049.mp3"
+  - index: 50
+    slug: "supereasy050"
+    title: "50. A Good Teacher"
+    url: "https://www.eslfast.com/supereasy/se/supereasy050.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se050.mp3"
+  - index: 51
+    slug: "supereasy051"
+    title: "51. A Bad Boy"
+    url: "https://www.eslfast.com/supereasy/se/supereasy051.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se051.mp3"
+  - index: 52
+    slug: "supereasy052"
+    title: "52. Cancer"
+    url: "https://www.eslfast.com/supereasy/se/supereasy052.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se052.mp3"
+  - index: 53
+    slug: "supereasy053"
+    title: "53. Money in the Bank"
+    url: "https://www.eslfast.com/supereasy/se/supereasy053.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se053.mp3"
+  - index: 54
+    slug: "supereasy054"
+    title: "54. News Every Day"
+    url: "https://www.eslfast.com/supereasy/se/supereasy054.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se054.mp3"
+  - index: 55
+    slug: "supereasy055"
+    title: "55. The Flu"
+    url: "https://www.eslfast.com/supereasy/se/supereasy055.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se055.mp3"
+  - index: 56
+    slug: "supereasy056"
+    title: "56. Patty's Doll"
+    url: "https://www.eslfast.com/supereasy/se/supereasy056.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se056.mp3"
+  - index: 57
+    slug: "supereasy057"
+    title: "57. The Shoe Shine"
+    url: "https://www.eslfast.com/supereasy/se/supereasy057.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se057.mp3"
+  - index: 58
+    slug: "supereasy058"
+    title: "58. Dear God"
+    url: "https://www.eslfast.com/supereasy/se/supereasy058.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se058.mp3"
+  - index: 59
+    slug: "supereasy059"
+    title: "59. Birthday Card"
+    url: "https://www.eslfast.com/supereasy/se/supereasy059.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se059.mp3"
+  - index: 60
+    slug: "supereasy060"
+    title: "60. Wants to Die"
+    url: "https://www.eslfast.com/supereasy/se/supereasy060.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se060.mp3"
+  - index: 61
+    slug: "supereasy061"
+    title: "61. Two Aspirin"
+    url: "https://www.eslfast.com/supereasy/se/supereasy061.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se061.mp3"
+  - index: 62
+    slug: "supereasy062"
+    title: "62. No More Apartment"
+    url: "https://www.eslfast.com/supereasy/se/supereasy062.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se062.mp3"
+  - index: 63
+    slug: "supereasy063"
+    title: "63. Use Soap"
+    url: "https://www.eslfast.com/supereasy/se/supereasy063.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se063.mp3"
+  - index: 64
+    slug: "supereasy064"
+    title: "64. A Happy Cat"
+    url: "https://www.eslfast.com/supereasy/se/supereasy064.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se064.mp3"
+  - index: 65
+    slug: "supereasy065"
+    title: "65. Girl Fight"
+    url: "https://www.eslfast.com/supereasy/se/supereasy065.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se065.mp3"
+  - index: 66
+    slug: "supereasy066"
+    title: "66. Scrub the Floor"
+    url: "https://www.eslfast.com/supereasy/se/supereasy066.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se066.mp3"
+  - index: 67
+    slug: "supereasy067"
+    title: "67. Sally's Cold"
+    url: "https://www.eslfast.com/supereasy/se/supereasy067.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se067.mp3"
+  - index: 68
+    slug: "supereasy068"
+    title: "68. Apple for the Teacher"
+    url: "https://www.eslfast.com/supereasy/se/supereasy068.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se068.mp3"
+  - index: 69
+    slug: "supereasy069"
+    title: "69. A Farmer"
+    url: "https://www.eslfast.com/supereasy/se/supereasy069.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se069.mp3"
+  - index: 70
+    slug: "supereasy070"
+    title: "70. A Piece of Paper"
+    url: "https://www.eslfast.com/supereasy/se/supereasy070.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se070.mp3"
+  - index: 71
+    slug: "supereasy071"
+    title: "71. Try to Sleep"
+    url: "https://www.eslfast.com/supereasy/se/supereasy071.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se071.mp3"
+  - index: 72
+    slug: "supereasy072"
+    title: "72. A New Name"
+    url: "https://www.eslfast.com/supereasy/se/supereasy072.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se072.mp3"
+  - index: 73
+    slug: "supereasy073"
+    title: "73. Go to Your Room"
+    url: "https://www.eslfast.com/supereasy/se/supereasy073.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se073.mp3"
+  - index: 74
+    slug: "supereasy074"
+    title: "74. Drunk Driver"
+    url: "https://www.eslfast.com/supereasy/se/supereasy074.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se074.mp3"
+  - index: 75
+    slug: "supereasy075"
+    title: "75. A Shot in the Arm"
+    url: "https://www.eslfast.com/supereasy/se/supereasy075.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se075.mp3"
+  - index: 76
+    slug: "supereasy076"
+    title: "76. A Loud Radio"
+    url: "https://www.eslfast.com/supereasy/se/supereasy076.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se076.mp3"
+  - index: 77
+    slug: "supereasy077"
+    title: "77. Eggs and Apples"
+    url: "https://www.eslfast.com/supereasy/se/supereasy077.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se077.mp3"
+  - index: 78
+    slug: "supereasy078"
+    title: "78. A Place to Eat"
+    url: "https://www.eslfast.com/supereasy/se/supereasy078.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se078.mp3"
+  - index: 79
+    slug: "supereasy079"
+    title: "79. Red Rubber Ball"
+    url: "https://www.eslfast.com/supereasy/se/supereasy079.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se079.mp3"
+  - index: 80
+    slug: "supereasy080"
+    title: "80. His New Book"
+    url: "https://www.eslfast.com/supereasy/se/supereasy080.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se080.mp3"
+  - index: 81
+    slug: "supereasy081"
+    title: "81. Lulu's Letter"
+    url: "https://www.eslfast.com/supereasy/se/supereasy081.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se081.mp3"
+  - index: 82
+    slug: "supereasy082"
+    title: "82. Chicken Soup"
+    url: "https://www.eslfast.com/supereasy/se/supereasy082.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se082.mp3"
+  - index: 83
+    slug: "supereasy083"
+    title: "83. Red, White, and Blue"
+    url: "https://www.eslfast.com/supereasy/se/supereasy083.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se083.mp3"
+  - index: 84
+    slug: "supereasy084"
+    title: "84. Fly Away"
+    url: "https://www.eslfast.com/supereasy/se/supereasy084.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se084.mp3"
+  - index: 85
+    slug: "supereasy085"
+    title: "85. Hungry Birds"
+    url: "https://www.eslfast.com/supereasy/se/supereasy085.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se085.mp3"
+  - index: 86
+    slug: "supereasy086"
+    title: "86. Water and an Apple"
+    url: "https://www.eslfast.com/supereasy/se/supereasy086.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se086.mp3"
+  - index: 87
+    slug: "supereasy087"
+    title: "87. Washing Her Hands"
+    url: "https://www.eslfast.com/supereasy/se/supereasy087.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se087.mp3"
+  - index: 88
+    slug: "supereasy088"
+    title: "88. Eat a Peanu"
+    url: "https://www.eslfast.com/supereasy/se/supereasy088.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se088.mp3"
+  - index: 89
+    slug: "supereasy089"
+    title: "89. A Paper Clip"
+    url: "https://www.eslfast.com/supereasy/se/supereasy089.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se089.mp3"
+  - index: 90
+    slug: "supereasy090"
+    title: "90. Wash the Clothes"
+    url: "https://www.eslfast.com/supereasy/se/supereasy090.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se090.mp3"
+  - index: 91
+    slug: "supereasy091"
+    title: "91. Start the Car"
+    url: "https://www.eslfast.com/supereasy/se/supereasy091.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se091.mp3"
+  - index: 92
+    slug: "supereasy092"
+    title: "92. Dead Batteries"
+    url: "https://www.eslfast.com/supereasy/se/supereasy092.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se092.mp3"
+  - index: 93
+    slug: "supereasy093"
+    title: "93. More Milk"
+    url: "https://www.eslfast.com/supereasy/se/supereasy093.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se093.mp3"
+  - index: 94
+    slug: "supereasy094"
+    title: "94. Drain Opener"
+    url: "https://www.eslfast.com/supereasy/se/supereasy094.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se094.mp3"
+  - index: 95
+    slug: "supereasy095"
+    title: "95. A Wheelchair"
+    url: "https://www.eslfast.com/supereasy/se/supereasy095.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se095.mp3"
+  - index: 96
+    slug: "supereasy096"
+    title: "96. Fresh Salad"
+    url: "https://www.eslfast.com/supereasy/se/supereasy096.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se096.mp3"
+  - index: 97
+    slug: "supereasy097"
+    title: "97. Trust God"
+    url: "https://www.eslfast.com/supereasy/se/supereasy097.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se097.mp3"
+  - index: 98
+    slug: "supereasy098"
+    title: "98. A Summer Job"
+    url: "https://www.eslfast.com/supereasy/se/supereasy098.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se098.mp3"
+  - index: 99
+    slug: "supereasy099"
+    title: "99. Collect Coins"
+    url: "https://www.eslfast.com/supereasy/se/supereasy099.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se099.mp3"
+  - index: 100
+    slug: "supereasy100"
+    title: "100. A Clean Floor"
+    url: "https://www.eslfast.com/supereasy/se/supereasy100.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se100.mp3"
+  - index: 101
+    slug: "supereasy101"
+    title: "101. What's Behind the Door?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy101.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se101.mp3"
+  - index: 102
+    slug: "supereasy102"
+    title: "102. A Wild Cat?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy102.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se102.mp3"
+  - index: 103
+    slug: "supereasy103"
+    title: "103. Flying Saucer"
+    url: "https://www.eslfast.com/supereasy/se/supereasy103.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se103.mp3"
+  - index: 104
+    slug: "supereasy104"
+    title: "104. Let Me Drive"
+    url: "https://www.eslfast.com/supereasy/se/supereasy104.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se104.mp3"
+  - index: 105
+    slug: "supereasy105"
+    title: "105. Red Spots"
+    url: "https://www.eslfast.com/supereasy/se/supereasy105.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se105.mp3"
+  - index: 106
+    slug: "supereasy106"
+    title: "106. Rose Queen"
+    url: "https://www.eslfast.com/supereasy/se/supereasy106.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se106.mp3"
+  - index: 107
+    slug: "supereasy107"
+    title: "107. Piano Player"
+    url: "https://www.eslfast.com/supereasy/se/supereasy107.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se107.mp3"
+  - index: 108
+    slug: "supereasy108"
+    title: "108. Shoot It Down"
+    url: "https://www.eslfast.com/supereasy/se/supereasy108.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se108.mp3"
+  - index: 109
+    slug: "supereasy109"
+    title: "109. Eight Babies"
+    url: "https://www.eslfast.com/supereasy/se/supereasy109.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se109.mp3"
+  - index: 110
+    slug: "supereasy110"
+    title: "110. Hole in the Wall"
+    url: "https://www.eslfast.com/supereasy/se/supereasy110.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se110.mp3"
+  - index: 111
+    slug: "supereasy111"
+    title: "111. New Hair Color"
+    url: "https://www.eslfast.com/supereasy/se/supereasy111.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se111.mp3"
+  - index: 112
+    slug: "supereasy112"
+    title: "112. His Leg Hurts"
+    url: "https://www.eslfast.com/supereasy/se/supereasy112.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se112.mp3"
+  - index: 113
+    slug: "supereasy113"
+    title: "113. Sleep in the Car"
+    url: "https://www.eslfast.com/supereasy/se/supereasy113.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se113.mp3"
+  - index: 114
+    slug: "supereasy114"
+    title: "114. Let's Go Fishing"
+    url: "https://www.eslfast.com/supereasy/se/supereasy114.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se114.mp3"
+  - index: 115
+    slug: "supereasy115"
+    title: "115. A Beautiful Jacket"
+    url: "https://www.eslfast.com/supereasy/se/supereasy115.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se115.mp3"
+  - index: 116
+    slug: "supereasy116"
+    title: "116. No Help from Coworker"
+    url: "https://www.eslfast.com/supereasy/se/supereasy116.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se116.mp3"
+  - index: 117
+    slug: "supereasy117"
+    title: "117. Fun at the Beach"
+    url: "https://www.eslfast.com/supereasy/se/supereasy117.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se117.mp3"
+  - index: 118
+    slug: "supereasy118"
+    title: "118. He Loves Hot Dogs"
+    url: "https://www.eslfast.com/supereasy/se/supereasy118.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se118.mp3"
+  - index: 119
+    slug: "supereasy119"
+    title: "119. Circus Clowns"
+    url: "https://www.eslfast.com/supereasy/se/supereasy119.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se119.mp3"
+  - index: 120
+    slug: "supereasy120"
+    title: "120. A Famous Painter"
+    url: "https://www.eslfast.com/supereasy/se/supereasy120.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se120.mp3"
+  - index: 121
+    slug: "supereasy121"
+    title: "121. Too Much Stuff"
+    url: "https://www.eslfast.com/supereasy/se/supereasy121.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se121.mp3"
+  - index: 122
+    slug: "supereasy122"
+    title: "122. A Stranger in the Neighborhood"
+    url: "https://www.eslfast.com/supereasy/se/supereasy122.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se122.mp3"
+  - index: 123
+    slug: "supereasy123"
+    title: "123. The Swine Flu"
+    url: "https://www.eslfast.com/supereasy/se/supereasy123.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se123.mp3"
+  - index: 124
+    slug: "supereasy124"
+    title: "124. Where's My Money?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy124.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se124.mp3"
+  - index: 125
+    slug: "supereasy125"
+    title: "125. Get Your Flu Shot"
+    url: "https://www.eslfast.com/supereasy/se/supereasy125.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se125.mp3"
+  - index: 126
+    slug: "supereasy126"
+    title: "126. I'll Call You at 7:00"
+    url: "https://www.eslfast.com/supereasy/se/supereasy126.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se126.mp3"
+  - index: 127
+    slug: "supereasy127"
+    title: "127. The Pistol"
+    url: "https://www.eslfast.com/supereasy/se/supereasy127.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se127.mp3"
+  - index: 128
+    slug: "supereasy128"
+    title: "128. Always Eating"
+    url: "https://www.eslfast.com/supereasy/se/supereasy128.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se128.mp3"
+  - index: 129
+    slug: "supereasy129"
+    title: "129. Ten Pushups"
+    url: "https://www.eslfast.com/supereasy/se/supereasy129.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se129.mp3"
+  - index: 130
+    slug: "supereasy130"
+    title: "130. They Took a Nap"
+    url: "https://www.eslfast.com/supereasy/se/supereasy130.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se130.mp3"
+  - index: 131
+    slug: "supereasy131"
+    title: "131. Feed the Pigeons"
+    url: "https://www.eslfast.com/supereasy/se/supereasy131.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se131.mp3"
+  - index: 132
+    slug: "supereasy132"
+    title: "132. An Ear Problem"
+    url: "https://www.eslfast.com/supereasy/se/supereasy132.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se132.mp3"
+  - index: 133
+    slug: "supereasy133"
+    title: "133. A Mean Boyfriend"
+    url: "https://www.eslfast.com/supereasy/se/supereasy133.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se133.mp3"
+  - index: 134
+    slug: "supereasy134"
+    title: "134. The Baseball Game"
+    url: "https://www.eslfast.com/supereasy/se/supereasy134.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se134.mp3"
+  - index: 135
+    slug: "supereasy135"
+    title: "135. Where Did She Go?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy135.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se135.mp3"
+  - index: 136
+    slug: "supereasy136"
+    title: "136. Visit the Park"
+    url: "https://www.eslfast.com/supereasy/se/supereasy136.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se136.mp3"
+  - index: 137
+    slug: "supereasy137"
+    title: "137. Who's There?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy137.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se137.mp3"
+  - index: 138
+    slug: "supereasy138"
+    title: "138. Do You Want It or Not?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy138.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se138.mp3"
+  - index: 139
+    slug: "supereasy139"
+    title: "139. A Bad Babysitter"
+    url: "https://www.eslfast.com/supereasy/se/supereasy139.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se139.mp3"
+  - index: 140
+    slug: "supereasy140"
+    title: "140. Wash and Dry"
+    url: "https://www.eslfast.com/supereasy/se/supereasy140.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se140.mp3"
+  - index: 141
+    slug: "supereasy141"
+    title: "141. No Flu Shot for Her"
+    url: "https://www.eslfast.com/supereasy/se/supereasy141.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se141.mp3"
+  - index: 142
+    slug: "supereasy142"
+    title: "142. Eat Like a Wolf"
+    url: "https://www.eslfast.com/supereasy/se/supereasy142.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se142.mp3"
+  - index: 143
+    slug: "supereasy143"
+    title: "143. Where's My Flu Shot?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy143.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se143.mp3"
+  - index: 144
+    slug: "supereasy144"
+    title: "144. Will He Marry Me?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy144.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se144.mp3"
+  - index: 145
+    slug: "supereasy145"
+    title: "145. The Man in the Moon"
+    url: "https://www.eslfast.com/supereasy/se/supereasy145.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se145.mp3"
+  - index: 146
+    slug: "supereasy146"
+    title: "146. The Teacher"
+    url: "https://www.eslfast.com/supereasy/se/supereasy146.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se146.mp3"
+  - index: 147
+    slug: "supereasy147"
+    title: "147. A Clean Church"
+    url: "https://www.eslfast.com/supereasy/se/supereasy147.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se147.mp3"
+  - index: 148
+    slug: "supereasy148"
+    title: "148. Can I Borrow $1,000?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy148.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se148.mp3"
+  - index: 149
+    slug: "supereasy149"
+    title: "149. The Cold Winter"
+    url: "https://www.eslfast.com/supereasy/se/supereasy149.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se149.mp3"
+  - index: 150
+    slug: "supereasy150"
+    title: "150. Too Many Prisoners"
+    url: "https://www.eslfast.com/supereasy/se/supereasy150.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se150.mp3"
+  - index: 151
+    slug: "supereasy151"
+    title: "151. I Want All of Them"
+    url: "https://www.eslfast.com/supereasy/se/supereasy151.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se151.mp3"
+  - index: 152
+    slug: "supereasy152"
+    title: "152. Dead Bodies"
+    url: "https://www.eslfast.com/supereasy/se/supereasy152.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se152.mp3"
+  - index: 153
+    slug: "supereasy153"
+    title: "153. Soccer"
+    url: "https://www.eslfast.com/supereasy/se/supereasy153.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se153.mp3"
+  - index: 154
+    slug: "supereasy154"
+    title: "154. A Growing Baby"
+    url: "https://www.eslfast.com/supereasy/se/supereasy154.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se154.mp3"
+  - index: 155
+    slug: "supereasy155"
+    title: "155. Trees in the Jungle"
+    url: "https://www.eslfast.com/supereasy/se/supereasy155.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se155.mp3"
+  - index: 156
+    slug: "supereasy156"
+    title: "156. A Lot of Cash"
+    url: "https://www.eslfast.com/supereasy/se/supereasy156.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se156.mp3"
+  - index: 157
+    slug: "supereasy157"
+    title: "157. What Rain?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy157.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se157.mp3"
+  - index: 158
+    slug: "supereasy158"
+    title: "158. The Moon"
+    url: "https://www.eslfast.com/supereasy/se/supereasy158.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se158.mp3"
+  - index: 159
+    slug: "supereasy159"
+    title: "159. They Fly So Well"
+    url: "https://www.eslfast.com/supereasy/se/supereasy159.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se159.mp3"
+  - index: 160
+    slug: "supereasy160"
+    title: "160. God Wants Good People"
+    url: "https://www.eslfast.com/supereasy/se/supereasy160.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se160.mp3"
+  - index: 161
+    slug: "supereasy161"
+    title: "161. It's Not the Money"
+    url: "https://www.eslfast.com/supereasy/se/supereasy161.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se161.mp3"
+  - index: 162
+    slug: "supereasy162"
+    title: "162. The Homeless Man"
+    url: "https://www.eslfast.com/supereasy/se/supereasy162.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se162.mp3"
+  - index: 163
+    slug: "supereasy163"
+    title: "163. A Patient Mom"
+    url: "https://www.eslfast.com/supereasy/se/supereasy163.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se163.mp3"
+  - index: 164
+    slug: "supereasy164"
+    title: "164. A Clean Car"
+    url: "https://www.eslfast.com/supereasy/se/supereasy164.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se164.mp3"
+  - index: 165
+    slug: "supereasy165"
+    title: "165. They Want a Baby"
+    url: "https://www.eslfast.com/supereasy/se/supereasy165.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se165.mp3"
+  - index: 166
+    slug: "supereasy166"
+    title: "166. Too Many Problems"
+    url: "https://www.eslfast.com/supereasy/se/supereasy166.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se166.mp3"
+  - index: 167
+    slug: "supereasy167"
+    title: "167. No More Meat for Her"
+    url: "https://www.eslfast.com/supereasy/se/supereasy167.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se167.mp3"
+  - index: 168
+    slug: "supereasy168"
+    title: "168. Out of Food"
+    url: "https://www.eslfast.com/supereasy/se/supereasy168.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se168.mp3"
+  - index: 169
+    slug: "supereasy169"
+    title: "169. Will the Car Start?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy169.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se169.mp3"
+  - index: 170
+    slug: "supereasy170"
+    title: "170. A Mountain Drive"
+    url: "https://www.eslfast.com/supereasy/se/supereasy170.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se170.mp3"
+  - index: 171
+    slug: "supereasy171"
+    title: "171. A Lazy Dog"
+    url: "https://www.eslfast.com/supereasy/se/supereasy171.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se171.mp3"
+  - index: 172
+    slug: "supereasy172"
+    title: "172. Help Him Die"
+    url: "https://www.eslfast.com/supereasy/se/supereasy172.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se172.mp3"
+  - index: 173
+    slug: "supereasy173"
+    title: "173. A New Pet Store"
+    url: "https://www.eslfast.com/supereasy/se/supereasy173.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se173.mp3"
+  - index: 174
+    slug: "supereasy174"
+    title: "174. The Mayor Is Late"
+    url: "https://www.eslfast.com/supereasy/se/supereasy174.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se174.mp3"
+  - index: 175
+    slug: "supereasy175"
+    title: "175. He Will Work for Gas"
+    url: "https://www.eslfast.com/supereasy/se/supereasy175.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se175.mp3"
+  - index: 176
+    slug: "supereasy176"
+    title: "176. A Book Sale"
+    url: "https://www.eslfast.com/supereasy/se/supereasy176.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se176.mp3"
+  - index: 177
+    slug: "supereasy177"
+    title: "177. House Price Goes Up"
+    url: "https://www.eslfast.com/supereasy/se/supereasy177.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se177.mp3"
+  - index: 178
+    slug: "supereasy178"
+    title: "178. The New Neighbor"
+    url: "https://www.eslfast.com/supereasy/se/supereasy178.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se178.mp3"
+  - index: 179
+    slug: "supereasy179"
+    title: "179. Don't Pick Up the Trash"
+    url: "https://www.eslfast.com/supereasy/se/supereasy179.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se179.mp3"
+  - index: 180
+    slug: "supereasy180"
+    title: "180. Copycat Copycat"
+    url: "https://www.eslfast.com/supereasy/se/supereasy180.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se180.mp3"
+  - index: 181
+    slug: "supereasy181"
+    title: "181. A Loud Party"
+    url: "https://www.eslfast.com/supereasy/se/supereasy181.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se181.mp3"
+  - index: 182
+    slug: "supereasy182"
+    title: "182. Chop Down the Trees"
+    url: "https://www.eslfast.com/supereasy/se/supereasy182.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se182.mp3"
+  - index: 183
+    slug: "supereasy183"
+    title: "183. Happy New Year, or Not?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy183.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se183.mp3"
+  - index: 184
+    slug: "supereasy184"
+    title: "184. Sleep In or Get Up?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy184.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se184.mp3"
+  - index: 185
+    slug: "supereasy185"
+    title: "185. Learn to Swim"
+    url: "https://www.eslfast.com/supereasy/se/supereasy185.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se185.mp3"
+  - index: 186
+    slug: "supereasy186"
+    title: "186. He Likes That Idea"
+    url: "https://www.eslfast.com/supereasy/se/supereasy186.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se186.mp3"
+  - index: 187
+    slug: "supereasy187"
+    title: "187. Job Training, but No Job"
+    url: "https://www.eslfast.com/supereasy/se/supereasy187.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se187.mp3"
+  - index: 188
+    slug: "supereasy188"
+    title: "188. Burned Up"
+    url: "https://www.eslfast.com/supereasy/se/supereasy188.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se188.mp3"
+  - index: 189
+    slug: "supereasy189"
+    title: "189. Meet Halfway"
+    url: "https://www.eslfast.com/supereasy/se/supereasy189.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se189.mp3"
+  - index: 190
+    slug: "supereasy190"
+    title: "190. Dirty Needles"
+    url: "https://www.eslfast.com/supereasy/se/supereasy190.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se190.mp3"
+  - index: 191
+    slug: "supereasy191"
+    title: "191. Starving Artists"
+    url: "https://www.eslfast.com/supereasy/se/supereasy191.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se191.mp3"
+  - index: 192
+    slug: "supereasy192"
+    title: "192. Believe the Chief"
+    url: "https://www.eslfast.com/supereasy/se/supereasy192.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se192.mp3"
+  - index: 193
+    slug: "supereasy193"
+    title: "193. A Hood in a Hoody"
+    url: "https://www.eslfast.com/supereasy/se/supereasy193.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se193.mp3"
+  - index: 194
+    slug: "supereasy194"
+    title: "194. Se Habla English"
+    url: "https://www.eslfast.com/supereasy/se/supereasy194.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se194.mp3"
+  - index: 195
+    slug: "supereasy195"
+    title: "195. A Cool Laptop"
+    url: "https://www.eslfast.com/supereasy/se/supereasy195.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se195.mp3"
+  - index: 196
+    slug: "supereasy196"
+    title: "196. From Hot to Hot"
+    url: "https://www.eslfast.com/supereasy/se/supereasy196.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se196.mp3"
+  - index: 197
+    slug: "supereasy197"
+    title: "197. Lost and Found"
+    url: "https://www.eslfast.com/supereasy/se/supereasy197.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se197.mp3"
+  - index: 198
+    slug: "supereasy198"
+    title: "198. They Deliver"
+    url: "https://www.eslfast.com/supereasy/se/supereasy198.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se198.mp3"
+  - index: 199
+    slug: "supereasy199"
+    title: "199. A Brush with God?"
+    url: "https://www.eslfast.com/supereasy/se/supereasy199.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se199.mp3"
+  - index: 200
+    slug: "supereasy200"
+    title: "200. The Pier Couldn't Run"
+    url: "https://www.eslfast.com/supereasy/se/supereasy200.htm"
+    mp3: "https://www.eslfast.com/supereasy/audio/se200.mp3"

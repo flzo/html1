@@ -1,0 +1,38 @@
+A: I'm having problems with my computer.
+B: What's wrong with it?
+A: For some reason it won't turn on.
+B: Have you checked the connections on your computer?
+A: What connections?
+B: There are cords that connect your computer to a power outlet.
+A: Will the cords keep it from turning on?
+B: It won't turn on if the cords aren't connected.
+A: I didn't think of that.
+B: Try it and see if it works.
+A: I think that I will, thanks.
+B: It should work, but let me know if it doesn't.
+
+A: My computer isn't working.
+B: Tell me what the problem is.
+A: I'm trying to turn it on, but it won't work.
+B: Try checking the connections.
+A: Which ones are you referring to?
+B: The cords that you see behind your CPU that plug into an outlet.
+A: Is that why it won't turn on?
+B: If they're not connected right, that will keep it from turning on.
+A: I did not know that.
+B: You should check the connections.
+A: I'm going to do that.
+B: Tell me if it's still not working.
+
+A: Something's wrong with my computer.
+B: What's the problem?
+A: My computer won't turn on.
+B: Did you see if all the connections are right?
+A: I'm not sure I understand what you mean.
+B: The connections between your CPU and your outlet.
+A: Is that what's stopping my computer from turning on?
+B: If your plugs aren't connected all the way, the computer won't turn on.
+A: I had no idea.
+B: Why don't you try it and see what happens?
+A: I'll try it right now.
+B: Let me know if that doesn't work.

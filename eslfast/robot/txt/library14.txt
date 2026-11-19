@@ -1,0 +1,38 @@
+A: How may I help you today?
+B: I need to make some copies.
+A: The copier is right over there.
+B: Does it cost to use it?
+A: We do charge to use the machine.
+B: How much does it cost?
+A: We charge ten cents a copy.
+B: How many copies am I allowed to make?
+A: There is no limit to how many copies you can make.
+B: Would you mind showing me how to use it?
+A: Please read the instructions on the copier.
+B: Oh, okay. Thanks.
+
+A: What can I do for you?
+B: I would like to use the copy machine.
+A: The machine is over there.
+B: Do I have to pay to use the machine?
+A: Yes, you will have to pay to use it.
+B: How much?
+A: It costs ten cents a copy.
+B: Am I limited to a certain number of copies?
+A: You can copy as much as you'd like.
+B: Could you show me how to use the copier?
+A: The instructions for the copier are posted on it.
+B: That's fabulous. Thank you.
+
+A: May I help you?
+B: I need to copy some pages in my book.
+A: The copier is right over there, in the corner.
+B: Do I need to pay to use it?
+A: You have to pay to use the copier.
+B: How much do you charge?
+A: You need to pay ten cents for every copy.
+B: Is there a maximum number of copies I can make?
+A: You can make as many copies as you want.
+B: I'm going to need you to show me how to use the machine.
+A: There are instructions posted on the copier.
+B: Thank you for your help.

@@ -1,0 +1,38 @@
+A: Can you go to the store for me?
+B: Sure, I can go to the store for you. What do you need?
+A: Just a couple things, here's a list.
+B: Is there anything else that you want me to pick up?
+A: No, I think that's all that I need.
+B: Is there any other place you would like me to go to for you?
+A: If you can, could you pick up my prescription for me?
+B: Sure, no problem. Is your prescription ready?
+A: I think so. It should be.
+B: Okay, I'll pick it up for you.
+A: Thank you so much.
+B: You're welcome.
+
+A: Can you pick up some things from the store for me?
+B: Of course, what do you need?
+A: I need a few things, I'll give you the list.
+B: Is there something else you need that you can think of?
+A: Everything I need is on the list.
+B: Do you want me to make any other stops while I'm out?
+A: Since you asked, would you pick up my medicine from the pharmacy?
+B: Is it ready to be picked up?
+A: I believe so.
+B: No problem. I'll do that for you.
+A: I really appreciate you doing this for me.
+B: It's no problem at all.
+
+A: I would appreciate it if you could go to the store for me.
+B: No problem. What do you want me to get?
+A: Here's a list with a few things that I need you to get.
+B: Did you forget to put anything on the list?
+A: I don't think I forgot anything.
+B: Would you like me to go anywhere else for you?
+A: If you don't mind, I would appreciate it if you would pick up my prescription.
+B: Has your prescription been filled yet?
+A: Someone at the pharmacy called and told me it was ready.
+B: Sure, I'll go get it for you.
+A: Thank you.
+B: Anything for you.

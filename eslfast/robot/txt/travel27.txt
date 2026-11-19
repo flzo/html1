@@ -1,0 +1,32 @@
+A: Is this where I catch the Super Shuttle?
+B: Yes, this is where you catch the Super Shuttle. Where are you headed?
+A: I am headed home to Pasadena.
+B: You can tell where each van is headed by the name on the front of the van. I am the driver for Glendale, but your van should be along in a minute.
+A: Do you know how much it costs to get to Pasadena?
+B: I believe the cost of that trip is sixty dollars.
+A: Do you know if the shuttle goes directly to Pasadena, or does it make a lot of stops?
+B: Before you pay the driver, you need to ask him. He needs to be upfront with you about the number of stops he will be making.
+A: Do I need to have exact change?
+B: You don't need exact change, but it is useful to have smaller bills.
+
+A: Is this where I catch the Super Shuttle?
+B: Yes, this is where you catch the Super Shuttle. Where are you headed?
+A: I am headed home to Pasadena.
+B: You can tell where each van is headed by the name on the front of the van. I am the driver for Glendale, but your van should be along in a minute.
+A: Do you know how much it costs to get to Pasadena?
+B: I believe the cost of that trip is sixty dollars.
+A: Do you know if the shuttle goes directly to Pasadena, or does it make a lot of stops?
+B: Before you pay the driver, you need to ask him. He needs to be upfront with you about the number of stops he will be making.
+A: Do I need to have exact change?
+B: You don't need exact change, but it is useful to have smaller bills.
+
+A: Am I in the right place to catch the Super Shuttle?
+B: This is the Super Shuttle stop. Where are you trying to get to?
+A: My final destination is my home in Pasadena.
+B: The destination of each van is always written across the top. I have Glendale written on mine, but your van will be here shortly.
+A: What is the price of a shuttle trip to Pasadena?
+B: The trip to Pasadena costs sixty dollars.
+A: I need to know if this shuttle is going to make a lot of stops or go straight to Pasadena.
+B: If you find out the driver will be making too many stops on the way, you may wish to wait for a more direct shuttle.
+A: What should I pay the driver with?
+B: There is an ATM machine over by that wall. It is best if you have bills close to the amount that you will owe.

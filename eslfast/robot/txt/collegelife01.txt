@@ -1,0 +1,38 @@
+A: Hello, I need to register for a class.
+B: What class are you trying to take?
+A: I want to take a Psychology class.
+B: Well, there are only two classes open.
+A: Can you tell me what days the classes are on?
+B: One class is on Tuesday and Thursday from 2:00 p.m. - 4:00 p.m.
+A: And the other class?
+B: That class is from ten to twelve on Monday and Wednesday.
+A: Are you sure these are the only open classes?
+B: Yes, I am sure.
+A: Okay, sign me up for the class on Monday and Wednesday.
+B: Very well then.
+
+A: I would like to register for a class today.
+B: No problem, what class would you like to take?
+A: I would very much enjoy taking a Psychology class.
+B: There are two classes that are still open.
+A: Which days are these classes on?
+B: The first class is a Tuesday and Thursday class from two to three.
+A: What about the other class?
+B: The other class is on Monday and Wednesday from 10:00 a.m. to 12:00 p.m.
+A: Are you sure there are no more open classes?
+B: I'm positive.
+A: Sign me up for Monday and Wednesday.
+B: Okay, I'll sign you up.
+
+A: Could you help me to register for a class?
+B: Do you know what class you want to take?
+A: Are there any Psych classes available?
+B: I believe there are still two Psychology classes open.
+A: On what days are the classes?
+B: There is one class on Tuesday and Thursday from 2 to 4.
+A: Can you tell me about the other class?
+B: It's from 10-12 on Monday and Wednesday.
+A: You're positive that these are the only classes left?
+B: These two are the only ones.
+A: The class on Monday and Wednesday will be fine.
+B: Very good.

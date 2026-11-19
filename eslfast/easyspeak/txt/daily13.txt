@@ -1,0 +1,14 @@
+A: Do you have any pets?
+B: Yes. I have two fishes.
+A: That's it? Why don't you get more pets?
+B: I'm allergic to fur.
+A: That's terrible. I love cats and dogs.
+B: Do you own any?
+A: I have two cats and three dogs.
+B: Wow, that's a lot of animals.
+A: I know, but I love them so much.
+B: I wish I could own a cat someday.
+A: You're not happy with your fishes?
+B: Not really. I can't even pet them.
+A: Maybe you could get a snake.
+B: I'm not that desperate.

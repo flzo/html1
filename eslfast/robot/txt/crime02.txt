@@ -1,0 +1,38 @@
+A: Did you hear about the robbery?
+B: No, I didn't hear about it.
+A: A man tried to rob our bank today.
+B: Are you serious?
+A: Yes, he tried to rob the bank at gunpoint.
+B: Did anyone get hurt?
+A: Nobody got hurt.
+B: That's good to hear.
+A: He did get away, though.
+B: That is horrible.
+A: The cops don't know who the guy is.
+B: I'm sure they'll catch him eventually.
+
+A: Have you heard about the robbery?
+B: What robbery?
+A: Some guy attempted to rob our bank earlier today.
+B: That's insane!
+A: He tried to rob the bank at gunpoint.
+B: Is everyone okay?
+A: He didn't hurt anyone.
+B: I'm glad to hear that.
+A: I heard he got away.
+B: That's not good.
+A: The police don't know who the suspect is.
+B: They'll figure it out.
+
+A: Did you know there was a robbery?
+B: I haven't heard anything about it.
+A: Some dude tried to rob our bank.
+B: Really? That's crazy!
+A: He tried to rob the bank with a gun.
+B: What happened?
+A: Most important, no one got injured.
+B: That's great.
+A: Sadly, he did get away.
+B: That's bad news.
+A: The police have no idea who this man is.
+B: They'll catch him.

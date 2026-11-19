@@ -1,0 +1,81 @@
+Conversation 1:
+A: I need to get a taxi.
+B: We have a variety of transportation services. Would you prefer a private vehicle to a taxi?
+A: No, that won't be necessary. I just need a taxi.
+B: Perhaps you'd prefer a limousine. That's such a stylish way to travel.
+A: Just a taxi, please.
+B: And what is your destination?
+A: I'm going to Rockefeller Center.
+B: I see. What time do you want to depart from the hotel?
+A: I want to leave as soon as possible.
+B: Okay, a taxi will arrive in seconds, sir.
+A: Thank you, I'm coming down now.
+B: It won't be but a few seconds, sir.
+
+Conversation 2:
+A: I need a taxi, please.
+B: We have various transportation services. Would you prefer a private vehicle?
+A: No, thanks. A taxi is just fine.
+B: May I suggest a limo? It's nice to pamper yourself once in a while.
+A: I don't want anything except a taxi, thank you.
+B: I understand. And where will you be going?
+A: Rockefeller Center.
+B: And what time would you like to be picked up?
+A: The sooner the better.
+B: A taxi will be here shortly, sir.
+A: Great! And remember, a taxi, not a limo.
+B: A taxi it is, sir.
+
+Conversation 3:
+A: Can you get me a taxi?
+B: We offer various types of transportation. Perhaps you'd like to upgrade to a private vehicle?
+A: Thanks, but no thanks. A taxi will do just fine.
+B: In that case, how about a limo? Then you can travel in style.
+A: No, I hate limousines. They're gas guzzlers.
+B: Got it, sir. Where would you like the taxi to take you?
+A: My destination is Rockefeller Center.
+B: What time do you want to leave the hotel?
+A: As soon as possible.
+B: I'll call the taxi immediately, sir.
+A: I'm coming downstairs now.
+B: A brand new taxi is pulling up now, sir.
+
+Conversation 4:
+A: I'm going to need a taxi.
+B: You don't have to restrict yourself to a taxi. We can offer you a private vehicle.
+A: A private vehicle, huh? No, a taxi is okay.
+B: Some people find a limo to be much more comfortable than a taxi.
+A: No, I wouldn't be caught dead in a limo.
+B: No upgrade of any kind. And where might you be going?
+A: I'm headed to Rockefeller Center.
+B: When shall I tell the taxi to be here?
+A: Right now.
+B: The taxi will be here immediately, sir.
+A: Good, I'm leaving my room in about one minute.
+B: You won't have to wait a second, sir.
+
+Conversation 5:
+A: I need a taxi.
+B: We could easily provide you with a private vehicle, if you'd prefer.
+A: No, the taxi will do.
+B: Perhaps you'd like to take a beautiful limousine.
+A: No, thank you. Taxis and I get along just fine.
+B: No private vehicle, no limo. Got it. Where are you going?
+A: I'm seeing a show at Rockefeller Center.
+B: What time should the taxi be here to pick you up?
+A: I'm ready to go right now.
+B: I'll have a taxi for you momentarily, sir.
+A: Great! As soon as I brush my teeth, I'll be downstairs.
+B: You'll enjoy our new, clean taxis, sir.
+
+Conversation 6:
+A: Could you please reserve a taxi for me?
+B: Do you think a private vehicle might be more to your liking?
+A: A private vehicle? No, thanks, I won't need one.
+B: Even better than a private vehicle is a limo. How does that sound?
+A: T A X I, please.
+B: A taxi it is. Where will you be headed?
+A: Rockefeller Center. Can you get the taxi here immediately, please?
+B: A taxi will be here in just a minute, sir.
+A: Good. I'll get my coat and come downstairs.
+B: The taxi will be ready when you are, sir.

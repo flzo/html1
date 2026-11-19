@@ -1,0 +1,38 @@
+A: What are you calling about today?
+B: I scheduled a delivery for tomorrow.
+A: Is there a problem?
+B: I would like to reschedule.
+A: That shouldn't be a problem.
+B: Can I have it delivered the day after tomorrow?
+A: So, you want it delivered the day after tomorrow?
+B: Yes, will that be possible?
+A: What time would you like us to deliver it?
+B: Is 2:30 okay?
+A: Your delivery has been confirmed.
+B: Thank you, and I'm sorry for the change of plans.
+
+A: How may I help you?
+B: I was going to have a mattress delivered to my house.
+A: What's the problem?
+B: I need to have it delivered another day.
+A: That won't be a problem.
+B: I need to have it delivered two days from today.
+A: You want it delivered in two days?
+B: Is that okay?
+A: What time do you want it delivered?
+B: I would like it delivered at 2:30.
+A: I have changed your delivery to that day and time.
+B: Thank you for your help.
+
+A: What can I do for you?
+B: I was supposed to have my mattress delivered tomorrow.
+A: Is something wrong?
+B: I need to reschedule the delivery.
+A: I can help you with that.
+B: I won't be home tomorrow, so I need it done the next day.
+A: In two days?
+B: Yes, that's when I need it done.
+A: At what time?
+B: I need it at about 2:30.
+A: Alright, you're all set with your delivery.
+B: That's great! I appreciate your help.

@@ -1,0 +1,32 @@
+A: What forms should I fill out to collect unemployment?
+B: You need to fill out a special form to apply for unemployment benefits.
+A: Where do I get the application form for unemployment benefits?
+B: You can call the Employment Development Office and request a form.
+A: What information will I need to provide to apply for unemployment?
+B: Be prepared to provide your employer's name and address and what dates you worked.
+A: What else will the Employment Development Office need?
+B: You need to be prepared to show that your unemployment is not your fault. If you have a termination notice, that would be great.
+A: What will happen next?
+B: The Employment Development Office will call you for an interview.
+
+A: How do I know what forms to fill out for unemployment?
+B: There is a special form to apply for unemployment benefits.
+A: How do I get the form to apply for unemployment benefits?
+B: You can go online to begin the application process.
+A: What type of information will I have to provide to the Employment Development Office?
+B: You need to be able to say whom you worked for and when.
+A: Will they need anything else from me?
+B: You should be able to provide a layoff notice or proof of severance.
+A: What should I do after I turn in the application?
+B: You need to be interviewed over the phone. They will set up a time for you.
+
+A: Are there any special unemployment forms I need to fill out?
+B: You need to get a special application form.
+A: Do you know where I can find the application form?
+B: You can go to the Employment Development Office and pick it up.
+A: What records will I have to show to apply for unemployment benefits?
+B: They will need a record showing who you worked for and when you worked for them.
+A: Is there anything else I will need to provide?
+B: Be prepared to show a written notice of your termination as proof.
+A: Do I need to do anything else after I turn in the application?
+B: You will receive a notice for a phone interview, which will continue the process.

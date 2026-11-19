@@ -1,0 +1,32 @@
+A: When are we leaving for our field trip?
+B: Our science field trip is next Monday at 8:00 in the morning. Can you mark that on your calendar?
+A: Yes, I will write that down.
+B: That will be Monday, December 2nd. We need to start loading the buses half an hour early, so plan to arrive at 7:30.
+A: Yes, I will be there on time.
+B: We will return 6 days later on December 8th. Will someone be picking you up?
+A: Yes, someone is coming to get me.
+B: The return bus will leave the campground at 5:00 p.m. and return to campus 3 hours later at 8:00 p.m.
+A: What should we bring with us?
+B: I am going to post all of that information on the geology club web page. Check it out when you get a chance. See you Monday!
+
+A: Can you tell me what the date and time of our field trip is?
+B: We are leaving on our science field trip at 8:00 a.m. next Monday. Do you have something to write that down on?
+A: Yes, I can write that on my calendar.
+B: That will be on the second of December. Be there half an hour early to get your bags on the bus. Do you understand?
+A: Yes, I understand.
+B: The bus will bring you back 6 days later on December 8th. Is someone coming to get you?
+A: No, I don't have a ride yet.
+B: We will be leaving the campground at 5:00 in the evening and arrive at our campus at 8:00 p.m. Any more questions?
+A: How much will the trip cost?
+B: I put all of that information in the packet. I'll give you another copy if you need one. See you on Monday!
+
+A: What date will our field trip be on?
+B: The science field trip is next Monday at 8 o'clock in the morning. Do you want to make note of that on your calendar?
+A: Yes, I will make note of that.
+B: Next Monday is December 2nd. The buses will leave at 8, but we must begin loading at 7:30.
+A: Be there half an hour early.
+B: You might want to tell whoever is picking you up that you will return on December 8th. Do you have a ride?
+A: Yes, someone is picking me up.
+B: To get back to campus by 8:00 p.m., we will be leaving the campsite at 5:00 p.m. Do you have any more questions?
+A: Not at the moment—maybe later, though.
+B: All of the extra information that you need is on the bulletin board in the hallway. See you on Monday!

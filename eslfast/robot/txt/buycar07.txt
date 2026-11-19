@@ -1,0 +1,32 @@
+A: I need to go to the DMV and don't know how to make an appointment with them.
+B: First of all you need to figure out if you really need to be there in person. Sometimes you can take care of your business at the Automobile Club or at the DMV website.
+A: If I do need to go in, how can I make an appointment?
+B: You can either make an appointment by going online or by calling the phone number listed on their website.
+A: What if I just show up there?
+B: If you have all day to wait and a good book to read, that might work for you.
+A: Is the DMV open on Saturdays?
+B: Due to state budget cuts, the DMV is no longer open on Saturdays.
+A: I think that you have just convinced me to join the Automobile Club!
+B: Yes, the Automobile Club takes all the pain out of DMV transactions!
+
+A: How can I make an appointment at the DMV?
+B: You could check the DMV website or see if the Automobile Club could help you. Many things can be taken care of without actually going in to the DMV in person.
+A: How do I make an appointment if I have to actually go in?
+B: You have two choices. You can call them at the number listed on their website or you can contact them online.
+A: Can I just walk in and get help?
+B: Without an appointment, you will be waiting for many hours. I would not advise it.
+A: Can I take care of this on a Saturday?
+B: Unfortunately, the DMV is no longer open on Saturdays.
+A: It probably would be easier for me to join the Automobile Club.
+B: The Automobile Club has many benefits, and taking care of your DMV transactions is one of the best benefits.
+
+A: Can you help me figure out how to make an appointment with the DMV?
+B: I would try to avoid going in to the DMV in person. If you are a member of the Automobile Club, they oftentimes can take care of things for you or you can try the DMV website.
+A: It would be nice not to have to go in but if I have to, how do I make an appointment?
+B: The easiest way to contact them is online, but they also have a phone number listed on the website if you prefer to call them on the phone.
+A: What do they do if you just show up with no appointment?
+B: That is not a good way to go. You could be left waiting for many hours and there is no guarantee that they will see you at all!
+A: What about going to the DMV on Saturday?
+B: For a while the DMV was open on Saturday, but not anymore.
+A: I think that the Automobile Club idea was a good suggestion.
+B: You should check out the Automobile Club. I think you would enjoy being a member.

@@ -1,0 +1,12 @@
+A: When are you going to register for classes?
+B: My registration date is next month.
+A: That is terrible.
+B: Yeah, it is very late.
+A: Mine is next week.
+B: Why is your date so early?
+A: I am a student athlete.
+B: Maybe I should play a sport.
+A: Soccer tryouts are tomorrow.
+B: I don't like soccer.
+A: Would you rather have a late registration date?
+B: I actually would.

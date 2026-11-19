@@ -1,0 +1,32 @@
+A: Mary, it's good to see you!
+B: Josh and I were just on our way back home from the beach and thought we'd drop by.
+A: I am so glad that you decided to stop by!
+B: Yes, it has been a long time since we have seen you.
+A: Mary, can I get Josh or you something to drink?
+B: Oh no, thank you. We aren't all that thirsty.
+A: How about a little snack then?
+B: No, thank you, we just ate lunch a little while ago.
+A: Well then, how is your family?
+B: Everyone is doing great. My sister finally had her baby.
+
+A: Mary, what a surprise!
+B: I am so glad you are home! Josh and I thought that we'd take a chance and stop by for a visit.
+A: Your timing is perfect!
+B: It's been a long time since we've stopped by.
+A: Mary, Josh, would either of you like something to drink?
+B: Thanks, but we really are fine.
+A: Would you like a little snack?
+B: No, thanks. We are still full from lunch.
+A: Is your family doing well?
+B: Things are going well for everyone. My brother finally got the job he had been trying for.
+
+A: Mary, how have you been?
+B: Josh and I just took a chance on our way home from the beach to see if you were up for visitors.
+A: I was just thinking about you yesterday!
+B: It's been ages since we had a chance to visit with you!
+A: Mary, please let me get the two of you something to drink.
+B: Oh, please don't go to any trouble. We just stopped by for a visit.
+A: Can I get you a little something to eat?
+B: We appreciate the offer, but we already ate.
+A: So tell me, how is your family doing?
+B: We are all doing well. My dad finally got to retire and is enjoying his leisure time.

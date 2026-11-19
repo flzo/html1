@@ -1,0 +1,38 @@
+A: I need to have my computer fixed.
+B: What's the problem?
+A: I think it has a virus.
+B: Did you buy your computer from us?
+A: Yes, I bought it from your store.
+B: Did you get the warranty on your computer?
+A: Yes, I got the warranty.
+B: My computer is showing that the warranty you bought is expired.
+A: You can't be serious!
+B: You're going to have to pay to have your computer fixed.
+A: How much is it going to cost?
+B: It's going to be about $120.
+
+A: I need you to fix my computer.
+B: What problems are you having with it?
+A: There is a virus on my computer.
+B: Did you get your computer from our store?
+A: I purchased my computer from your store.
+B: Did you buy the warranty for your computer?
+A: I did purchase the warranty.
+B: Your warranty apparently expired two months ago.
+A: Is that right?
+B: It's going to cost you for us to fix your computer.
+A: How much?
+B: To fix your computer, it's going to cost you about $120.
+
+A: Can you fix my computer?
+B: What's wrong with it?
+A: I believe that it has a virus.
+B: Where did you get your computer? From us?
+A: Yes, I did.
+B: Did you purchase a warranty for the computer?
+A: I believe that I purchased the warranty.
+B: Our records are showing that your warranty expired last month.
+A: I don't believe it.
+B: I'm sorry, but it is going to cost you to get your computer fixed.
+A: How much will it cost me?
+B: It'll run you about $120.

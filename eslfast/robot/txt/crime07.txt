@@ -1,0 +1,38 @@
+A: Were you around when the robbery happened?
+B: Yes, I was.
+A: Could you explain what you saw?
+B: I was in the bank at the time of the robbery.
+A: What did you see?
+B: I saw a man come in with a gun.
+A: Did you see his face?
+B: No. He had a mask on.
+A: Did he come in with anyone else?
+B: He was by himself.
+A: Would you come down to the station for further questioning?
+B: That shouldn't be a problem.
+
+A: Did you see the robbery?
+B: I sure did.
+A: Did you see everything?
+B: I was in the bank at the time.
+A: What exactly did you see?
+B: I saw the guy come in with a gun.
+A: Did you get a good look at his face?
+B: He was wearing a mask.
+A: Was anyone else with him?
+B: He came in alone.
+A: Could you come to the station for more questioning?
+B: That'll be fine.
+
+A: Were you at the scene during the robbery?
+B: Yes, I was, Officer.
+A: Were you able to see a lot?
+B: I was there as it happened.
+A: What happened?
+B: The robber came in with a gun.
+A: Could you see his face?
+B: He had a mask over his face.
+A: Was he with someone else?
+B: He was alone.
+A: Would you be willing to come down to the station for further questioning?
+B: I would be happy to.

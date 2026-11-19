@@ -1,0 +1,38 @@
+A: I would like to open an account today.
+B: What kind?
+A: I want to open a checking account.
+B: You need to keep a minimum balance.
+A: How much is it?
+B: You need at least $100 in your account.
+A: Is that all?
+B: Yes. That's the minimum.
+A: What happens if I don't meet that requirement?
+B: You will get a fine.
+A: How much?
+B: It's going to be $25.
+
+A: I need to open an account.
+B: Do you know what kind you want to open?
+A: I want a checking account.
+B: Do you know what the minimum balance is?
+A: What is that?
+B: You need to keep it at $100.
+A: That's it?
+B: That's the least amount you can have.
+A: What'll happen if I don't maintain that?
+B: We will fine you.
+A: How much will I be fined?
+B: You will be fined $25.
+
+A: I want to open an account.
+B: What kind of account do you want to open?
+A: I want to open a checking account.
+B: Do you know the minimum balance you're required to keep?
+A: How much is that?
+B: You have to maintain a minimum balance of $100.
+A: Really?
+B: Yes, really.
+A: What if I can't meet that requirement?
+B: You will be fined.
+A: How much is the fine?
+B: It's going to cost you $25.

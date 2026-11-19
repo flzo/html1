@@ -1,0 +1,38 @@
+A: Welcome, what would you like to order?
+B: I would like to get a double cheeseburger.
+A: Would you like everything on it?
+B: I would like everything on it, thank you.
+A: Do you want any fries?
+B: Let me get some large curly fries.
+A: Can I get you anything to drink?
+B: Sure, how about a medium Pepsi?
+A: Is that everything?
+B: That'll be all. Thanks.
+A: You're welcome, and your total is $5.48.
+B: Thank you. Here you go.
+
+A: What can I get for you?
+B: Hello, may I have a double cheeseburger?
+A: With everything on it?
+B: That sounds great.
+A: Did you want fries with your order?
+B: May I get a large order of curly fries?
+A: Did you want something to drink?
+B: Get me a medium Pepsi.
+A: Would you like anything else?
+B: No, thank you. That's it.
+A: No problem, that'll be $5.48.
+B: Thanks a lot. Keep the change.
+
+A: How may I help you?
+B: A double cheeseburger sounds good.
+A: Everything on it?
+B: Yes, please.
+A: Would you like fries with that?
+B: I would love large curly fries.
+A: Would you like anything to drink?
+B: Yes, let me have a medium Pepsi.
+A: Will that be all?
+B: Yeah, that's it. Thank you.
+A: Your total comes to $5.48.
+B: Here you go. Thank you very much.

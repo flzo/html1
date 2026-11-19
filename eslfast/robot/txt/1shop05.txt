@@ -1,0 +1,59 @@
+Conversation 1:
+A: I'd like to return this radio.
+B: Okay. Do you have your receipt?
+A: I lost it.
+B: I am sorry, but you need a receipt for a refund.
+A: But I purchased it yesterday.
+B: Perhaps you would like to talk to customer service.
+A: That's a start, I guess.
+B: They're right upstairs.
+A: That sounds good. I'll take the escalator.
+B: Good luck. I hope someone can help you.
+
+Conversation 2:
+A: I want to return this radio.
+B: Okay. Do you have your receipt?
+A: I'm sorry, but I lost it.
+B: I'm sorry, but store policy requires a receipt.
+A: But I bought it yesterday.
+B: Maybe you can find the receipt if you look harder.
+A: Can I talk to a supervisor?
+B: May I suggest customer service, upstairs?
+A: That sounds good. I'll take the elevator right now.
+B: Good luck.
+
+Conversation 3:
+A: Can I return this radio, please?
+B: Sure. Do you have your receipt?
+A: I misplaced it somewhere.
+B: Unfortunately, I cannot give you a refund without it.
+A: But I bought it right here just yesterday.
+B: I'm sorry, but there are no exceptions.
+A: Someone must be able to help me.
+B: Someone in customer service might be able to help you.
+A: Yes, if anyone can help me, it's customer service.
+B: Just take the escalator upstairs.
+
+Conversation 4:
+A: I don't want to keep this radio.
+B: No problem. May I have your receipt, please?
+A: Sorry. I could not find it.
+B: We can't give you a refund without a receipt.
+A: You know, I bought it at 3 p.m. yesterday.
+B: I wish I could help you, but it's store policy.
+A: Every rule has an exception.
+B: Perhaps if you try customer service.
+A: Yes, they might be able to help me.
+B: They're upstairs. Good luck!
+
+Conversation 5:
+A: I'm returning this radio.
+B: Certainly. Can I see your receipt, please?
+A: I looked everywhere, but I couldn't find it anywhere.
+B: I'm sorry, but you can't return the radio without your receipt.
+A: Even though I just bought it yesterday?
+B: Are you sure that you looked everywhere for the receipt?
+A: I looked everywhere, twice!
+B: Well, customer service is right upstairs. Maybe they can help.
+A: Great! I'll take the escalator.
+B: If they can't help you, nobody can.

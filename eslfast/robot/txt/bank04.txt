@@ -1,0 +1,38 @@
+A: How are you doing today?
+B: Great. Thank you.
+A: What can I do for you?
+B: I need to withdraw some money.
+A: How much would you like to take out?
+B: I need to withdraw $300.
+A: Which account would you like to take the money from?
+B: I want to take it from my checking account.
+A: Here you go.
+B: Thank you very much.
+A: Can I do anything else for you?
+B: No. That'll be all.
+
+A: How are you?
+B: I'm fabulous.
+A: What can I help you with?
+B: I need to make a withdrawal.
+A: How much are you withdrawing today?
+B: I need $300.
+A: What account would you like to take this money from?
+B: Take it from my checking account.
+A: Here's your $300.
+B: Thank you so much.
+A: Will you be needing anything else?
+B: That's it for today.
+
+A: How's it going?
+B: I'm fine. Thanks for asking.
+A: What did you need?
+B: I would like to make a withdrawal.
+A: How much money would you like to withdraw?
+B: I want to take out $300.
+A: Which account are you making this withdrawal from?
+B: I want it taken from my checking account.
+A: All right, here is your $300.
+B: Thanks a lot.
+A: Is there anything else that I can do for you today?
+B: No. That's everything. Thank you.

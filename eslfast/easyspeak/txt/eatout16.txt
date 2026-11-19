@@ -1,0 +1,11 @@
+A: Do you want to go to a buffet?
+B: What is a buffet?
+A: It's a restaurant where you can eat as much as you want.
+B: That sounds awesome!
+A: Yeah, it is. You'll be full when you leave.
+B: What kind of food is there?
+A: There're sushi, noodles, dumplings, and a whole lot more!
+B: How much is it?
+A: It's $15 per person.
+B: That's a reasonable price.
+A: I can't wait to go there!

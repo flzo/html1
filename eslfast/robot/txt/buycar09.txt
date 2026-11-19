@@ -1,0 +1,32 @@
+A: How much does this car cost?
+B: Well, come on in and we'll sit down and discuss that right now. How much do you want to pay?
+A: I really was just wondering what the price is.
+B: Well, figuring in tax, license, dealer prep, and registration, I can let this car go for fifteen thousand dollars.
+A: I was thinking a little lower than that.
+B: Whoa! Let's keep talking here. I am sure we can work something out. What price are you thinking is fair?
+A: I was thinking more like thirteen thousand dollars.
+B: You know, you look like you are a sweet kid. I'll give it to you for fourteen thousand dollars.
+A: That would be a good price if the car was in great shape, but it is registered as having been in an accident.
+B: OK, thirteen thousand seven hundred and fifty, and that's my final offer.
+
+A: If I want to buy this car, what will it cost me?
+B: Let me get my contract out, and we'll figure that out for you right now.
+A: Can't you just tell me what it costs?
+B: You know, I am prepared to offer you a great deal today on that car. With tax, license, registration, and dealer prep, the total will be fifteen thousand dollars.
+A: Fine, I'll come back later with my father, who is a lawyer, and we can talk then.
+B: I am sure that we can work something out. What price were you thinking would be a good deal for you?
+A: Thirteen thousand would be more like it.
+B: Fourteen thousand for this car is a good price. For that I am practically giving it away.
+A: Normally that would be a good price, but that car has been in an accident.
+B: Yes, I see your point. Thirteen thousand seven hundred and fifty is my final offer.
+
+A: How much money for this car?
+B: Yes, that car is beautiful, isn't it? Come on inside and we'll discuss the price.
+A: I just want to know the price.
+B: Fifteen thousand out the door! What a deal! That will, of course, include tax, license, registration, and dealer prep.
+A: I appreciate your help, and I'll see you later.
+B: Oh, you look like a smart person. What price would be fair to you?
+A: I think that thirteen thousand would be fair for this car.
+B: I can see that you are a smart buyer. Fourteen thousand is my best price.
+A: If the car hadn't been in an accident, that would be a good price, but it has a few minor problems.
+B: Thirteen thousand seven hundred and fifty is my final offer.

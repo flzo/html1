@@ -1,0 +1,12 @@
+A: Hello! It's nice to meet you!
+B: Hello, likewise.
+A: Are you taking the bus downtown?
+B: Yes, I am. I'm doing some shopping.
+A: Oh, so am I! Prices are so much better there.
+B: Yes, they are.
+A: The weather is very nice today, at least.
+B: I'm glad for that. It's nice for walking about.
+A: Heatwaves are so unfortunate. They drain my energy!
+B: I know what you mean.
+A: Would you like to join me while shopping today?
+B: I just remembered, I have to get off at the next stop.

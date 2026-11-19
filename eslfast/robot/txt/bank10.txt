@@ -1,0 +1,38 @@
+A: I need to use the ATM.
+B: What's stopping you?
+A: I'm not sure how.
+B: I don't understand.
+A: I've never used one before.
+B: I can help you figure it out.
+A: What do I have to do?
+B: Slide your card into the machine.
+A: Then what?
+B: You need to type your PIN in.
+A: What do I have to do next?
+B: Click on whichever option you want, and you're done.
+
+A: I have to use the ATM.
+B: Is there a problem?
+A: I don't know how to use it.
+B: What are you talking about?
+A: I have never used an ATM before.
+B: I can show you how to use it.
+A: How do I use it?
+B: You need to push your card into the machine.
+A: What's next?
+B: Enter your PIN.
+A: What else do I have to do?
+B: Every option you can choose will appear on the screen. That's about it.
+
+A: I need to go to the ATM.
+B: So, why don't you?
+A: I have no idea how to use the ATM.
+B: What do you mean?
+A: This will be my first time using an ATM.
+B: I can help you with that.
+A: Explain to me how to use it.
+B: Just put your card into the machine.
+A: Now what do I do?
+B: Then you need to type in your PIN.
+A: Now what?
+B: Just click on one of the choices they give you, and that's it.

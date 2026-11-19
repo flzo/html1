@@ -1,0 +1,32 @@
+A: I can't find my purse!
+B: What was in your purse?
+A: It contained my wallet and passport.
+B: How much money was in your wallet?
+A: There was about $200 in my wallet, and I had some traveler's checks in there, too.
+B: We can call American Express to deal with the traveler's checks. How about credit cards?
+A: I had a MasterCard and a Visa Card.
+B: We can look at the back of my cards to get the emergency phone numbers.
+A: Where do I report that my passport is missing?
+B: We need to take a cab to the embassy to report that right away. They will help us.
+
+A: I think that someone stole my purse!
+B: What did you have in your purse?
+A: Both my wallet and my passport were in there.
+B: Did you have a lot of money in your wallet?
+A: Fortunately there was only a little change and some traveler's checks.
+B: Did you have any credit cards in your wallet? We need to report them as well as the traveler's checks.
+A: I only had a Visa Card in my wallet.
+B: We can call the front desk to get the lost or stolen card phone numbers.
+A: I am worried about reporting my passport as missing.
+B: The embassy can help us. We should walk over there and they can advise us on what we can do about replacing your passport.
+
+A: I left my purse in the taxi!
+B: Can you remember what you had in your purse?
+A: I had my wallet and my passport in that purse.
+B: How much cash was in your wallet?
+A: Most of my money was in traveler's checks with just a little amount in cash.
+B: Do you know what credit cards you had in your wallet? We can call and report those as well as your traveler's checks.
+A: I had an American Express Card and a Visa Card in my wallet.
+B: We can call the information number to get the phone numbers for lost or stolen cards.
+A: Do you know how to report a missing passport?
+B: We need to contact the embassy right away. They will be able to help you replace your passport.

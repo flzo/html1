@@ -1,0 +1,38 @@
+A: What are you doing?
+B: I'm just filling out applications.
+A: Applications for what?
+B: I'm filling out college applications.
+A: But you're already in college.
+B: I am going to transfer.
+A: What school are you going to transfer to?
+B: I still need to fill out the applications.
+A: What schools are you applying to?
+B: I'm applying to NYU and UCLA.
+A: I wish you luck!
+B: Thank you. I hope I get accepted.
+
+A: What's up?
+B: I'm filling out these applications.
+A: What applications?
+B: College applications.
+A: You're in college already.
+B: I'm planning on transferring to another school.
+A: Which school?
+B: I won't know until I mail these applications.
+A: Which schools are you applying to?
+B: I'm going to apply to NYU and UCLA.
+A: I hope all goes well with that.
+B: Cross your fingers.
+
+A: What are you up to?
+B: I'm filling out applications.
+A: You're filling out applications for what?
+B: They're college applications.
+A: You're already in college.
+B: I'm going to transfer to a different school.
+A: What school are you transferring to?
+B: I'm not sure yet. I'm still filling out applications.
+A: What colleges are you going to apply to?
+B: I'm filling out applications to NYU and UCLA.
+A: Good luck with that.
+B: I hope one of the two accepts me.

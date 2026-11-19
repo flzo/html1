@@ -1,0 +1,12 @@
+A: I would like to order some checks.
+B: Since you only have our basic checking account, it will cost you.
+A: I don't need that many checks.
+B: One box of checks is $15.
+A: Can I choose what my checks will look like?
+B: Yes, we have many different designs to choose from.
+A: I would like kittens on my checks.
+B: The kitten checks cost $18 per box.
+A: That is a small price to pay for cuteness.
+B: We can deduct that amount directly from your checking account.
+A: How long till I receive the checks?
+B: The checks take approximately two weeks to arrive.

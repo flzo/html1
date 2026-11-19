@@ -1,0 +1,509 @@
+# Navigation index for the scraped story pages.
+source:
+  site: "https://www.eslfast.com"
+  section: "/begin4/b4/"
+  selector: "div.content-body > div.contain > div"
+  generated_at: "2026-11-18T14:53:22+08:00"
+  total: 100
+  failed: 0
+pages:
+  - index: 1
+    slug: "b4001"
+    title: "1. First Day of the Job"
+    url: "https://www.eslfast.com/begin4/b4/b4001.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4001c.mp3"
+  - index: 2
+    slug: "b4002"
+    title: "2. The Sale Associate"
+    url: "https://www.eslfast.com/begin4/b4/b4002.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4002o.mp3"
+  - index: 3
+    slug: "b4003"
+    title: "3. Watching a Movie"
+    url: "https://www.eslfast.com/begin4/b4/b4003.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4003p.mp3"
+  - index: 4
+    slug: "b4004"
+    title: "4. Washing Her Hair"
+    url: "https://www.eslfast.com/begin4/b4/b4004.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4004y.mp3"
+  - index: 5
+    slug: "b4005"
+    title: "5. The Store Was Closed"
+    url: "https://www.eslfast.com/begin4/b4/b4005.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4005r.mp3"
+  - index: 6
+    slug: "b4006"
+    title: "6. No Phone"
+    url: "https://www.eslfast.com/begin4/b4/b4006.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4006i.mp3"
+  - index: 7
+    slug: "b4007"
+    title: "7. Pizza Delivery"
+    url: "https://www.eslfast.com/begin4/b4/b4007.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4007g.mp3"
+  - index: 8
+    slug: "b4008"
+    title: "8. Bob Lost 50 Pounds"
+    url: "https://www.eslfast.com/begin4/b4/b4008.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4008h.mp3"
+  - index: 9
+    slug: "b4009"
+    title: "9. Messy and Clean"
+    url: "https://www.eslfast.com/begin4/b4/b4009.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4009t.mp3"
+  - index: 10
+    slug: "b4010"
+    title: "10. Instant Noodles"
+    url: "https://www.eslfast.com/begin4/b4/b4010.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4010p.mp3"
+  - index: 11
+    slug: "b4011"
+    title: "11. She Bought a Gallon of Milk"
+    url: "https://www.eslfast.com/begin4/b4/b4011.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4011r.mp3"
+  - index: 12
+    slug: "b4012"
+    title: "12. Being Young"
+    url: "https://www.eslfast.com/begin4/b4/b4012.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4012o.mp3"
+  - index: 13
+    slug: "b4013"
+    title: "13. Borrowing Books from the Library"
+    url: "https://www.eslfast.com/begin4/b4/b4013.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4013t.mp3"
+  - index: 14
+    slug: "b4014"
+    title: "14. A Generous Woman"
+    url: "https://www.eslfast.com/begin4/b4/b4014.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4014e.mp3"
+  - index: 15
+    slug: "b4015"
+    title: "15. A Changed Man"
+    url: "https://www.eslfast.com/begin4/b4/b4015.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4015c.mp3"
+  - index: 16
+    slug: "b4016"
+    title: "16. Take Your Shoes Off"
+    url: "https://www.eslfast.com/begin4/b4/b4016.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4016t.mp3"
+  - index: 17
+    slug: "b4017"
+    title: "17. Mom Doesn't Like John"
+    url: "https://www.eslfast.com/begin4/b4/b4017.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4017ed.mp3"
+  - index: 18
+    slug: "b4018"
+    title: "18. An Old Friend"
+    url: "https://www.eslfast.com/begin4/b4/b4018.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4018c.mp3"
+  - index: 19
+    slug: "b4019"
+    title: "19. Left Keys in the Car"
+    url: "https://www.eslfast.com/begin4/b4/b4019.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4019o.mp3"
+  - index: 20
+    slug: "b4020"
+    title: "20. Donating Clothes"
+    url: "https://www.eslfast.com/begin4/b4/b4020.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4020p.mp3"
+  - index: 21
+    slug: "b4021"
+    title: "21. Extra Food"
+    url: "https://www.eslfast.com/begin4/b4/b4021.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4021y.mp3"
+  - index: 22
+    slug: "b4022"
+    title: "22. Not to Hang Out with a Liar"
+    url: "https://www.eslfast.com/begin4/b4/b4022.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4022ri.mp3"
+  - index: 23
+    slug: "b4023"
+    title: "23. Buy One, Get One Free"
+    url: "https://www.eslfast.com/begin4/b4/b4023.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4023gh.mp3"
+  - index: 24
+    slug: "b4024"
+    title: "24. Playing Tennis at the Park"
+    url: "https://www.eslfast.com/begin4/b4/b4024.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4024t.mp3"
+  - index: 25
+    slug: "b4025"
+    title: "25. Grandmother's Dying Wish"
+    url: "https://www.eslfast.com/begin4/b4/b4025.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4025pr.mp3"
+  - index: 26
+    slug: "b4026"
+    title: "26. Losing a Ticket"
+    url: "https://www.eslfast.com/begin4/b4/b4026.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4026o.mp3"
+  - index: 27
+    slug: "b4027"
+    title: "27. Fried Eggs"
+    url: "https://www.eslfast.com/begin4/b4/b4027.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4027t.mp3"
+  - index: 28
+    slug: "b4028"
+    title: "28. Stealing Was Wrong"
+    url: "https://www.eslfast.com/begin4/b4/b4028.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4028ec.mp3"
+  - index: 29
+    slug: "b4029"
+    title: "29. She Loves Walking"
+    url: "https://www.eslfast.com/begin4/b4/b4029.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4029t.mp3"
+  - index: 30
+    slug: "b4030"
+    title: "30. Fried Cabbage"
+    url: "https://www.eslfast.com/begin4/b4/b4030.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4030e.mp3"
+  - index: 31
+    slug: "b4031"
+    title: "31. America Is Diverse"
+    url: "https://www.eslfast.com/begin4/b4/b4031.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4031d.mp3"
+  - index: 32
+    slug: "b4032"
+    title: "32. Weird Schedules"
+    url: "https://www.eslfast.com/begin4/b4/b4032.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4032p.mp3"
+  - index: 33
+    slug: "b4033"
+    title: "33. Rick Is Overweight"
+    url: "https://www.eslfast.com/begin4/b4/b4033.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4033r.mp3"
+  - index: 34
+    slug: "b4034"
+    title: "34. Funny Eating Habits"
+    url: "https://www.eslfast.com/begin4/b4/b4034.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4034o.mp3"
+  - index: 35
+    slug: "b4035"
+    title: "35. Food Samples"
+    url: "https://www.eslfast.com/begin4/b4/b4035.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4035t.mp3"
+  - index: 36
+    slug: "b4036"
+    title: "36. A Photo Collage"
+    url: "https://www.eslfast.com/begin4/b4/b4036.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4036e.mp3"
+  - index: 37
+    slug: "b4037"
+    title: "37. Wear It, Return It"
+    url: "https://www.eslfast.com/begin4/b4/b4037.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4037c.mp3"
+  - index: 38
+    slug: "b4038"
+    title: "38. Reading in a Rainy Day"
+    url: "https://www.eslfast.com/begin4/b4/b4038.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4038t.mp3"
+  - index: 39
+    slug: "b4039"
+    title: "39. Wholesale Store"
+    url: "https://www.eslfast.com/begin4/b4/b4039.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4039e.mp3"
+  - index: 40
+    slug: "b4040"
+    title: "40. Shopping at Thrift Shop"
+    url: "https://www.eslfast.com/begin4/b4/b4040.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4040d.mp3"
+  - index: 41
+    slug: "b4041"
+    title: "41. Borrowing Books and Movies"
+    url: "https://www.eslfast.com/begin4/b4/b4041.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4041c.mp3"
+  - index: 42
+    slug: "b4042"
+    title: "42. Never Give Up"
+    url: "https://www.eslfast.com/begin4/b4/b4042.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4042opy.mp3"
+  - index: 43
+    slug: "b4043"
+    title: "43. Trying New Things"
+    url: "https://www.eslfast.com/begin4/b4/b4043.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4043r.mp3"
+  - index: 44
+    slug: "b4044"
+    title: "44. Camera Shy"
+    url: "https://www.eslfast.com/begin4/b4/b4044.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4044i.mp3"
+  - index: 45
+    slug: "b4045"
+    title: "45. Putting on Sunscreen"
+    url: "https://www.eslfast.com/begin4/b4/b4045.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4045g.mp3"
+  - index: 46
+    slug: "b4046"
+    title: "46. A Problematic Car"
+    url: "https://www.eslfast.com/begin4/b4/b4046.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4046h.mp3"
+  - index: 47
+    slug: "b4047"
+    title: "47. Ask for Forgiveness, Not Permission"
+    url: "https://www.eslfast.com/begin4/b4/b4047.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4047t.mp3"
+  - index: 48
+    slug: "b4048"
+    title: "48. Zoo Animals"
+    url: "https://www.eslfast.com/begin4/b4/b4048.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4048p.mp3"
+  - index: 49
+    slug: "b4049"
+    title: "49. Chocolate Is Too Sweet"
+    url: "https://www.eslfast.com/begin4/b4/b4049.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4049r.mp3"
+  - index: 50
+    slug: "b4050"
+    title: "50. Taking Good Care of Teeth"
+    url: "https://www.eslfast.com/begin4/b4/b4050.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4050o.mp3"
+  - index: 51
+    slug: "b4051"
+    title: "51. Nothing Was Impossible"
+    url: "https://www.eslfast.com/begin4/b4/b4051.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4051t.mp3"
+  - index: 52
+    slug: "b4052"
+    title: "52. She Doesn't Want Anything"
+    url: "https://www.eslfast.com/begin4/b4/b4052.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4052e.mp3"
+  - index: 53
+    slug: "b4053"
+    title: "53. Long Distance Relationship"
+    url: "https://www.eslfast.com/begin4/b4/b4053.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4053d.mp3"
+  - index: 54
+    slug: "b4054"
+    title: "54. Riding a Horse"
+    url: "https://www.eslfast.com/begin4/b4/b4054.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4054c.mp3"
+  - index: 55
+    slug: "b4055"
+    title: "55. Breaking a Computer"
+    url: "https://www.eslfast.com/begin4/b4/b4055.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4055o.mp3"
+  - index: 56
+    slug: "b4056"
+    title: "56. Buying a New Couch"
+    url: "https://www.eslfast.com/begin4/b4/b4056.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4056p.mp3"
+  - index: 57
+    slug: "b4057"
+    title: "57. Shopping at the Market"
+    url: "https://www.eslfast.com/begin4/b4/b4057.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4057y.mp3"
+  - index: 58
+    slug: "b4058"
+    title: "58. Seeing an Eye Doctor"
+    url: "https://www.eslfast.com/begin4/b4/b4058.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4058r.mp3"
+  - index: 59
+    slug: "b4059"
+    title: "59. Sold-out Tickets"
+    url: "https://www.eslfast.com/begin4/b4/b4059.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4059i.mp3"
+  - index: 60
+    slug: "b4060"
+    title: "60. Snow Cones"
+    url: "https://www.eslfast.com/begin4/b4/b4060.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4060g.mp3"
+  - index: 61
+    slug: "b4061"
+    title: "61. Rock Climbing"
+    url: "https://www.eslfast.com/begin4/b4/b4061.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4061h.mp3"
+  - index: 62
+    slug: "b4062"
+    title: "62. A Perfect Day for Hiking"
+    url: "https://www.eslfast.com/begin4/b4/b4062.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4062t.mp3"
+  - index: 63
+    slug: "b4063"
+    title: "63. Go Surfing"
+    url: "https://www.eslfast.com/begin4/b4/b4063.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4063p.mp3"
+  - index: 64
+    slug: "b4064"
+    title: "64. A Hot Summer Day"
+    url: "https://www.eslfast.com/begin4/b4/b4064.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4064r.mp3"
+  - index: 65
+    slug: "b4065"
+    title: "65. Lifeguard Duty"
+    url: "https://www.eslfast.com/begin4/b4/b4065.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4065o.mp3"
+  - index: 66
+    slug: "b4066"
+    title: "66. The Lottery"
+    url: "https://www.eslfast.com/begin4/b4/b4066.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4066t.mp3"
+  - index: 67
+    slug: "b4067"
+    title: "67. Working at the Ice Cream Shop"
+    url: "https://www.eslfast.com/begin4/b4/b4067.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4067e.mp3"
+  - index: 68
+    slug: "b4068"
+    title: "68. Her Dog Was Missing"
+    url: "https://www.eslfast.com/begin4/b4/b4068.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4068d.mp3"
+  - index: 69
+    slug: "b4069"
+    title: "69. Running a Marathon"
+    url: "https://www.eslfast.com/begin4/b4/b4069.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4069c.mp3"
+  - index: 70
+    slug: "b4070"
+    title: "70. A Blackout"
+    url: "https://www.eslfast.com/begin4/b4/b4070.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4070o.mp3"
+  - index: 71
+    slug: "b4071"
+    title: "71. Learning to Dance"
+    url: "https://www.eslfast.com/begin4/b4/b4071.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4071p.mp3"
+  - index: 72
+    slug: "b4072"
+    title: "72. Happy about the Promotion"
+    url: "https://www.eslfast.com/begin4/b4/b4072.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4072y.mp3"
+  - index: 73
+    slug: "b4073"
+    title: "73. A New Car"
+    url: "https://www.eslfast.com/begin4/b4/b4073.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4073r.mp3"
+  - index: 74
+    slug: "b4074"
+    title: "74. Pizza Palace"
+    url: "https://www.eslfast.com/begin4/b4/b4074.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4074i.mp3"
+  - index: 75
+    slug: "b4075"
+    title: "75. Cooking for the First Time"
+    url: "https://www.eslfast.com/begin4/b4/b4075.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4075g.mp3"
+  - index: 76
+    slug: "b4076"
+    title: "76. Working at the Library"
+    url: "https://www.eslfast.com/begin4/b4/b4076.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4076h.mp3"
+  - index: 77
+    slug: "b4077"
+    title: "77. Opposite Twins"
+    url: "https://www.eslfast.com/begin4/b4/b4077.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4077t.mp3"
+  - index: 78
+    slug: "b4078"
+    title: "78. Visiting America"
+    url: "https://www.eslfast.com/begin4/b4/b4078.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4078p.mp3"
+  - index: 79
+    slug: "b4079"
+    title: "79. A Free Pretzel Day"
+    url: "https://www.eslfast.com/begin4/b4/b4079.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4079r.mp3"
+  - index: 80
+    slug: "b4080"
+    title: "80. Getting Braces"
+    url: "https://www.eslfast.com/begin4/b4/b4080.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4080o.mp3"
+  - index: 81
+    slug: "b4081"
+    title: "81. Dentist Appointment"
+    url: "https://www.eslfast.com/begin4/b4/b4081.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4081t.mp3"
+  - index: 82
+    slug: "b4082"
+    title: "82. Dog-Sitting"
+    url: "https://www.eslfast.com/begin4/b4/b4082.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4082e.mp3"
+  - index: 83
+    slug: "b4083"
+    title: "83. Washing Dogs"
+    url: "https://www.eslfast.com/begin4/b4/b4083.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4083d.mp3"
+  - index: 84
+    slug: "b4084"
+    title: "84. Volunteering at the Animal Shelter"
+    url: "https://www.eslfast.com/begin4/b4/b4084.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4084p.mp3"
+  - index: 85
+    slug: "b4085"
+    title: "85. Mother's Day"
+    url: "https://www.eslfast.com/begin4/b4/b4085.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4085r.mp3"
+  - index: 86
+    slug: "b4086"
+    title: "86. Family Picnic at the Park"
+    url: "https://www.eslfast.com/begin4/b4/b4086.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4086o.mp3"
+  - index: 87
+    slug: "b4087"
+    title: "87. Going to the Beach"
+    url: "https://www.eslfast.com/begin4/b4/b4087.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4087t.mp3"
+  - index: 88
+    slug: "b4088"
+    title: "88. Making a Sandwich"
+    url: "https://www.eslfast.com/begin4/b4/b4088.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4088e.mp3"
+  - index: 89
+    slug: "b4089"
+    title: "89. Visiting the Art Museum"
+    url: "https://www.eslfast.com/begin4/b4/b4089.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4089c.mp3"
+  - index: 90
+    slug: "b4090"
+    title: "90. A Road Trip"
+    url: "https://www.eslfast.com/begin4/b4/b4090.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4090t.mp3"
+  - index: 91
+    slug: "b4091"
+    title: "91. Green Thumb"
+    url: "https://www.eslfast.com/begin4/b4/b4091.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4091e.mp3"
+  - index: 92
+    slug: "b4092"
+    title: "92. The Wallet on the Ground"
+    url: "https://www.eslfast.com/begin4/b4/b4092.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4092d.mp3"
+  - index: 93
+    slug: "b4093"
+    title: "93. A Perfect Wedding"
+    url: "https://www.eslfast.com/begin4/b4/b4093.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4093p.mp3"
+  - index: 94
+    slug: "b4094"
+    title: "94. Cutting Hair"
+    url: "https://www.eslfast.com/begin4/b4/b4094.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4094r.mp3"
+  - index: 95
+    slug: "b4095"
+    title: "95. Jewelry Shopping"
+    url: "https://www.eslfast.com/begin4/b4/b4095.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4095o.mp3"
+  - index: 96
+    slug: "b4096"
+    title: "96. Rock Climbing"
+    url: "https://www.eslfast.com/begin4/b4/b4096.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4096t.mp3"
+  - index: 97
+    slug: "b4097"
+    title: "97. A Local Talent Show"
+    url: "https://www.eslfast.com/begin4/b4/b4097.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4097e.mp3"
+  - index: 98
+    slug: "b4098"
+    title: "98. Doing Laundry"
+    url: "https://www.eslfast.com/begin4/b4/b4098.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4098d.mp3"
+  - index: 99
+    slug: "b4099"
+    title: "99. Soccer Game"
+    url: "https://www.eslfast.com/begin4/b4/b4099.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4099.mp3"
+  - index: 100
+    slug: "b4100"
+    title: "100. Working at Movie Theaters"
+    url: "https://www.eslfast.com/begin4/b4/b4100.htm"
+    mp3: "https://www.eslfast.com/begin4/audio/b4100.mp3"

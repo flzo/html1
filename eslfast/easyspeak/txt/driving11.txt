@@ -1,0 +1,12 @@
+A: Are you sure you want to go to Seattle?
+B: Yes, I am sure.
+A: It's an eight-hour drive.
+B: I know. Let's go.
+A: If you say so.
+B: I'll drive for the first four hours.
+A: I'll drive for the last four hours.
+B: Did you bring food?
+A: I brought sandwiches and bottles of water.
+B: Good. I brought the napkins.
+A: Let's get gas first.
+B: Yes, we need a lot of it.

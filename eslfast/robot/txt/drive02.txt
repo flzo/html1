@@ -1,0 +1,38 @@
+A: Have you taken the written test yet?
+B: No, I haven't.
+A: You should study before you take it.
+B: I have been studying.
+A: Why don't you take the test?
+B: Do you know if it costs any money to take it?
+A: Since you already paid for your permit, you don't have to pay again.
+B: All right. Do you know if the test covers the whole book?
+A: No, the test skips a lot of things in the book.
+B: Did you pass it the first time that you took it?
+A: No, I didn't, because it was pretty hard.
+B: Well, I hope that I do well.
+
+A: Did you take the written test?
+B: I haven't taken it yet.
+A: Make sure to study first.
+B: I study every night.
+A: I'm sure you're ready.
+B: Does it cost money?
+A: No, it doesn't cost anything.
+B: Does the test cover everything in the manual?
+A: It skips around.
+B: Did you pass the test your first try?
+A: I thought it would be easy, but I didn't pass it.
+B: Wish me luck.
+
+A: Have you already taken the written test?
+B: Not yet.
+A: You really need to study for it.
+B: I already know. I have been studying.
+A: You should probably go and take it then.
+B: I'm not sure, but does it cost anything to take it?
+A: No, because you applied for your permit and you paid already.
+B: Will the test be on everything in the manual?
+A: It doesn't cover everything.
+B: When you took the test, did you pass it the first time?
+A: No, I didn't pass it.
+B: Hopefully, I won't fail the test.

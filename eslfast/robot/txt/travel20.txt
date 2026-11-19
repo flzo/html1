@@ -1,0 +1,32 @@
+A: Where should we go sightseeing today?
+B: I think that some things might be best done in the morning and others in the afternoon.
+A: I think that I would like to go to the beach this morning.
+B: That would be a good place to start our sightseeing. We could have breakfast there.
+A: I hear that there is a very nice natural history museum there.
+B: Yes, it would be nice to check that out since we are so close by.
+A: Where should we go in the afternoon?
+B: I think that I would like to go to the amusement park. It's supposed to be quite good.
+A: At the end of the day, I would love to take in the sunset at therestaurant by the park.
+B: That sounds like a great idea! Let's go get a map.
+
+A: It's so hard to choose where to go first on our sightseeing trip!
+B: We could think of what would make a good morning activity versus an evening activity.
+A: I really wanted to make sure that I got a chance to go to the local beach.
+B: I think that that would be a fun beginning to our day. We could walk around there.
+A: I heard that the Natural History Museum is pretty close to the beach.
+B: I heard the same thing. We might as well go there since we are just down the street.
+A: What would be a good place to go to in the afternoon?
+B: The local amusement park is supposed to be wonderful.
+A: The restaurant on the edge of the park would be a great place to watch the sun go down.
+B: That sounds like a perfect sightseeing day to me.
+
+A: There are so many places to go on our sightseeing trip that I am having trouble narrowing it down.
+B: Let's figure out what to do before lunch and later figure out what to do in the afternoon.
+A: I heard that the local beach is a place that can't be missed.
+B: That would be a relaxing way to begin our morning. It would be good to get out in the sun.
+A: The Natural History Museum is close by, isn't it?
+B: That museum is supposed to be fantastic!
+A: Do you have any suggestions as to where we could go in the afternoon?
+B: We could check out the local amusement park.
+A: We could eat dinner and watch the sun go down at that restaurant by the park.
+B: That could really end up being a great day!

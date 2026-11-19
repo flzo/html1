@@ -1,0 +1,12 @@
+A: I need to stop payment on a check that I wrote.
+B: Do you have a copy of the check you wrote?
+A: Yes, I was able to get a digital copy online.
+B: Why are you stopping payment on this check?
+A: I paid my landlord already.
+B: So you don't want him to get paid twice.
+A: I don't have money to pay him twice.
+B: We can only stop payment if the check hasn't been cashed already.
+A: Is there a fee to stop payment?
+B: Yes, there is a $10 fee.
+A: That's better than paying my rent twice.
+B: I suppose it is.

@@ -1,0 +1,38 @@
+A: May I take your drink order while you are looking over your menu?
+B: Yes, do you have a wine list?
+A: The wine list is on the second page of your menu.
+B: Do you have mixed drinks in this restaurant?
+A: Yes, we have a full bar here.
+B: I am not sure what I want. Do you have any house specials?
+A: Actually, we are famous for our Cuervo Gold margaritas.
+B: That sounds good! Please bring me one of those.
+A: Would you like that drink blended or on the rocks?
+B: I would like it blended.
+A: Would you like it with salt or no salt?
+B: I would like my margarita with no salt, thank you.
+
+A: While you are thinking about what you might like to order for dinner, would you like to order your drinks?
+B: Can you tell me where your wine list is?
+A: The wine list is posted right there on the board.
+B: Can we order a mixed drink in this restaurant?
+A: Yes, we have a wide selection of mixed drinks available from our bar.
+B: Do you have any house specials that you could recommend?
+A: Our most popular drinks are our Cuervo Gold margaritas.
+B: That sounds like a good choice for me. May I have one, please?
+A: Can I bring that to you on the rocks, or would you like it blended?
+B: Please bring it to me on the rocks.
+A: Salt or no salt?
+B: I would like it with no salt, please.
+
+A: Can I take your drink order?
+B: Where is your wine list?
+A: The wine choices are posted on the little menu in the middle of the table.
+B: Do you have any mixed drinks available here?
+A: We can make a number of mixed drinks at our bar.
+B: I heard that you are famous for your drinks. What are your specials?
+A: Our house special is our Cuervo Gold margarita.
+B: I would love a margarita right now! That is what I am going to order.
+A: Can I prepare your drink on the rocks, or would you prefer it blended?
+B: I prefer my margarita on the rocks, please.
+A: Do you like your margarita with salt or no salt?
+B: No salt, please.

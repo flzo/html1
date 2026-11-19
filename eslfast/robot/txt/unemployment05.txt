@@ -1,0 +1,32 @@
+A: I am calling to find out why I didn't receive an unemployment check this week.
+B: Did you send in your Continued Claim Form for the last period?
+A: I think I forgot to send it in!
+B: You need to be very careful to send that form in every two weeks if you want to get paid.
+A: Can I send it in now?
+B: You should look at your claim form and see if it has been more than fourteen days since it was due. If it hasn't been, we will still accept it.
+A: Can I mail it in early next time so it isn't late?
+B: Actually, you cannot mail it in early, as it needs to reflect all of the information up to the due date.
+A: Will my paycheck come right away now?
+B: Your check will arrive a little late.
+
+A: Could you help me figure out why I am missing my unemployment check for this week?
+B: I hope that you remembered to send in your last Continued Claim Form.
+A: I am pretty sure that I didn't send that claim form in.
+B: You have to send that form in every two weeks so we that we will know what to pay you.
+A: Can I mail it in late?
+B: If it is not more than fourteen days past its due date, then you may still mail it in.
+A: I think that I will mail it in right away when I get it next time, so I won't be late.
+B: You can't mail it in early because you don't know, in advance, how much you will be working.
+A: Even though I was late turning in my form, will my paycheck be late?
+B: Yes, your check will be a little late in getting to you.
+
+A: I didn't receive an unemployment check this week and need to know why.
+B: Did you mail us your last Continued Claim Form?
+A: I am afraid that I forgot to send it in.
+B: We cannot pay you unless you turn that form in every two weeks.
+A: Is it too late to mail the Continued Claim Form in now?
+B: It can't be more than fourteen days late for us to accept it.
+A: I will mail it in a little early next time to avoid this problem.
+B: You can't possibly know in advance how much you will be working. If you mail it in too soon, we will reject it!
+A: Will my paycheck arrive late because I messed up on my form?
+B: Your check will be arriving late, but the next one will come right on time.

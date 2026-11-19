@@ -1,0 +1,12 @@
+A: There are so many bus stops!
+B: Each bus has a specific stop it goes to.
+A: How do I know which stop to wait at?
+B: It's written on the bus schedule.
+A: Where can I find the bus schedule?
+B: You can look it up online.
+A: Everything is online nowadays.
+B: Yes. It makes things convenient.
+A: What happens if I'm at the wrong stop?
+B: You can check the destination on each bus.
+A: What if it doesn't help and I'm still lost?
+B: Ask a bus driver for help.

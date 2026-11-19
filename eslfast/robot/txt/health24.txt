@@ -1,0 +1,32 @@
+A: What is that plastic cup for?
+B: Your doctor has requested a urine sample.
+A: Am I supposed to pee into the cup?
+B: We want what we call a clean sample. Urinate a drop or so into the toilet, and then stop the flow and urinate into the cup.
+A: Then what do I do with the cup?
+B: You put the cup in the little cubby in the restroom and close the door to the cubby.
+A: What is this test for?
+B: He is looking to see if you have a bladder or urinary tract infection.
+A: When will I know the results?
+B: Your doctor will call you in a few days with the results.
+
+A: Why are you handing me a plastic cup?
+B: Your doctor wants to test your urine and needs a sample.
+A: How am I supposed to do that?
+B: We need you to urinate like you normally would, and then stop and finish into the cup.
+A: What am I supposed to do with the cup when I am done?
+B: Leave the cup in the cubby in the restroom. Just close the cubby door and walk away.
+A: What kind of test is this?
+B: He wants to know if you have bacteria in your urine, which could signal an infection.
+A: How long will it take to get the results?
+B: We will send your doctor the results, and he will contact you.
+
+A: What am I supposed to do with this plastic cup?
+B: That cup is for a urine sample.
+A: How, exactly, does this work?
+B: This particular test calls for you to urinate into the cup after you have urinated a little into the toilet.
+A: When I finish, what should I do then?
+B: You need to leave the cup in the cubby in the restroom, and the lab tech will get it from the other side.
+A: What is my doctor testing me for?
+B: If there are bacteria in your urine, it could mean an infection somewhere.
+A: Will I know the results right away?
+B: Your doctor will be contacting you with the results.

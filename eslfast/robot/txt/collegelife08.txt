@@ -1,0 +1,38 @@
+A: Excuse me, Professor. I think there might be an error in my test score.
+B: Sure. Do you think that the total is wrong or that you got something marked wrong that should have been marked right?
+A: I think that the percentage is incorrect.
+B: Let's just go over all of it to double-check.
+A: Sure, let's do it.
+B: Here is the answer sheet. Do you see a place where I marked something wrong that should have been right?
+A: I don't see any mistakes.
+B: OK, now that we've gotten those straightened out, let's total the score.
+A: Yes, let's total it.
+B: Well, if I total that like this and divide by this number, I get this total. Do you agree?
+A: Yes, you're right.
+B: Well then, we are all straight. Have a good day and thanks for bringing that to my attention.
+
+A: I was looking at my test score and think that it should be higher.
+B: Is the math wrong or the way the answer was marked?
+A: I think an answer got marked wrong that should have been marked right.
+B: These things can happen; let's double-check the answers first to be sure, all right?
+A: That would be great!
+B: Look at the answer sheet and compare it to your answers. Do you see any place where I made a mistake in grading?
+A: This one right here should be right.
+B: Yeah, I see the same thing; now we can do the math and check that, right?
+A: Yeah, let's do the math.
+B: I count all of the correct answers, total them, and divide by the total. Does this look right to you?
+A: Looks pretty good.
+B: Thank you for caring enough to check on your scores; keep studying!
+
+A: Could we go over some things, because I think my test score is wrong.
+B: What do you think is wrong, the math or the way your answer was scored?
+A: Both.
+B: I am willing to take a second look because teachers make mistakes, too. Will that work for you?
+A: Yeah, I'm ready.
+B: Check your answers against the ones on the answer sheet and let me know where you see the mistake.
+A: These look strange.
+B: Yes, I agree; let's move on to the calculating of the score. Would that be OK?
+A: OK, let's do the calculation.
+B: We add all of these up and divide by this and that gives us this percentage.
+A: I see.
+B: Anytime you have a question, please feel free to ask!

@@ -1,0 +1,38 @@
+A: How are you doing today?
+B: Great. What can I help you with?
+A: I need to make an appointment for a haircut.
+B: Okay. What day would you like to come in?
+A: How's Saturday?
+B: Let me just check the books.
+A: Okay.
+B: Yes. We have openings only that morning.
+A: Can I make it for 10:30?
+B: That'll be fine.
+A: Sounds great, thank you.
+B: No problem. See you Saturday morning.
+
+A: How's it going?
+B: Perfect. What did you need?
+A: I would like to schedule an appointment to get a haircut.
+B: What day are you free?
+A: I'd like to come in on Saturday.
+B: I'll just see if we have any openings.
+A: All right.
+B: The only time we have on Saturday is in the morning.
+A: I'd like to schedule it for 10:30.
+B: That's perfect.
+A: I appreciate that.
+B: We'll see you then.
+
+A: How are you?
+B: I'm fine. How can I help you?
+A: I need to get a haircut, so can I schedule an appointment?
+B: What day would you like to make the appointment?
+A: I was thinking Saturday.
+B: All right. Let me check to see if we have any openings that day.
+A: That's fine.
+B: You can only make an appointment for Saturday morning.
+A: Is 10:30 okay?
+B: I'll pencil you in for that time.
+A: Thank you very much.
+B: You're welcome. We'll see you on Saturday.

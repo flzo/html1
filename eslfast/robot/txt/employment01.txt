@@ -1,0 +1,32 @@
+A: I was wondering if you could help me use the Student Job Center.
+B: There are many ways; what kind of job would you like?
+A: I want to work in a restaurant.
+B: Fine! Will you need part-time or full-time work?
+A: I want to work part-time.
+B: Fine, the two best ways are to use our local listings binders over there or you can use the computers with the Internet job listing sites. See them over there?
+A: Yes, I know what to do.
+B: Well, in addition, you can schedule an appointment with a job counselor on this list. If you would like to do that, sign here, OK?
+A: Yes, I think that would be great.
+B: Fine, well the job search tools are all here for you to use. Feel free to look around and use what works best for you. Have fun with it!
+
+A: Could you help me figure out how to look for a job?
+B: We have lots of options, what type of job do you need?
+A: I want to work in an office.
+B: Do you want to work part-time or full-time?
+A: I want to work full-time.
+B: We have binders with local job listings or you can make use of the computers. OK?
+A: I am confused a bit but I am sure that I can figure it out.
+B: If you make an appointment with a job counselor, they can also provide you with a lot of information. Do you want to see a counselor?
+A: No, I don't think I need to do that.
+B: Well, you know that this job center is here for your use, so help yourself. Good luck!
+
+A: What is the best way to find a job here?
+B: There are different ways of conducting a job search. Do you know what you want to do?
+A: I don't know.
+B: Can you work part-time or full-time?
+A: It doesn't matter right now, either one would be OK.
+B: The binders have current local jobs listings and the computer jobs lists are good too. Understand?
+A: OK, I'll go check it out.
+B: Schedule an appointment with a counselor and you can get more information. Would that work for you?
+A: I am not sure.
+B: Everything that you need for a successful job search is here. Happy job searching!

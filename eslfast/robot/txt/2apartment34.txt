@@ -1,0 +1,38 @@
+A: I have a problem.
+B: What's the problem?
+A: A pipe burst in my ceiling.
+B: Why do you think that?
+A: There is water dripping from my ceiling.
+B: Is it causing a flood in your apartment?
+A: No, but my carpet is getting wet.
+B: How long has this water been dripping?
+A: It only started leaking today.
+B: I'll have someone come down to fix it right away.
+A: That's great.
+B: I apologize for the inconvenience.
+
+A: I'm calling about a problem with my apartment.
+B: Tell me what the problem is.
+A: There must be a leaking pipe in my ceiling.
+B: Are you sure?
+A: There is water leaking from my ceiling.
+B: Is the water flooding your apartment?
+A: It's not flooding, but my carpet is beginning to smell.
+B: Has it been leaking long?
+A: I believe it began leaking today.
+B: Someone will be right up to fix it.
+A: I'd appreciate that.
+B: Let me also apologize about the problem.
+
+A: I have a problem that needs fixing immediately.
+B: What is it?
+A: I think that a pipe broke in my ceiling.
+B: How do you know?
+A: The ceiling is wet and water is dripping onto my carpet.
+B: Your apartment isn't flooded, is it?
+A: Not yet, but my carpet is wet.
+B: When did this all start?
+A: It just started today.
+B: I will send a plumber up to fix it right now.
+A: That would be fabulous.
+B: I'm sorry about the problem.

@@ -1,0 +1,32 @@
+A: I'd like to purchase a parking permit for next semester.
+B: Are you a daytime student or do you just come in the evenings?
+A: I am a daytime student.
+B: Will you be driving a motorcycle or a car?
+A: I will be driving my car.
+B: OK, that will be twenty-five dollars. How would you like to pay for it?
+A: I'll pay for it with a check.
+B: Would you like to pay for any extra permits for another vehicle?
+A: No, thanks; I'm fine.
+B: Here you go then. Have a great school year!
+
+A: I'll need a parking permit for next semester.
+B: Do you attend school during the day or only at night?
+A: I only attend class part-time in the evenings.
+B: Do you drive a motorcycle or an automobile?
+A: I have both, but I usually use my car to get to school.
+B: Great, the price for that permit is thirty dollars; cash, check, or credit card?
+A: I'll pay cash.
+B: Do you need to buy a duplicate permit for a second vehicle?
+A: No, thank you.
+B: OK, here is your permit; enjoy the new semester.
+
+A: I want to buy a parking permit, please.
+B: Are you a full-time student or do you attend part-time in the evenings?
+A: I attend both day and evening classes.
+B: Will you be riding a motorcycle or do you drive a car?
+A: I ride a motorcycle.
+B: That permit will run twenty-five dollars; will that be cash or credit card?
+A: I'll use a credit card, thank you.
+B: Do you need a second permit for a car?
+A: No, just the motorcycle permit.
+B: Fine, here it is and have a great semester!

@@ -1,0 +1,38 @@
+A: I need to get my driver's license.
+B: You need to take your driving test. Have you?
+A: No, I still need to take it.
+B: Please fill out this paperwork.
+A: All right, but will I be able to take my test today?
+B: Actually, you're going to have to make an appointment first.
+A: May I make one right now, please?
+B: Sure, you can. The soonest day available will be this Friday.
+A: Friday will be fine.
+B: What time can you come in?
+A: I would like to do it sometime in the morning.
+B: I'll schedule you for 11 o'clock, Friday morning.
+
+A: I would like to get my driver's license today.
+B: You will have to take your driving test. Have you taken it yet?
+A: I haven't taken it yet.
+B: Could you fill these papers out, please?
+A: Can I take my test right now?
+B: You need an appointment.
+A: I would like to do that right now, if I could.
+B: Is Friday good for you?
+A: That's perfect.
+B: Okay, so Friday at what time?
+A: The morning would be nice.
+B: All right. Come in on Friday at 11:00.
+
+A: How can I get my driver's license?
+B: Have you taken your driving test yet?
+A: I have yet to take my driving test.
+B: Okay, first I'm going to need you to fill out the paperwork.
+A: When can I take my test?
+B: You'll have to make an appointment for that.
+A: I would like to make one right now.
+B: How does Friday sound?
+A: That would be great.
+B: What time would you like to take the test?
+A: If I could do it in the morning, then that would be good.
+B: Eleven o'clock on Friday morning. See you then.

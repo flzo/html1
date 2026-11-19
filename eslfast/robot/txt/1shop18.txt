@@ -1,0 +1,29 @@
+Conversation 1:
+A: Can you tell me where the produce is?
+B: It's in aisle A.
+A: Do you know what produce is on sale?
+B: I don't know. Check the flyer or check with the produce person.
+
+Conversation 2:
+A: Where is the produce?
+B: It's on the south wall of the store, in aisle A.
+A: Is there any produce on sale?
+B: I don't know. The produce person can tell you, though.
+
+Conversation 3:
+A: Where can I find the produce?
+B: Aisle A is where you'll find all the produce.
+A: What sales do they have today?
+B: I'm sure something is on sale. Please check with the produce person.
+
+Conversation 4:
+A: Which aisle has the produce?
+B: Aisle A is where you'll find all the produce.
+A: Are cherries on sale today?
+B: I don't know, but I'm sure the produce person can tell you.
+
+Conversation 5:
+A: I'm looking for the produce section, please.
+B: All of the produce is in aisle A.
+A: Are bananas on sale today?
+B: Here you go. Look in this flyer, or check with the produce person.

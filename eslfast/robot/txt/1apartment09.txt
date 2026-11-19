@@ -1,0 +1,38 @@
+A: Hello, Nicole? This is Jimmy in 309.
+B: Hello, Jimmy. What's up?
+A: You're not going to believe this.
+B: Believe me, I think I've heard everything.
+A: I can't find my mailbox key.
+B: Is that all? That's a lot better than losing your car keys.
+A: I had a duplicate, but I can't find it either.
+B: If you come by my place, I can loan you a key.
+A: There's no emergency. All I get is junk mail and bills.
+B: Can you wait till Wednesday? I'll make you two more keys.
+A: Sure, that'll be fine.
+B: Okay. I'll see you Wednesday. But it's going to cost you $2 per key.
+
+A: Can I speak to Nicole? This is Jimmy in apartment 309.
+B: Hi, Jimmy. This is Nicole. What's happening?
+A: You probably never heard this one before.
+B: Don't bet on it. I've been an apartment manager for a long time.
+A: I've looked everywhere, but I can't find my mailbox key.
+B: Well, that's pretty minor. I lost my car keys and house keys once.
+A: To make matters worse, I can't find my duplicate either.
+B: If you want, come over here and I'll lend you a key.
+A: No, there's nothing vital in the mailbox. Just junk and bills.
+B: If you can wait until Wednesday, I'll make two more keys for you.
+A: Wednesday's fine.
+B: Okay, I'll bring them by Wednesday. Have $4 ready for me.
+
+A: Hi, Nicole. This is Jimmy in 309.
+B: Hello, Jimmy. Can I help you?
+A: I've got a little problem.
+B: Tell me your problem, and maybe I can help.
+A: I've looked everywhere, but I can't find my mailbox key.
+B: Well, that's pretty minor. I lost my car keys and house keys once.
+A: As if that wasn't bad enough, I also misplaced the duplicate.
+B: Well, if it's an emergency, come by here and I'll lend you a key.
+A: No, even if there's a bill in there, it can wait.
+B: If you don't mind waiting until Wednesday, I'll make two more keys for you.
+A: Oh, I can wait, believe me.
+B: Okay, see you Wednesday. They're not free, you know. It'll be $4.

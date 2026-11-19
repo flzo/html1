@@ -1,0 +1,38 @@
+A: What's up?
+B: Nothing much, what's going on?
+A: I'm having a party this Friday.
+B: Oh, really? That's nice.
+A: I wanted to see if you wanted to come.
+B: This Friday? Sorry, I already have plans.
+A: Doing what?
+B: I'm going to dinner with my family.
+A: I really wanted you to come, but I understand.
+B: Yeah, maybe next time.
+A: I'll hold you to that.
+B: Sounds like a plan.
+
+A: Hey, what's good with you?
+B: Not a lot. What about you?
+A: I'm throwing a party on Friday.
+B: That sounds like fun.
+A: Do you think you can come?
+B: I'm sorry. I'm already doing something this Friday.
+A: What are you going to be doing?
+B: My family and I are going to dinner.
+A: I was hoping you would come.
+B: I'll definitely try to make it the next time.
+A: I'd better see you there.
+B: All right. I'll see you next time.
+
+A: What's going on?
+B: Nothing really. How about you?
+A: A lot, like the party I'm having on Friday.
+B: Well, that's cool.
+A: Will you be able to make it?
+B: I'm busy this Friday. I'm sorry.
+A: What do you have to do?
+B: I'm having dinner with my family
+A: Maybe you can come next time.
+B: I'll make sure and come to your next party.
+A: I'll look for you at my next party.
+B: I'll be there.

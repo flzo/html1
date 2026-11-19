@@ -1,0 +1,12 @@
+A: Hi! Is there a specific car you're looking for?
+B: I'm looking for a convertible.
+A: We have a wide selection right here.
+B: I don't see what I want here.
+A: Really? We have over 100 convertibles.
+B: I'm interested in a purple convertible.
+A: That's a rare color in any car dealer.
+B: I guess I have to go elsewhere.
+A: Don't go! We have colors close to purple!
+B: Like what exactly?
+A: We have blue cars.
+B: Blue is blue. Purple is purple. Good-bye.

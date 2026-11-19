@@ -1,0 +1,12 @@
+A: Excuse me! I need a ticket.
+B: You owe me a dollar.
+A: I already put one in!
+B: Yes, and you owe me another.
+A: The counter says fare is one dollar!
+B: The fare counter tells how much money you've inserted.
+A: I don't understand.
+B: It reads one dollar because you put in a dollar.
+A: How do I know I've paid the fare?
+B: The counter will go back to zero.
+A: Oh, I see what you mean.
+B: Now that you've paid your two dollars, here's your ticket.

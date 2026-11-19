@@ -1,0 +1,79 @@
+Conversation 1:
+A: I'm looking for some fresh produce that's on sale.
+B: Well, we just got in some mangoes.
+A: Mangoes. What are they?
+B: Well, it's a fruit with a big nut in it.
+A: Can you eat the nut?
+B: No, you peel off the skin and throw out the nut.
+A: How much are they?
+B: Well, the sale price is $1 each.
+A: What does a mango taste like?
+B: They're like a citrus fruit.
+A: How do I know if it's ripe?
+B: You can buy them hard. Wait a few days for them to develop a soft feel.
+A: Where do they come from?
+B: Most of them in this store are from Mexico.
+
+Conversation 2:
+A: Can you direct me to some fresh produce that's on sale?
+B: Well, we've got some great mangoes on sale.
+A: Mangoes? What are mangoes?
+B: Well, it's a fruit with a big seed in it.
+A: Can you eat the seed?
+B: No. Peel the skin with a sharp knife, and throw out the seed.
+A: How much are they?
+B: Well, they're on sale today for only $1 each.
+A: Can you describe their taste?
+B: They usually taste sweet, but they remind me of an orange.
+A: How can I tell if they're ripe?
+B: You can buy them either ripe or unripe. Unripe ones are hard.
+A: Where do they grow mangoes?
+B: The ones that are on sale are from Central America.
+
+Conversation 3:
+A: Where is some fresh produce that's on sale?
+B: Well, I think you'll like the mangoes.
+A: I've never had a mango.
+B: It's a fruit. It has a big stone in it.
+A: Can you eat the stone?
+B: No. You would break all your teeth on it.
+A: How much are these mangoes?
+B: The sale price today is $1 each.
+A: Can you describe their taste?
+B: They usually taste sweet, but they remind me of an orange.
+A: How can I tell if they're ripe?
+B: Don't cut into them until you can feel that they're soft on the outside.
+A: What country produces them?
+B: They come from tropical countries.
+
+Conversation 4:
+A: Can you tell me about some good deals on produce?
+B: The mangoes are on sale today.
+A: What exactly are mangoes?
+B: They have yellowish red skin. It's a fruit with one big seed.
+A: Is the seed edible?
+B: Maybe if you were a parrot. I wouldn't recommend it.
+A: How much does a mango cost?
+B: Normally, they're $2 each. Today, they're only $1 each.
+A: Maybe I won't like the taste.
+B: It's hard to describe. They're sweet, but also sort of citrusy.
+A: How do I tell the difference between a ripe one and an unripe one?
+B: They're similar to an avocado. When the outside feels soft, they're ripe.
+A: Where do most of them come from?
+B: These are from Mexico.
+
+Conversation 5:
+A: I'm looking for some good deals on produce.
+B: You might want to try the mangoes.
+A: Can you describe a mango to me?
+B: It's a fruit a little smaller than a grapefruit. It has a big seed in it.
+A: Do I eat the seed?
+B: Maybe some animals eat the seed, but humans don't. You'd have to soak it for 10 years.
+A: What's the price of these mangoes?
+B: Today you get a 50-percent discount. They're only $1 each.
+A: Tell me what they taste like.
+B: Their flesh is soft and juicy. It has a citrus taste. It's sweet.
+A: Do I need to buy them ripe, or will they ripen at home?
+B: Just press into it gently with your thumb. If it feels soft, it's ready to eat.
+A: Where do mangoes come from?
+B: These are from Guatemala, but we're going to start getting mangoes from India.

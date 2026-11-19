@@ -1,0 +1,32 @@
+A: Can you help me with returning my late books?
+B: This is the right spot to pay your fee. Put your books down right here.
+A: OK, here they are.
+B: I can see that you owe 25 cents a day. That will be one dollar and fifty cents total.
+A: OK, here's the money.
+B: We are interested in getting our books back; so as long as all the fines are paid off by the end of the semester, you will be fine. Does that make sense?
+A: I'm not sure.
+B: Your registration and transcripts can be held up if there is an outstanding fine.
+A: Now I understand.
+B: Well, you can always keep your late fees down by using the night drop if we are closed. Enjoy the library!
+
+A: These books should have been turned in last week.
+B: You have come to the correct place. Hand me your books.
+A: Here they are.
+B: Whoa, these are pretty late! You owe five dollars total to clear your fine.
+A: I don't have the money right now.
+B: We only require that all fines must be paid off by the end of the semester. So you will be okay to go.
+A: What would happen if I didn't pay it?
+B: It's really important to always clear your fines, so you'll get a report card and transcripts on time.
+A: Yeah, but I don't know how they can do that.
+B: Always remember that the night drop is here, and we really appreciate you returning your books for all to use.
+
+A: My library books are late, where can I put them?
+B: This is where they need to be turned in. Let me see them to check the date, OK?
+A: Yeah, I think that they are really late!
+B: Not all that late. You only owe the library fifty cents.
+A: What if I can't pay it?
+B: We appreciate you paying off all fines as soon as possible, but always before the end of the semester.
+A: Yeah, I get it.
+B: Your report card and transcripts will be held until you pay all fines, so always make sure that you do that.
+A: That's not really fair!
+B: If we aren't here, always feel free to use the night drop outside. Thanks for coming in!
